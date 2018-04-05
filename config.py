@@ -1,0 +1,4 @@
+# YELP keys for Msehgal
+
+Client_ID = "QDzYT6dzCNNU9XiWileSsA"
+API_Key = "TJVi5EtBVKo5wpuMVMWjy5bB6NtuJk3COx0askYCRMQSGMdaddfLZNtb56hk9Y2SatNEUPlxLOWeFJu-ONv-ym93N4OhA_GdVk4SBqY8kC9gZOKk1Nd3zN4Q2N3AWnYx"
