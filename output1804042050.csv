@@ -1,1770 +1,246 @@
 ,name,zipcode,county_string,rating,review_count,category,price
-0,Sotto Mare Oysteria & Seafood,94133,"San Francisco County, California",4.5,2998,Italian,$$
-1,Bella Trattoria,94118,"San Francisco County, California",4.0,1176,Italian,$$
-2,The Italian Homemade Company,94123,"San Francisco County, California",4.5,601,Italian,$$
-3,È Tutto Qua,94133,"San Francisco County, California",4.0,1840,Italian,$$
-4,Beretta,94110,"San Francisco County, California",4.0,3218,Italian,$$
-5,Delfina,94110,"San Francisco County, California",4.0,1902,Italian,$$$
-6,Italian Homemade Company,94133,"San Francisco County, California",4.5,964,Italian,$$
-7,Trattoria Contadina,94133,"San Francisco County, California",4.0,1151,Italian,$$
-8,Seven Hills,94109,"San Francisco County, California",4.5,852,Italian,$$$
-9,Roma Antica,94123,"San Francisco County, California",4.5,150,Italian,$$
-10,Fino Ristorante & Bar,94109,"San Francisco County, California",4.0,994,Italian,$$
-11,Barbacco,94111,"San Francisco County, California",4.0,1463,Italian,$$
-12,La Traviata,94110,"San Francisco County, California",4.0,526,Italian,$$
-13,a Mano,94102,"San Francisco County, California",4.0,389,Italian,$$
-14,Delarosa,94103,"San Francisco County, California",4.0,763,Italian,$$
-15,Trattoria da Vittorio,94127,"San Francisco County, California",4.0,566,Italian,$$
-16,Caffe Macaroni,94133,"San Francisco County, California",4.5,478,Italian,$$
-17,AltoVino,94133,"San Francisco County, California",4.5,14,Italian,$$$
-18,Baonecci Ristorante,94133,"San Francisco County, California",4.5,869,Italian,$$
-19,Spiazzo Ristorante,94127,"San Francisco County, California",4.0,552,Italian,$$
-20,Tommaso's Ristorante Italiano,94133,"San Francisco County, California",4.0,1458,Italian,$$
-21,Piccolo Forno,94133,"San Francisco County, California",4.5,322,Italian,$$
-22,Lupa Trattoria,94114,"San Francisco County, California",4.0,572,Italian,$$
-23,54 Mint - Ristorante Italiano,94103,"San Francisco County, California",4.0,998,Italian,$$$
-24,Vixi Cucina Italiana,94118,"San Francisco County, California",4.0,147,Italian,$$
-25,Che Fico,94117,"San Francisco County, California",4.5,19,Italian,$$$
-26,BARZOTTO,94110,"San Francisco County, California",4.0,269,Italian,$$
-27,Fior d'Italia,94133,"San Francisco County, California",4.0,429,Italian,$$
-28,Tratto,94102,"San Francisco County, California",4.0,256,Italian,$$
-29,Albona Ristorante Istriano,94133,"San Francisco County, California",4.5,640,Italian,$$$
-30,La Briciola,94107,"San Francisco County, California",4.0,818,Italian,$$
-31,Zero Zero,94107,"San Francisco County, California",4.0,2876,Italian,$$
-32,Castagna,94123,"San Francisco County, California",4.5,305,Italian,$$
-33,Perbacco,94111,"San Francisco County, California",4.0,1857,Italian,$$$
-34,Cotogna,94133,"San Francisco County, California",4.0,1234,Italian,$$$
-35,Il Casaro Pizzeria & Mozzarella Bar,94133,"San Francisco County, California",4.5,808,Italian,$$
-36,Fiorella,94121,"San Francisco County, California",4.0,274,Italian,$$
-37,Franchino,94133,"San Francisco County, California",4.0,1012,Italian,$$
-38,Mangia Tutti Ristorante,94111,"San Francisco County, California",4.0,361,Italian,$$
-39,Locanda,94110,"San Francisco County, California",4.0,912,Italian,$$$
-40,Uva Enoteca,94117,"San Francisco County, California",4.0,858,Italian,$$
-41,Capannina,94123,"San Francisco County, California",4.0,763,Italian,$$$
-42,Tony's Pizza Napoletana,94133,"San Francisco County, California",4.0,3938,Italian,$$
-43,Mescolanza,94118,"San Francisco County, California",4.0,111,Italian,$$
-44,Mozzeria,94103,"San Francisco County, California",4.0,628,Italian,$$
-45,Firenze by Night Ristorante,94133,"San Francisco County, California",4.0,881,Italian,$$
-46,Poesia,94114,"San Francisco County, California",4.0,696,Italian,$$$
-47,Pachino Trattoria & Pizzeria,94104,"San Francisco County, California",4.0,450,Italian,$$
-48,Manzoni,94131,"San Francisco County, California",4.0,200,Italian,$$
-49,Nob Hill Cafe,94108,"San Francisco County, California",4.0,1128,Italian,$$
-50,Delarosa,94123,"San Francisco County, California",4.0,1304,Italian,$$
-51,Ristorante Marcello,94116,"San Francisco County, California",4.0,182,Italian,$$
-52,Amarena,94109,"San Francisco County, California",4.0,507,Italian,$$
-53,Marcella's Lasagneria,94107,"San Francisco County, California",4.5,315,Italian,$$
-54,Bacco,94114,"San Francisco County, California",4.0,412,Italian,$$$
-55,Pane E Vino,94123,"San Francisco County, California",4.0,374,Italian,$$
-56,Gaspare's Pizza House & Italian Restaurant,94121,"San Francisco County, California",4.0,850,Italian,$$
-57,InoVino,94117,"San Francisco County, California",4.5,110,Italian,$$
-58,Sodini's Green Valley Restaurant,94133,"San Francisco County, California",4.0,780,Italian,$$
-59,Ideale,94133,"San Francisco County, California",4.0,660,Italian,$$
-60,Original Joe's,94133,"San Francisco County, California",4.0,1047,Italian,$$
-61,Ristorante Milano,94109,"San Francisco County, California",4.0,665,Italian,$$$
-62,Ristorante Parma,94123,"San Francisco County, California",4.0,347,Italian,$$
-63,Il Borgo,94102,"San Francisco County, California",3.5,597,Italian,$$
-64,Ardiana,94131,"San Francisco County, California",4.5,68,Italian,$$
-65,Vega,94110,"San Francisco County, California",4.0,477,Italian,$$
-66,Scoma's Restaurant,94133,"San Francisco County, California",4.0,2984,Italian,$$$
-67,Pink Onion,94103,"San Francisco County, California",4.5,120,Italian,$$
-68,Sorrel,94107,"San Francisco County, California",4.5,59,Italian,$$$
-69,Emmy's Spaghetti Shack,94110,"San Francisco County, California",4.0,338,Italian,$$
-70,Puccini & Pinetti,94102,"San Francisco County, California",3.5,964,Italian,$$
-71,Francisca's,94110,"San Francisco County, California",4.5,55,Italian,$$$
-72,Acquerello,94109,"San Francisco County, California",4.5,983,Italian,$$$$
-73,SPQR,94115,"San Francisco County, California",3.5,1802,Italian,$$$
-74,Ragazza,94117,"San Francisco County, California",4.0,588,Italian,$$
-75,Venticello Ristorante,94108,"San Francisco County, California",4.0,449,Italian,$$$
-76,Piccino,94107,"San Francisco County, California",4.0,1245,Italian,$$
-77,Gold Mirror Italian Restaurant,94116,"San Francisco County, California",3.5,275,Italian,$$
-78,Allegro Romano,94109,"San Francisco County, California",4.0,518,Italian,$$$
-79,Rocco's Café,94103,"San Francisco County, California",4.0,806,Italian,$$
-80,Cioppino's,94109,"San Francisco County, California",3.5,1338,Italian,$$
-81,Original U.S. Restaurant,94133,"San Francisco County, California",4.0,120,Italian,$$
-82,Valencia Pizza & Pasta,94110,"San Francisco County, California",4.0,400,Italian,$$
-83,Pesce e Riso,94133,"San Francisco County, California",4.0,64,Italian,$$
-84,Caffe Sport,94133,"San Francisco County, California",4.0,614,Italian,$$
-85,Il Pollaio,94133,"San Francisco County, California",4.5,340,Italian,$$
-86,Maybeck's,94123,"San Francisco County, California",4.0,221,Italian,$$$
-87,Birba,94102,"San Francisco County, California",4.5,78,Italian,$$
-88,Capo's Chicago Pizza,94133,"San Francisco County, California",4.0,643,Italian,$$
-89,Acquolina,94133,"San Francisco County, California",4.0,285,Italian,$$
-90,Zuni Café,94102,"San Francisco County, California",4.0,2478,Italian,$$$
-91,Via Veneto,94115,"San Francisco County, California",4.0,212,Italian,$$
-92,Pizzeria Delfina,94115,"San Francisco County, California",4.0,1375,Italian,$$
-93,Bambino's Ristorante,94117,"San Francisco County, California",4.0,501,Italian,$$
-94,Pizzeria Delfina - San Francisco,94110,"San Francisco County, California",4.0,2177,Italian,$$
-95,Scala's Bistro,94102,"San Francisco County, California",3.5,1168,Italian,$$$
-96,VinoRosso,94110,"San Francisco County, California",4.0,162,Italian,$$
-97,Fiore Caffè,94110,"San Francisco County, California",4.0,284,Italian,$$
-98,L'Ottavo Ristorante,94102,"San Francisco County, California",3.5,215,Italian,$$
-99,Flour + Water,94110,"San Francisco County, California",3.5,2081,Italian,$$$
-100,Italian-American Social Club of San Francisco,94112,"San Francisco County, California",4.5,36,Italian,$$
-101,Dobbs Ferry Restaurant,94102,"San Francisco County, California",4.0,509,Italian,$$
-102,Cesario's,94102,"San Francisco County, California",3.5,294,Italian,$$
-103,Mona Lisa Restaurant,94133,"San Francisco County, California",3.5,1142,Italian,$$
-104,A16,94123,"San Francisco County, California",3.5,1829,Italian,$$$
-105,Jackson Fillmore Trattoria,94115,"San Francisco County, California",3.5,429,Italian,$$
-106,The Stinking Rose,94133,"San Francisco County, California",3.5,3491,Italian,$$
-107,Magic Flute Ristorante,94118,"San Francisco County, California",4.0,503,Italian,$$
-108,Gialina Pizzeria,94131,"San Francisco County, California",4.0,1046,Italian,$$
-109,Credo,94104,"San Francisco County, California",4.0,743,Italian,$$
-110,North Beach Restaurant,94133,"San Francisco County, California",3.5,703,Italian,$$$
-111,Ti Piacera Ristorante,94109,"San Francisco County, California",3.5,340,Italian,$$
-112,Osteria,94115,"San Francisco County, California",3.5,237,Italian,$$
-113,Da Flora-A Venetian Osteria,94133,"San Francisco County, California",4.0,266,Italian,$$$
-114,Elmira Rosticceria,94102,"San Francisco County, California",4.0,238,Italian,$$
-115,Tropisueño,94103,"San Francisco County, California",4.0,3672,Mexican,$$
-116,El Farolito,94110,"San Francisco County, California",4.0,4307,Mexican,$
-117,Don Pisto's,94133,"San Francisco County, California",4.5,1652,Mexican,$$
-118,La Taqueria,94110,"San Francisco County, California",4.0,3323,Mexican,$
-119,Tacorea,94108,"San Francisco County, California",4.5,995,Mexican,$
-120,Taqueria Los Mayas,94118,"San Francisco County, California",4.0,172,Mexican,$$
-121,The Little Chihuahua,94117,"San Francisco County, California",4.0,1354,Mexican,$$
-122,Taqueria Guadalajara,94112,"San Francisco County, California",4.0,808,Mexican,$
-123,Pancho Villa Taqueria,94103,"San Francisco County, California",4.0,2196,Mexican,$
-124,Nopalito,94122,"San Francisco County, California",4.0,1070,Mexican,$$
-125,Nopalito,94117,"San Francisco County, California",4.0,1670,Mexican,$$
-126,Gracias Madre,94110,"San Francisco County, California",4.0,2731,Mexican,$$
-127,Garaje,94107,"San Francisco County, California",4.5,1316,Mexican,$$
-128,Papito Hayes,94102,"San Francisco County, California",4.0,418,Mexican,$$
-129,El Rancho Grande,94117,"San Francisco County, California",4.0,277,Mexican,$
-130,Taqueria Dos Charros,94132,"San Francisco County, California",4.0,163,Mexican,$
-131,Matador,94102,"San Francisco County, California",4.0,392,Mexican,$$
-132,Tacorgasmico,94114,"San Francisco County, California",4.0,192,Mexican,$$
-133,The Castro Republic,94114,"San Francisco County, California",4.5,235,Mexican,$$
-134,Panuchos,94133,"San Francisco County, California",4.5,131,Mexican,$
-135,Padrecito,94117,"San Francisco County, California",4.0,707,Mexican,$$
-136,Cilantro SF Taqueria,94133,"San Francisco County, California",4.5,43,Mexican,$
-137,El Castillito,94114,"San Francisco County, California",4.0,775,Mexican,$
-138,El Buen Comer,94110,"San Francisco County, California",4.0,208,Mexican,$$
-139,Papito Potrero Hill,94107,"San Francisco County, California",4.0,601,Mexican,$$
-140,Cochinita,94109,"San Francisco County, California",4.5,7,Mexican,$$
-141,Mateo's Taqueria,94110,"San Francisco County, California",4.0,354,Mexican,$$
-142,Taqueria El Farolito,94133,"San Francisco County, California",4.0,69,Mexican,$$
-143,Velvet Cantina,94110,"San Francisco County, California",4.0,1146,Mexican,$$
-144,Flores ,94123,"San Francisco County, California",4.0,267,Mexican,$$
-145,El Rincón Yucateco,94102,"San Francisco County, California",4.5,114,Mexican,$
-146,El Metate Restaurant,94110,"San Francisco County, California",4.0,1033,Mexican,$
-147,Gallardos Mexican Restaurant,94110,"San Francisco County, California",4.0,361,Mexican,$
-148,El Burrito Express,94115,"San Francisco County, California",4.0,634,Mexican,$
-149,Mexico Tipico,94112,"San Francisco County, California",4.5,191,Mexican,$
-150,Taqueria Castillo Mason,94102,"San Francisco County, California",4.0,203,Mexican,$
-151,Little Taqueria,94118,"San Francisco County, California",4.5,82,Mexican,$
-152,Street Taco,94117,"San Francisco County, California",4.0,484,Mexican,$
-153,Tacko,94123,"San Francisco County, California",4.0,629,Mexican,$$
-154,El Toreador Restaurant,94127,"San Francisco County, California",3.5,808,Mexican,$$
-155,El Farolito,94112,"San Francisco County, California",4.0,596,Mexican,$
-156,Gordo Taqueria,94121,"San Francisco County, California",4.0,662,Mexican,$
-157,Papalote Mexican Grill,94110,"San Francisco County, California",3.5,2107,Mexican,$$
-158,Toma,94123,"San Francisco County, California",4.0,261,Mexican,$
-159,Mexican Grill,94122,"San Francisco County, California",4.0,50,Mexican,$
-160,La Palma Mexicatessen,94110,"San Francisco County, California",4.5,558,Mexican,$
-161,San Jalisco,94110,"San Francisco County, California",4.0,685,Mexican,$$
-162,Taqueria Los Coyotes,94103,"San Francisco County, California",4.0,777,Mexican,$
-163,Colibri Mexican Bistro,94102,"San Francisco County, California",4.0,1954,Mexican,$$
-164,San Tung,94122,"San Francisco County, California",4.0,5920,Chinese,$$
-165,Hunan Home's Restaurant,94133,"San Francisco County, California",3.5,1816,Chinese,$$
-166,Sam Wo Restaurant,94108,"San Francisco County, California",4.0,675,Chinese,$
-167,Kung Food,94115,"San Francisco County, California",4.0,355,Chinese,$
-168,Dong Bei Mama,94118,"San Francisco County, California",4.0,300,Chinese,$$
-169,Mr Fu Kitchen,94114,"San Francisco County, California",4.0,80,Chinese,$$
-170,Simply Cafe,94102,"San Francisco County, California",4.0,25,Chinese,$$
-171,Mission Chinese Food,94110,"San Francisco County, California",3.5,2168,Chinese,$$
-172,Heung Yuen Restaurant,94110,"San Francisco County, California",4.0,219,Chinese,$
-173,The Little Fresh,94122,"San Francisco County, California",4.5,9,Chinese,$$
-174,R&G Lounge,94108,"San Francisco County, California",3.5,3961,Chinese,$$
-175,Dumpling Kitchen,94116,"San Francisco County, California",4.0,1175,Chinese,$$
-176,Mister Jiu's,94108,"San Francisco County, California",4.0,364,Chinese,$$$$
-177,Yan's Kitchen,94111,"San Francisco County, California",4.0,448,Chinese,$
-178,Wonderland Restaurant,94117,"San Francisco County, California",3.5,408,Chinese,$$
-179,Eight Tables by George Chen,94133,"San Francisco County, California",5.0,28,Chinese,$$$$
-180,Sizzling Pot King,94103,"San Francisco County, California",4.0,34,Chinese,$$
-181,Wok Shop Cafe,94109,"San Francisco County, California",4.0,523,Chinese,$
-182,SO,94103,"San Francisco County, California",4.0,1499,Chinese,$$
-183,HoDaLa,94121,"San Francisco County, California",4.0,56,Chinese,$$
-184,Makli Restaurant,94114,"San Francisco County, California",3.5,209,Chinese,$$
-185,Chang's Kitchen,94122,"San Francisco County, California",4.0,386,Chinese,$$
-186,House of Nanking,94133,"San Francisco County, California",3.5,2950,Chinese,$$
-187,Sun Kwong Restaurant,94109,"San Francisco County, California",4.0,169,Chinese,$
-188,Cheung Hing,94122,"San Francisco County, California",4.0,552,Chinese,$
-189,Mandarin House SF,94110,"San Francisco County, California",4.0,129,Chinese,$$
-190,Xiao Loong Restaurant,94127,"San Francisco County, California",4.0,233,Chinese,$$
-191,M.Y. China,94103,"San Francisco County, California",3.5,1358,Chinese,$$
-192,House Of Pancakes,94116,"San Francisco County, California",4.0,722,Chinese,$
-193,Win Garden,94131,"San Francisco County, California",4.0,221,Chinese,$$
-194,Kim Thanh Restaurant,94102,"San Francisco County, California",4.0,529,Chinese,$$
-195,Henry's Hunan Restaurant,94133,"San Francisco County, California",4.0,236,Chinese,$$
-196,Hakka Restaurant,94121,"San Francisco County, California",3.5,376,Chinese,$$
-197,Eden Silk Road Cuisine,94102,"San Francisco County, California",4.0,108,Chinese,$$
-198,Elaine's Kitchen,94133,"San Francisco County, California",4.0,278,Chinese,$
-199,Yamo,94110,"San Francisco County, California",3.5,1820,Chinese,$
-200,Z & Y Restaurant,94133,"San Francisco County, California",3.5,1232,Chinese,$$
-201,Hunan Cafe 2,94121,"San Francisco County, California",4.0,342,Chinese,$
-202,Center Cafe,94103,"San Francisco County, California",4.5,16,Chinese,$
-203,Henry's Hunan Restaurant,94131,"San Francisco County, California",4.0,351,Chinese,$$
-204,Terra Cotta Warrior,94122,"San Francisco County, California",3.5,391,Chinese,$$
-205,Hong Kong Clay Pot Restaurant,94108,"San Francisco County, California",3.5,715,Chinese,$$
-206,Hai Ky Noodles,94109,"San Francisco County, California",4.0,803,Chinese,$
-207,The Chairman,94109,"San Francisco County, California",4.5,507,Chinese,$
-208,New Ming's Restaurant,94105,"San Francisco County, California",3.5,338,Chinese,$
-209,Red Jade,94114,"San Francisco County, California",3.5,678,Chinese,$
-210,J & A Restaurant,94112,"San Francisco County, California",4.0,117,Chinese,$
-211,Big Lantern,94103,"San Francisco County, California",3.5,794,Chinese,$$
-212,Mission Hunan Restaurant,94103,"San Francisco County, California",3.5,97,Chinese,$
-213,Ling Ling Cuisine Restaurant,94134,"San Francisco County, California",3.5,135,Chinese,$
-214,San Wang Restaurant,94115,"San Francisco County, California",3.5,388,Chinese,$$
-215,New Lun Ting Cafe,94133,"San Francisco County, California",4.0,272,Chinese,$
-216,Henry's Hunan Restaurant,94112,"San Francisco County, California",4.0,203,Chinese,$$
-217,Dragon Well,94123,"San Francisco County, California",3.5,451,Chinese,$$
-218,Punjab Restaurant,94110,"San Francisco County, California",4.0,174,Chinese,$
-219,Fang,94105,"San Francisco County, California",3.5,1377,Chinese,$$
-220,Won Kok Restaurant,94127,"San Francisco County, California",2.5,70,Chinese,$$
-221,Delish Dish Kitchen,94121,"San Francisco County, California",4.0,31,Chinese,$$
-222,Wan Kee Restaurant,94110,"San Francisco County, California",4.0,16,Chinese,$
-223,Maple Restaurant,94112,"San Francisco County, California",4.0,49,Chinese,$$
-224,Lin's Kitchen,94102,"San Francisco County, California",3.5,45,Chinese,$$
-225,Yuet Lee,94133,"San Francisco County, California",3.5,605,Chinese,$$
-226,Wild Pepper,94110,"San Francisco County, California",3.5,539,Chinese,$
-227,Tai Chi,94109,"San Francisco County, California",3.5,552,Chinese,$$
-228,San Tung 2,94122,"San Francisco County, California",4.0,352,Chinese,$$
-229,Golden China Restaurant,94112,"San Francisco County, California",4.0,28,Chinese,$
-230,G & L Bakery & Restaurant,94134,"San Francisco County, California",4.0,46,Chinese,$
-231,Yum Yum Hunan,94115,"San Francisco County, California",3.5,465,Chinese,$
-232,Hai's Restaurant,94102,"San Francisco County, California",4.0,58,Chinese,$
-233,Bei Fang Style,94122,"San Francisco County, California",4.0,50,Chinese,$
-234,Ming Kee Restaurant,94112,"San Francisco County, California",4.0,89,Chinese,$
-235,Eliza's,94115,"San Francisco County, California",3.5,496,Chinese,$$
-236,Yummy Yummy,94122,"San Francisco County, California",4.0,1269,Chinese,$$
-237,Peking Wok Restaurant,94124,"San Francisco County, California",4.0,16,Chinese,$
-238,New Tsing Tao Restaurant,94127,"San Francisco County, California",4.0,133,Chinese,$$
-239,Eric's Restaurant,94131,"San Francisco County, California",3.5,657,Chinese,$$
-240,Emperor Palace Restaurant,94118,"San Francisco County, California",3.5,128,Chinese,$
-241,Little Kite,94110,"San Francisco County, California",4.0,27,Chinese,$$
-242,Tai Chi Jianbing,94122,"San Francisco County, California",4.0,107,Chinese,$
-243,Jasmine Tea House,94110,"San Francisco County, California",3.5,526,Chinese,$$
-244,Little Sheep Mongolian Hot Pot,94102,"San Francisco County, California",4.0,416,Chinese,$$
-245,Tēo Restaurant & Bar,94103,"San Francisco County, California",3.5,216,Chinese,$$
-246,New Sun Hong Kong Restaurant,94133,"San Francisco County, California",2.5,384,Chinese,$$
-247,House Of Hunan,94107,"San Francisco County, California",3.0,184,Chinese,$
-248,Kirin Chinese Restaurant,94121,"San Francisco County, California",3.5,242,Chinese,$$
-249,Tenglong Chinese Restaurant,94118,"San Francisco County, California",4.0,205,Chinese,$$
-250,Wing Lum,94109,"San Francisco County, California",3.5,156,Chinese,$$
-251,Chef Li's Cafe,94134,"San Francisco County, California",4.0,86,Chinese,$$
-252,Joyful Kitchen,94127,"San Francisco County, California",3.0,77,Chinese,$
-253,Tsing Tao Chinese,94121,"San Francisco County, California",3.5,251,Chinese,$
-254,Wok Station,94122,"San Francisco County, California",4.0,188,Chinese,$
-255,China First Restaurant,94118,"San Francisco County, California",3.5,341,Chinese,$
-256,J & E Restaurant,94110,"San Francisco County, California",3.5,83,Chinese,$
-257,Superstar Restaurant,94112,"San Francisco County, California",4.0,369,Chinese,$
-258,Mission Asia Noodle,94112,"San Francisco County, California",4.5,39,Chinese,$$
-259,Hai Sun,94123,"San Francisco County, California",3.0,131,Chinese,$
-260,Gourmet Carousel,94109,"San Francisco County, California",3.5,226,Chinese,$
-261,Hunan Empire,94123,"San Francisco County, California",3.5,106,Chinese,$
-262,Golden Kim Tar,94102,"San Francisco County, California",3.5,253,Chinese,$
-263,Hong's Kitchen,94122,"San Francisco County, California",3.5,68,Chinese,$
-264,House Of Xian Dumpling,94133,"San Francisco County, California",3.5,404,Chinese,$
-265,Empero Taste,94121,"San Francisco County, California",3.5,196,Chinese,$$
-266,Yin Du Wonton Noodle,94133,"San Francisco County, California",3.5,313,Chinese,$
-267,Golden Horse Restaurant,94109,"San Francisco County, California",3.5,159,Chinese,$
-268,Beijing Restaurant,94112,"San Francisco County, California",3.5,432,Chinese,$$
-269,City Chopsticks,94108,"San Francisco County, California",3.5,319,Chinese,$$
-270,Golden City Inn Chinese Food,94124,"San Francisco County, California",3.5,30,Chinese,$$
-271,Emmy's Restaurant,94127,"San Francisco County, California",3.0,575,Chinese,$
-272,Jade Cafe,94103,"San Francisco County, California",3.0,242,Chinese,$
-273,Shanghai Dumpling King,94127,"San Francisco County, California",3.5,382,Chinese,$$
-274,Soo Fong Restaurant,94124,"San Francisco County, California",3.5,76,Chinese,$
-275,Wang Wah,94112,"San Francisco County, California",3.5,121,Chinese,$
-276,Wok-In Cafeteria,94124,"San Francisco County, California",4.0,41,Chinese,$
-277,Nan King Road Bistro,94122,"San Francisco County, California",4.0,565,Chinese,$$
-278,Cathay Express Restaurant,94114,"San Francisco County, California",3.5,64,Chinese,$
-279,Wing Hing,94134,"San Francisco County, California",3.5,84,Chinese,$
-280,New Golden Daisy,94108,"San Francisco County, California",4.0,188,Chinese,$
-281,May Lee Chinese Restaurant,94122,"San Francisco County, California",3.5,154,Chinese,$
-282,Sungari Dumpling House,94112,"San Francisco County, California",3.5,74,Chinese,$
-283,Wok & Go,94110,"San Francisco County, California",3.0,120,Chinese,$
-284,Alice's Restaurant,94131,"San Francisco County, California",3.5,247,Chinese,$$
-285,New Country Sky Chinese Cuisine,94123,"San Francisco County, California",3.5,239,Chinese,$$
-286,Pho Luen Fat,94134,"San Francisco County, California",4.5,87,Chinese,$
-287,Win's Restaurant,94116,"San Francisco County, California",3.5,193,Chinese,$
-288,Dragon River Restaurant,94118,"San Francisco County, California",3.5,124,Chinese,$$
-289,Eight Immortals Restaurant,94116,"San Francisco County, California",3.5,339,Chinese,$
-290,Tung Sing Restaurant,94114,"San Francisco County, California",3.0,82,Chinese,$
-291,Chef Hunan,94112,"San Francisco County, California",4.0,40,Chinese,$
-292,Jo Jo's Cafe,94112,"San Francisco County, California",3.5,269,Chinese,$
-293,Magic Wok,94103,"San Francisco County, California",3.0,61,Chinese,$
-294,Tsing Tao Restaurant,94115,"San Francisco County, California",3.0,129,Chinese,$
-295,Sunset's Best Seafood Restaurant,94116,"San Francisco County, California",3.5,90,Chinese,$
-296,Capital Restaurant,94108,"San Francisco County, California",3.5,569,Chinese,$
-297,Superior Palace,94121,"San Francisco County, California",3.5,117,Chinese,$$
-298,Green Island Restaurant,94118,"San Francisco County, California",3.5,97,Chinese,$
-299,The Claypot House,94118,"San Francisco County, California",3.5,122,Chinese,$$
-300,King of Noodles,94122,"San Francisco County, California",3.5,653,Chinese,$
-301,Sam Rong Cafe,94133,"San Francisco County, California",3.5,24,Chinese,$
-302,Wayfare Tavern,94111,"San Francisco County, California",4.0,3463,American (Traditional),$$$
-303,Chow,94114,"San Francisco County, California",4.0,1862,American (Traditional),$$
-304,Eat Americana,94121,"San Francisco County, California",4.5,165,American (Traditional),$$
-305,Mac Daddy,94107,"San Francisco County, California",4.0,367,American (Traditional),$$
-306,Marlowe,94107,"San Francisco County, California",4.0,2364,American (New),$$
-307,Stones Throw,94109,"San Francisco County, California",4.5,805,American (New),$$$
-308,State Bird Provisions,94115,"San Francisco County, California",4.0,2341,American (New),$$$
-309,Nopa,94117,"San Francisco County, California",4.0,4654,American (New),$$$
-310,Frances,94114,"San Francisco County, California",4.5,1382,American (New),$$$
-311,Split,94109,"San Francisco County, California",3.5,135,American (New),$$
-312,Sorrel,94107,"San Francisco County, California",4.5,59,American (New),$$$
-313,20 Spot,94110,"San Francisco County, California",4.5,215,American (New),$$
-314,Per Diem,94104,"San Francisco County, California",4.0,613,American (New),$$
-315,3rd Cousin,94110,"San Francisco County, California",4.0,160,American (New),$$$
-316,Liholiho Yacht Club,94109,"San Francisco County, California",4.5,1682,American (New),$$$
-317,Prospect,94105,"San Francisco County, California",4.0,1435,American (New),$$$
-318,Causwells,94123,"San Francisco County, California",4.0,591,American (New),$$
-319,The Morris,94110,"San Francisco County, California",4.5,143,American (New),$$$
-320,Hoffmann's Grill & Rotisserie,94110,"San Francisco County, California",4.5,188,American (New),$$
-321,True Laurel,94110,"San Francisco County, California",4.5,64,American (New),$$
-322,Cassava,94121,"San Francisco County, California",4.0,714,American (New),$$
-323,Corridor Restaurant,94102,"San Francisco County, California",4.0,245,American (New),$$
-324,Gibson,94102,"San Francisco County, California",4.0,75,American (New),$$$
-325,1760,94109,"San Francisco County, California",4.0,644,American (New),$$$
-326,Serpentine,94107,"San Francisco County, California",4.0,1409,American (New),$$
-327,Heritage Restaurant & Bar,94118,"San Francisco County, California",4.0,61,American (New),$$
-328,Commonwealth,94110,"San Francisco County, California",4.0,956,American (New),$$$
-329,Frascati,94109,"San Francisco County, California",4.5,1115,American (New),$$$
-330,Maven,94117,"San Francisco County, California",4.0,626,American (New),$$
-331,Bodega,94133,"San Francisco County, California",4.5,132,American (New),$$
-332,Trestle,94133,"San Francisco County, California",4.5,651,American (New),$$$
-333,Horsefeather,94117,"San Francisco County, California",4.0,155,American (New),$$
-334,Kitchen Story,94114,"San Francisco County, California",4.0,2364,American (New),$$
-335,Twenty Five Lusk,94107,"San Francisco County, California",4.0,1286,American (New),$$$
-336,Botellón,94114,"San Francisco County, California",4.5,54,American (New),$$$
-337,Homage,94108,"San Francisco County, California",4.0,202,American (New),$$
-338,The Richmond,94118,"San Francisco County, California",4.5,627,American (New),$$$
-339,Son's Addition,94110,"San Francisco County, California",4.5,98,American (New),$$$
-340,Park Tavern,94133,"San Francisco County, California",4.0,1414,American (New),$$$
-341,Lazy Bear,94110,"San Francisco County, California",4.5,456,American (New),$$$$
-342,Urban Tavern,94102,"San Francisco County, California",4.0,107,American (New),$$
-343,Rambler,94102,"San Francisco County, California",3.5,328,American (New),$$
-344,Octavia,94109,"San Francisco County, California",4.0,401,American (New),$$$
-345,Aster,94110,"San Francisco County, California",4.0,333,American (New),$$$
-346,Straw,94102,"San Francisco County, California",4.0,1569,American (New),$$
-347,The Vista Room,94132,"San Francisco County, California",4.5,47,American (New),$$
-348,Split,94103,"San Francisco County, California",3.5,474,American (New),$$
-349,Sugarhill Kitchen,94123,"San Francisco County, California",4.5,44,American (New),$$
-350,Street Restaurant,94109,"San Francisco County, California",4.0,597,American (New),$$
-351,Mixt Rover,94111,"San Francisco County, California",4.0,8,American (New),$$
-352,The Progress,94115,"San Francisco County, California",4.0,664,American (New),$$$$
-353,Sons & Daughters,94108,"San Francisco County, California",4.0,618,American (New),$$$$
-354,Surisan,94133,"San Francisco County, California",4.5,613,American (New),$$
-355,ABV,94103,"San Francisco County, California",4.0,470,American (New),$$
-356,Outerlands,94122,"San Francisco County, California",3.5,2059,American (New),$$
-357,Rich Table,94102,"San Francisco County, California",4.0,960,American (New),$$$
-358,Mo'z Cafe,94103,"San Francisco County, California",3.5,428,American (New),$$
-359,Union Larder,94109,"San Francisco County, California",4.0,114,American (New),$$
-360,Keeva Indian Kitchen,94118,"San Francisco County, California",4.5,252,Indian,$$
-361,Pakwan Restaurant - 16th Street,94103,"San Francisco County, California",4.0,1587,Indian,$
-362,Tara Indian Cuisine,94114,"San Francisco County, California",4.5,226,Indian,$$
-363,Lotus SF,94110,"San Francisco County, California",4.5,43,Indian,$$
-364,DOSA on Valencia,94110,"San Francisco County, California",4.0,2136,Indian,$$
-365,Curry Leaf,94133,"San Francisco County, California",4.5,469,Indian,$$
-366,A Desi Cafe,94122,"San Francisco County, California",4.5,215,Indian,$$
-367,Tilak,94110,"San Francisco County, California",4.5,68,Indian,$$
-368,Udupi Palace,94110,"San Francisco County, California",4.0,1189,Indian,$$
-369,Om Indian Cuisine,94117,"San Francisco County, California",4.5,209,Indian,$$
-370,Aslam's Rasoi,94110,"San Francisco County, California",4.0,835,Indian,$$
-371,North India Restaurant,94105,"San Francisco County, California",4.0,1014,Indian,$$
-372,Dakshin,94109,"San Francisco County, California",4.0,185,Indian,$$
-373,Pakwan Restaurant,94112,"San Francisco County, California",4.5,175,Indian,$$
-374,Indian Paradox,94117,"San Francisco County, California",4.5,111,Indian,$$
-375,Royal Indian Cuisine on Fillmore,94115,"San Francisco County, California",4.5,151,Indian,$$
-376,Raavi,94103,"San Francisco County, California",4.5,52,Indian,$
-377,Deccan Spice,94110,"San Francisco County, California",3.5,417,Indian,$$
-378,DOSA on Fillmore,94115,"San Francisco County, California",4.0,2619,Indian,$$$
-379,Shalimar,94102,"San Francisco County, California",4.0,1323,Indian,$$
-380,ROOH,94107,"San Francisco County, California",4.0,284,Indian,$$$
-381,Amber India,94103,"San Francisco County, California",4.0,1840,Indian,$$$
-382,DUM Indian Soul Food,94110,"San Francisco County, California",4.0,148,Indian,$$
-383,Saffron Grill,94117,"San Francisco County, California",4.0,452,Indian,$$
-384,Roti Indian Bistro,94127,"San Francisco County, California",4.0,653,Indian,$$
-385,Lahore Karahi,94109,"San Francisco County, California",4.0,1293,Indian,$
-386,Dabba,94105,"San Francisco County, California",4.0,232,Indian,$$
-387,August 1 Five,94103,"San Francisco County, California",4.0,480,Indian,$$
-388,Spice of America,94103,"San Francisco County, California",4.5,15,Indian,$$
-389,Raavi,94133,"San Francisco County, California",4.0,317,Indian,$
-390,Gorkha Kitchen,94122,"San Francisco County, California",4.5,139,Indian,$$
-391,Mela Tandoori Kitchen,94102,"San Francisco County, California",4.0,481,Indian,$$
-392,Kebab King,94115,"San Francisco County, California",4.5,171,Indian,$
-393,Holy Kitchen,94114,"San Francisco County, California",4.0,211,Indian,$$
-394,Shalimar Restaurant,94109,"San Francisco County, California",3.5,544,Indian,$
-395,Kinara - Fusion Kitchen,94109,"San Francisco County, California",4.5,95,Indian,$$
-396,Viva Goa,94123,"San Francisco County, California",4.0,383,Indian,$$
-397,Chullo Nepali Indian Cuisine,94107,"San Francisco County, California",4.0,23,Indian,$$
-398,Naan N Curry,94114,"San Francisco County, California",4.5,31,Indian,$$
-399,The Dosa Brothers,94104,"San Francisco County, California",4.5,252,Indian,$
-400,Indian Palace,94110,"San Francisco County, California",3.5,38,Indian,$$
-401,India Clay Oven,94121,"San Francisco County, California",3.5,618,Indian,$$
-402,Urban Curry Restaurant,94133,"San Francisco County, California",4.0,587,Indian,$$
-403,India Clay Oven,94127,"San Francisco County, California",3.5,449,Indian,$$
-404,Chennai Kings,94133,"San Francisco County, California",3.5,119,Indian,$$
-405,Curry Up Now,94110,"San Francisco County, California",3.5,517,Indian,$
-406,Chaat Corner,94102,"San Francisco County, California",3.5,197,Indian,$$
-407,Red Chilli,94102,"San Francisco County, California",4.0,359,Indian,$$
-408,Little Delhi,94102,"San Francisco County, California",4.0,1799,Indian,$$
-409,Star India Restaurant,94118,"San Francisco County, California",3.5,730,Indian,$$
-410,Wow Naan N Curry,94122,"San Francisco County, California",3.0,1246,Indian,$
-411,Chaat Corner,94107,"San Francisco County, California",3.5,916,Indian,$$
-412,Golden Gate,94122,"San Francisco County, California",3.5,453,Indian,$$
-413,Great India,94121,"San Francisco County, California",3.5,332,Indian,$$
-414,Noori Pakistani & Indian Cuisine,94122,"San Francisco County, California",3.5,348,Indian,$$
-415,Naan N Curry,94107,"San Francisco County, California",4.0,43,Indian,$$
-416,Indian Oven,94117,"San Francisco County, California",3.5,719,Indian,$$
-417,Dosa Allee,94102,"San Francisco County, California",4.0,32,Indian,$$
-418,Kasa Indian Eatery,94114,"San Francisco County, California",3.5,1040,Indian,$
-419,Rasoi,94110,"San Francisco County, California",4.0,19,Indian,$$
-420,Tikka Masala,94122,"San Francisco County, California",3.5,233,Indian,$
-421,Campton Place,94108,"San Francisco County, California",4.0,683,Indian,$$$$
-422,Newa,94102,"San Francisco County, California",4.0,136,Indian,$$
-423,Alhamra,94103,"San Francisco County, California",3.5,425,Indian,$
-424,Zante Pizza & Indian Cuisine,94110,"San Francisco County, California",3.5,943,Indian,$$
-425,Kasa Indian Eatery,94109,"San Francisco County, California",3.5,224,Indian,$$
-426,Darbar Restaurant,94109,"San Francisco County, California",3.5,571,Indian,$
-427,Chutney,94102,"San Francisco County, California",3.5,1168,Indian,$
-428,Mehfil Indian Cuisine,94105,"San Francisco County, California",3.5,293,Indian,$
-429,Punjab Kabab House,94102,"San Francisco County, California",3.5,294,Indian,$
-430,New Delhi Restaurant,94102,"San Francisco County, California",3.0,451,Indian,$$
-431,Pakwan Restaurant - O'Farrell Street,94102,"San Francisco County, California",3.5,364,Indian,$
-432,Kennedy's Irish Pub & Curry House,94133,"San Francisco County, California",3.5,1037,Indian,$$
-433,Curry Up Now Food Truck,94104,"San Francisco County, California",4.0,882,Indian,$
-434,Brothers Pizza,94116,"San Francisco County, California",3.5,340,Indian,$
-435,Sukhi's Gourmet Indian Foods,94102,"San Francisco County, California",4.0,7,Indian,$
-436,Clay Oven Indian Cuisine,94131,"San Francisco County, California",3.0,223,Indian,$$
-437,Bamboo Asia,94104,"San Francisco County, California",3.5,649,Indian,$
-438,Naan-Stop Curry,94102,"San Francisco County, California",3.5,12,Indian,$$
-439,The Dosa Brothers,94111,"San Francisco County, California",4.0,5,Indian,$
-440,Chez Beesen,94104,"San Francisco County, California",4.0,403,Indian,$
-441,Il Pescatore,32803,"Orange County, Florida",4.0,211,Italian,$$
-442,Prato,32789,"Orange County, Florida",4.0,862,Italian,$$
-443,Trevi Pasta,32804,"Orange County, Florida",4.5,257,Italian,$$
-444,Antonio's,32751,"Orange County, Florida",4.5,191,Italian,$$
-445,Antonella's Pizzeria,32789,"Orange County, Florida",4.5,171,Italian,$$
-446,Spoleto,32817,"Orange County, Florida",4.0,172,Italian,$$
-447,Fresco Cucina Italiana,32819,"Orange County, Florida",4.0,289,Italian,$$
-448,Piazza Italia,32827,"Orange County, Florida",4.0,132,Italian,$$
-449,The Meatball Stoppe,32822,"Orange County, Florida",4.5,429,Italian,$$
-450,Bella Italia Ristorante,34787,"Orange County, Florida",4.5,90,Italian,$$
-451,Maggiano's Little Italy,32819,"Orange County, Florida",4.0,588,Italian,$$
-452,Adriatico Trattoria Italiana,32804,"Orange County, Florida",4.0,85,Italian,$$
-453,Francesco's Ristorante Pizzeria,32751,"Orange County, Florida",4.0,257,Italian,$$
-454,Pesaro's Pizzeria & Ristorante,32828,"Orange County, Florida",4.5,29,Italian,$$
-455,Maestro Cucina Napoletana & Pizza,32789,"Orange County, Florida",4.5,47,Italian,$$
-456,Ciao Italia Ristorante Italiano,32821,"Orange County, Florida",4.0,321,Italian,$$
-457,Rocco's Italian Grille,32789,"Orange County, Florida",4.0,56,Italian,$$$
-458,Vincenzo Cucina Italiana,32819,"Orange County, Florida",4.0,289,Italian,$$
-459,Rome's Flavours,32789,"Orange County, Florida",4.5,113,Italian,$$
-460,Al Bacio,32789,"Orange County, Florida",4.5,73,Italian,$$
-461,Armando's,32804,"Orange County, Florida",4.0,63,Italian,$$
-462,Christinis Ristorante Italiano,32819,"Orange County, Florida",4.0,210,Italian,$$$
-463,Delmonico's Italian Steak House,32887,"Orange County, Florida",4.0,664,Italian,$$
-464,Peppino's Organic Italian Kitchen & Pizzeria,32806,"Orange County, Florida",3.5,56,Italian,$$
-465,Don Julio Mexican Grill & Tequila Bar,32825,"Orange County, Florida",4.5,288,Mexican,$$
-466,El Pueblo Mexican Restaurant,32792,"Orange County, Florida",4.5,112,Mexican,$
-467,Border Grill Fresh-Mex,32819,"Orange County, Florida",4.5,833,Mexican,$
-468,La Fiesta Mexican Grill and Catering,32806,"Orange County, Florida",4.5,310,Mexican,$$
-469,Tienda Mexicana Jalisco,32807,"Orange County, Florida",4.5,58,Mexican,$
-470,Pepe's Cantina,32789,"Orange County, Florida",4.0,244,Mexican,$$
-471,La Hacienda Market and Taqueria,32792,"Orange County, Florida",4.5,67,Mexican,$
-472,Azteca D'Oro,32817,"Orange County, Florida",3.5,185,Mexican,$$
-473,The Taste of Yucatan,32807,"Orange County, Florida",4.5,75,Mexican,$
-474,Los Generales Traditional Mexican Restaurant,32806,"Orange County, Florida",4.5,34,Mexican,$$
-475,Taco Rio,32789,"Orange County, Florida",4.5,30,Mexican,$
-476,Chuy's,32828,"Orange County, Florida",3.5,134,Mexican,$$
-477,Servando's,34787,"Orange County, Florida",4.5,140,Mexican,$
-478,El Potro,32789,"Orange County, Florida",4.0,175,Mexican,$
-479,Mi Gordita Loca,32810,"Orange County, Florida",4.5,89,Mexican,$
-480,El Patron Restaurante Mexicano,32836,"Orange County, Florida",4.0,650,Mexican,$$
-481,Agave Azul,32811,"Orange County, Florida",4.0,669,Mexican,$$
-482,Uncle Julio's,32821,"Orange County, Florida",4.0,236,Mexican,$$
-483,Black Rooster Taqueria,32803,"Orange County, Florida",4.5,338,Mexican,$$
-484,Reyes Mezcaleria,32801,"Orange County, Florida",4.0,184,Mexican,$$
-485,El Tenampa,32837,"Orange County, Florida",4.5,164,Mexican,$$
-486,Taqueria Ameca,32806,"Orange County, Florida",4.5,113,Mexican,$
-487,Chuy's,32822,"Orange County, Florida",3.5,259,Mexican,$$
-488,Las Cazuelas,32812,"Orange County, Florida",4.5,31,Mexican,$
-489,Chuy's,32819,"Orange County, Florida",4.0,490,Mexican,$$
-490,Tako Cheena,32803,"Orange County, Florida",4.5,1240,Mexican,$
-491,Garibaldi Mexican Restaurant,32807,"Orange County, Florida",3.5,219,Mexican,$$
-492,Tacos El Rancho,32812,"Orange County, Florida",4.0,111,Mexican,$
-493,Tacos Express Florida,32837,"Orange County, Florida",4.5,179,Mexican,$
-494,JJ's Fusion Grille,32806,"Orange County, Florida",4.5,262,Mexican,$
-495,Taco Norteño,34787,"Orange County, Florida",4.5,162,Mexican,$
-496,Tacos El Rancho,32825,"Orange County, Florida",4.0,66,Mexican,$
-497,Gringos Locos,32801,"Orange County, Florida",4.0,719,Mexican,$
-498,Azteca D' Oro,32818,"Orange County, Florida",4.0,117,Mexican,$$
-499,Habaneros Mexican,32792,"Orange County, Florida",3.5,79,Mexican,$$
-500,Pepe's Cantina,32801,"Orange County, Florida",4.0,70,Mexican,$$
-501,Fuzzy's Taco Shop,32826,"Orange County, Florida",3.5,95,Mexican,$
-502,Bugambilias,32809,"Orange County, Florida",4.5,26,Mexican,$
-503,Hunger Street Tacos,32789,"Orange County, Florida",4.0,269,Mexican,$
-504,Chuy's,32789,"Orange County, Florida",4.0,118,Mexican,$$
-505,Mesa 21,32804,"Orange County, Florida",3.0,175,Mexican,$$
-506,Colibri Mexican Cuisine,32814,"Orange County, Florida",3.0,185,Mexican,$$
-507,Cafe Rio,32789,"Orange County, Florida",3.5,104,Mexican,$
-508,Tacos El Rancho,32801,"Orange County, Florida",4.0,90,Mexican,$
-509,Grocery Los Hermanos,32806,"Orange County, Florida",4.5,22,Mexican,$
-510,Cocina 214,32789,"Orange County, Florida",3.5,287,Mexican,$$
-511,Garibaldi Mexican Restaurant II,32703,"Orange County, Florida",4.0,173,Mexican,$$
-512,Azteca D'Oro,32837,"Orange County, Florida",4.0,209,Mexican,$$
-513,El Ranchito Mexican Restaurant,32810,"Orange County, Florida",4.0,41,Mexican,$
-514,El Potro,32835,"Orange County, Florida",4.0,136,Mexican,$$
-515,Tortas El Rey,32809,"Orange County, Florida",4.5,97,Mexican,$
-516,Frontera Cocina,32830,"Orange County, Florida",4.0,428,Mexican,$$
-517,La Cava del Tequila,32830,"Orange County, Florida",4.5,224,Mexican,$$
-518,Rubio's Coastal Grill,32789,"Orange County, Florida",4.0,65,Mexican,$$
-519,Calle 3 M3xican Str33t Kitch3n,32703,"Orange County, Florida",4.5,13,Mexican,$$
-520,Taqueria El Alacran,34761,"Orange County, Florida",4.5,19,Mexican,$
-521,Panaderia La Mexicana,32703,"Orange County, Florida",4.5,21,Mexican,$
-522,Mi Mexico Carneceria Y Taqueria,32703,"Orange County, Florida",4.5,20,Mexican,$$
-523,Taqueria Taco Riendo,32703,"Orange County, Florida",4.5,37,Mexican,$
-524,Gringos Locos,32803,"Orange County, Florida",4.0,202,Mexican,$
-525,El Potro,32703,"Orange County, Florida",4.0,60,Mexican,$
-526,Antojitos Authentic Mexican Food,32819,"Orange County, Florida",3.5,704,Mexican,$$
-527,Mi Casa Tequila Taqueria,32819,"Orange County, Florida",4.0,59,Mexican,$$
-528,Rocco's Tacos & Tequila Bar,32819,"Orange County, Florida",3.5,1060,Mexican,$$
-529,Habaneros Mexican Grill,32826,"Orange County, Florida",2.5,66,Mexican,$$
-530,Rubio's Coastal Grill,32832,"Orange County, Florida",3.5,45,Mexican,$
-531,Tortilleria & Restaurant La Mexicana,32809,"Orange County, Florida",3.5,40,Mexican,$
-532,California Tortilla - Orlando,32801,"Orange County, Florida",3.5,10,Mexican,$
-533,Tamale Co. Mexican Street Food,32822,"Orange County, Florida",4.5,72,Mexican,$$
-534,He Sheng Chinese Restaurant,32792,"Orange County, Florida",4.0,51,Chinese,$
-535,Tasty China,32825,"Orange County, Florida",4.0,57,Chinese,$
-536,Kim Wu Chinese,32811,"Orange County, Florida",4.0,321,Chinese,$$
-537,Chuan Lu Garden,32826,"Orange County, Florida",3.5,46,Chinese,$$
-538,Chef Wang's Kitchen,32808,"Orange County, Florida",4.5,34,Chinese,$$
-539,Chuan Lu Garden,32803,"Orange County, Florida",3.5,396,Chinese,$$
-540,China Tea,32819,"Orange County, Florida",4.5,202,Chinese,$
-541,First Choice Chinese Restaurant,32825,"Orange County, Florida",4.0,37,Chinese,$
-542,Lucky China,32792,"Orange County, Florida",4.0,18,Chinese,$$
-543,China Gourmet,32817,"Orange County, Florida",4.0,25,Chinese,$
-544,Shang Hai,32826,"Orange County, Florida",4.0,5,Chinese,$
-545,Noodles and Rice Cafe,32803,"Orange County, Florida",4.0,362,Chinese,$$
-546,China Master,32789,"Orange County, Florida",4.5,20,Chinese,$
-547,Ming's Bistro,32803,"Orange County, Florida",3.5,350,Chinese,$$
-548,Mr K's Chinese Cuisine & Sushi,32832,"Orange County, Florida",3.5,91,Chinese,$$
-549,China Brothers Restaurant,32825,"Orange County, Florida",3.5,16,Chinese,$
-550,Asian Star Restaurant,32825,"Orange County, Florida",4.0,21,Chinese,$
-551,Summer Palace,32828,"Orange County, Florida",3.5,77,Chinese,$$
-552,Hop-Bo Chinese Restaurant,32812,"Orange County, Florida",4.0,44,Chinese,$
-553,Luya Chinese,32826,"Orange County, Florida",3.0,50,Chinese,$
-554,Cheng's Chinese Restaurant,32822,"Orange County, Florida",3.5,73,Chinese,$
-555,China Chef Restaurant,32792,"Orange County, Florida",3.5,40,Chinese,$
-556,China Star,32806,"Orange County, Florida",3.5,28,Chinese,$
-557,Joyful Garden,32808,"Orange County, Florida",3.5,14,Chinese,$$
-558,Fu Hua Chineese Restaurant,32822,"Orange County, Florida",4.0,14,Chinese,$
-559,Jumbo Chinese Restaurant,32792,"Orange County, Florida",3.0,35,Chinese,$
-560,Ni Hao's Chinese Restaurant,32820,"Orange County, Florida",3.5,28,Chinese,$
-561,China Chef,32828,"Orange County, Florida",3.5,30,Chinese,$$
-562,Chi Pan Asian,32814,"Orange County, Florida",3.5,87,Chinese,$$
-563,Pine Garden Chinese Cuisine,32828,"Orange County, Florida",3.0,46,Chinese,$
-564,Pu Yi Chinese,32817,"Orange County, Florida",3.0,29,Chinese,$$
-565,China Garden,32792,"Orange County, Florida",2.5,53,Chinese,$$
-566,China Wok,32826,"Orange County, Florida",3.0,16,Chinese,$
-567,Yummy's Express Asian Fusion,32821,"Orange County, Florida",4.0,101,Chinese,$
-568,China Brother,32837,"Orange County, Florida",4.0,69,Chinese,$
-569,Sunflower Chinese Food,32812,"Orange County, Florida",3.5,39,Chinese,$
-570,NY Chinese Restaurant,32822,"Orange County, Florida",3.5,10,Chinese,$
-571,Panda Chinese Restaurant,32812,"Orange County, Florida",3.0,55,Chinese,$
-572,Chen's Restaurant,32822,"Orange County, Florida",4.0,18,Chinese,$
-573,China Star,32789,"Orange County, Florida",3.0,47,Chinese,$
-574,Magic China Chinese Restaurant,32825,"Orange County, Florida",3.0,25,Chinese,$
-575,Tabla Indian Chinese & Thai,32819,"Orange County, Florida",4.0,503,Chinese,$$
-576,China Grill,32835,"Orange County, Florida",4.0,41,Chinese,$
-577,Dragon King,32806,"Orange County, Florida",3.5,42,Chinese,$
-578,Hai San Chinese Restaurant,34761,"Orange County, Florida",4.0,16,Chinese,$
-579,China In College Park,32804,"Orange County, Florida",3.5,88,Chinese,$$
-580,Hop Bo Chinese Restaurant,32812,"Orange County, Florida",3.5,21,Chinese,$
-581,Bamboo Wok,32828,"Orange County, Florida",3.0,17,Chinese,$
-582,Hong Fu,32809,"Orange County, Florida",3.5,14,Chinese,$$
-583,New China,32822,"Orange County, Florida",3.5,18,Chinese,$
-584,China King,32837,"Orange County, Florida",4.0,26,Chinese,$
-585,Sino 1 Chinese & Sushi,32822,"Orange County, Florida",3.5,31,Chinese,$
-586,Zhang Garden Chinese Restaurant,32827,"Orange County, Florida",3.0,23,Chinese,$
-587,La China,32829,"Orange County, Florida",3.5,26,Chinese,$
-588,Empire Szechuan,32801,"Orange County, Florida",3.0,50,Chinese,$
-589,China Wok,32712,"Orange County, Florida",3.5,16,Chinese,$
-590,Pei Wei,32817,"Orange County, Florida",3.5,75,Chinese,$
-591,Asian Express,32819,"Orange County, Florida",4.5,15,Chinese,$
-592,China City,32828,"Orange County, Florida",2.5,13,Chinese,$
-593,888 Chinese Restaurant,32825,"Orange County, Florida",3.0,26,Chinese,$
-594,Lai Lai Chinese Cuisine & Sushi Bar,32809,"Orange County, Florida",4.0,51,Chinese,$
-595,New Shanghai Chinese,32826,"Orange County, Florida",3.5,15,Chinese,$
-596,Tao Garden,32792,"Orange County, Florida",3.5,14,Chinese,$
-597,Asia Kitchen,32792,"Orange County, Florida",3.5,44,Chinese,$
-598,Wok & Roll,32828,"Orange County, Florida",2.5,16,Chinese,$
-599,168 Chinese Restaurant,32703,"Orange County, Florida",3.0,45,Chinese,$$
-600,Shang Hai Chinese Restaurant,32819,"Orange County, Florida",3.5,17,Chinese,$$
-601,Beijing & Tokyo,34787,"Orange County, Florida",4.0,62,Chinese,$$
-602,Pei Wei,32819,"Orange County, Florida",3.5,133,Chinese,$
-603,King Express,32809,"Orange County, Florida",4.0,13,Chinese,$
-604,Pearl's Chinese Restaurant,32821,"Orange County, Florida",3.5,115,Chinese,$$
-605,China Hut,32809,"Orange County, Florida",3.5,40,Chinese,$$
-606,New China King,32810,"Orange County, Florida",3.5,15,Chinese,$
-607,Plum Tree Chinese Cuisine,32832,"Orange County, Florida",3.0,32,Chinese,$
-608,P.F. Chang's,32789,"Orange County, Florida",3.5,185,Chinese,$$
-609,La China Blue Chinese Restaurant,32809,"Orange County, Florida",3.5,22,Chinese,$
-610,New China,34761,"Orange County, Florida",3.5,17,Chinese,$
-611,Good Home Chinese Restaurant,34761,"Orange County, Florida",3.5,26,Chinese,$
-612,Panda Express,32828,"Orange County, Florida",3.5,36,Chinese,$
-613,The Copper Rocket,32751,"Orange County, Florida",4.5,16,American (Traditional),$$
-614,Chubby's Family Restaurant,32817,"Orange County, Florida",4.0,100,American (Traditional),$
-615,Blue Jacket Grille,32803,"Orange County, Florida",4.5,55,American (Traditional),$$
-616,Oblivion Taproom,32803,"Orange County, Florida",4.0,640,American (Traditional),$$
-617,Cork & Fork,32812,"Orange County, Florida",4.5,216,American (Traditional),$$
-618,Dickey's Barbecue Pit,32825,"Orange County, Florida",3.5,30,American (Traditional),$
-619,Fuddruckers,32704,"Orange County, Florida",4.5,13,American (Traditional),$$
-620,Mimi's Kitchen,32809,"Orange County, Florida",4.5,11,American (Traditional),$
-621,The Thirsty Gator,32792,"Orange County, Florida",4.0,47,American (Traditional),$$
-622,Copper Canyon Grill - Orlando,32819,"Orange County, Florida",4.0,344,American (Traditional),$$
-623,The Habit Burger Grill,32789,"Orange County, Florida",4.0,47,American (Traditional),$$
-624,The Whiskey,32819,"Orange County, Florida",4.0,350,American (Traditional),$$
-625,Omelet Bar,32817,"Orange County, Florida",4.0,139,American (Traditional),$$
-626,McBurger & Charbroiled Chicken,32803,"Orange County, Florida",3.5,5,American (Traditional),$
-627,Keke's Breakfast Cafe,32825,"Orange County, Florida",4.5,82,American (Traditional),$$
-628,Cheddar's Scratch Kitchen,32826,"Orange County, Florida",3.5,229,American (Traditional),$$
-629,Teak Neighborhood Grill,32751,"Orange County, Florida",3.5,92,American (Traditional),$$
-630,Brick House Tavern + Tap,32819,"Orange County, Florida",3.5,588,American (Traditional),$$
-631,Trance Cafe Orlando,34761,"Orange County, Florida",5.0,25,American (Traditional),$
-632,Nick's Family Diner,32810,"Orange County, Florida",4.5,162,American (Traditional),$
-633,Briarpatch Restaurant,32789,"Orange County, Florida",4.0,650,American (Traditional),$$
-634,Freddy's Frozen Custard & Steakburgers,32806,"Orange County, Florida",4.0,70,American (Traditional),$
-635,Bleu,32837,"Orange County, Florida",4.5,7,American (Traditional),$
-636,Linda's Winter Park Diner,32789,"Orange County, Florida",4.0,106,American (Traditional),$
-637,33 & Melt,34786,"Orange County, Florida",4.5,163,American (Traditional),$$
-638,Tamarind Indian Cuisine,32789,"Orange County, Florida",4.0,350,Indian,$$
-639,Tamarind Indian Cuisine,32826,"Orange County, Florida",4.5,267,Indian,$$
-640,Moghul Indian Cuisine,32792,"Orange County, Florida",4.0,216,Indian,$$
-641,Ahmed Indian Restaurant UCF,32817,"Orange County, Florida",4.5,62,Indian,$$
-642,Mynt Fine Indian Cuisine,32789,"Orange County, Florida",4.5,192,Indian,$$
-643,Spice Indian Grill,32826,"Orange County, Florida",5.0,17,Indian,$$
-644,Saffron Indian Cuisine,32819,"Orange County, Florida",4.5,551,Indian,$$
-645,Tabla Indian Chinese & Thai,32819,"Orange County, Florida",4.0,503,Indian,$$
-646,Aashirwad Indian Food and Bar,32819,"Orange County, Florida",4.0,357,Indian,$$
-647,Woodlands Indian Cuisine,32809,"Orange County, Florida",4.0,246,Indian,$$
-648,Flavors of India,32821,"Orange County, Florida",4.5,117,Indian,$$
-649,Bombay Café,32809,"Orange County, Florida",4.0,153,Indian,$$
-650,Dine India,32809,"Orange County, Florida",4.5,54,Indian,$$
-651,Himas Indian Cuisine,32819,"Orange County, Florida",4.5,66,Indian,$$
-652,Five Star South Indian Food & Catering,32837,"Orange County, Florida",4.5,22,Indian,$
-653,Khasiyat Indian Restaurant,32809,"Orange County, Florida",4.0,77,Indian,$
-654,Southern Spice Indian Cuisine,32819,"Orange County, Florida",4.5,10,Indian,$$
-655,Rasa,32819,"Orange County, Florida",4.0,124,Indian,$$
-656,Singh's Roti Shop & Bar,32811,"Orange County, Florida",4.0,85,Indian,$
-657,Charcoal Zyka,32837,"Orange County, Florida",4.0,138,Indian,$$
-658,Indian Hut - Orlando,32811,"Orange County, Florida",3.5,79,Indian,$$
-659,New Punjab Indian Restaurant,32819,"Orange County, Florida",3.5,147,Indian,$$
-660,Ahmed Indian Restaurant OBT,32837,"Orange County, Florida",3.5,95,Indian,$$
-661,Kabab King of Orlando Florida,32837,"Orange County, Florida",4.0,61,Indian,$$
-662,BoccaLupo,30307,"Fulton County, Georgia",4.5,389,Italian,$$
-663,il Giallo Osteria & Bar,30328,"Fulton County, Georgia",4.5,191,Italian,$$
-664,Crispina Ristorante & Pizzeria,30339,"Fulton County, Georgia",4.0,159,Italian,$$
-665,Pasta Da Pulcinella,30309,"Fulton County, Georgia",4.0,480,Italian,$$
-666,La Grotta Ristorante Italiano,30305,"Fulton County, Georgia",4.5,190,Italian,$$$
-667,Sotto Sotto,30307,"Fulton County, Georgia",4.0,457,Italian,$$$
-668,Donetto,30318,"Fulton County, Georgia",4.5,72,Italian,$$$
-669,La Tavola Trattoria,30306,"Fulton County, Georgia",4.0,410,Italian,$$
-670,Storico Fresco Alimentari e Ristorante,30305,"Fulton County, Georgia",4.0,131,Italian,$$
-671,Campagnolo,30309,"Fulton County, Georgia",4.0,235,Italian,$$
-672,Cibo e Beve,30342,"Fulton County, Georgia",4.0,239,Italian,$$
-673,Portofino,30305,"Fulton County, Georgia",4.0,116,Italian,$$
-674,Ippolito's Neighborhood Italian,30328,"Fulton County, Georgia",3.5,156,Italian,$$
-675,Osteria Mattone,30075,"Fulton County, Georgia",4.5,207,Italian,$$$
-676,Amalfi Ristorante,30075,"Fulton County, Georgia",4.0,130,Italian,$$
-677,Gio's Chicken Amalfitano,30318,"Fulton County, Georgia",4.0,274,Italian,$$
-678,Novo Cucina,30338,"Fulton County, Georgia",4.0,185,Italian,$$
-679,ZuZZu,30075,"Fulton County, Georgia",4.5,96,Italian,$$
-680,Princi Italia,30309,"Fulton County, Georgia",3.5,149,Italian,$$
-681,St. Cecilia,30326,"Fulton County, Georgia",4.0,473,Italian,$$$
-682,Varuni Napoli,30324,"Fulton County, Georgia",4.0,369,Italian,$$
-683,Nino's Italian Restaurant,30324,"Fulton County, Georgia",4.0,172,Italian,$$
-684,a mano,30312,"Fulton County, Georgia",4.0,85,Italian,$$
-685,FIGO Pasta,30318,"Fulton County, Georgia",4.0,136,Italian,$$
-686,Fritti,30307,"Fulton County, Georgia",4.0,543,Italian,$$
-687,Maggiano's Little Italy,30339,"Fulton County, Georgia",3.5,235,Italian,$$
-688,Ecco,30308,"Fulton County, Georgia",4.0,806,Italian,$$$
-689,Maggiano's Little Italy,30326,"Fulton County, Georgia",3.5,360,Italian,$$
-690,Campania,30009,"Fulton County, Georgia",4.5,319,Italian,$$
-691,Pricci,30305,"Fulton County, Georgia",3.5,267,Italian,$$$
-692,St Angelo's Pizza,30339,"Fulton County, Georgia",3.5,134,Italian,$$
-693,Ribalta,30309,"Fulton County, Georgia",4.0,243,Italian,$$
-694,FIGO Pasta,30339,"Fulton County, Georgia",3.5,141,Italian,$$
-695,Il Localino,30307,"Fulton County, Georgia",3.5,271,Italian,$$$
-696,Tuscany at Your Table,30306,"Fulton County, Georgia",5.0,14,Italian,$
-697,Amalfi Pizza,30303,"Fulton County, Georgia",4.0,234,Italian,$$
-698,Casa Nuova Italian Restaurant,30004,"Fulton County, Georgia",4.0,205,Italian,$$
-699,Carrabba's Italian Grill,30339,"Fulton County, Georgia",3.5,118,Italian,$$
-700,Florence Tavern,30305,"Fulton County, Georgia",4.0,21,Italian,$$
-701,Double Zero,30307,"Fulton County, Georgia",4.0,79,Italian,$$
-702,Lucia's Italian Restaurant,30075,"Fulton County, Georgia",4.0,104,Italian,$$
-703,Baraonda Italian Restaurant,30308,"Fulton County, Georgia",3.5,417,Italian,$$
-704,Mirko Pasta,30342,"Fulton County, Georgia",3.5,127,Italian,$$
-705,Noni's Bar & Deli,30312,"Fulton County, Georgia",4.0,393,Italian,$$
-706,Mari's Cucina and Social House,30022,"Fulton County, Georgia",4.0,160,Italian,$$
-707,Figo Pasta,30318,"Fulton County, Georgia",3.5,93,Italian,$$
-708,Poco Pomodoro,30316,"Fulton County, Georgia",4.0,48,Italian,$
-709,Bambinelli's Pizza & Pasta,30076,"Fulton County, Georgia",4.0,35,Italian,$$
-710,Bellina Alimentari,30308,"Fulton County, Georgia",3.5,147,Italian,$$
-711,Carbonara Trattoria,30338,"Fulton County, Georgia",3.5,71,Italian,$$
-712,RosaMia Ristorante Italiano,30005,"Fulton County, Georgia",4.0,141,Italian,$$
-713,Antica Posta Ristorante Toscano,30305,"Fulton County, Georgia",3.5,121,Italian,$$$
-714,Colletta,30009,"Fulton County, Georgia",4.0,178,Italian,$$
-715,E. 48th Street Market,30338,"Fulton County, Georgia",4.5,161,Italian,$
-716,Pero's Pizza & Pasta,30327,"Fulton County, Georgia",3.5,67,Italian,$$
-717,di Paolo,30022,"Fulton County, Georgia",4.0,88,Italian,$$
-718,Taverna Buckhead,30305,"Fulton County, Georgia",3.5,86,Italian,$$
-719,Aldo's Italian Restaurant,30328,"Fulton County, Georgia",3.5,83,Italian,$$
-720,Showcase Food Gallery,30344,"Fulton County, Georgia",4.5,50,Italian,$$
-721,Varuni Napoli,30307,"Fulton County, Georgia",4.5,28,Italian,$$
-722,Pasta Vino,30305,"Fulton County, Georgia",3.5,83,Italian,$$
-723,Davio's Northern Italian Steakhouse,30326,"Fulton County, Georgia",4.0,209,Italian,$$$
-724,Osteria 832,30306,"Fulton County, Georgia",3.5,208,Italian,$$
-725,Alpine Bakery and Trattoria,30004,"Fulton County, Georgia",4.0,328,Italian,$$
-726,Bar Americano,30305,"Fulton County, Georgia",3.5,29,Italian,$$
-727,Nuevo Laredo Cantina,30318,"Fulton County, Georgia",4.0,808,Mexican,$$
-728,Chido & Padre's,30305,"Fulton County, Georgia",4.0,29,Mexican,$$
-729,Bone Garden Cantina,30318,"Fulton County, Georgia",4.0,686,Mexican,$$
-730,Agavero Cantina - Atlanta,30318,"Fulton County, Georgia",4.5,109,Mexican,$$
-731,Taqueria Don Sige,30337,"Fulton County, Georgia",4.5,104,Mexican,$
-732,Tacos and Tequilas Mexican Grill,30342,"Fulton County, Georgia",4.0,266,Mexican,$$
-733,El Mexicano,30316,"Fulton County, Georgia",4.0,252,Mexican,$$
-734,Guaco Joe's,30339,"Fulton County, Georgia",3.5,124,Mexican,$$
-735,Alma Cocina,30303,"Fulton County, Georgia",4.0,857,Mexican,$$
-736,Abuelos Mexican Kitchen,30328,"Fulton County, Georgia",4.0,26,Mexican,$$
-737,Taco Cantina O4W,30312,"Fulton County, Georgia",4.5,34,Mexican,$$
-738,Acapulco Mexican Taqueria,30318,"Fulton County, Georgia",4.5,51,Mexican,$
-739,Cheeky Taqueria,30328,"Fulton County, Georgia",4.0,82,Mexican,$$
-740,Bartaco Chastain Park,30342,"Fulton County, Georgia",4.0,424,Mexican,$$
-741,Rio Balsas Taqueria,30009,"Fulton County, Georgia",4.5,180,Mexican,$$
-742,Hankook Taqueria,30318,"Fulton County, Georgia",4.0,807,Mexican,$
-743,Las Tortas Locas,30328,"Fulton County, Georgia",4.0,99,Mexican,$
-744,Taqueria Iztaccihuatl,30213,"Fulton County, Georgia",4.5,122,Mexican,$$
-745,Moctezuma Mexican Grill,30004,"Fulton County, Georgia",4.5,171,Mexican,$$
-746,El Bandido Mex Mex Grill,30307,"Fulton County, Georgia",4.0,174,Mexican,$$
-747,La Hacienda,30308,"Fulton County, Georgia",3.5,221,Mexican,$$
-748,The Original El Taco,30306,"Fulton County, Georgia",4.0,367,Mexican,$$
-749,Tacos & Tequilas Mexican Grill,30308,"Fulton County, Georgia",4.0,319,Mexican,$$
-750,Carnicería Los Pinos,30328,"Fulton County, Georgia",4.5,47,Mexican,$
-751,bartaco,30318,"Fulton County, Georgia",4.0,929,Mexican,$$
-752,Taqueria Cuernavaca,30342,"Fulton County, Georgia",4.0,21,Mexican,$
-753,Blue Coast Burrito,30318,"Fulton County, Georgia",4.5,48,Mexican,$
-754,El Trompo Mexican Taqueria,30005,"Fulton County, Georgia",4.5,296,Mexican,$
-755,Verde Taqueria,30318,"Fulton County, Georgia",4.0,176,Mexican,$
-756,Senor Patron,30308,"Fulton County, Georgia",4.0,286,Mexican,$$
-757,Cinco Mexican Cantina,30339,"Fulton County, Georgia",3.0,340,Mexican,$$
-758,La Parrilla Mexican Restaurant,30318,"Fulton County, Georgia",3.5,311,Mexican,$$
-759,No Mas! Cantina,30313,"Fulton County, Georgia",3.5,705,Mexican,$$
-760,Taqueria Don Chon,30354,"Fulton County, Georgia",4.5,47,Mexican,$
-761,Chuy's,30339,"Fulton County, Georgia",3.0,65,Mexican,$$
-762,Mi Barrio,30312,"Fulton County, Georgia",3.5,243,Mexican,$
-763,Carniceria El Ejido,30344,"Fulton County, Georgia",4.5,9,Mexican,$
-764,Tacos Linda Vista,30075,"Fulton County, Georgia",4.5,92,Mexican,$
-765,Mercado Acapulco,30324,"Fulton County, Georgia",4.0,18,Mexican,$
-766,Lucy Mexican Restaurant,30268,"Fulton County, Georgia",5.0,22,Mexican,$
-767,Verde,30342,"Fulton County, Georgia",4.0,35,Mexican,$
-768,Jalisco Mexican Restaurant,30305,"Fulton County, Georgia",3.5,171,Mexican,$
-769,HOLA! Taqueria & Bar,30076,"Fulton County, Georgia",4.0,311,Mexican,$$
-770,El Azteca Mexican Restaurant,30309,"Fulton County, Georgia",3.5,126,Mexican,$$
-771,Susis Taco Grill,30331,"Fulton County, Georgia",4.0,53,Mexican,$
-772,Catalina Restaurante Y Taqueria,30354,"Fulton County, Georgia",4.0,57,Mexican,$
-773,Huey Luey's,30328,"Fulton County, Georgia",3.5,157,Mexican,$$
-774,San Pancho,30075,"Fulton County, Georgia",4.0,81,Mexican,$
-775,Babalu Tapas & Tacos,30309,"Fulton County, Georgia",4.0,190,Mexican,$$
-776,La Fonda Latina,30306,"Fulton County, Georgia",4.0,364,Mexican,$$
-777,The Taqueria on Broad,30303,"Fulton County, Georgia",3.5,51,Mexican,$
-778,Bartaco Inman Park,30307,"Fulton County, Georgia",4.0,380,Mexican,$$
-779,La Fonda Latina,30318,"Fulton County, Georgia",3.5,254,Mexican,$$
-780,7 Tequilas Mexican Restaurant,30022,"Fulton County, Georgia",4.0,26,Mexican,$$
-781,Taco Cowboy,30306,"Fulton County, Georgia",4.0,134,Mexican,$$
-782,Red Pepper Taqueria,30305,"Fulton County, Georgia",3.5,334,Mexican,$$
-783,La Costa Tacos y Mariscos,30213,"Fulton County, Georgia",4.0,16,Mexican,$$
-784,Mezcalito's Cocina & Tequila Bar,30312,"Fulton County, Georgia",3.5,190,Mexican,$$
-785,Bell Street Burritos,30307,"Fulton County, Georgia",4.0,48,Mexican,$
-786,Escorpión,30308,"Fulton County, Georgia",3.5,454,Mexican,$$
-787,Taxco Restaurante Mexicano,30342,"Fulton County, Georgia",3.5,108,Mexican,$
-788,Rojo Cocina Mexicana & Cantina,30075,"Fulton County, Georgia",4.0,103,Mexican,$$
-789,La Tapatia,30316,"Fulton County, Georgia",3.5,15,Mexican,$
-790,Sausalito West Coast Grill,30309,"Fulton County, Georgia",4.0,62,Mexican,$
-791,Cactus House,30309,"Fulton County, Georgia",3.0,73,Mexican,$
-792,Mr Taco,30076,"Fulton County, Georgia",4.0,183,Mexican,$
-793,Uncle Julio's,30309,"Fulton County, Georgia",3.0,393,Mexican,$$
-794,La Fiesta Mexican Restaurant,30337,"Fulton County, Georgia",3.0,98,Mexican,$$
-795,Tin Lizzy's Cantina Buckhead,30305,"Fulton County, Georgia",3.5,358,Mexican,$$
-796,Taqueria Tsunami,30076,"Fulton County, Georgia",4.0,256,Mexican,$$
-797,Sombreros Mexican Cantina,30354,"Fulton County, Georgia",3.5,55,Mexican,$
-798,Carniceria Ramirez,30318,"Fulton County, Georgia",4.5,4,Mexican,$
-799,Tin Lizzy's Cantina,30303,"Fulton County, Georgia",3.0,132,Mexican,$$
-800,Cozumel,30349,"Fulton County, Georgia",3.0,74,Mexican,$$
-801,Los Mariachis,30344,"Fulton County, Georgia",3.5,36,Mexican,$$
-802,Georgia Grille,30309,"Fulton County, Georgia",4.0,102,Mexican,$$
-803,Zocalo Mexican Kitchen and Cantina,30309,"Fulton County, Georgia",3.0,288,Mexican,$$
-804,Rock 'N' Taco,30305,"Fulton County, Georgia",3.5,169,Mexican,$$
-805,Los Mariachis,30213,"Fulton County, Georgia",3.5,63,Mexican,$$
-806,Takorea,30338,"Fulton County, Georgia",4.0,253,Mexican,$
-807,El Azteca Mexican Restaurant,30328,"Fulton County, Georgia",2.5,169,Mexican,$$
-808,Elmyriachi,30317,"Fulton County, Georgia",3.5,170,Mexican,$$
-809,Holy Taco,30316,"Fulton County, Georgia",3.5,401,Mexican,$$
-810,Elmyr,30307,"Fulton County, Georgia",3.5,335,Mexican,$
-811,Minero,30308,"Fulton County, Georgia",3.5,284,Mexican,$$
-812,Cabo Cantina,30305,"Fulton County, Georgia",3.5,74,Mexican,$$
-813,Tin Lizzy's Cantina,30309,"Fulton County, Georgia",3.5,290,Mexican,$$
-814,Canton Cook II,30328,"Fulton County, Georgia",4.0,186,Chinese,$$
-815,Hsu's Atlanta,30303,"Fulton County, Georgia",4.0,228,Chinese,$$
-816,China Moon Restaurant,30339,"Fulton County, Georgia",3.5,90,Chinese,$$
-817,Little Bangkok,30324,"Fulton County, Georgia",4.0,620,Chinese,$$
-818,Eastern China Taste,30338,"Fulton County, Georgia",4.0,101,Chinese,$
-819,China Taste,30303,"Fulton County, Georgia",3.5,23,Chinese,$
-820,Chow Bing,30305,"Fulton County, Georgia",3.5,212,Chinese,$
-821,Ah-Ma's Taiwanese Kitchen,30308,"Fulton County, Georgia",4.0,348,Chinese,$$
-822,Orient Express of Vinings,30339,"Fulton County, Georgia",3.5,322,Chinese,$$
-823,Chin Chin - Howell Mill,30318,"Fulton County, Georgia",3.5,172,Chinese,$$
-824,Chinese Buddha,30309,"Fulton County, Georgia",3.0,304,Chinese,$$
-825,Canton Cooks,30328,"Fulton County, Georgia",3.5,343,Chinese,$$
-826,Malaya,30318,"Fulton County, Georgia",3.5,250,Chinese,$$
-827,Qing Mu,30305,"Fulton County, Georgia",3.5,150,Chinese,$$
-828,Canton Buddha,30305,"Fulton County, Georgia",3.0,126,Chinese,$$
-829,Chin Chin,30339,"Fulton County, Georgia",3.0,93,Chinese,$$
-830,Yan's Cafe,30004,"Fulton County, Georgia",4.5,50,Chinese,$$
-831,New Dragon Chinese & Thai,30318,"Fulton County, Georgia",3.5,64,Chinese,$
-832,Hans,30318,"Fulton County, Georgia",4.5,11,Chinese,$
-833,Burger Win,30316,"Fulton County, Georgia",4.0,115,Chinese,$
-834,Noodle,30337,"Fulton County, Georgia",4.0,171,Chinese,$$
-835,Orient At Vinings,30339,"Fulton County, Georgia",3.5,2,Chinese,$$
-836,Grand China Restaurant,30305,"Fulton County, Georgia",3.5,152,Chinese,$$
-837,Rasa Sayang,30076,"Fulton County, Georgia",4.0,169,Chinese,$$
-838,China Garden,30291,"Fulton County, Georgia",4.0,29,Chinese,$
-839,Happy Buddha Restaurant,30337,"Fulton County, Georgia",3.5,43,Chinese,$
-840,Ginseng Cafe,30303,"Fulton County, Georgia",4.0,22,Chinese,$
-841,China Garden,30076,"Fulton County, Georgia",3.5,61,Chinese,$$
-842,Lee's Golden Buddha Restaurant,30342,"Fulton County, Georgia",3.0,74,Chinese,$$
-843,J's Asian Cafe,30022,"Fulton County, Georgia",4.5,93,Chinese,$$
-844,Chinese Budda,30318,"Fulton County, Georgia",3.5,7,Chinese,$$
-845,China Wok,30337,"Fulton County, Georgia",4.0,17,Chinese,$
-846,Panda Wok,30344,"Fulton County, Georgia",3.5,13,Chinese,$
-847,China Dragon,30306,"Fulton County, Georgia",3.0,73,Chinese,$
-848,Lucky China,30338,"Fulton County, Georgia",3.5,141,Chinese,$$
-849,Suzy Siu's Baos,30307,"Fulton County, Georgia",4.0,81,Chinese,$
-850,China King Restaurant,30316,"Fulton County, Georgia",3.5,41,Chinese,$
-851,Su's Chinese Cuisine,30324,"Fulton County, Georgia",3.0,137,Chinese,$$
-852,Stockyard Burgers & Bones,30339,"Fulton County, Georgia",4.0,217,American (Traditional),$$
-853,The Hungry Peach,30305,"Fulton County, Georgia",4.5,42,American (Traditional),$$
-854,Stockyard Burgers & Bones,30328,"Fulton County, Georgia",4.5,62,American (Traditional),$$
-855,SOHO Restaurant,30339,"Fulton County, Georgia",4.0,165,American (Traditional),$$
-856,Kaiser's Chophouse,30328,"Fulton County, Georgia",4.5,82,American (Traditional),$$$
-857,Blue Ridge Grill,30327,"Fulton County, Georgia",4.0,153,American (Traditional),$$$
-858,Murphy's,30306,"Fulton County, Georgia",4.0,883,American (Traditional),$$
-859,Farm Burger Buckhead,30305,"Fulton County, Georgia",4.0,581,American (Traditional),$$
-860,Casseroles,30306,"Fulton County, Georgia",5.0,35,American (Traditional),$
-861,The Public House,30339,"Fulton County, Georgia",3.5,30,American (Traditional),$$
-862,Local Three,30327,"Fulton County, Georgia",4.0,539,American (Traditional),$$
-863,The Factory Bar + Grille,30318,"Fulton County, Georgia",3.5,16,American (Traditional),$$
-864,McCray's Tavern - Midtown,30309,"Fulton County, Georgia",4.0,24,American (Traditional),$$
-865,Canoe,30339,"Fulton County, Georgia",4.5,1392,American (New),$$$
-866,Punch Bowl Social - Atlanta,30339,"Fulton County, Georgia",3.5,19,American (New),$$
-867,Cru,30339,"Fulton County, Georgia",4.0,27,American (New),$$
-868,The Hungry Peach,30305,"Fulton County, Georgia",4.5,42,American (New),$$
-869,Saltyard,30309,"Fulton County, Georgia",4.0,371,American (New),$$
-870,Seven Lamps,30326,"Fulton County, Georgia",4.0,643,American (New),$$
-871,King + Duke,30305,"Fulton County, Georgia",4.0,644,American (New),$$$
-872,The Lawrence,30309,"Fulton County, Georgia",4.0,475,American (New),$$
-873,Courthouse Cafe,30303,"Fulton County, Georgia",5.0,1,American (New),$
-874,Gunshow,30316,"Fulton County, Georgia",4.0,861,American (New),$$$
-875,Urban Cookhouse,30342,"Fulton County, Georgia",4.0,111,American (New),$
-876,Tabla,30309,"Fulton County, Georgia",4.0,344,Indian,$$
-877,Copper Cove Indian Bistro,30305,"Fulton County, Georgia",4.0,188,Indian,$$
-878,Aamar Indian Cuisine,30303,"Fulton County, Georgia",4.0,237,Indian,$$
-879,Swapna Indian Cuisine,30339,"Fulton County, Georgia",3.5,323,Indian,$$
-880,Amara,30307,"Fulton County, Georgia",4.5,105,Indian,$$
-881,Touch,30318,"Fulton County, Georgia",4.0,127,Indian,$
-882,Botiwalla,30308,"Fulton County, Georgia",4.0,219,Indian,$$
-883,Jai Ho Indian Kitchen & Bar,30324,"Fulton County, Georgia",4.0,89,Indian,$$
-884,Bawarchi Biryanis - Atlanta,30328,"Fulton County, Georgia",3.0,201,Indian,$$
-885,Deccan Spice Authentic Indian Cuisine,30076,"Fulton County, Georgia",5.0,13,Indian,$$
-886,Curries Indian Bistro,30328,"Fulton County, Georgia",3.5,120,Indian,$$
-887,Bhojanic,30326,"Fulton County, Georgia",3.5,222,Indian,$$
-888,NaanStop,30305,"Fulton County, Georgia",3.5,310,Indian,$
-889,The Viceroy Royal Indian Dining,30338,"Fulton County, Georgia",4.0,188,Indian,$$
-890,Mumbai Indian Bistro,30005,"Fulton County, Georgia",4.5,54,Indian,$$
-891,Desi Spice Indian Cuisine,30308,"Fulton County, Georgia",3.5,168,Indian,$$
-892,Bombay Flames,30022,"Fulton County, Georgia",4.0,217,Indian,$$
-893,Madras Chettinaad,30022,"Fulton County, Georgia",4.0,364,Indian,$$
-894,NaanStop,30303,"Fulton County, Georgia",3.5,225,Indian,$
-895,Niramish Indian Cuisine,30307,"Fulton County, Georgia",3.5,194,Indian,$$
-896,Sitar Indian Restaurant,30022,"Fulton County, Georgia",4.0,85,Indian,$$
-897,Bay Leaf,30338,"Fulton County, Georgia",3.5,51,Indian,$
-898,Aunty's Kitchen,30009,"Fulton County, Georgia",4.5,25,Indian,$
-899,Persis Biryani Indian Grill,30009,"Fulton County, Georgia",4.0,106,Indian,$$
-900,Haveli Indian Cuisine,30303,"Fulton County, Georgia",3.0,156,Indian,$$
-901,Planet Bombay,30307,"Fulton County, Georgia",3.0,243,Indian,$$
-902,Swagat Indian Cuisine,30004,"Fulton County, Georgia",4.0,102,Indian,$$
-903,Baraka Shawarma,30303,"Fulton County, Georgia",4.5,208,Indian,$
-904,Aachi's Indian Restaurant & Bakery,30022,"Fulton County, Georgia",4.0,65,Indian,$$
-905,Godavari - Atlanta,30004,"Fulton County, Georgia",3.5,40,Indian,$$
-906,Mithunas Takeaway,30005,"Fulton County, Georgia",4.5,29,Indian,$
-907,Sanjha Chulha,30005,"Fulton County, Georgia",3.5,87,Indian,$$
-908,India Chef Restaurant,30076,"Fulton County, Georgia",3.5,132,Indian,$$
-909,Masala Fresh,30318,"Fulton County, Georgia",3.0,16,Indian,$$
-910,Chennai Express,30022,"Fulton County, Georgia",3.5,75,Indian,$
-911,Taste of India,30005,"Fulton County, Georgia",3.5,55,Indian,$$
-912,Luciano's Ristorante Italiano,28203,"Mecklenburg County, North Carolina",4.0,276,Italian,$$
-913,Antico Italian Restaurant,28078,"Mecklenburg County, North Carolina",4.5,115,Italian,$$
-914,Mama Ricotta's,28204,"Mecklenburg County, North Carolina",4.0,416,Italian,$$
-915,Three Amigos Mexican Restaurant and Cantina,28205,"Mecklenburg County, North Carolina",4.0,375,Mexican,$
-916,Las Lupitas,28213,"Mecklenburg County, North Carolina",4.5,49,Mexican,$
-917,Sabor Latin Street Grill,28204,"Mecklenburg County, North Carolina",4.5,682,Mexican,$
-918,Three Amigos Mexican Cantina,28078,"Mecklenburg County, North Carolina",4.0,165,Mexican,$$
-919,Que Onda Tacos Uptown,28202,"Mecklenburg County, North Carolina",4.0,135,Mexican,$$
-920,Sabor Latin Street Grill - Noda,28205,"Mecklenburg County, North Carolina",4.5,155,Mexican,$
-921,Azteca Mexican Restaurant,28217,"Mecklenburg County, North Carolina",3.5,256,Mexican,$$
-922,Fonda Las Cazuelas,28213,"Mecklenburg County, North Carolina",4.0,38,Mexican,$$
-923,Taqueria Los Altos,28212,"Mecklenburg County, North Carolina",4.5,33,Mexican,$
-924,Cabo Fish Taco,28205,"Mecklenburg County, North Carolina",4.0,988,Mexican,$$
-925,Azteca Mexican Restaurant,28269,"Mecklenburg County, North Carolina",3.5,140,Mexican,$$
-926,Anita's Mexican Grill,28208,"Mecklenburg County, North Carolina",4.5,76,Mexican,$
-927,Verde Mexican and Nuevo Latin Fusion,28078,"Mecklenburg County, North Carolina",4.0,238,Mexican,$$
-928,El Taco Veloz,28213,"Mecklenburg County, North Carolina",4.0,44,Mexican,$
-929,Las Meras Tortas,28078,"Mecklenburg County, North Carolina",4.5,36,Mexican,$
-930,La Poblanita Mexican Restaurant & Candy Store,28273,"Mecklenburg County, North Carolina",4.0,129,Mexican,$
-931,Las Margaritas,28205,"Mecklenburg County, North Carolina",4.0,92,Mexican,$
-932,Don Pedro Mexican Restaurant,28213,"Mecklenburg County, North Carolina",3.5,100,Mexican,$$
-933,El Toro Mexican Grill and Bar,28031,"Mecklenburg County, North Carolina",4.5,71,Mexican,$
-934,El Valle Mexican Restaurant,28105,"Mecklenburg County, North Carolina",4.0,74,Mexican,$
-935,Tacos El Nevado,28209,"Mecklenburg County, North Carolina",4.0,30,Mexican,$
-936,Vida Mexican Kitchen y Cantina,28202,"Mecklenburg County, North Carolina",3.5,364,Mexican,$$
-937,La Fiesta Grande,28214,"Mecklenburg County, North Carolina",3.0,65,Mexican,$
-938,Los Arcos,28262,"Mecklenburg County, North Carolina",3.5,66,Mexican,$
-939,La Espiga,28213,"Mecklenburg County, North Carolina",5.0,4,Mexican,$
-940,Cabo's Mexican Cuisine and Cantina,28226,"Mecklenburg County, North Carolina",4.0,118,Mexican,$$
-941,Tacos El Nevado,28205,"Mecklenburg County, North Carolina",4.0,31,Mexican,$
-942,Monterrey Mexican Restaurant,28213,"Mecklenburg County, North Carolina",3.5,76,Mexican,$$
-943,Taqueria Mexico,28217,"Mecklenburg County, North Carolina",4.0,95,Mexican,$
-944,Tacos El Regio,28227,"Mecklenburg County, North Carolina",4.5,18,Mexican,$
-945,Tacos El Nevado,28209,"Mecklenburg County, North Carolina",4.5,12,Mexican,$
-946,Miguel's Mexican and American Restaurant,28214,"Mecklenburg County, North Carolina",4.0,253,Mexican,$
-947,Que Onda Tacos Matthews,28105,"Mecklenburg County, North Carolina",4.0,34,Mexican,$$
-948,SOL Southwest Kitchen and Tequila Bar,28278,"Mecklenburg County, North Carolina",4.0,63,Mexican,$$
-949,Antojitos Don Sammy,28214,"Mecklenburg County, North Carolina",4.5,21,Mexican,$
-950,Carnitas Guanajuato Mexican Restaurant,28212,"Mecklenburg County, North Carolina",4.0,34,Mexican,$
-951,Zapata's Cantina Mexican Restaurant,28262,"Mecklenburg County, North Carolina",3.0,117,Mexican,$$
-952,Fonda Mexicana El Paraiso,28217,"Mecklenburg County, North Carolina",4.5,20,Mexican,$
-953,Fiesta Maya,28269,"Mecklenburg County, North Carolina",3.5,74,Mexican,$
-954,La Unica,28204,"Mecklenburg County, North Carolina",3.5,86,Mexican,$
-955,RuRu's Tacos + Tequila,28207,"Mecklenburg County, North Carolina",3.5,274,Mexican,$$
-956,La Unica Mexican Restaurant,28078,"Mecklenburg County, North Carolina",3.5,125,Mexican,$$
-957,Delicias Restaurante Latino,28212,"Mecklenburg County, North Carolina",4.5,14,Mexican,$
-958,El Tropico,28213,"Mecklenburg County, North Carolina",3.5,3,Mexican,$$
-959,1900 Mexican Grill,28204,"Mecklenburg County, North Carolina",3.0,137,Mexican,$$
-960,La Autentica Mexican Restaurant,28277,"Mecklenburg County, North Carolina",4.0,42,Mexican,$$
-961,El Veracruz Mexican Restaurant,28134,"Mecklenburg County, North Carolina",3.5,89,Mexican,$$
-962,Azteca Mexican Restaurant,28105,"Mecklenburg County, North Carolina",3.5,137,Mexican,$$
-963,Lupitas Carniceria & Tortilleria,28217,"Mecklenburg County, North Carolina",4.5,16,Mexican,$
-964,Zapata's,28031,"Mecklenburg County, North Carolina",4.0,54,Mexican,$$
-965,Mi Pueblo Mexican Grill,28270,"Mecklenburg County, North Carolina",3.5,139,Mexican,$$
-966,1900 Mexican Grill,28209,"Mecklenburg County, North Carolina",3.5,81,Mexican,$$
-967,Los Arcos Mexican Restaurant,28216,"Mecklenburg County, North Carolina",3.0,55,Mexican,$$
-968,Cantina 1511,28202,"Mecklenburg County, North Carolina",3.0,52,Mexican,$$
-969,Tijuana Flats,28262,"Mecklenburg County, North Carolina",4.0,61,Mexican,$
-970,China Palace,28262,"Mecklenburg County, North Carolina",4.0,71,Chinese,$
-971,The Dumpling Lady,28205,"Mecklenburg County, North Carolina",4.5,73,Chinese,$
-972,Baoding,28210,"Mecklenburg County, North Carolina",4.0,143,Chinese,$$
-973,Jin Jin,28078,"Mecklenburg County, North Carolina",4.0,63,Chinese,$
-974,Chuan Wang Fu,28210,"Mecklenburg County, North Carolina",4.0,35,Chinese,$$
-975,Best Wok,28270,"Mecklenburg County, North Carolina",4.0,63,Chinese,$
-976,Kung Foo Noodle,28078,"Mecklenburg County, North Carolina",4.5,219,Chinese,$$
-977,Panda's Den,28215,"Mecklenburg County, North Carolina",4.0,39,Chinese,$
-978,Soho Bistro,28202,"Mecklenburg County, North Carolina",3.5,137,Chinese,$$
-979,Taipei Express,28207,"Mecklenburg County, North Carolina",4.0,73,Chinese,$
-980,Lam's Kitchen,28104,"Mecklenburg County, North Carolina",4.5,20,Chinese,$$
-981,Beijing Chinese Cuisine,28203,"Mecklenburg County, North Carolina",3.5,83,Chinese,$
-982,Golden Taipei,28269,"Mecklenburg County, North Carolina",3.5,79,Chinese,$$
-983,Persuasian Restaurant,28203,"Mecklenburg County, North Carolina",4.0,96,Chinese,$$
-984,The Turnhouse Grille,28209,"Mecklenburg County, North Carolina",4.5,69,American (Traditional),$$
-985,Davidson Street Public House,28205,"Mecklenburg County, North Carolina",4.0,136,American (New),$$
-986,Nest Restaurant & Lounge,28202,"Mecklenburg County, North Carolina",3.5,20,American (New),$$
-987,The Cellar At Duckworth's,28202,"Mecklenburg County, North Carolina",4.5,360,American (New),$$
-988,Carpe Diem Restaurant & Caterers,28204,"Mecklenburg County, North Carolina",4.0,174,American (New),$$$
-989,Rooster's Uptown,28202,"Mecklenburg County, North Carolina",4.0,401,American (New),$$
-990,300 East,28203,"Mecklenburg County, North Carolina",4.0,583,American (New),$$
-991,Stoke Charlotte,28202,"Mecklenburg County, North Carolina",4.0,133,American (New),$$
-992,Good Food on Montford,28209,"Mecklenburg County, North Carolina",4.5,582,American (New),$$
-993,The Daily,28202,"Mecklenburg County, North Carolina",4.5,21,American (New),$$
-994,Sante',28105,"Mecklenburg County, North Carolina",4.0,58,American (New),$$
-995,Cafe 100,28078,"Mecklenburg County, North Carolina",4.0,280,American (New),$$
-996,The Fig Tree Restaurant,28204,"Mecklenburg County, North Carolina",4.5,343,American (New),$$$
-997,Dandelion Market,28202,"Mecklenburg County, North Carolina",4.0,553,American (New),$$
-998,Dogwood Southern Table & Bar,28210,"Mecklenburg County, North Carolina",4.5,245,American (New),$$
-999,First Watch,28105,"Mecklenburg County, North Carolina",4.0,36,American (New),$$
-1000,The Suffolk Punch,28203,"Mecklenburg County, North Carolina",4.0,125,American (New),$$
-1001,Gin Mill South End,28203,"Mecklenburg County, North Carolina",3.5,48,American (New),$
-1002,Merchant & Trade,28202,"Mecklenburg County, North Carolina",3.0,56,American (New),$$
-1003,Competition Dining: Fire in the City,28203,"Mecklenburg County, North Carolina",5.0,4,American (New),$$$$
-1004,Saveeda's American Bistro,28104,"Mecklenburg County, North Carolina",4.5,65,American (New),$$
-1005,Kindred Restaurant,28036,"Mecklenburg County, North Carolina",4.5,326,American (New),$$
-1006,Mimosa Grill,28202,"Mecklenburg County, North Carolina",4.0,425,American (New),$$
-1007,Tamarind Fine Cuisine Of India,28105,"Mecklenburg County, North Carolina",4.5,206,Indian,$$
-1008,Chaupaati,28134,"Mecklenburg County, North Carolina",4.5,208,Indian,$$
-1009,Copper,28203,"Mecklenburg County, North Carolina",4.0,332,Indian,$$
-1010,Passage To India,28213,"Mecklenburg County, North Carolina",4.0,259,Indian,$$
-1011,Clove Indian Cuisine,28262,"Mecklenburg County, North Carolina",4.5,16,Indian,$$
-1012,Sangam Indian Cuisine,28031,"Mecklenburg County, North Carolina",4.5,165,Indian,$$
-1013,Persis Biryani Indian Grill,28269,"Mecklenburg County, North Carolina",4.0,147,Indian,$$
-1014,Sithara,28262,"Mecklenburg County, North Carolina",4.0,33,Indian,$$
-1015,Madras Cafe,28269,"Mecklenburg County, North Carolina",4.0,80,Indian,$$
-1016,Tandur Indian Kitchen,28211,"Mecklenburg County, North Carolina",4.0,15,Indian,$$
-1017,Zafran Kabab Palace,28134,"Mecklenburg County, North Carolina",4.0,186,Indian,$$
-1018,Maharani Indian Cuisine,28204,"Mecklenburg County, North Carolina",3.0,138,Indian,$$
-1019,Godavari,28262,"Mecklenburg County, North Carolina",3.0,35,Indian,$$
-1020,King of Spicy,28227,"Mecklenburg County, North Carolina",3.5,84,Indian,$$
-1021,The Blue Taj,28277,"Mecklenburg County, North Carolina",4.0,299,Indian,$$
-1022,Nirvana II,28202,"Mecklenburg County, North Carolina",3.5,52,Indian,$
-1023,Gravy,27601,"Wake County, North Carolina",4.0,409,Italian,$$
-1024,Mulino Italian Kitchen & Bar,27603,"Wake County, North Carolina",4.0,69,Italian,$$
-1025,Vivo Ristorante Pizzeria,27615,"Wake County, North Carolina",4.5,159,Italian,$$
-1026,Garibaldi Trattoria,27526,"Wake County, North Carolina",4.5,228,Italian,$$
-1027,Bella Monica,27612,"Wake County, North Carolina",4.0,390,Italian,$$
-1028,Vivace,27609,"Wake County, North Carolina",4.0,226,Italian,$$
-1029,Casa Carbone Ristorante Italiano,27612,"Wake County, North Carolina",4.0,113,Italian,$$
-1030,Lugano Ristorante,27513,"Wake County, North Carolina",4.0,191,Italian,$$
-1031,Mamma Mia Italian Bistro,27502,"Wake County, North Carolina",4.0,158,Italian,$$
-1032,Bellini Fine Italian Cuisine,27511,"Wake County, North Carolina",4.0,85,Italian,$$
-1033,Bocci Trattoria & Pizzeria,27607,"Wake County, North Carolina",4.5,12,Italian,$$
-1034,Enrigo Italian Bistro,27518,"Wake County, North Carolina",4.0,169,Italian,$$
-1035,Mike's Italian Kitchen,27545,"Wake County, North Carolina",3.5,70,Italian,$$
-1036,Sopranos Grill,27610,"Wake County, North Carolina",4.0,87,Italian,$$
-1037,Vic's Italian Restaurant & Pizzeria,27607,"Wake County, North Carolina",4.0,72,Italian,$$
-1038,Assaggio's,27613,"Wake County, North Carolina",4.0,128,Italian,$$
-1039,Vic's Italian Restaurant & Pizzeria,27601,"Wake County, North Carolina",3.5,148,Italian,$$
-1040,Dino's Capri Restaurant,27615,"Wake County, North Carolina",4.0,59,Italian,$$
-1041,Frank's Pizza & Italian Restaurant,27610,"Wake County, North Carolina",4.5,78,Italian,$$
-1042,Caffe Luna,27601,"Wake County, North Carolina",3.5,203,Italian,$$
-1043,Cafe Tiramisu,27609,"Wake County, North Carolina",4.0,51,Italian,$$
-1044,Taqueria El Toro,27603,"Wake County, North Carolina",4.5,217,Mexican,$
-1045,Salt & Lime Cabo Grill,27609,"Wake County, North Carolina",4.5,547,Mexican,$$
-1046,Mi Cancun,27560,"Wake County, North Carolina",4.5,355,Mexican,$$
-1047,Jose and Sons,27601,"Wake County, North Carolina",4.0,388,Mexican,$$
-1048,Centro,27601,"Wake County, North Carolina",4.0,308,Mexican,$$
-1049,Totopos Street Food & Tequila,27511,"Wake County, North Carolina",4.0,365,Mexican,$$
-1050,Gonza Tacos Y Tequila,27607,"Wake County, North Carolina",4.0,152,Mexican,$$
-1051,La Santa Modern Mexican Food,27603,"Wake County, North Carolina",4.0,91,Mexican,$$
-1052,Gonza Tacos y Tequila,27615,"Wake County, North Carolina",4.5,446,Mexican,$$
-1053,Los Cuates,27609,"Wake County, North Carolina",4.0,110,Mexican,$
-1054,Salsa Azteca Mexican Grill,27545,"Wake County, North Carolina",4.0,32,Mexican,$
-1055,Viva Mexican Kitchen,27560,"Wake County, North Carolina",4.0,196,Mexican,$$
-1056,Virgil's Original Taqueria,27601,"Wake County, North Carolina",4.0,104,Mexican,$$
-1057,Mi Cancun,27615,"Wake County, North Carolina",4.0,128,Mexican,$$
-1058,La Cocina,27529,"Wake County, North Carolina",4.0,90,Mexican,$$
-1059,Esmeralda Grill,27511,"Wake County, North Carolina",4.5,41,Mexican,$
-1060,San Marcos Mexican Restaurant,27612,"Wake County, North Carolina",4.0,65,Mexican,$$
-1061,Toreros Mexican Restaurant,27604,"Wake County, North Carolina",4.0,117,Mexican,$$
-1062,El Tapatio Mexican Restaurant,27610,"Wake County, North Carolina",4.0,74,Mexican,$
-1063,Tacos Y Mariscos Vallarta,27604,"Wake County, North Carolina",4.0,76,Mexican,$$
-1064,La Carreta Mexican Restaurant,27605,"Wake County, North Carolina",3.5,72,Mexican,$$
-1065,Mi Cancun,27540,"Wake County, North Carolina",4.0,78,Mexican,$$
-1066,Chubby's Tacos,27607,"Wake County, North Carolina",4.0,342,Mexican,$
-1067,Don Beto's Tacos,27603,"Wake County, North Carolina",4.5,19,Mexican,$
-1068,La Zacatecana,27529,"Wake County, North Carolina",5.0,5,Mexican,$
-1069,Gringo A Go-Go,27601,"Wake County, North Carolina",3.5,202,Mexican,$$
-1070,El Senor,27545,"Wake County, North Carolina",4.0,70,Mexican,$
-1071,Xoco Mexican Bar & Grill,27603,"Wake County, North Carolina",3.5,33,Mexican,$$
-1072,Tlaquepaque Mexican Cuisine,27587,"Wake County, North Carolina",4.0,106,Mexican,$$
-1073,El Rodeo,27613,"Wake County, North Carolina",4.0,174,Mexican,$$
-1074,La Rancherita,27612,"Wake County, North Carolina",3.5,79,Mexican,$$
-1075,Los Tres Magueyes,27560,"Wake County, North Carolina",4.0,68,Mexican,$$
-1076,Tacos Mexico Restaurant,27526,"Wake County, North Carolina",4.0,70,Mexican,$
-1077,El Rodeo Mexican Restaurant,27608,"Wake County, North Carolina",3.5,39,Mexican,$
-1078,Chuy's,27609,"Wake County, North Carolina",3.5,255,Mexican,$$
-1079,La Rancherita Mexican Restaurant,27502,"Wake County, North Carolina",4.0,98,Mexican,$$
-1080,El Taco Market,27610,"Wake County, North Carolina",4.0,37,Mexican,$
-1081,El Pollo Rico Restaurant,27604,"Wake County, North Carolina",4.5,26,Mexican,$$
-1082,Los Cuates,27604,"Wake County, North Carolina",4.0,44,Mexican,$
-1083,Fiesta Mexicana Garner,27529,"Wake County, North Carolina",4.0,56,Mexican,$$
-1084,El Cuscatleco,27511,"Wake County, North Carolina",4.0,145,Mexican,$
-1085,Tulum Restaurante Bar,27601,"Wake County, North Carolina",3.5,35,Mexican,$$
-1086,Dos Taquitos,27612,"Wake County, North Carolina",3.0,99,Mexican,$$
-1087,Mi Rancho,27603,"Wake County, North Carolina",3.5,32,Mexican,$$
-1088,Don Julio Mexican Restaurant,27587,"Wake County, North Carolina",4.0,50,Mexican,$$
-1089,El Rey del Taco,27609,"Wake County, North Carolina",4.5,10,Mexican,$
-1090,Coco Bongo,27607,"Wake County, North Carolina",3.5,27,Mexican,$
-1091,Chilango Tacos & Grill,27604,"Wake County, North Carolina",4.5,8,Mexican,$
-1092,San Jose's Tacos & Tequila,27617,"Wake County, North Carolina",3.5,138,Mexican,$$
-1093,El Dorado Authentic Mexican Restaurant,27529,"Wake County, North Carolina",3.5,19,Mexican,$
-1094,Grandotes Taco Grill,27607,"Wake County, North Carolina",5.0,10,Mexican,$
-1095,La Rancherita,27615,"Wake County, North Carolina",3.5,128,Mexican,$$
-1096,Fiesta Mexicana,27606,"Wake County, North Carolina",4.0,65,Mexican,$
-1097,El Rinconcito Mexican Grill,27511,"Wake County, North Carolina",4.0,15,Mexican,$$
-1098,Seniorita Melissa's Sala,27603,"Wake County, North Carolina",5.0,3,Mexican,$
-1099,Cafe Capistrano,27616,"Wake County, North Carolina",3.5,81,Mexican,$$
-1100,Torero's Mexican Restaurant,27511,"Wake County, North Carolina",3.5,136,Mexican,$$
-1101,La Taqueria Mexican Grill,27526,"Wake County, North Carolina",4.0,20,Mexican,$
-1102,San Jose Mexican Restaurant,27616,"Wake County, North Carolina",3.5,142,Mexican,$$
-1103,El Tapatio,27587,"Wake County, North Carolina",4.0,50,Mexican,$$
-1104,Los Tres Mexican Restaurant,27502,"Wake County, North Carolina",4.0,27,Mexican,$$
-1105,Tacos Mexico Restaurant,27502,"Wake County, North Carolina",3.5,78,Mexican,$
-1106,Tijuana Flats,27609,"Wake County, North Carolina",4.0,118,Mexican,$
-1107,Los Tres Magueyes,27617,"Wake County, North Carolina",3.5,117,Mexican,$$
-1108,El Rodeo,27601,"Wake County, North Carolina",3.5,22,Mexican,$$
-1109,Gonza Tacos Y Tequila,27587,"Wake County, North Carolina",4.0,132,Mexican,$$
-1110,Arandas Mexican Cuisine,27502,"Wake County, North Carolina",3.5,84,Mexican,$$
-1111,Armadillo Grill,27603,"Wake County, North Carolina",3.5,129,Mexican,$
-1112,Los Tres Magueyes,27571,"Wake County, North Carolina",4.0,23,Mexican,$$
-1113,Las Margaritas Mexican Restaurant,27587,"Wake County, North Carolina",4.0,75,Mexican,$$
-1114,Las Margaritas Mexican Restaurant II,27615,"Wake County, North Carolina",3.5,56,Mexican,$
-1115,Fiorentine Cafe,27529,"Wake County, North Carolina",5.0,3,Mexican,$
-1116,San Jose Mex & Tequila Bar,27614,"Wake County, North Carolina",3.5,44,Mexican,$$
-1117,Red Pepper Asian,27610,"Wake County, North Carolina",4.5,169,Chinese,$$
-1118,Fu Kee Express,27616,"Wake County, North Carolina",4.5,179,Chinese,$
-1119,Imperial Garden Chinese Restaurant,27615,"Wake County, North Carolina",4.0,105,Chinese,$$
-1120,C&T Wok,27560,"Wake County, North Carolina",4.0,428,Chinese,$$
-1121,Ni Asian Kitchen,27615,"Wake County, North Carolina",4.5,107,Chinese,$$
-1122,Pearl Chinese Restaurant,27606,"Wake County, North Carolina",3.5,82,Chinese,$
-1123,Peace China,27604,"Wake County, North Carolina",3.5,88,Chinese,$
-1124,Five Star Restaurant,27603,"Wake County, North Carolina",3.5,163,Chinese,$$
-1125,Mr Dumpling,27502,"Wake County, North Carolina",4.0,52,Chinese,$$
-1126,Peng's Asian Cusine,27560,"Wake County, North Carolina",4.0,67,Chinese,$$
-1127,China Star,27610,"Wake County, North Carolina",5.0,11,Chinese,$
-1128,China Uno,27540,"Wake County, North Carolina",4.0,103,Chinese,$
-1129,China Won,27603,"Wake County, North Carolina",4.5,38,Chinese,$
-1130,Taipei 101,27511,"Wake County, North Carolina",4.0,178,Chinese,$$
-1131,Taipei Café,27560,"Wake County, North Carolina",4.0,103,Chinese,$$
-1132,Hibachi China 88,27529,"Wake County, North Carolina",4.0,29,Chinese,$
-1133,Nice Bowls Asian Cuisine,27513,"Wake County, North Carolina",4.5,19,Chinese,$$
-1134,Beansprout Chinese Restaurant,27607,"Wake County, North Carolina",3.5,70,Chinese,$
-1135,Jin Jin China,27603,"Wake County, North Carolina",4.5,10,Chinese,$
-1136,Szechuan Garden,27560,"Wake County, North Carolina",4.0,70,Chinese,$$
-1137,Good Harvest,27511,"Wake County, North Carolina",4.0,66,Chinese,$$
-1138,Red Dragon Chinese Restaurant,27608,"Wake County, North Carolina",3.0,67,Chinese,$$
-1139,Asian Garden,27513,"Wake County, North Carolina",4.0,63,Chinese,$
-1140,Panda Garden,27587,"Wake County, North Carolina",4.5,19,Chinese,$$
-1141,Panda King,27587,"Wake County, North Carolina",4.0,28,Chinese,$
-1142,King Chef,27604,"Wake County, North Carolina",3.5,11,Chinese,$
-1143,China King,27529,"Wake County, North Carolina",3.5,15,Chinese,$
-1144,China House,27545,"Wake County, North Carolina",3.5,11,Chinese,$
-1145,China Best,27540,"Wake County, North Carolina",4.0,32,Chinese,$
-1146,Taste of China,27610,"Wake County, North Carolina",4.0,21,Chinese,$
-1147,Wang's Kitchen,27610,"Wake County, North Carolina",3.5,10,Chinese,$$
-1148,Golden Dragon,27607,"Wake County, North Carolina",3.5,39,Chinese,$
-1149,Panda House Chinese Restaurant,27603,"Wake County, North Carolina",4.0,7,Chinese,$
-1150,Good Taste,27597,"Wake County, North Carolina",4.5,9,Chinese,$
-1151,Mei Wei Asian Diner,27526,"Wake County, North Carolina",4.0,58,Chinese,$
-1152,Rainbow King,27587,"Wake County, North Carolina",4.0,35,Chinese,$
-1153,Peking Garden,27609,"Wake County, North Carolina",3.5,77,Chinese,$$
-1154,J. Alexander's Restaurant,27612,"Wake County, North Carolina",4.0,166,American (Traditional),$$
-1155,Parkside,27601,"Wake County, North Carolina",4.0,147,American (Traditional),$$
-1156,Aggie's Grill Station,27604,"Wake County, North Carolina",4.5,64,American (Traditional),$
-1157,The Mason Jar Tavern,27526,"Wake County, North Carolina",4.0,103,American (Traditional),$$
-1158,Winston's Grille,27615,"Wake County, North Carolina",4.0,212,American (Traditional),$$
-1159,Metro Diner,27615,"Wake County, North Carolina",4.0,269,American (Traditional),$$
-1160,Capital Club 16,27601,"Wake County, North Carolina",4.0,212,American (Traditional),$$
-1161,Hayes Barton Café & Dessertery,27608,"Wake County, North Carolina",4.5,206,American (Traditional),$$
-1162,Watkins Grill,27604,"Wake County, North Carolina",4.0,52,American (Traditional),$
-1163,Manhattan Cafe,27601,"Wake County, North Carolina",4.5,80,American (Traditional),$
-1164,Crawford & Son,27604,"Wake County, North Carolina",4.5,118,American (New),$$$
-1165,Stanbury,27604,"Wake County, North Carolina",4.5,231,American (New),$$$
-1166,Plates Neighborhood Kitchen,27603,"Wake County, North Carolina",4.5,210,American (New),$$
-1167,Growler USA - Raleigh,27601,"Wake County, North Carolina",3.5,19,American (New),$$
-1168,The Oak,27607,"Wake County, North Carolina",4.0,206,American (New),$$
-1169,Standard Foods,27604,"Wake County, North Carolina",4.0,117,American (New),$$
-1170,Flask & Beaker,27606,"Wake County, North Carolina",3.5,10,American (New),$$
-1171,Royale,27601,"Wake County, North Carolina",4.0,84,American (New),$$$
-1172,Humble Pie,27603,"Wake County, North Carolina",4.0,264,American (New),$$
-1173,The Rockford,27603,"Wake County, North Carolina",4.0,216,American (New),$$
-1174,Tazza Kitchen Cameron Village,27605,"Wake County, North Carolina",4.5,315,American (New),$$
-1175,Rock Harbor Grill,27526,"Wake County, North Carolina",3.5,81,American (New),$$
-1176,Oak & Dagger Public House,27604,"Wake County, North Carolina",4.0,144,American (New),$$
-1177,18 Seaboard,27604,"Wake County, North Carolina",4.0,407,American (New),$$
-1178,Taste - Five Points,27608,"Wake County, North Carolina",4.5,22,American (New),$$
-1179,Poole's,27601,"Wake County, North Carolina",4.0,697,American (New),$$
-1180,Mandolin,27608,"Wake County, North Carolina",4.0,258,American (New),$$$
-1181,Glenwood Grill,27608,"Wake County, North Carolina",4.5,229,American (New),$$
-1182,Seasons 52,27612,"Wake County, North Carolina",4.5,152,American (New),$$
-1183,Capital Creations Gourmet Pizza,27608,"Wake County, North Carolina",4.0,35,American (New),$$
-1184,Second Empire Restaurant And Tavern,27603,"Wake County, North Carolina",4.5,359,American (New),$$$
-1185,Death & Taxes,27601,"Wake County, North Carolina",3.5,195,American (New),$$$
-1186,The Provincial,27502,"Wake County, North Carolina",4.5,96,American (New),$$
-1187,Farm Table,27587,"Wake County, North Carolina",3.5,100,American (New),$$
-1188,Bloomsbury Bistro,27608,"Wake County, North Carolina",4.0,64,American (New),$$$
-1189,Oak City Meatball Shoppe,27601,"Wake County, North Carolina",4.0,293,American (New),$$
-1190,St. Roch Fine Oysters + Bar,27601,"Wake County, North Carolina",4.5,62,American (New),$$
-1191,Iris,27607,"Wake County, North Carolina",4.0,99,American (New),$$
-1192,Seaboard Cafe,27604,"Wake County, North Carolina",4.5,30,American (New),$
-1193,Jose and Sons,27601,"Wake County, North Carolina",4.0,388,American (New),$$
-1194,Oak City Cafe,27603,"Wake County, North Carolina",4.5,87,American (New),$
-1195,Hillbillies,27597,"Wake County, North Carolina",4.0,43,American (New),$
-1196,My Way Tavern,27605,"Wake County, North Carolina",4.0,64,American (New),$$
-1197,Simple Twist Cafe & Bar,27529,"Wake County, North Carolina",4.5,114,American (New),$$
-1198,Crosstown Pub & Grill,27511,"Wake County, North Carolina",4.0,141,American (New),$$
-1199,La Stella Wood Fired,27607,"Wake County, North Carolina",3.0,40,American (New),$$
-1200,Dharani Express,27606,"Wake County, North Carolina",4.5,66,Indian,$$
-1201,Kabab and Curry,27607,"Wake County, North Carolina",4.0,139,Indian,$$
-1202,Kadhai The Indian Wok,27612,"Wake County, North Carolina",4.0,172,Indian,$$
-1203,Cilantro Indian Cafe,27511,"Wake County, North Carolina",4.5,239,Indian,$$
-1204,Zeera Indian Restaurant,27526,"Wake County, North Carolina",4.5,94,Indian,$$
-1205,Taj Mahal,27615,"Wake County, North Carolina",4.0,75,Indian,$$
-1206,The Wild Cook's Indian Grill,27607,"Wake County, North Carolina",4.0,103,Indian,$$
-1207,Kababish Cafe,27511,"Wake County, North Carolina",4.5,174,Indian,$$
-1208,Swagat Indian Cuisine,27560,"Wake County, North Carolina",4.5,40,Indian,$$
-1209,Aarusuvai Flavors,27615,"Wake County, North Carolina",3.5,82,Indian,$$
-1210,Bawarchi Grill & Spirits,27502,"Wake County, North Carolina",4.5,35,Indian,$$
-1211,Nazara Indian Bistro,27519,"Wake County, North Carolina",4.0,146,Indian,$$
-1212,Biryani Xprx Express,27511,"Wake County, North Carolina",4.0,80,Indian,$$
-1213,Himalayan Nepali Cuisine,27511,"Wake County, North Carolina",4.0,221,Indian,$
-1214,Biryani Maxx Indian Cuisine,27511,"Wake County, North Carolina",4.0,151,Indian,$$
-1215,Azitra Authentic Indian Fare,27617,"Wake County, North Carolina",4.0,205,Indian,$$
-1216,Royal India Restaurants,27604,"Wake County, North Carolina",3.0,109,Indian,$$
-1217,Udupi Cafe,27511,"Wake County, North Carolina",4.0,177,Indian,$$
-1218,Tower Indian Restaurant,27560,"Wake County, North Carolina",4.0,155,Indian,$$
-1219,Dharani,27560,"Wake County, North Carolina",4.0,141,Indian,$$
-1220,Curry In A Hurry Truck,27529,"Wake County, North Carolina",4.5,13,Indian,$$
-1221,Godavari,27560,"Wake County, North Carolina",3.0,119,Indian,$$
-1222,Curry Pot,27511,"Wake County, North Carolina",3.5,44,Indian,$$
-1223,Zayka Indian Cuisine,27617,"Wake County, North Carolina",3.5,125,Indian,$$
-1224,Pastries N Chaat,27519,"Wake County, North Carolina",4.0,8,Indian,$
-1225,Mithai,27511,"Wake County, North Carolina",4.0,39,Indian,$
-1226,Karaikudi House,27511,"Wake County, North Carolina",3.0,11,Indian,$$
-1227,Tangerine Cafe,27513,"Wake County, North Carolina",4.0,155,Indian,$$
-1228,DiAnoia's Eatery,15222,"Allegheny County, Pennsylvania",4.5,295,Italian,$$
-1229,Sienna Mercato,15222,"Allegheny County, Pennsylvania",4.0,674,Italian,$$
-1230,Piccolo Forno,15201,"Allegheny County, Pennsylvania",4.0,355,Italian,$$
-1231,Sienna On The Square,15222,"Allegheny County, Pennsylvania",4.0,211,Italian,$$
-1232,Alla Famiglia,15210,"Allegheny County, Pennsylvania",4.5,176,Italian,$$$$
-1233,Juliano's Restaurant & Pizzeria,15136,"Allegheny County, Pennsylvania",4.5,105,Italian,$$
-1234,Stagioni,15203,"Allegheny County, Pennsylvania",4.0,112,Italian,$$
-1235,Sarafino's Pasta and Pizza,15205,"Allegheny County, Pennsylvania",4.0,92,Italian,$$
-1236,Girasole Restaurant,15232,"Allegheny County, Pennsylvania",4.0,304,Italian,$$
-1237,Cucina Vitale,15203,"Allegheny County, Pennsylvania",4.0,68,Italian,$$
-1238,Joseph Tambellini Restaurant,15206,"Allegheny County, Pennsylvania",4.5,109,Italian,$$$
-1239,Legends Eatery,15212,"Allegheny County, Pennsylvania",4.0,130,Italian,$$
-1240,Piacquadio's Italian Restaurant & Lounge,15234,"Allegheny County, Pennsylvania",4.5,21,Italian,$$
-1241,Bella Ria's,15229,"Allegheny County, Pennsylvania",4.5,41,Italian,$$
-1242,Lidia's,15222,"Allegheny County, Pennsylvania",3.5,418,Italian,$$$
-1243,Pizzaiolo Primo,15222,"Allegheny County, Pennsylvania",3.5,197,Italian,$$
-1244,La Tavola Italiana,15211,"Allegheny County, Pennsylvania",3.5,120,Italian,$$
-1245,Proper Brick Oven & Tap Room,15222,"Allegheny County, Pennsylvania",4.5,497,Italian,$$
-1246,Mario's Family Italian Restaurant,15108,"Allegheny County, Pennsylvania",4.0,57,Italian,$$
-1247,Ciccanti Ristorante,15025,"Allegheny County, Pennsylvania",4.0,50,Italian,$$
-1248,DeLallo's Fort Couch Cafe,15243,"Allegheny County, Pennsylvania",4.5,55,Italian,$$
-1249,Il Pizzaiolo,15228,"Allegheny County, Pennsylvania",3.5,256,Italian,$$
-1250,Mezzo,15222,"Allegheny County, Pennsylvania",4.0,63,Italian,$$
-1251,Zarra's A Taste of Southern Italy,15213,"Allegheny County, Pennsylvania",4.0,99,Italian,$$
-1252,Arpino Trattoria,15220,"Allegheny County, Pennsylvania",3.5,48,Italian,$$
-1253,Vallozzis Pittsburgh,15222,"Allegheny County, Pennsylvania",3.5,102,Italian,$$$
-1254,Alida's Woodfire Cucina,15201,"Allegheny County, Pennsylvania",4.0,19,Italian,$$
-1255,Talia Cucina & Rosticceria,15219,"Allegheny County, Pennsylvania",4.0,56,Italian,$$$
-1256,Senti Restaurant & Wine Bar,15201,"Allegheny County, Pennsylvania",4.0,83,Italian,$$$
-1257,DeBlasio's Restaurant,15220,"Allegheny County, Pennsylvania",3.5,35,Italian,$$
-1258,Moonlite Cafe,15226,"Allegheny County, Pennsylvania",4.5,32,Italian,$$
-1259,Verona Village Inn,15147,"Allegheny County, Pennsylvania",4.5,72,Italian,$$
-1260,Il Burloni La Pizza E Cucina,15220,"Allegheny County, Pennsylvania",4.0,37,Italian,$$
-1261,"Pastoli's Pizza, Pasta & Paisans",15217,"Allegheny County, Pennsylvania",4.5,84,Italian,$$
-1262,Segneri's Italian Restaurant,15108,"Allegheny County, Pennsylvania",4.5,30,Italian,$$
-1263,Big Jim's Restaurant & Bar,15207,"Allegheny County, Pennsylvania",4.0,171,Italian,$$
-1264,Gran Canal Caffe,15215,"Allegheny County, Pennsylvania",4.5,35,Italian,$$
-1265,Piada Italian Street Food,15213,"Allegheny County, Pennsylvania",4.0,159,Italian,$
-1266,Alexander's Italian Bistro,15224,"Allegheny County, Pennsylvania",3.5,106,Italian,$$
-1267,Il Pizzaiolo,15086,"Allegheny County, Pennsylvania",4.0,65,Italian,$$
-1268,Buon Giorno Cafe,15222,"Allegheny County, Pennsylvania",4.0,17,Italian,$$
-1269,Pasqualino's Pizza & Pasta,15235,"Allegheny County, Pennsylvania",4.5,39,Italian,$$
-1270,Tillie's Restaurant & Chantillie Lounge,15132,"Allegheny County, Pennsylvania",4.0,63,Italian,$$
-1271,La Gondola Pizzeria & Restaurant,15222,"Allegheny County, Pennsylvania",4.0,44,Italian,$
-1272,Lombardozzi's Restaurant,15224,"Allegheny County, Pennsylvania",3.0,28,Italian,$$
-1273,"La Palapa, Traditional Mexican Kitchen",15203,"Allegheny County, Pennsylvania",4.5,185,Mexican,$$
-1274,Totopo Mexican Kitchen and Bar,15228,"Allegheny County, Pennsylvania",4.0,213,Mexican,$$
-1275,täkō,15222,"Allegheny County, Pennsylvania",4.5,893,Mexican,$$
-1276,El Paso Mexican Grill,15241,"Allegheny County, Pennsylvania",4.0,22,Mexican,$$
-1277,Condado Tacos,15222,"Allegheny County, Pennsylvania",4.0,308,Mexican,$$
-1278,Las Palmas,15213,"Allegheny County, Pennsylvania",4.5,183,Mexican,$
-1279,Las Palmas Carniceria,15226,"Allegheny County, Pennsylvania",4.5,203,Mexican,$
-1280,Sesame Garden,15211,"Allegheny County, Pennsylvania",4.5,61,Chinese,$$
-1281,Chinatown Inn,15219,"Allegheny County, Pennsylvania",4.0,125,Chinese,$$
-1282,How Lee Chinese Food,15217,"Allegheny County, Pennsylvania",4.0,221,Chinese,$$
-1283,Yeung's House,15229,"Allegheny County, Pennsylvania",4.5,52,Chinese,$
-1284,Harris Grill,15222,"Allegheny County, Pennsylvania",4.0,44,American (Traditional),$$
-1285,Superior Motors,15104,"Allegheny County, Pennsylvania",4.0,92,American (Traditional),$$$
-1286,Union Grill,15213,"Allegheny County, Pennsylvania",4.0,323,American (Traditional),$$
-1287,Downey's House,15136,"Allegheny County, Pennsylvania",4.5,82,American (Traditional),$$
-1288,Hog's Head Bar & Grill,15212,"Allegheny County, Pennsylvania",4.5,64,American (Traditional),$$
-1289,Stinky's Bar & Grill,15201,"Allegheny County, Pennsylvania",4.0,45,American (Traditional),$$
-1290,The Smiling Moose,15203,"Allegheny County, Pennsylvania",4.0,127,American (Traditional),$$
-1291,Bella Ria's,15229,"Allegheny County, Pennsylvania",4.5,41,American (Traditional),$$
-1292,The Crafty Jackalope,15017,"Allegheny County, Pennsylvania",4.0,94,American (Traditional),$$
-1293,Butcher and the Rye,15222,"Allegheny County, Pennsylvania",4.5,720,American (New),$$$
-1294,Station,15224,"Allegheny County, Pennsylvania",4.0,168,American (New),$$
-1295,Altius,15211,"Allegheny County, Pennsylvania",4.5,425,American (New),$$$
-1296,One Thirty One East,15106,"Allegheny County, Pennsylvania",4.5,97,American (New),$$
-1297,Supper,15212,"Allegheny County, Pennsylvania",5.0,1,American (New),$$
-1298,The Summit,15211,"Allegheny County, Pennsylvania",4.5,115,American (New),$$
-1299,Floor 2,15222,"Allegheny County, Pennsylvania",4.0,47,American (New),$$
-1300,Bistro 19,15228,"Allegheny County, Pennsylvania",4.0,149,American (New),$$
-1301,Eleven,15222,"Allegheny County, Pennsylvania",4.0,598,American (New),$$$
-1302,Cinderlands Beer,15201,"Allegheny County, Pennsylvania",4.5,40,American (New),$$
-1303,Vue 412,15211,"Allegheny County, Pennsylvania",4.0,251,American (New),$$
-1304,"Au ""Grottens"" Cafe & Catering",15102,"Allegheny County, Pennsylvania",5.0,8,American (New),$$
-1305,The Foundry Table & Tap,15212,"Allegheny County, Pennsylvania",3.5,115,American (New),$$
-1306,Sausalido,15224,"Allegheny County, Pennsylvania",4.0,151,American (New),$$
-1307,Vilka Bistro,15102,"Allegheny County, Pennsylvania",4.0,21,American (New),$$
-1308,Lola Bistro,15233,"Allegheny County, Pennsylvania",4.0,55,American (New),$$
-1309,täkō,15222,"Allegheny County, Pennsylvania",4.5,893,American (New),$$
-1310,Acorn Pittsburgh,15232,"Allegheny County, Pennsylvania",4.0,32,American (New),$$$
-1311,Union Standard,15219,"Allegheny County, Pennsylvania",4.0,102,American (New),$$$
-1312,Choolaah Indian BBQ,15206,"Allegheny County, Pennsylvania",4.0,111,Indian,$$
-1313,Cafe Delhi,15106,"Allegheny County, Pennsylvania",4.0,127,Indian,$$
-1314,Tamarind Savoring India,15220,"Allegheny County, Pennsylvania",4.0,139,Indian,$$
-1315,Tamarind,15213,"Allegheny County, Pennsylvania",4.0,207,Indian,$$
-1316,Taj Mahal,15237,"Allegheny County, Pennsylvania",4.0,271,Indian,$$
-1317,Spice Affair,15215,"Allegheny County, Pennsylvania",4.5,70,Indian,$$
-1318,Taste of India,15224,"Allegheny County, Pennsylvania",4.0,114,Indian,$$
-1319,Udipi Cafe,15146,"Allegheny County, Pennsylvania",4.0,290,Indian,$$
-1320,All India,15213,"Allegheny County, Pennsylvania",4.0,154,Indian,$$
-1321,Bangal Kabab House and Restaurant,15213,"Allegheny County, Pennsylvania",4.0,127,Indian,$$
-1322,Indian Spices,15222,"Allegheny County, Pennsylvania",3.5,58,Indian,$$
-1323,Mintt Indian Cuisine,15146,"Allegheny County, Pennsylvania",4.5,40,Indian,$$
-1324,The Mintt,15216,"Allegheny County, Pennsylvania",3.5,106,Indian,$$
-1325,People's Indian Restaurant,15224,"Allegheny County, Pennsylvania",4.0,105,Indian,$$
-1326,India Palace Cuisine,15222,"Allegheny County, Pennsylvania",3.5,43,Indian,$$
-1327,Taal Indian Cuisine,15216,"Allegheny County, Pennsylvania",3.5,16,Indian,$$
-1328,Sree's Foods,15222,"Allegheny County, Pennsylvania",4.0,52,Indian,$
-1329,Coriander India Grill,15217,"Allegheny County, Pennsylvania",3.0,132,Indian,$$
-1330,Prince of India,15213,"Allegheny County, Pennsylvania",3.5,96,Indian,$$
-1331,Mezbaan Indian Cuisine,15222,"Allegheny County, Pennsylvania",3.0,26,Indian,$
-1332,Yuva India Kitchen + Bar,15213,"Allegheny County, Pennsylvania",3.0,112,Indian,$$
-1333,India Garden,15146,"Allegheny County, Pennsylvania",3.0,72,Indian,$$
-1334,India on Wheels,15213,"Allegheny County, Pennsylvania",4.0,44,Indian,$
-1335,Catherine and Mary's,38103,"Shelby County, Tennessee",4.5,96,Italian,$$$
-1336,Amerigo Italian Restaurant,38119,"Shelby County, Tennessee",4.0,193,Italian,$$
-1337,Crazy Italians,38016,"Shelby County, Tennessee",3.5,85,Italian,$$
-1338,Andrew Michael Italian Kitchen,38117,"Shelby County, Tennessee",4.5,134,Italian,$$$
-1339,Ciao Bella Italian Grill and Bar,38117,"Shelby County, Tennessee",4.0,105,Italian,$$
-1340,Marciano,38117,"Shelby County, Tennessee",4.5,62,Italian,$$
-1341,Dino's Grill,38107,"Shelby County, Tennessee",4.0,50,Italian,$$
-1342,The Pasta Maker,38138,"Shelby County, Tennessee",4.5,37,Italian,$$$$
-1343,Bari Ristorante,38104,"Shelby County, Tennessee",4.0,109,Italian,$$$
-1344,ECCO on Overton Park,38112,"Shelby County, Tennessee",4.0,68,Italian,$$
-1345,Villa Castrioti,38018,"Shelby County, Tennessee",3.5,46,Italian,$$
-1346,Pete & Sam's Restaurant,38111,"Shelby County, Tennessee",3.5,79,Italian,$$
-1347,Spindini,38103,"Shelby County, Tennessee",3.5,98,Italian,$$
-1348,Hog & Hominy,38117,"Shelby County, Tennessee",4.0,456,Italian,$$
-1349,Fino's Italian Deli & Catering,38104,"Shelby County, Tennessee",4.5,69,Italian,$
-1350,Brooklyn Bridge Italian Restaurant,38138,"Shelby County, Tennessee",3.5,73,Italian,$$
-1351,Frank Grisanti,38120,"Shelby County, Tennessee",4.0,8,Italian,$$$
-1352,Aldo's Pizza Pies,38103,"Shelby County, Tennessee",4.0,318,Italian,$$
-1353,Carrabba's Italian Grill,38117,"Shelby County, Tennessee",3.5,74,Italian,$$
-1354,Fratelli's,38117,"Shelby County, Tennessee",4.5,13,Italian,$$
-1355,Fino's East,38117,"Shelby County, Tennessee",4.5,26,Italian,$
-1356,Coletta's Italian Restaurant,38106,"Shelby County, Tennessee",3.5,50,Italian,$$
-1357,Milano's Pizza,38053,"Shelby County, Tennessee",4.0,39,Italian,$
-1358,Old Venice Pizza Company,38117,"Shelby County, Tennessee",3.5,100,Italian,$$
-1359,Frank Grisanti's,38120,"Shelby County, Tennessee",3.5,43,Italian,$$
-1360,Cafe Piazza,38017,"Shelby County, Tennessee",4.0,54,Italian,$$
-1361,Ronnie Grisanti's Italian Restaurant,38017,"Shelby County, Tennessee",3.5,19,Italian,$$
-1362,Coletta's Italian Restaurant,38133,"Shelby County, Tennessee",2.5,73,Italian,$$
-1363,Little Italy Pizza,38104,"Shelby County, Tennessee",4.0,144,Italian,$
-1364,The Pasta Kitchen,38107,"Shelby County, Tennessee",3.5,32,Italian,$$
-1365,High Point Pizza,38122,"Shelby County, Tennessee",4.0,64,Italian,$$
-1366,Capriccio Grill,38103,"Shelby County, Tennessee",3.0,85,Italian,$$$
-1367,Carrabba's Italian Grill,38017,"Shelby County, Tennessee",3.5,54,Italian,$$
-1368,Garibaldi's Pizza,38111,"Shelby County, Tennessee",4.0,44,Italian,$
-1369,Russo's New York Pizzeria,38138,"Shelby County, Tennessee",3.5,136,Italian,$$
-1370,Little Italy Pizza,38133,"Shelby County, Tennessee",3.5,15,Italian,$$
-1371,Fazoli's,38115,"Shelby County, Tennessee",4.0,17,Italian,$$
-1372,Exline's Best Pizza,38128,"Shelby County, Tennessee",4.0,7,Italian,$
-1373,Las Palmitas,38134,"Shelby County, Tennessee",4.5,131,Mexican,$
-1374,Maciel’s Tortas and Tacos,38103,"Shelby County, Tennessee",4.5,173,Mexican,$
-1375,El Idolo,38134,"Shelby County, Tennessee",4.5,59,Mexican,$$
-1376,Las Tortugas Deli Mexicana,38138,"Shelby County, Tennessee",4.5,362,Mexican,$$
-1377,La Guadalupana,38122,"Shelby County, Tennessee",4.0,124,Mexican,$
-1378,Elena's Taco Shop,38134,"Shelby County, Tennessee",4.5,292,Mexican,$
-1379,Las Delicias,38111,"Shelby County, Tennessee",4.0,209,Mexican,$
-1380,Panda Garden,38122,"Shelby County, Tennessee",4.0,55,Chinese,$
-1381,Asian Star,38134,"Shelby County, Tennessee",4.0,82,Chinese,$
-1382,Chang's House,38134,"Shelby County, Tennessee",4.0,46,Chinese,$
-1383,Golden City,38018,"Shelby County, Tennessee",4.0,22,Chinese,$$
-1384,Fulin Chinese Restaurant,38016,"Shelby County, Tennessee",4.0,58,Chinese,$
-1385,Sing Lay Chinese Restaurant,38127,"Shelby County, Tennessee",4.0,11,Chinese,$$
-1386,Highland Super Submarine Sandwich Shop,38122,"Shelby County, Tennessee",4.5,66,Chinese,$
-1387,China Spring,38018,"Shelby County, Tennessee",4.5,40,Chinese,$
-1388,Green China Restaurant,38138,"Shelby County, Tennessee",4.0,38,Chinese,$
-1389,Asian Palace,38122,"Shelby County, Tennessee",3.0,74,Chinese,$$
-1390,Yum's Chinese Carry Out,38108,"Shelby County, Tennessee",4.5,4,Chinese,$$
-1391,China Garden,38128,"Shelby County, Tennessee",3.5,6,Chinese,$
-1392,New Hong Kong,38117,"Shelby County, Tennessee",3.5,21,Chinese,$$
-1393,Phuong Long,38104,"Shelby County, Tennessee",4.0,81,Chinese,$$
-1394,Goodie's,38111,"Shelby County, Tennessee",4.0,15,Chinese,$
-1395,Yao's China Bistro,38103,"Shelby County, Tennessee",3.0,94,Chinese,$$
-1396,Szechuan Hot Wok,38127,"Shelby County, Tennessee",4.0,3,Chinese,$$
-1397,Red Fish,38104,"Shelby County, Tennessee",4.5,42,Chinese,$$
-1398,Royal Panda Restaurant,38138,"Shelby County, Tennessee",4.0,52,Chinese,$$
-1399,Mosa Asian Bistro,38117,"Shelby County, Tennessee",4.0,135,Chinese,$$
-1400,New Asia Restaurant,38138,"Shelby County, Tennessee",3.5,72,Chinese,$$
-1401,Mulan Asian Bistro East,38117,"Shelby County, Tennessee",3.5,23,Chinese,$$
-1402,Yum's Restaurant,38105,"Shelby County, Tennessee",4.0,4,Chinese,$
-1403,Formosa Restaurant,38119,"Shelby County, Tennessee",3.5,41,Chinese,$$
-1404,Wang's Mandarin House,38111,"Shelby County, Tennessee",3.5,39,Chinese,$
-1405,Hong Kong Restaurant,38116,"Shelby County, Tennessee",4.0,16,Chinese,$
-1406,A-Tan Chinese Restaurant,38111,"Shelby County, Tennessee",3.5,54,Chinese,$$
-1407,Yang's Deli,38122,"Shelby County, Tennessee",4.0,34,Chinese,$
-1408,Shang Hai Restaurant,38104,"Shelby County, Tennessee",3.5,28,Chinese,$$
-1409,Kim Chai Restaurant,38122,"Shelby County, Tennessee",4.0,10,Chinese,$
-1410,Wang's Mandarin House,38119,"Shelby County, Tennessee",3.0,55,Chinese,$$
-1411,Happy Wok,38127,"Shelby County, Tennessee",4.5,3,Chinese,$
-1412,Beijing Dragon,38016,"Shelby County, Tennessee",4.0,25,Chinese,$$
-1413,Bounty On Broad,38112,"Shelby County, Tennessee",4.5,189,American (New),$$
-1414,Bombay House,38016,"Shelby County, Tennessee",4.0,120,Indian,$$
-1415,India Palace,38104,"Shelby County, Tennessee",3.5,126,Indian,$$
-1416,Curry Bowl,38125,"Shelby County, Tennessee",4.5,141,Indian,$$
-1417,Mayuri Indian Cuisine,38119,"Shelby County, Tennessee",4.0,86,Indian,$$
-1418,Golden India,38104,"Shelby County, Tennessee",3.5,94,Indian,$$
-1419,Patrizi's,78722,"Travis County, Texas",4.5,431,Italian,$$
-1420,Gino's Vino Osteria,78723,"Travis County, Texas",4.5,226,Italian,$$
-1421,La Traviata,78701,"Travis County, Texas",4.0,436,Italian,$$
-1422,It's Italian Cucina,78704,"Travis County, Texas",4.5,90,Italian,$$
-1423,Mandola's Italian,78751,"Travis County, Texas",4.0,801,Italian,$$
-1424,Botticelli's,78704,"Travis County, Texas",4.0,461,Italian,$$
-1425,Il Brutto,78702,"Travis County, Texas",4.0,28,Italian,$$$
-1426,Enoteca Vespaio,78704,"Travis County, Texas",4.0,696,Italian,$$
-1427,Olive & June,78703,"Travis County, Texas",4.0,485,Italian,$$$
-1428,Andiamo Ristorante,78758,"Travis County, Texas",4.0,354,Italian,$$$
-1429,North Italia,78758,"Travis County, Texas",4.0,995,Italian,$$
-1430,Italic,78701,"Travis County, Texas",4.0,370,Italian,$$
-1431,Numero28,78701,"Travis County, Texas",4.0,279,Italian,$$
-1432,Sophia's,78701,"Travis County, Texas",4.0,190,Italian,$$$
-1433,Intero Restaurant,78702,"Travis County, Texas",4.5,30,Italian,$$
-1434,Red Ash,78701,"Travis County, Texas",4.0,250,Italian,$$$
-1435,68 Degrees Kitchen,78703,"Travis County, Texas",4.0,52,Italian,$$
-1436,Trattoria Toscano,78734,"Travis County, Texas",3.5,65,Italian,$$
-1437,Vespaio Ristorante,78704,"Travis County, Texas",4.0,471,Italian,$$$
-1438,DeSano Pizzeria Napoletana,78757,"Travis County, Texas",4.5,365,Italian,$$
-1439,Reale's Pizza & Café,78750,"Travis County, Texas",4.0,398,Italian,$$
-1440,Milano Cafe,78735,"Travis County, Texas",4.0,347,Italian,$$
-1441,L'Oca d'Oro,78723,"Travis County, Texas",4.0,228,Italian,$$
-1442,Cannone Cucina Italiana,78704,"Travis County, Texas",4.5,80,Italian,$$
-1443,Verona Ristorante Italiano,78734,"Travis County, Texas",4.0,62,Italian,$$
-1444,Juliet Italian Kitchen,78704,"Travis County, Texas",4.0,323,Italian,$$
-1445,ManinPasta,78704,"Travis County, Texas",4.0,35,Italian,$$
-1446,Osteria Pronto,78702,"Travis County, Texas",4.0,118,Italian,$$
-1447,Gusto Italian Kitchen & Wine Bar,78756,"Travis County, Texas",3.5,340,Italian,$$
-1448,Juniper,78702,"Travis County, Texas",4.0,211,Italian,$$$
-1449,Mia Italian Tapas & Bar,78758,"Travis County, Texas",4.0,212,Italian,$$
-1450,Maggiano's Little Italy,78758,"Travis County, Texas",3.5,616,Italian,$$
-1451,North Italia,78701,"Travis County, Texas",5.0,28,Italian,$$
-1452,Mama Mal's Italian Cuisine,78704,"Travis County, Texas",4.5,25,Italian,$
-1453,Mandola's Italian,78738,"Travis County, Texas",4.0,224,Italian,$$
-1454,The Backspace,78701,"Travis County, Texas",4.0,587,Italian,$$
-1455,360 Uno,78746,"Travis County, Texas",4.0,228,Italian,$$
-1456,Brick Oven on 35th,78703,"Travis County, Texas",4.0,172,Italian,$$
-1457,Mandola's Italian,78749,"Travis County, Texas",3.5,285,Italian,$$
-1458,Rocco's Grill,78738,"Travis County, Texas",4.0,204,Italian,$$
-1459,Bufalina,78702,"Travis County, Texas",4.0,404,Italian,$$
-1460,Napa Flats Wood Fired Kitchen - Austin,78726,"Travis County, Texas",4.0,200,Italian,$$
-1461,Santa Catarina Restaurant,78734,"Travis County, Texas",4.5,372,Mexican,$$
-1462,Tso Chinese Delivery,78722,"Travis County, Texas",4.5,94,Chinese,$$
-1463,Old Thousand,78702,"Travis County, Texas",4.0,200,Chinese,$$
-1464,Asia Cafe,78759,"Travis County, Texas",4.0,746,Chinese,$
-1465,888 Pan Asian Restaurant,78741,"Travis County, Texas",4.0,1225,Chinese,$
-1466,Twin Lion Chinese Restaurant,78759,"Travis County, Texas",4.0,245,Chinese,$
-1467,First Wok,78745,"Travis County, Texas",4.0,343,Chinese,$
-1468,Pao's Mandarin House,78734,"Travis County, Texas",3.5,175,Chinese,$$
-1469,First Chinese Barbecue,78753,"Travis County, Texas",4.0,388,Chinese,$
-1470,Rice Bowl Cafe,78753,"Travis County, Texas",4.0,556,Chinese,$$
-1471,Hao-Q Asian Kitchen,78731,"Travis County, Texas",4.0,179,Chinese,$$
-1472,Ho Ho Chinese BBQ,78753,"Travis County, Texas",3.5,597,Chinese,$$
-1473,Din Ho Chinese BBQ,78758,"Travis County, Texas",3.5,698,Chinese,$$
-1474,Chen Z Noodle House,78735,"Travis County, Texas",3.5,188,Chinese,$
-1475,Red Lotus Asian Grille,78750,"Travis County, Texas",4.5,72,Chinese,$$
-1476,China Palace,78752,"Travis County, Texas",3.5,170,Chinese,$
-1477,Julie's Noodles,78758,"Travis County, Texas",4.0,156,Chinese,$
-1478,Nanking Restaurant,78750,"Travis County, Texas",4.0,148,Chinese,$
-1479,Oriental Kitchen,78660,"Travis County, Texas",4.0,78,Chinese,$
-1480,Xian Sushi and Noodle,78723,"Travis County, Texas",4.0,406,Chinese,$$
-1481,Wok N Express,78751,"Travis County, Texas",3.5,117,Chinese,$
-1482,Hunan Bistro,78750,"Travis County, Texas",4.0,34,Chinese,$$
-1483,China Cafe by Phoenix,78759,"Travis County, Texas",4.0,128,Chinese,$
-1484,Little Beijing,78653,"Travis County, Texas",4.5,23,Chinese,$$
-1485,Shabu,78757,"Travis County, Texas",3.5,363,Chinese,$$
-1486,La Fogata's China Kitchen,78653,"Travis County, Texas",4.5,27,Chinese,$
-1487,Chen's Noodle House,78759,"Travis County, Texas",4.0,406,Chinese,$
-1488,T.Jin's China Diner,78660,"Travis County, Texas",3.5,201,Chinese,$
-1489,Me Con Bistro,78745,"Travis County, Texas",4.0,229,Chinese,$$
-1490,Hunan Lion,78704,"Travis County, Texas",3.5,241,Chinese,$$
-1491,Kim Phung Restaurant  Riverside,78741,"Travis County, Texas",4.0,64,Chinese,$$
-1492,Lotus Hunan,78746,"Travis County, Texas",3.5,129,Chinese,$$
-1493,Little China,78758,"Travis County, Texas",4.0,153,Chinese,$
-1494,China Dynasty,78748,"Travis County, Texas",3.5,107,Chinese,$
-1495,Chinatown North,78731,"Travis County, Texas",3.5,332,Chinese,$$
-1496,Hunan Riverplace,78730,"Travis County, Texas",3.5,160,Chinese,$
-1497,Little Sheep Mongolian Hot Pot,78705,"Travis County, Texas",3.5,178,Chinese,$$
-1498,Chinatown Downtown,78701,"Travis County, Texas",3.0,120,Chinese,$$
-1499,Dragon Delights,78745,"Travis County, Texas",4.0,65,Chinese,$
-1500,Suzi's China Grill & Sushi Bar,78757,"Travis County, Texas",3.5,197,Chinese,$$
-1501,China Pacific,78734,"Travis County, Texas",3.0,55,Chinese,$
-1502,Super Bowl,78745,"Travis County, Texas",3.5,176,Chinese,$
-1503,Dragon Express,78724,"Travis County, Texas",4.0,31,Chinese,$
-1504,Bamboo Bistro West Gate,78745,"Travis County, Texas",3.5,228,Chinese,$
-1505,Four Seasons Chinese Restaurant,78728,"Travis County, Texas",3.5,166,Chinese,$
-1506,Bamboo Garden,78704,"Travis County, Texas",3.5,101,Chinese,$
-1507,Hoa-Hoa,78705,"Travis County, Texas",3.0,106,Chinese,$
-1508,Spicy Szechuan,78731,"Travis County, Texas",3.0,88,Chinese,$$
-1509,Bamboo Bistro,78758,"Travis County, Texas",3.5,273,Chinese,$
-1510,China Dragon Chinese Restaurant,78660,"Travis County, Texas",3.5,106,Chinese,$
-1511,The Brewtorium Brewery & Kitchen,78752,"Travis County, Texas",4.5,31,American (Traditional),$$
-1512,Jack Allen's Kitchen,78757,"Travis County, Texas",4.0,114,American (Traditional),$$
-1513,Salty Sow,78722,"Travis County, Texas",4.5,2068,American (Traditional),$$
-1514,Hit The Spot Cafe,78617,"Travis County, Texas",4.5,161,American (Traditional),$
-1515,Roaring Fork,78701,"Travis County, Texas",4.0,857,American (Traditional),$$
-1516,Revelry Kitchen + Bar,78702,"Travis County, Texas",4.5,119,American (Traditional),$$
-1517,Mattie's,78704,"Travis County, Texas",4.0,113,American (Traditional),$$$
-1518,The Austin Club,78701,"Travis County, Texas",5.0,20,American (Traditional),$$$
-1519,Baretto,78759,"Travis County, Texas",4.5,70,American (Traditional),$$
-1520,The Hightower,78702,"Travis County, Texas",4.0,444,American (New),$$
-1521,Doc B's Fresh Kitchen,78758,"Travis County, Texas",4.5,155,American (New),$$
-1522,Royal Jelly,78752,"Travis County, Texas",4.5,167,American (New),$$
-1523,Sala & Betty,78751,"Travis County, Texas",4.0,333,American (New),$$
-1524,Launderette,78702,"Travis County, Texas",4.0,716,American (New),$$
-1525,Saffron,78731,"Travis County, Texas",4.5,303,Indian,$$
-1526,Asiana Indian Cuisine,78745,"Travis County, Texas",4.5,569,Indian,$$
-1527,Clay Pit,78701,"Travis County, Texas",4.0,1226,Indian,$$
-1528,Biryani & Co.,78759,"Travis County, Texas",4.0,148,Indian,$$
-1529,Nasha,78702,"Travis County, Texas",4.0,257,Indian,$$
-1530,Coriander Indian Cuisine,78735,"Travis County, Texas",4.0,217,Indian,$$
-1531,Bombay Bistro,78759,"Travis County, Texas",4.0,506,Indian,$$
-1532,Tarka Indian Kitchen,78745,"Travis County, Texas",4.0,749,Indian,$
-1533,New India Cuisine,78704,"Travis County, Texas",4.0,418,Indian,$$
-1534,Bombay Dhaba,78704,"Travis County, Texas",4.5,219,Indian,$
-1535,Papadom,78701,"Travis County, Texas",4.0,97,Indian,$$
-1536,Bombay Bistro,78704,"Travis County, Texas",4.0,365,Indian,$$
-1537,Tarka Indian Kitchen,78757,"Travis County, Texas",4.0,454,Indian,$
-1538,Bombay To Kathmandu Kitchen,78753,"Travis County, Texas",4.0,123,Indian,$$
-1539,Taj Palace Indian Restaurant,78752,"Travis County, Texas",4.0,267,Indian,$$
-1540,Swad Indian Vegetarian Restaurant,78753,"Travis County, Texas",4.0,334,Indian,$
-1541,Bombay Express,78753,"Travis County, Texas",4.5,282,Indian,$
-1542,Biryani Pot,78758,"Travis County, Texas",4.0,306,Indian,$$
-1543,Kurry Takos,78704,"Travis County, Texas",5.0,62,Indian,$
-1544,G'Raj Mahal Cafe & Lounge,78701,"Travis County, Texas",3.5,487,Indian,$$
-1545,Madras Dhaba,78732,"Travis County, Texas",4.5,42,Indian,$
-1546,Godavari,78728,"Travis County, Texas",3.5,158,Indian,$$
-1547,Masala Medley,78702,"Travis County, Texas",4.5,57,Indian,$
-1548,Tarka Indian Kitchen,78746,"Travis County, Texas",4.0,122,Indian,$
-1549,Spice Fine Indian Cuisine,78753,"Travis County, Texas",4.0,48,Indian,$$
-1550,Biryani-N-Grill,78749,"Travis County, Texas",3.5,111,Indian,$$
-1551,Teji's Indian Restaurant and Grocery,78705,"Travis County, Texas",3.5,335,Indian,$
-1552,Star of India,78757,"Travis County, Texas",3.5,254,Indian,$$
-1553,Madras Pavilion,78758,"Travis County, Texas",3.5,341,Indian,$$
-1554,Kumar's Austin,78660,"Travis County, Texas",3.5,138,Indian,$$
-1555,Masala Dhaba,78701,"Travis County, Texas",3.5,108,Indian,$
-1556,Mirchi Austin,78753,"Travis County, Texas",3.5,98,Indian,$$
-1557,Bombay Grill Indian Restaurant,78746,"Travis County, Texas",3.5,140,Indian,$$
-1558,Teji's Indian Restaurant,78701,"Travis County, Texas",3.5,8,Indian,$$
-1559,Masala Wok,78759,"Travis County, Texas",3.5,269,Indian,$
-1560,Shahi Cafè,78753,"Travis County, Texas",4.0,108,Indian,$
-1561,Masala Wok,78753,"Travis County, Texas",3.5,252,Indian,$
-1562,Chutney,78727,"Travis County, Texas",4.0,21,Indian,$$
-1563,Lamba's Royal Indian,78701,"Travis County, Texas",4.0,34,Indian,$
-1564,Santino's Little Italy,53207,"Milwaukee County, Wisconsin",4.5,87,Italian,$$
-1565,Onesto,53202,"Milwaukee County, Wisconsin",4.0,251,Italian,$$
-1566,Tenuta's Italian Restaurant,53207,"Milwaukee County, Wisconsin",4.0,212,Italian,$$
-1567,Zarletti,53202,"Milwaukee County, Wisconsin",4.0,149,Italian,$$$
-1568,Calderone Club,53203,"Milwaukee County, Wisconsin",4.0,214,Italian,$$
-1569,Centro Café,53212,"Milwaukee County, Wisconsin",4.5,176,Italian,$$
-1570,Carini's La Conca D'Oro,53211,"Milwaukee County, Wisconsin",4.0,91,Italian,$$
-1571,Glorioso's Italian Market,53202,"Milwaukee County, Wisconsin",4.5,310,Italian,$$
-1572,Stella Van Buren,53202,"Milwaukee County, Wisconsin",4.5,74,Italian,$$
-1573,Nessun Dorma,53212,"Milwaukee County, Wisconsin",4.5,168,Italian,$$
-1574,Il Mito Trattoria e Enoteca,53213,"Milwaukee County, Wisconsin",4.0,173,Italian,$$
-1575,Vivere Italian Restaurant,53154,"Milwaukee County, Wisconsin",4.5,8,Italian,$$
-1576,Dorsia,53202,"Milwaukee County, Wisconsin",4.0,54,Italian,$$
-1577,Ristorante Bartolotta,53213,"Milwaukee County, Wisconsin",4.0,128,Italian,$$$
-1578,Balistreri's Italian American Ristorante,53213,"Milwaukee County, Wisconsin",4.0,125,Italian,$$
-1579,Trattoria di Carlo,53154,"Milwaukee County, Wisconsin",3.5,115,Italian,$$
-1580,Sala Modern Sicilian Dining,53211,"Milwaukee County, Wisconsin",4.0,85,Italian,$$
-1581,Dinos Riverwest,53212,"Milwaukee County, Wisconsin",4.5,41,Italian,$$
-1582,Divino Wine & Dine,53211,"Milwaukee County, Wisconsin",4.0,79,Italian,$$
-1583,Caterina's,53227,"Milwaukee County, Wisconsin",4.0,59,Italian,$$
-1584,Ann's Italian Restaurant,53130,"Milwaukee County, Wisconsin",4.0,71,Italian,$$
-1585,Capri di Nuovo,53219,"Milwaukee County, Wisconsin",4.0,88,Italian,$$
-1586,That's Amore,53228,"Milwaukee County, Wisconsin",3.5,88,Italian,$$
-1587,Saraphino's,53235,"Milwaukee County, Wisconsin",3.5,28,Italian,$$
-1588,Louise's,53202,"Milwaukee County, Wisconsin",3.5,139,Italian,$$
-1589,Toscana Italian Ristorante,53132,"Milwaukee County, Wisconsin",3.5,34,Italian,$$
-1590,Barbiere's Italian Inn,53213,"Milwaukee County, Wisconsin",4.0,82,Italian,$$
-1591,Maggiano's Little Italy,53226,"Milwaukee County, Wisconsin",3.5,142,Italian,$$
-1592,Calderone Club,53217,"Milwaukee County, Wisconsin",3.5,38,Italian,$$
-1593,Carrabba's Italian Grill,53220,"Milwaukee County, Wisconsin",3.5,76,Italian,$$
-1594,Paisano's Italian Restaurant,53172,"Milwaukee County, Wisconsin",3.0,29,Italian,$$
-1595,The Pasta Tree Restaurant & Wine Bar,53202,"Milwaukee County, Wisconsin",3.0,184,Italian,$$
-1596,Casa Di Giorgio,53132,"Milwaukee County, Wisconsin",3.0,61,Italian,$$
-1597,Transfer Pizzeria Café,53204,"Milwaukee County, Wisconsin",4.0,379,Italian,$$
-1598,Maria's Pizzaria,53219,"Milwaukee County, Wisconsin",4.0,108,Italian,$$
-1599,DiModa Pizza,53202,"Milwaukee County, Wisconsin",4.0,57,Italian,$$
-1600,Barbiere's Italian Inn,53172,"Milwaukee County, Wisconsin",3.0,41,Italian,$$
-1601,Papa Luigi's,53110,"Milwaukee County, Wisconsin",3.0,37,Italian,$$
-1602,Bella Italiana,53223,"Milwaukee County, Wisconsin",3.0,47,Italian,$$
-1603,Tanino's Italian & Amer Restaurant,53220,"Milwaukee County, Wisconsin",4.0,27,Italian,$$
-1604,Balistreri's Bluemound Inn,53213,"Milwaukee County, Wisconsin",3.5,87,Italian,$$
-1605,Cafe La Scala,53202,"Milwaukee County, Wisconsin",3.0,10,Italian,$$
-1606,Mario's Italian Grill,53221,"Milwaukee County, Wisconsin",3.5,28,Italian,$$
-1607,Mama Mia's On Greenfield,53214,"Milwaukee County, Wisconsin",3.5,79,Italian,$$
-1608,Cataro's Italian Villa,53214,"Milwaukee County, Wisconsin",4.5,11,Italian,$$
-1609,Fazoli's,53214,"Milwaukee County, Wisconsin",4.0,14,Italian,$
-1610,Giovanni's Italian Restaurant,53203,"Milwaukee County, Wisconsin",4.0,31,Italian,$$$
-1611,Klasiana Pizza,53129,"Milwaukee County, Wisconsin",4.0,50,Italian,$
-1612,Lisa's Pizzeria,53211,"Milwaukee County, Wisconsin",4.0,83,Italian,$$
-1613,Pizza Man,53211,"Milwaukee County, Wisconsin",3.5,248,Italian,$$
-1614,Nonna Bartolotta's,53207,"Milwaukee County, Wisconsin",3.0,112,Italian,$$
-1615,Amelia's,53207,"Milwaukee County, Wisconsin",3.5,44,Italian,$$
-1616,Olive Garden Italian Restaurant,53220,"Milwaukee County, Wisconsin",3.0,51,Italian,$$
-1617,Alioto's,53222,"Milwaukee County, Wisconsin",3.0,38,Italian,$$
-1618,Di Stefano's Pizza Palace,53219,"Milwaukee County, Wisconsin",4.0,14,Italian,$
-1619,Ruscello,53226,"Milwaukee County, Wisconsin",3.5,32,Italian,$$
-1620,Bari Pizzeria,53219,"Milwaukee County, Wisconsin",4.0,25,Italian,$$
-1621,"Marco's ""World Famous"" Pizza - Southeast",53221,"Milwaukee County, Wisconsin",3.5,20,Italian,$$
-1622,Marsel's Pizzeria,53220,"Milwaukee County, Wisconsin",4.0,7,Italian,$$
-1623,Ian's Pizza Milwaukee,53202,"Milwaukee County, Wisconsin",4.0,128,Italian,$
-1624,Pizzeria Piccola,53207,"Milwaukee County, Wisconsin",3.0,102,Italian,$$
-1625,Filippo's Italian Restaurant,53219,"Milwaukee County, Wisconsin",3.5,55,Italian,$$
-1626,Filippo's Pizza & Broasted Chicken,53226,"Milwaukee County, Wisconsin",3.5,24,Italian,$
-1627,La Casa De Alberto Mexican Food,53204,"Milwaukee County, Wisconsin",4.5,206,Mexican,$
-1628,Café Corazón,53212,"Milwaukee County, Wisconsin",4.5,460,Mexican,$$
-1629,Taqueria Buenavista,53219,"Milwaukee County, Wisconsin",4.5,133,Mexican,$
-1630,Botanas Restaurant,53204,"Milwaukee County, Wisconsin",4.0,250,Mexican,$$
-1631,El Fogon Tacos and Tequila Bar,53154,"Milwaukee County, Wisconsin",4.0,122,Mexican,$$
-1632,Mara's Grill,53222,"Milwaukee County, Wisconsin",4.5,57,Mexican,$
-1633,Al Pastor,53219,"Milwaukee County, Wisconsin",4.5,75,Mexican,$
-1634,Café Corazon,53207,"Milwaukee County, Wisconsin",4.5,136,Mexican,$$
-1635,Cielito Lindo,53204,"Milwaukee County, Wisconsin",4.0,123,Mexican,$$
-1636,Los Paisa,53217,"Milwaukee County, Wisconsin",4.0,72,Mexican,$
-1637,Guanajuato Mexican,53207,"Milwaukee County, Wisconsin",4.0,47,Mexican,$
-1638,Poco Loco Cantina,53209,"Milwaukee County, Wisconsin",4.0,108,Mexican,$$
-1639,Chilango Express,53219,"Milwaukee County, Wisconsin",4.5,71,Mexican,$
-1640,Azteca Restaurant Mke,53172,"Milwaukee County, Wisconsin",4.0,71,Mexican,$$
-1641,Riviera Maya,53207,"Milwaukee County, Wisconsin",4.0,181,Mexican,$$
-1642,El Senorial,53215,"Milwaukee County, Wisconsin",4.0,113,Mexican,$$
-1643,Kompali Taqueria,53202,"Milwaukee County, Wisconsin",4.0,25,Mexican,$
-1644,Little Cancun,53132,"Milwaukee County, Wisconsin",4.0,62,Mexican,$$
-1645,Asian Fusion,53202,"Milwaukee County, Wisconsin",4.5,68,Chinese,$$
-1646,Jing's,53202,"Milwaukee County, Wisconsin",3.5,131,Chinese,$$
-1647,Peking House,53202,"Milwaukee County, Wisconsin",3.5,90,Chinese,$$
-1648,Huan Xi,53211,"Milwaukee County, Wisconsin",3.5,138,Chinese,$$
-1649,Peking Chef,53217,"Milwaukee County, Wisconsin",4.0,47,Chinese,$$
-1650,China East,53213,"Milwaukee County, Wisconsin",4.0,40,Chinese,$
-1651,Fusion Cafe,53214,"Milwaukee County, Wisconsin",4.5,94,Chinese,$
-1652,Panda Gourmet,53154,"Milwaukee County, Wisconsin",4.0,37,Chinese,$$
-1653,Cheng Wong Restaurant,53214,"Milwaukee County, Wisconsin",4.0,27,Chinese,$
-1654,Emperor of China,53202,"Milwaukee County, Wisconsin",3.5,108,Chinese,$$
-1655,San Dong Express,53207,"Milwaukee County, Wisconsin",3.5,49,Chinese,$
-1656,Eat Rice,53220,"Milwaukee County, Wisconsin",4.0,50,Chinese,$
-1657,Royal Wok,53209,"Milwaukee County, Wisconsin",4.5,15,Chinese,$
-1658,Confucius House Chinese Restaurant,53130,"Milwaukee County, Wisconsin",4.0,47,Chinese,$$
-1659,East Garden Chinese Restaurant,53211,"Milwaukee County, Wisconsin",3.5,62,Chinese,$$
-1660,WOK 2 GO,53209,"Milwaukee County, Wisconsin",4.5,10,Chinese,$$
-1661,Hibachi Express,53110,"Milwaukee County, Wisconsin",3.5,28,Chinese,$
-1662,Fortune Restaurant,53227,"Milwaukee County, Wisconsin",3.5,114,Chinese,$$
-1663,China House,53221,"Milwaukee County, Wisconsin",3.5,23,Chinese,$
-1664,Lucky Liu's,53202,"Milwaukee County, Wisconsin",3.5,130,Chinese,$$
-1665,China Chef,53172,"Milwaukee County, Wisconsin",3.5,26,Chinese,$
-1666,Asian Garden,53132,"Milwaukee County, Wisconsin",3.5,22,Chinese,$
-1667,Happy Wok,53226,"Milwaukee County, Wisconsin",4.0,21,Chinese,$
-1668,Fortune Chinese Restaurant,53130,"Milwaukee County, Wisconsin",3.0,36,Chinese,$$
-1669,AA Wok Zone,53202,"Milwaukee County, Wisconsin",3.5,53,Chinese,$
-1670,Royal Garden,53217,"Milwaukee County, Wisconsin",3.0,36,Chinese,$$
-1671,Xee Yoo,53224,"Milwaukee County, Wisconsin",4.5,16,Chinese,$
-1672,Yen Hwa Chinese Restaurant,53154,"Milwaukee County, Wisconsin",3.0,25,Chinese,$
-1673,Yen Ching,53223,"Milwaukee County, Wisconsin",3.5,76,Chinese,$$
-1674,Chopstix,53202,"Milwaukee County, Wisconsin",2.5,67,Chinese,$
-1675,No 1 Chinese Restaurant,53216,"Milwaukee County, Wisconsin",4.5,3,Chinese,$
-1676,No. 1 Chinese Restaurant,53213,"Milwaukee County, Wisconsin",3.0,36,Chinese,$
-1677,No 1 Chinese Restaurant,53207,"Milwaukee County, Wisconsin",2.5,38,Chinese,$
-1678,Chinese Chef,53218,"Milwaukee County, Wisconsin",3.5,16,Chinese,$$
-1679,Green Tea Garden Chinese Restaurant,53132,"Milwaukee County, Wisconsin",3.5,12,Chinese,$$
-1680,Tangled Noodles and More,53233,"Milwaukee County, Wisconsin",4.0,34,Chinese,$
-1681,No 1 Chinese Restaurant,53211,"Milwaukee County, Wisconsin",2.5,27,Chinese,$
-1682,Wing's Carryout,53222,"Milwaukee County, Wisconsin",4.0,16,Chinese,$
-1683,Chinese Pagoda,53213,"Milwaukee County, Wisconsin",3.0,24,Chinese,$
-1684,Dinersland,53208,"Milwaukee County, Wisconsin",3.0,13,Chinese,$
-1685,Lotus,53154,"Milwaukee County, Wisconsin",3.0,62,Chinese,$$
-1686,Tsing Tao Chinese Restaurant,53110,"Milwaukee County, Wisconsin",2.5,15,Chinese,$$
-1687,Great Taste,53213,"Milwaukee County, Wisconsin",3.0,30,Chinese,$
-1688,San Fong,53172,"Milwaukee County, Wisconsin",3.0,15,Chinese,$
-1689,Lychee Garden,53220,"Milwaukee County, Wisconsin",3.0,34,Chinese,$$
-1690,William Ho's Lobster House,53211,"Milwaukee County, Wisconsin",2.5,43,Chinese,$$
-1691,RuYi,53223,"Milwaukee County, Wisconsin",3.5,76,Chinese,$$
-1692,Buddha Lounge,53202,"Milwaukee County, Wisconsin",3.0,125,Chinese,$$
-1693,Peking Garden,53219,"Milwaukee County, Wisconsin",3.0,25,Chinese,$$
-1694,Super No 1,53221,"Milwaukee County, Wisconsin",3.0,17,Chinese,$$
-1695,New No 1,53219,"Milwaukee County, Wisconsin",3.0,32,Chinese,$
-1696,China Hut,53220,"Milwaukee County, Wisconsin",3.5,19,Chinese,$
-1697,Oak Barrel Public House,53203,"Milwaukee County, Wisconsin",4.0,17,American (Traditional),$$
-1698,Stella Van Buren,53202,"Milwaukee County, Wisconsin",4.5,74,American (Traditional),$$
-1699,Dobie's Restaurant & Lounge,53235,"Milwaukee County, Wisconsin",3.5,30,American (Traditional),$$$
-1700,The Brick Pub & Grill,53209,"Milwaukee County, Wisconsin",4.0,39,American (Traditional),$$
-1701,Who's On Third,53203,"Milwaukee County, Wisconsin",4.0,161,American (Traditional),$$
-1702,Joe's K Ranch,53110,"Milwaukee County, Wisconsin",4.0,31,American (Traditional),$$
-1703,Camino,53204,"Milwaukee County, Wisconsin",4.5,143,American (Traditional),$$
-1704,Southbound Saloon & Eatery,53154,"Milwaukee County, Wisconsin",4.5,13,American (Traditional),$$
-1705,Dickey's Barbecue Pit,53217,"Milwaukee County, Wisconsin",3.0,17,American (Traditional),$
-1706,The Tap Room,53172,"Milwaukee County, Wisconsin",4.0,33,American (Traditional),$$
-1707,Drink Wisconsinbly Pub,53204,"Milwaukee County, Wisconsin",4.0,77,American (Traditional),$$
-1708,Birch + Butcher,53202,"Milwaukee County, Wisconsin",4.0,59,American (New),$$
-1709,Morel,53204,"Milwaukee County, Wisconsin",4.5,158,American (New),$$$
-1710,Swingin' Door Exchange,53202,"Milwaukee County, Wisconsin",4.5,493,American (New),$$
-1711,The Noble,53204,"Milwaukee County, Wisconsin",4.0,323,American (New),$$
-1712,Merriment Social,53204,"Milwaukee County, Wisconsin",4.0,179,American (New),$$
-1713,Lazy Susan MKE,53207,"Milwaukee County, Wisconsin",4.0,138,American (New),$$
-1714,Slick Willie's,53172,"Milwaukee County, Wisconsin",4.5,6,American (New),$
-1715,Tess,53211,"Milwaukee County, Wisconsin",4.5,134,American (New),$$
-1716,Sheridan's,53110,"Milwaukee County, Wisconsin",4.0,99,American (New),$$
-1717,Story Hill BKC,53208,"Milwaukee County, Wisconsin",4.5,399,American (New),$$
-1718,Easy Tyger,53202,"Milwaukee County, Wisconsin",4.5,95,American (New),$$
-1719,Mezcalero Restaurant and Bar,53220,"Milwaukee County, Wisconsin",4.0,9,American (New),$$
-1720,The Diplomat,53202,"Milwaukee County, Wisconsin",4.5,26,American (New),$$
-1721,Crave Cafe,53211,"Milwaukee County, Wisconsin",4.5,59,American (New),$
-1722,Crazy Water,53204,"Milwaukee County, Wisconsin",4.0,212,American (New),$$$
-1723,Swig,53202,"Milwaukee County, Wisconsin",4.0,275,American (New),$$
-1724,The Original,53211,"Milwaukee County, Wisconsin",4.5,39,American (New),$$
-1725,Blue Star Cafe,53221,"Milwaukee County, Wisconsin",4.5,90,American (New),$
-1726,Third Coast Provisions,53202,"Milwaukee County, Wisconsin",4.5,90,American (New),$$$
-1727,Buckley's Restaurant & Bar,53202,"Milwaukee County, Wisconsin",4.0,249,American (New),$$
-1728,Kindred on KK,53207,"Milwaukee County, Wisconsin",4.0,39,American (New),$$
-1729,Ardent,53202,"Milwaukee County, Wisconsin",4.5,141,American (New),$$$$
-1730,Odd Duck,53207,"Milwaukee County, Wisconsin",4.5,601,American (New),$$
-1731,Goodkind,53207,"Milwaukee County, Wisconsin",4.0,198,American (New),$$
-1732,Something Smells Good,53207,"Milwaukee County, Wisconsin",4.5,5,American (New),$$
-1733,Ka-Bobs Bistro,53219,"Milwaukee County, Wisconsin",4.5,85,American (New),$$
-1734,California Pizza Kitchen at Bayshore Town Center,53209,"Milwaukee County, Wisconsin",4.0,60,American (New),$$
-1735,TheTwisted Bistro,53214,"Milwaukee County, Wisconsin",4.5,19,American (New),$
-1736,Sanford Restaurant,53202,"Milwaukee County, Wisconsin",4.5,168,American (New),$$$$
-1737,circa 1880,53204,"Milwaukee County, Wisconsin",4.0,156,American (New),$$$
-1738,Muskie's Gourmet House,53172,"Milwaukee County, Wisconsin",4.0,23,American (New),$$
-1739,The Fitz,53233,"Milwaukee County, Wisconsin",4.0,15,American (New),$$
-1740,Lucky Joe's Tosa,53213,"Milwaukee County, Wisconsin",4.0,62,American (New),$$
-1741,Oscar's Pub & Grill,53204,"Milwaukee County, Wisconsin",4.5,581,American (New),$
-1742,Rollies,53209,"Milwaukee County, Wisconsin",4.5,10,American (New),$
-1743,Mason Street Grill,53202,"Milwaukee County, Wisconsin",4.0,193,American (New),$$$
-1744,Fritz's Pub,53215,"Milwaukee County, Wisconsin",4.5,68,American (New),$$
-1745,Moxie Food + Drink,53217,"Milwaukee County, Wisconsin",4.0,38,American (New),$$
-1746,Tre Rivali,53202,"Milwaukee County, Wisconsin",4.0,113,American (New),$$
-1747,Kil@wat,53202,"Milwaukee County, Wisconsin",4.0,193,American (New),$$
-1748,Triskele's,53204,"Milwaukee County, Wisconsin",4.0,129,American (New),$$
-1749,Henry's,53211,"Milwaukee County, Wisconsin",4.0,39,American (New),$$
-1750,Bacchus - A Bartolotta Restaurant,53202,"Milwaukee County, Wisconsin",4.5,127,American (New),$$$$
-1751,Braise,53204,"Milwaukee County, Wisconsin",4.0,246,American (New),$$$
-1752,India Garden,53222,"Milwaukee County, Wisconsin",4.5,182,Indian,$$
-1753,Maharaja,53202,"Milwaukee County, Wisconsin",4.0,198,Indian,$$
-1754,Indian Village Restaurant,53220,"Milwaukee County, Wisconsin",4.0,82,Indian,$$
-1755,Cafe India Bar & Grill,53207,"Milwaukee County, Wisconsin",4.0,125,Indian,$$
-1756,Cafe India,53204,"Milwaukee County, Wisconsin",4.0,113,Indian,$
-1757,Anmol Restaurant - Milwaukee,53204,"Milwaukee County, Wisconsin",4.0,165,Indian,$$
-1758,Bollywood Grill,53202,"Milwaukee County, Wisconsin",4.0,113,Indian,$$
-1759,Indian Delight,53154,"Milwaukee County, Wisconsin",5.0,7,Indian,$
-1760,Bombay Sweets,53215,"Milwaukee County, Wisconsin",4.0,112,Indian,$
-1761,Royal India Restaurant,53215,"Milwaukee County, Wisconsin",4.0,82,Indian,$$
-1762,Taj Mahal,53130,"Milwaukee County, Wisconsin",4.0,70,Indian,$$
-1763,India Palace,53132,"Milwaukee County, Wisconsin",4.5,20,Indian,$$
-1764,Shah Jee's Restaurant,53202,"Milwaukee County, Wisconsin",4.0,74,Indian,$
-1765,Tandoor Restaurant,53214,"Milwaukee County, Wisconsin",3.5,58,Indian,$$
-1766,Sasta Bazaar,53204,"Milwaukee County, Wisconsin",4.0,5,Indian,$$
-1767,Vani's Kitchen,53214,"Milwaukee County, Wisconsin",3.5,30,Indian,$
-1768,Vani's Kitchen,53214,"Milwaukee County, Wisconsin",3.5,30,Indian,1
+0,Li's Chinese Kitchen,83612,"Adams County, Idaho",4.5,10,Chinese,$$
+1,"Intersection BBQ, Grill & Bar",83654,"Adams County, Idaho",4.5,12,American,$$
+2,Decarli,97005,"Washington County, Oregon",4.0,534,Italian,$$
+3,Degarios Ristorante,97229,"Washington County, Oregon",4.0,56,Italian,$$
+4,Brooklyn Trattoria,97229,"Washington County, Oregon",4.0,73,Italian,$$
+5,Pasta Pronto,97006,"Washington County, Oregon",4.0,94,Italian,$$
+6,Mason - Vecchio Ristorante Mondo,97140,"Washington County, Oregon",4.5,37,Italian,$$
+7,Bugatti's Tanasbourne,97006,"Washington County, Oregon",3.5,173,Italian,$$
+8,Nonna Emilia Ristorante Italiano,97007,"Washington County, Oregon",3.0,343,Italian,$$
+9,Little Italy,97113,"Washington County, Oregon",3.0,21,Italian,$$
+10,Giovanni's,97005,"Washington County, Oregon",3.5,116,Italian,$$
+11,Pastini,97005,"Washington County, Oregon",3.5,199,Italian,$$
+12,Geraldi's Italian Eating Place,97225,"Washington County, Oregon",4.5,207,Italian,$
+13,Mingo,97005,"Washington County, Oregon",3.5,188,Italian,$$
+14,Pizza Schmizza,97116,"Washington County, Oregon",3.5,35,Italian,$
+15,Nicoletta's Caffe,97225,"Washington County, Oregon",5.0,10,Italian,$$
+16,The Old Spaghetti Factory,97124,"Washington County, Oregon",3.0,159,Italian,$$
+17,Pastini,97224,"Washington County, Oregon",3.5,181,Italian,$$
+18,The Old Spaghetti Factory,97140,"Washington County, Oregon",3.0,108,Italian,$$
+19,Ernesto's Italian Restaurant,97225,"Washington County, Oregon",3.5,125,Italian,$$
+20,Noodles Restaurant,97225,"Washington County, Oregon",4.5,122,Italian,$
+21,Teninty's Pizza and Subs,97133,"Washington County, Oregon",3.5,3,Italian,$
+22,Olive Garden Italian Restaurant,97005,"Washington County, Oregon",3.5,156,Italian,$$
+23,Cafe Allegro,97223,"Washington County, Oregon",3.0,229,Italian,$$
+24,Pizza Hut,97116,"Washington County, Oregon",1.5,19,Italian,$$
+25,Fiorano Ristorante,97062,"Washington County, Oregon",3.0,31,Italian,$$
+26,Godfather's Pizza,97123,"Washington County, Oregon",3.5,32,Italian,$$
+27,Amelia's Restaurant,97124,"Washington County, Oregon",4.0,374,Mexican,$$
+28,La Estrella,97116,"Washington County, Oregon",4.0,36,Mexican,$
+29,Taqueria Corona,97116,"Washington County, Oregon",4.0,27,Mexican,$
+30,La Sierra,97116,"Washington County, Oregon",3.5,40,Mexican,$$
+31,King Torta,97133,"Washington County, Oregon",4.5,86,Mexican,$
+32,Super Mercado La Montana,97116,"Washington County, Oregon",4.0,10,Mexican,$
+33,Don Asado,97006,"Washington County, Oregon",4.5,129,Mexican,$
+34,Amelia's Rustic Mexican Restaurant,97124,"Washington County, Oregon",4.0,113,Mexican,$$
+35,Pepper's Mexican Grill,97123,"Washington County, Oregon",4.0,176,Mexican,$$
+36,Taqueria Hermanos Ochoa's,97123,"Washington County, Oregon",4.0,134,Mexican,$
+37,Lindo Michoacan Mexican Grill,97123,"Washington County, Oregon",4.0,15,Mexican,$
+38,Casa Lola Kitchen de Mexico,97007,"Washington County, Oregon",4.0,237,Mexican,$$
+39,EL Charrito Mexican food,97116,"Washington County, Oregon",4.5,2,Mexican,$
+40,Super Tacos Ochoa,97123,"Washington County, Oregon",4.0,83,Mexican,$
+41,Allan's Authentic Mexican Restaurant,97229,"Washington County, Oregon",3.5,166,Mexican,$$
+42,Taqueria El Jalapeno,97140,"Washington County, Oregon",4.0,80,Mexican,$
+43,El Chino Taqueria,97123,"Washington County, Oregon",4.0,54,Mexican,$
+44,Super Taqueria Mexico,97123,"Washington County, Oregon",4.0,12,Mexican,$
+45,Mi Jalisco Family Mexican Restaurant,97007,"Washington County, Oregon",4.0,91,Mexican,$$
+46,Don Chilitos Mexican Grill,97006,"Washington County, Oregon",4.0,169,Mexican,$
+47,Raul's Mexican Food Restaurant - Portland,97225,"Washington County, Oregon",4.0,257,Mexican,$$
+48,Mazatlan Mexican Restaurant,97113,"Washington County, Oregon",3.0,40,Mexican,$$
+49,Taqueria La Fuente,97223,"Washington County, Oregon",4.0,197,Mexican,$
+50,Si Señor,97008,"Washington County, Oregon",4.0,281,Mexican,$$
+51,Rosie's Kitchen,97062,"Washington County, Oregon",4.5,91,Mexican,$
+52,Sanchez Taquería,97223,"Washington County, Oregon",4.0,241,Mexican,$
+53,China Wok,97124,"Washington County, Oregon",4.5,137,Chinese,$
+54,Mandarin China Restaurant,97116,"Washington County, Oregon",4.0,58,Chinese,$
+55,Oriental Garden,97106,"Washington County, Oregon",4.0,20,Chinese,$$
+56,Little T's Cafe,97124,"Washington County, Oregon",4.0,81,Chinese,$$
+57,New Chinese Cuisine,97116,"Washington County, Oregon",4.0,52,Chinese,$
+58,Buffet Dynasty,97116,"Washington County, Oregon",3.5,32,Chinese,$$
+59,Asian Kitchen Grill,97124,"Washington County, Oregon",4.0,152,Chinese,$
+60,Jade Green Palace,97116,"Washington County, Oregon",2.5,22,Chinese,$$
+61,Wong's Chinese Restaurant,97123,"Washington County, Oregon",3.0,54,Chinese,$
+62,East Harbor Chinese,97006,"Washington County, Oregon",3.5,105,Chinese,$$
+63,China Rim,97229,"Washington County, Oregon",4.0,59,Chinese,$$
+64,Wan Q,97229,"Washington County, Oregon",3.5,47,Chinese,$$
+65,Lin's China Jade,97005,"Washington County, Oregon",3.5,145,Chinese,$$
+66,Dragon Fountain Restaurant,97123,"Washington County, Oregon",3.0,28,Chinese,$
+67,Stir Crazy Kitchen,97006,"Washington County, Oregon",3.5,90,Chinese,$$
+68,Inchin's Bamboo Garden,97124,"Washington County, Oregon",3.0,51,Chinese,$$
+69,China Delight,97225,"Washington County, Oregon",3.5,146,Chinese,$$
+70,Frank's Noodle House - Beaverton,97006,"Washington County, Oregon",3.5,100,Chinese,$$
+71,Yen's Chinese Restaurant,97223,"Washington County, Oregon",3.5,104,Chinese,$
+72,P.F. Chang's,97124,"Washington County, Oregon",3.5,190,Chinese,$$
+73,Veri Bowl Chinese Innovation Kitchen,97062,"Washington County, Oregon",4.0,69,Chinese,$
+74,Chinese Panda Restaurant,97140,"Washington County, Oregon",3.5,35,Chinese,$
+75,Dancing Dragon Restaurant,97124,"Washington County, Oregon",2.5,52,Chinese,$
+76,House of Good Fortune,97140,"Washington County, Oregon",3.0,49,Chinese,$$
+77,Happy Panda Restaurant,97006,"Washington County, Oregon",3.0,197,Chinese,$$
+78,Little Sheep Mongolian Hot Pot,97005,"Washington County, Oregon",4.0,201,Chinese,$$
+79,Bites Restaurant,97116,"Washington County, Oregon",4.0,119,American,$$
+80,Diversity Cafe & Catering,97116,"Washington County, Oregon",3.5,78,American,$$
+81,Clark's Bistro and Pub,97123,"Washington County, Oregon",4.5,187,American,$$
+82,McMenamins Ironwork Grill,97116,"Washington County, Oregon",3.0,83,American,$$
+83,Coleman's Shady Rest,97117,"Washington County, Oregon",4.0,31,American,$$
+84,Out Aza Blue Market & Cafe,97117,"Washington County, Oregon",4.5,47,American,$$
+85,Vintage Room at The Reserve,97007,"Washington County, Oregon",4.0,30,American,$$
+86,Hits the Spot Cafe,97133,"Washington County, Oregon",4.0,43,American,$
+87,Leo's Lair,97113,"Washington County, Oregon",4.0,9,American,$
+88,Mary's Kitchen,97113,"Washington County, Oregon",2.5,25,American,$
+89,Prime Time Restaurant & Sports Bar,97116,"Washington County, Oregon",3.0,99,American,$$
+90,Maharaja,97123,"Washington County, Oregon",4.0,185,Indian,$$
+91,Urban Masala,97124,"Washington County, Oregon",4.0,141,Indian,$$
+92,Chaat Cafe,97123,"Washington County, Oregon",4.0,62,Indian,$
+93,Curry & Crust,97124,"Washington County, Oregon",4.0,216,Indian,$$
+94,Chennai Masala,97124,"Washington County, Oregon",3.5,339,Indian,$$
+95,Chaaya,97006,"Washington County, Oregon",4.0,86,Indian,$$
+96,Bollywood Bites,97229,"Washington County, Oregon",4.0,178,Indian,$$
+97,Biryani Corner,97006,"Washington County, Oregon",3.5,57,Indian,$$
+98,Swagat,97124,"Washington County, Oregon",3.5,175,Indian,$$
+99,Abhiruchi Indian Restaurant,97005,"Washington County, Oregon",3.5,283,Indian,$$
+100,Six Mile Cafe,68337,"Richardson County, Nebraska",5.0,16,American,$
+101,Pizza Hut,45769,"Meigs County, Ohio",1.0,1,Italian,$$
+102,Wild Horse Cafe,45769,"Meigs County, Ohio",3.5,30,Mexican,$$
+103,Taco Bell,45769,"Meigs County, Ohio",5.0,1,Mexican,$
+104,Court Street Grill,45769,"Meigs County, Ohio",4.0,16,American,$
+105,The Corner Restaurants LLC,45760,"Meigs County, Ohio",3.5,3,American,$
+106,Millie's Restaurant,45760,"Meigs County, Ohio",5.0,2,American,$
+107,Portofino Italian Restaurant,88201,"Chaves County, New Mexico",4.5,35,Italian,$$
+108,Pasta Cafe Italian Bistro,88201,"Chaves County, New Mexico",4.0,62,Italian,$$
+109,Los Cerritos Mexican Restaurant,88201,"Chaves County, New Mexico",4.0,149,Mexican,$
+110,Los Novillos Mexican Restaurant,88203,"Chaves County, New Mexico",4.5,10,Mexican,$$
+111,Taqueria Jalisco,88203,"Chaves County, New Mexico",4.5,22,Mexican,$$
+112,La Escondida Cafe,88203,"Chaves County, New Mexico",4.5,23,Mexican,$$
+113,Popo's Mexican Food,88203,"Chaves County, New Mexico",3.5,30,Mexican,$
+114,Tia Juana's Mexican Grille & Cantina,88201,"Chaves County, New Mexico",3.0,96,Mexican,$$
+115,Peppers Grill & Bar,88201,"Chaves County, New Mexico",3.5,131,Mexican,$$
+116,Martin's Capitol Cafe,88201,"Chaves County, New Mexico",3.5,40,Mexican,$
+117,La Salsa,88201,"Chaves County, New Mexico",4.0,8,Mexican,$
+118,Burritos & More,88203,"Chaves County, New Mexico",5.0,6,Mexican,$
+119,Margaritas,88201,"Chaves County, New Mexico",3.0,20,Mexican,$$
+120,El Toro Bravo,88203,"Chaves County, New Mexico",3.0,36,Mexican,$
+121,Mi Casita,88203,"Chaves County, New Mexico",3.5,6,Mexican,$
+122,Hunan Chinese Restaurant,88203,"Chaves County, New Mexico",4.0,12,Chinese,$
+123,Beijing Express,88203,"Chaves County, New Mexico",3.5,11,Chinese,$
+124,China King Super Buffet,88201,"Chaves County, New Mexico",3.0,19,Chinese,$$
+125,Zen Asian Diner,88201,"Chaves County, New Mexico",4.0,36,Chinese,$$
+126,Ooy's House,88203,"Chaves County, New Mexico",4.0,11,Chinese,$
+127,Gold Star Asian Restaurant,88201,"Chaves County, New Mexico",3.5,11,Chinese,$$
+128,Panda Express,88201,"Chaves County, New Mexico",2.5,10,Chinese,$
+129,Chew's West Restaurant,88201,"Chaves County, New Mexico",2.0,8,Chinese,$
+130,Cattleman's Kountry Kitchen,88203,"Chaves County, New Mexico",4.0,20,American,$$
+131,High Chaparral Cafe,88201,"Chaves County, New Mexico",4.0,21,American,$$
+132,Peppers Grill & Bar,88201,"Chaves County, New Mexico",3.5,131,American,$$
+133,Peppers Grill & Bar,88201,"Chaves County, New Mexico",3.5,131,American,$$
+134,Casa San Carlo,28557,"Carteret County, North Carolina",4.0,27,Italian,$$
+135,Pescara,28512,"Carteret County, North Carolina",4.0,67,Italian,$$$
+136,Roma Pizza,28512,"Carteret County, North Carolina",4.0,30,Italian,$
+137,Beach Bumz Pub & Pizzeria,28557,"Carteret County, North Carolina",3.5,23,Italian,$$
+138,Olive Garden Italian Restaurant,28557,"Carteret County, North Carolina",2.5,30,Italian,$$
+139,Pizza Hut,28557,"Carteret County, North Carolina",4.0,5,Italian,$
+140,La Cieva Mexican & Seafood Restaurant,28512,"Carteret County, North Carolina",4.5,46,Mexican,$$
+141,Plaza Mexico Restaurant Bar and Grill,28594,"Carteret County, North Carolina",4.5,57,Mexican,$$
+142,Plaza Mexico,28516,"Carteret County, North Carolina",3.5,29,Mexican,$$
+143,Plaza Mexico Bar & Grill,28557,"Carteret County, North Carolina",3.5,37,Mexican,$$
+144,El Zarape Mexican Restaurant,28557,"Carteret County, North Carolina",4.0,14,Mexican,$$
+145,Taqueria El Monterrey,28570,"Carteret County, North Carolina",3.5,10,Mexican,$
+146,Chef Justin,28512,"Carteret County, North Carolina",5.0,2,Mexican,$$$$
+147,El Zarape Mexican Restaurant,28594,"Carteret County, North Carolina",3.0,62,Mexican,$$
+148,Idle Hour Biergarten,28512,"Carteret County, North Carolina",4.5,102,Mexican,$$
+149,China Garden & Mongolian Grill,28557,"Carteret County, North Carolina",4.0,26,Chinese,$
+150,Dragon King,28516,"Carteret County, North Carolina",4.5,7,Chinese,$
+151,The Spouter Inn Restaurant & Bakery,28516,"Carteret County, North Carolina",4.5,130,American,$$
+152,The Spot,28516,"Carteret County, North Carolina",4.0,9,American,$
+153,City Kitchen,28516,"Carteret County, North Carolina",4.5,37,American,$$
+154,Promise' Land Market,28557,"Carteret County, North Carolina",5.0,21,American,$$
+155,Parrott's on 11th,28557,"Carteret County, North Carolina",4.5,36,American,$$$$
+156,Southern Salt Seafood Company and Waterfront Restaurant,28557,"Carteret County, North Carolina",3.5,61,American,$$
+157,Red Fish Grill,28557,"Carteret County, North Carolina",4.0,91,American,$$
+158,Chef Justin,28512,"Carteret County, North Carolina",5.0,2,American,$$$$
+159,Snapperz Grill & Steam Bar,28557,"Carteret County, North Carolina",4.0,102,American,$$
+160,Surf's Up Grill and Bar,28594,"Carteret County, North Carolina",4.0,21,American,$$
+161,Blue Moon Bistro,28516,"Carteret County, North Carolina",4.5,68,American,$$
+162,Monkey Bar & Grill,28512,"Carteret County, North Carolina",3.0,31,American,$
+163,Dons Grill,28511,"Carteret County, North Carolina",4.0,7,American,$
+164,Island Grille,28512,"Carteret County, North Carolina",4.5,134,American,$$$
+165,Channel Marker Restaurant,28512,"Carteret County, North Carolina",3.5,119,American,$$
+166,TimeOut Tavern,28570,"Carteret County, North Carolina",5.0,5,American,$
+167,Fat Fellas BBQ & Grille,28570,"Carteret County, North Carolina",4.0,17,American,$
+168,Beaufort Grocery Company,28516,"Carteret County, North Carolina",4.0,145,American,$$
+169,Vallarta Mexican Restaurant,36264,"Cleburne County, Alabama",4.5,15,Mexican,$
+170,Varano's Italian Restaurant,4090,"York County, Maine",4.0,79,Italian,$$
+171,Ports of Italy,4043,"York County, Maine",4.0,80,Italian,$$$
+172,Angelina's Ristorante & Wine Bar,3907,"York County, Maine",4.0,161,Italian,$$$
+173,Caffe Prego,3907,"York County, Maine",4.0,102,Italian,$$
+174,1652,3909,"York County, Maine",3.5,14,Italian,$$$
+175,Mimmo's Italian Restaurant,3910,"York County, Maine",4.0,33,Italian,$$
+176,Roma Pizza,4046,"York County, Maine",4.5,27,Italian,$$
+177,Traditions Italian Ristorante,4072,"York County, Maine",3.5,31,Italian,$$
+178,Misto,3904,"York County, Maine",4.0,87,Italian,$$
+179,Cobblestone Grille,4064,"York County, Maine",4.5,25,Italian,$$
+180,Robertos Italian Restaurant,3907,"York County, Maine",3.0,84,Italian,$$
+181,Las Olas Taqueria,4090,"York County, Maine",4.5,63,Mexican,$$
+182,Pedro's,4043,"York County, Maine",3.5,134,Mexican,$$
+183,Los Tapatios,4005,"York County, Maine",3.5,79,Mexican,$$
+184,Bandito's Mexican Grill,3907,"York County, Maine",2.5,89,Mexican,$$
+185,Mapleleaves Garden,4090,"York County, Maine",3.0,39,Chinese,$$
+186,Green Tea,4073,"York County, Maine",4.0,41,Chinese,$$
+187,Jia Mei Le Wah Restaurant & Lounge,4043,"York County, Maine",3.5,6,Chinese,$$
+188,East Restaurant and Lounge,4090,"York County, Maine",2.5,52,Chinese,$$
+189,Yummy House,4005,"York County, Maine",4.0,10,Chinese,$
+190,Bamboo Garden,3909,"York County, Maine",4.5,31,Chinese,$$
+191,Pho Saigon,4073,"York County, Maine",4.5,13,Chinese,$$
+192,Red Leaves,3906,"York County, Maine",4.0,5,Chinese,$$
+193,Yummy House,4073,"York County, Maine",3.5,13,Chinese,$
+194,Village Tavern,4043,"York County, Maine",4.5,110,American,$$
+195,95 Ocean,4046,"York County, Maine",5.0,10,American,$$
+196,Mike's American Diner,4046,"York County, Maine",4.5,24,American,$$
+197,The Front Porch Restaurant,3907,"York County, Maine",4.0,209,American,$$
+198,That Place In Ogunquit,3907,"York County, Maine",4.5,143,American,$$
+199,Mabels Lobster Claw,4046,"York County, Maine",4.0,333,American,$$
+200,Springvale Publick House,4083,"York County, Maine",4.0,58,American,$$
+201,Academe,4043,"York County, Maine",4.0,38,American,$$
+202,Table of Seven,4043,"York County, Maine",4.0,20,American,$$
+203,Joshua's,4090,"York County, Maine",4.5,113,American,$$$
+204,The Central Restaurant & Bar,3909,"York County, Maine",5.0,80,American,$$
+205,Federal Jack's Brew Pub,4046,"York County, Maine",3.5,336,American,$$
+206,The Burleigh,4046,"York County, Maine",4.0,20,American,$$
+207,Bentley's Saloon,4046,"York County, Maine",4.0,35,American,$$
+208,Mel's Raspberry Patch,4073,"York County, Maine",4.0,30,American,$
+209,Stutesy's Pub & Grill,4090,"York County, Maine",4.0,24,American,$$
+210,The White Barn Restaurant,4043,"York County, Maine",4.0,96,American,$$$$
+211,Applebee's Grill + Bar,4073,"York County, Maine",3.0,14,American,$$
+212,The Chef & The Gardener,4072,"York County, Maine",4.5,77,American,$$
+213,Willy's Ale Room,4001,"York County, Maine",4.0,27,American,$$
+214,Salt and Honey,4046,"York County, Maine",4.0,190,American,$$
+215,Mulligan's At Mill Side Live,4005,"York County, Maine",3.5,72,American,$
+216,The Dory,4046,"York County, Maine",4.5,14,American,$$
+217,Earth,4046,"York County, Maine",4.0,133,American,$$$$
+218,Northern Union,3907,"York County, Maine",4.5,100,American,$$$
+219,Merriland Farm Cafe,4090,"York County, Maine",4.0,105,American,$$
+220,On the Marsh,4043,"York County, Maine",4.0,63,American,$$$
+221,Cape Neddick Inn,3902,"York County, Maine",3.5,57,American,$$
+222,Stones Throw,3909,"York County, Maine",4.0,89,American,$$
+223,Shain's Of Maine,4073,"York County, Maine",4.0,36,American,$
+224,Cove Cafe,3907,"York County, Maine",4.5,52,American,$$
+225,Horizons Family Restaurant,4090,"York County, Maine",3.5,18,American,$$
+226,Lord's Clam Box,4073,"York County, Maine",3.5,35,American,$$
+227,Run of the Mill Public House & Brewery,4072,"York County, Maine",4.0,275,American,$$
+228,50 Local,4043,"York County, Maine",4.0,58,American,$$$
+229,Ogunquit Beach Lobster House,3907,"York County, Maine",4.0,49,American,$$
+230,Rollover Cafe,4090,"York County, Maine",4.0,23,American,$
+231,Tory Hill Cafe,4093,"York County, Maine",4.0,12,American,$
+232,Tulsi North,4090,"York County, Maine",4.5,20,Indian,$$
+233,Tulsi,3904,"York County, Maine",4.0,121,Indian,$$
+234,Jewel of India Restaurant,4005,"York County, Maine",4.0,25,Indian,$$
+235,Friendly Market/ Hi Bombay,4064,"York County, Maine",1.5,4,Indian,$$
+236,Joe's Pizza,8098,"Salem County, New Jersey",4.5,19,Italian,$
+237,Di Paolo's Italian Ristorante,8069,"Salem County, New Jersey",4.0,75,Italian,$$$
+238,Kountry Kitchen Restaurant,8318,"Salem County, New Jersey",3.5,36,Italian,$$
+239,Giovanni Italian Style Pizza,8069,"Salem County, New Jersey",4.0,7,Italian,$
+240,Gao Sheng Chinese Restaurant,8098,"Salem County, New Jersey",3.5,12,Chinese,$
+241,The Orient Chinese Restaurant,8070,"Salem County, New Jersey",4.0,21,Chinese,$$
+242,Asian Cafe,8070,"Salem County, New Jersey",4.5,10,Chinese,$
+243,Best Food In Town Chinese Kitchen,8069,"Salem County, New Jersey",2.5,7,Chinese,$
+244,Welcome Chinese Resturant,8079,"Salem County, New Jersey",2.0,1,Chinese,$
