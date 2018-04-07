@@ -1,0 +1,141 @@
+,name,zipcode,county_string,rating,review_count,category,price,region
+0,Cafe Tuscano,83201,"Bannock County, Idaho",4.0,78,Italian,$$,region
+1,Buddy's Italian Restaurant,83201,"Bannock County, Idaho",3.5,78,Italian,$$,region
+2,Villano's Italian,83204,"Bannock County, Idaho",3.5,25,Italian,$$,region
+3,PV's Pasta & Vino,83201,"Bannock County, Idaho",4.0,12,Italian,$$,region
+4,Pizza Hut,83201,"Bannock County, Idaho",1.5,6,Italian,$$,region
+5,El Caporal,83201,"Bannock County, Idaho",4.5,57,Mexican,$$,region
+6,El Herradero,83201,"Bannock County, Idaho",4.0,103,Mexican,$,region
+7,Señor Garcia's Puerto Vallarta,83201,"Bannock County, Idaho",4.0,20,Mexican,$$,region
+8,Mama Inez,83201,"Bannock County, Idaho",3.5,30,Mexican,$$,region
+9,Chapala Mexican Resturant,83202,"Bannock County, Idaho",3.5,14,Mexican,$$,region
+10,Chang's Garden,83201,"Bannock County, Idaho",4.0,33,Chinese,$$,region
+11,Mandarin House,83201,"Bannock County, Idaho",3.5,30,Chinese,$,region
+12,The Little Rock Cafe,83250,"Bannock County, Idaho",4.5,37,American (Traditional),$,region
+13,Sandbaggers Bar & Grill,83201,"Bannock County, Idaho",4.5,8,American (Traditional),$,region
+14,Chuck Wagon Restaurant,83246,"Bannock County, Idaho",3.5,78,American (Traditional),$$,region
+15,Blue Heeler,83204,"Bannock County, Idaho",4.0,4,American (Traditional),$,region
+16,Blue Moon Bar & Grill,83246,"Bannock County, Idaho",4.0,22,American (Traditional),$,region
+17,78 Main Street Dining,83246,"Bannock County, Idaho",3.0,71,American (Traditional),$$,region
+18,Red Robin Gourmet Burgers,83202,"Bannock County, Idaho",3.5,20,American (Traditional),$$,region
+19,Elmer's Restaurant,83201,"Bannock County, Idaho",4.0,123,American (Traditional),$$,region
+20,Oliver's Restaurant,83201,"Bannock County, Idaho",3.5,32,American (Traditional),$$,region
+21,Butterburrs,83201,"Bannock County, Idaho",3.5,92,American (Traditional),$,region
+22,Tom's Gyro and Burgers,83201,"Bannock County, Idaho",3.5,37,American (Traditional),$,region
+23,The Sand Trap Grill,83204,"Bannock County, Idaho",3.5,31,American (Traditional),$$,region
+24,Press Box Sports Bar,83206,"Bannock County, Idaho",3.5,14,American (Traditional),$$,region
+25,"MacKenzie River Pizza, Grill & Pub",83202,"Bannock County, Idaho",4.0,78,American (Traditional),$$,region
+26,Wingers,83201,"Bannock County, Idaho",4.0,32,American (Traditional),$$,region
+27,The Healthier Place To Eat,83204,"Bannock County, Idaho",4.0,46,American (Traditional),$,region
+28,Applebee's Grill + Bar,83201,"Bannock County, Idaho",3.0,28,American (Traditional),$$,region
+29,Texas Roadhouse,83202,"Bannock County, Idaho",3.0,55,American (Traditional),$$,region
+30,Denny's,83202,"Bannock County, Idaho",3.5,14,American (Traditional),$,region
+31,Perkins Restaurant & Bakery,83201,"Bannock County, Idaho",3.0,29,American (Traditional),$$,region
+32,Chili's,83201,"Bannock County, Idaho",2.5,19,American (Traditional),$$,region
+33,IHOP,83202,"Bannock County, Idaho",1.5,17,American (Traditional),$,region
+34,Red Lobster,83202,"Bannock County, Idaho",3.5,22,American (Traditional),$$,region
+35,Brass Rail Steakhouse,83201,"Bannock County, Idaho",2.5,5,American (Traditional),$$,region
+36,The Little Rock Cafe,83250,"Bannock County, Idaho",4.5,37,American (New),$,region
+37,Portneuf Grille & Lounge,83246,"Bannock County, Idaho",4.5,49,American (New),$$,region
+38,Silver Grille,83246,"Bannock County, Idaho",2.5,15,American (New),$,region
+39,The Bridge,83202,"Bannock County, Idaho",3.5,61,American (New),$$,region
+40,El Herradero,83201,"Bannock County, Idaho",4.0,103,American (New),$,region
+41,Clydesdale Bar & Lounge,83201,"Bannock County, Idaho",4.0,5,American (New),$,region
+42,A Taste of India & Nepal,83204,"Bannock County, Idaho",4.0,84,Indian,$$,region
+43,Nosh Mahal,83201,"Bannock County, Idaho",3.5,34,Indian,$$$,region
+44,The Cider Factory,89440,"Storey County, Nevada",5.0,49,Italian,$$,region
+45,Virginia City Bar & Grill,89440,"Storey County, Nevada",3.0,6,American (Traditional),$,region
+46,La Renya,52349,"Benton County, Iowa",4.0,12,Mexican,$,region
+47,Upper Crust Pizza & Wings,57325,"Brule County, South Dakota",4.0,31,Italian,$$,region
+48,Pizza Hut,57325,"Brule County, South Dakota",2.5,7,Italian,$,region
+49,Taco John's,57325,"Brule County, South Dakota",4.0,13,Mexican,$,region
+50,The Back 40,57355,"Brule County, South Dakota",4.5,17,American (Traditional),$$,region
+51,Upper Crust Pizza & Wings,57325,"Brule County, South Dakota",4.0,31,American (Traditional),$$,region
+52,Anchor Grille,57325,"Brule County, South Dakota",3.5,33,American (Traditional),$,region
+53,Busted Nut Bar & Grill,57325,"Brule County, South Dakota",3.0,17,American (Traditional),$$,region
+54,Charlys Restaurant & Lounge,57325,"Brule County, South Dakota",3.5,23,American (New),$$,region
+55,Pizza Hut,73737,"Major County, Oklahoma",3.0,5,Italian,$$,region
+56,El Maya,73737,"Major County, Oklahoma",4.5,8,Mexican,$,region
+57,Dos Hermanas,81120,"Conejos County, Colorado",4.0,29,Mexican,$$,region
+58,El Vallecito,81140,"Conejos County, Colorado",4.0,7,Mexican,$,region
+59,Dos Hermanas,81120,"Conejos County, Colorado",4.0,29,American (Traditional),$$,region
+60,Val's Place,81141,"Conejos County, Colorado",3.5,3,American (Traditional),$$,region
+61,Wagon Wheel Saloon,81140,"Conejos County, Colorado",4.5,7,American (New),$,region
+62,Pronto Slice N Pasta,31024,"Putnam County, Georgia",4.0,8,Italian,$,region
+63,Pizza Hut,31024,"Putnam County, Georgia",2.0,2,Italian,$,region
+64,El Agave,31024,"Putnam County, Georgia",4.5,27,Mexican,$,region
+65,El Sitio Mexican Grill,31024,"Putnam County, Georgia",3.5,11,Mexican,$$,region
+66,Cucos Mexican Restaurant,31024,"Putnam County, Georgia",4.0,3,Mexican,$,region
+67,El Llano Mexican Grill III,31024,"Putnam County, Georgia",2.0,2,Mexican,$,region
+68,The Silver Moon,31024,"Putnam County, Georgia",4.5,75,American (Traditional),$$,region
+69,Bone Island Grillhouse,31024,"Putnam County, Georgia",4.0,39,American (Traditional),$$,region
+70,Iron Fork Café,31024,"Putnam County, Georgia",4.0,10,American (Traditional),$,region
+71,Smiths Coastal Grill,31024,"Putnam County, Georgia",4.5,39,American (New),$$,region
+72,Waterside Restaurant,31024,"Putnam County, Georgia",3.5,7,American (New),$$$$,region
+73,6'N'Tubbs,38655,"Lafayette County, Mississippi",4.5,18,Italian,$$,region
+74,Proud Larrys',38655,"Lafayette County, Mississippi",3.5,40,Italian,$$,region
+75,Pizza Den,38655,"Lafayette County, Mississippi",4.0,23,Italian,$,region
+76,Pizza Hut,38655,"Lafayette County, Mississippi",1.5,5,Italian,$$,region
+77,Square Pizza,38655,"Lafayette County, Mississippi",2.5,19,Italian,$,region
+78,El Agave Mexican Grill,38655,"Lafayette County, Mississippi",3.5,25,Mexican,$$,region
+79,Taco Shop,38655,"Lafayette County, Mississippi",4.0,23,Mexican,$,region
+80,South Depot Taco Shop,38655,"Lafayette County, Mississippi",4.0,44,Mexican,$,region
+81,Casa Mexicana Bar & Grill,38655,"Lafayette County, Mississippi",3.0,21,Mexican,$,region
+82,Ming's Kitchen,38655,"Lafayette County, Mississippi",4.0,20,Chinese,$,region
+83,The Blind Pig Pub,38655,"Lafayette County, Mississippi",4.0,18,American (Traditional),$$,region
+84,Mama Jos Country Cookin,38655,"Lafayette County, Mississippi",4.0,12,American (Traditional),$,region
+85,The Sizzler,38655,"Lafayette County, Mississippi",3.5,5,American (Traditional),$$,region
+86,Chancellor's Grill,38655,"Lafayette County, Mississippi",4.5,7,American (Traditional),$$,region
+87,Boure Restaurant,38655,"Lafayette County, Mississippi",4.0,142,American (New),$$,region
+88,Maharaja Indian Cuisine,38655,"Lafayette County, Mississippi",3.5,27,Indian,$$,region
+89,Villa Sena,18848,"Bradford County, Pennsylvania",3.5,11,Italian,$$$,region
+90,Mangialardo's Restaurant,18840,"Bradford County, Pennsylvania",4.0,26,Italian,$$,region
+91,Yanuzzi's Restaurant,18840,"Bradford County, Pennsylvania",3.5,17,Italian,$$,region
+92,Kam Bo Chinese Restaurant,18848,"Bradford County, Pennsylvania",3.5,10,Chinese,$$,region
+93,Woody's Ale House & Grille,18848,"Bradford County, Pennsylvania",4.5,10,American (Traditional),$$,region
+94,Slice of Italy,18104,"Lehigh County, Pennsylvania",4.5,98,Italian,$$,region
+95,Fiorentina Grill,18031,"Lehigh County, Pennsylvania",4.0,50,Italian,$$,region
+96,Paese Mio,18106,"Lehigh County, Pennsylvania",4.0,83,Italian,$$,region
+97,Vivo Italian Kitchen,18104,"Lehigh County, Pennsylvania",4.5,15,Italian,$$,region
+98,Mama's Italian Grill,18031,"Lehigh County, Pennsylvania",4.0,61,Italian,$$,region
+99,Florence Italian Grille,18031,"Lehigh County, Pennsylvania",3.0,74,Italian,$$,region
+100,Villa Lentini Ristorante,18037,"Lehigh County, Pennsylvania",4.0,17,Italian,$$,region
+101,Centro,18101,"Lehigh County, Pennsylvania",4.0,79,Italian,$$,region
+102,Gio Italian Grill,18062,"Lehigh County, Pennsylvania",4.0,72,Italian,$$,region
+103,Bellissimo Ristorante,18102,"Lehigh County, Pennsylvania",3.5,46,Italian,$$,region
+104,La Dolce Vita Italian Bakery,18106,"Lehigh County, Pennsylvania",4.0,28,Italian,$$,region
+105,Now That's Italian Specialty Market,18036,"Lehigh County, Pennsylvania",5.0,42,Italian,$$,region
+106,Carrabba's Italian Grill,18103,"Lehigh County, Pennsylvania",3.5,89,Italian,$$,region
+107,Anthony's Coal Fired Pizza,18106,"Lehigh County, Pennsylvania",4.0,64,Italian,$$,region
+108,Roma Ristorante,18109,"Lehigh County, Pennsylvania",3.5,86,Italian,$$,region
+109,Poblano Med Mex Grill,18087,"Lehigh County, Pennsylvania",4.5,88,Mexican,$,region
+110,Mariachi Mexican Grill,18078,"Lehigh County, Pennsylvania",4.0,17,Mexican,$$,region
+111,Don Juan Mex Grill,18049,"Lehigh County, Pennsylvania",4.5,49,Mexican,$,region
+112,Mr. Wonton,18104,"Lehigh County, Pennsylvania",4.5,42,Chinese,$$,region
+113,Hunan Springs Chinese Restaurant,18106,"Lehigh County, Pennsylvania",4.0,116,Chinese,$$,region
+114,Evergreen Chinese Restaurant,18104,"Lehigh County, Pennsylvania",4.0,27,Chinese,$$,region
+115,Bake Oven Inn,18053,"Lehigh County, Pennsylvania",4.5,9,American (Traditional),$$,region
+116,Hops Fogelsville Hotel,18051,"Lehigh County, Pennsylvania",3.0,55,American (Traditional),$$,region
+117,Schnecksville Diner,18078,"Lehigh County, Pennsylvania",3.5,28,American (Traditional),$,region
+118,New Tripoli Hotel,18066,"Lehigh County, Pennsylvania",3.5,10,American (Traditional),$$,region
+119,"The HomeTown Breakfast, Bar & Grill",18031,"Lehigh County, Pennsylvania",4.0,103,American (Traditional),$,region
+120,Leather Corner Post,18069,"Lehigh County, Pennsylvania",4.0,8,American (Traditional),$$$,region
+121,Wert's Cafe,18104,"Lehigh County, Pennsylvania",4.0,96,American (Traditional),$,region
+122,House,18049,"Lehigh County, Pennsylvania",4.0,67,American (New),$$,region
+123,Union and Finch,18102,"Lehigh County, Pennsylvania",4.5,143,American (New),$$,region
+124,Grain,18101,"Lehigh County, Pennsylvania",4.0,315,American (New),$$,region
+125,Savory Grille,18062,"Lehigh County, Pennsylvania",4.5,49,American (New),$$$,region
+126,Randall's on the Orchard,18069,"Lehigh County, Pennsylvania",4.0,21,American (New),$$$,region
+127,Curious Goods,18053,"Lehigh County, Pennsylvania",4.5,42,American (New),$$,region
+128,The Trapp Door Gastropub,18049,"Lehigh County, Pennsylvania",4.5,131,American (New),$$,region
+129,Grille 3501,18104,"Lehigh County, Pennsylvania",4.0,165,American (New),$$$,region
+130,The Shelby,18106,"Lehigh County, Pennsylvania",3.5,81,American (New),$$,region
+131,Bay Leaf Restaurant,18101,"Lehigh County, Pennsylvania",4.5,61,American (New),$$,region
+132,Bolete Restaurant,18105,"Lehigh County, Pennsylvania",4.5,283,American (New),$$$,region
+133,Cafe Santosha,18087,"Lehigh County, Pennsylvania",4.5,21,American (New),$,region
+134,Ringer's Roost,18104,"Lehigh County, Pennsylvania",4.0,26,American (New),$$,region
+135,"Clove, Fine Indian Dining",18109,"Lehigh County, Pennsylvania",4.5,96,Indian,$$,region
+136,Biryani City - Allentown,18109,"Lehigh County, Pennsylvania",4.0,106,Indian,$$,region
+137,Mayuri Indian Cuisine,18052,"Lehigh County, Pennsylvania",4.0,72,Indian,$$,region
+138,Zanzibar Kababs and Grill,18104,"Lehigh County, Pennsylvania",3.5,23,Indian,$$,region
+139,Spice India,18052,"Lehigh County, Pennsylvania",3.5,103,Indian,$$,region

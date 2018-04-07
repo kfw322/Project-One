@@ -1,1 +1,56 @@
+<<<<<<< HEAD
 ,name,zipcode,county_string,rating,review_count,category,price,region
+=======
+,name,zipcode,county_string,rating,review_count,category,price
+2,Pizza Garden,97131,"Tillamook County, Oregon",4.0,93,Italian,$$
+3,Marzano's Pizza Pie,97130,"Tillamook County, Oregon",4.0,136,Italian,$$
+19,Guido's Restorante,97147,"Tillamook County, Oregon",3.0,1,Italian,$$
+22,Pizza Hut,97141,"Tillamook County, Oregon",2.0,19,Italian,$
+39,Sicilia Mia,84117,"Salt Lake County, Utah",4.5,252,Italian,$$
+40,Siragusa's Taste of Italy,84123,"Salt Lake County, Utah",4.0,171,Italian,$$
+41,Carmine's Italian Cuisine,84121,"Salt Lake County, Utah",4.0,76,Italian,$$
+42,Antica Sicilia,84109,"Salt Lake County, Utah",4.5,86,Italian,$$
+43,Per Noi Trattoria,84106,"Salt Lake County, Utah",4.0,238,Italian,$$
+44,Valter's Osteria,84101,"Salt Lake County, Utah",4.5,448,Italian,$$$
+45,Il Sole,84093,"Salt Lake County, Utah",4.0,158,Italian,$$
+46,VENETO Ristorante Italiano,84111,"Salt Lake County, Utah",4.5,87,Italian,$$$
+47,Cucina Toscana,84101,"Salt Lake County, Utah",4.0,272,Italian,$$$
+48,Caffé Molise,84101,"Salt Lake County, Utah",4.0,398,Italian,$$
+49,Nuch's Pizzeria & Restaurant,84109,"Salt Lake County, Utah",4.5,177,Italian,$$
+50,Trio Cafe,84102,"Salt Lake County, Utah",4.0,289,Italian,$$
+51,Brio Tuscan Grille,84107,"Salt Lake County, Utah",4.0,204,Italian,$$
+55,Terra Mia,84020,"Salt Lake County, Utah",4.0,85,Italian,$$
+57,Toscano,84020,"Salt Lake County, Utah",3.5,165,Italian,$$
+59,Fratelli Ristorante,84094,"Salt Lake County, Utah",3.5,126,Italian,$$
+60,Italian Village,84117,"Salt Lake County, Utah",3.5,139,Italian,$$
+61,Settebello Pizzeria Napoletana,84101,"Salt Lake County, Utah",4.0,645,Italian,$$
+83,Vito's Pizza Bar & Grill,24521,"Amherst County, Virginia",3.5,14,Italian,$$
+95,Pizza Hut,24572,"Amherst County, Virginia",4.0,4,Italian,$$
+193,El Mariachi,24521,"Amherst County, Virginia",2.5,6,Mexican,$
+203,La Carreta Mexican Restaurant,24572,"Amherst County, Virginia",3.5,14,Mexican,$
+214,La Carreta Mexican Restaurant,24572,"Amherst County, Virginia",4.5,4,Mexican,$
+326,Anna Maries Winery & Cafe,16002,"Butler County, Pennsylvania",4.5,17,Italian,$$
+327,Villa Grande Restaurant,16001,"Butler County, Pennsylvania",4.0,29,Italian,$$
+328,Nico Luciano's,16057,"Butler County, Pennsylvania",4.5,15,Italian,$
+329,Mama Rosa's Restaurant & Lounge,16002,"Butler County, Pennsylvania",3.5,37,Italian,$$
+330,Della Terra,16037,"Butler County, Pennsylvania",4.0,58,Italian,$$
+332,Serventi's,16002,"Butler County, Pennsylvania",3.5,13,Italian,$$
+334,Tani's Pizza,16001,"Butler County, Pennsylvania",4.5,19,Italian,$$
+336,Natili North,16001,"Butler County, Pennsylvania",3.5,14,Italian,$$
+341,Lettopalena's Pizza & Italian Cuisine,16059,"Butler County, Pennsylvania",4.0,13,Italian,$$
+343,Luciano's Italian Brick Oven,16046,"Butler County, Pennsylvania",3.5,61,Italian,$$
+346,Natili North Pizza Shoppe,16001,"Butler County, Pennsylvania",3.5,11,Italian,$
+347,Alina's Ristorante,1035,"Hampshire County, Massachusetts",4.0,91,Italian,$$
+348,Joe's Pizza & Spaghetti House,1060,"Hampshire County, Massachusetts",4.0,119,Italian,$$
+350,Mulinos,1060,"Hampshire County, Massachusetts",3.5,125,Italian,$$
+351,Osteria Vespa,1002,"Hampshire County, Massachusetts",4.0,64,Italian,$$$
+352,Fratelli's Ristorante,1002,"Hampshire County, Massachusetts",3.5,18,Italian,$$
+353,Pasta E Basta,1002,"Hampshire County, Massachusetts",4.0,114,Italian,$$
+354,Viva Fresh Pasta,1060,"Hampshire County, Massachusetts",3.5,155,Italian,$$
+355,Spoleto Restaurant,1060,"Hampshire County, Massachusetts",3.0,126,Italian,$$
+358,Homestead.,1060,"Hampshire County, Massachusetts",3.5,23,Italian,$$
+360,Nini's Ristoranti,1027,"Hampshire County, Massachusetts",4.0,28,Italian,$$
+361,Roberto's,1060,"Hampshire County, Massachusetts",3.5,51,Italian,$$
+366,Teresa's Restaurant,1082,"Hampshire County, Massachusetts",3.5,41,Italian,$$
+373,Paisanos,1073,"Hampshire County, Massachusetts",3.0,38,Italian,$$
+>>>>>>> 2ac6b451d4f0a54631fa209c401ed1bf2516c3f8
