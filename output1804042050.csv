@@ -1,246 +1,52 @@
 ,name,zipcode,county_string,rating,review_count,category,price
-0,Li's Chinese Kitchen,83612,"Adams County, Idaho",4.5,10,Chinese,$$
-1,"Intersection BBQ, Grill & Bar",83654,"Adams County, Idaho",4.5,12,American,$$
-2,Decarli,97005,"Washington County, Oregon",4.0,534,Italian,$$
-3,Degarios Ristorante,97229,"Washington County, Oregon",4.0,56,Italian,$$
-4,Brooklyn Trattoria,97229,"Washington County, Oregon",4.0,73,Italian,$$
-5,Pasta Pronto,97006,"Washington County, Oregon",4.0,94,Italian,$$
-6,Mason - Vecchio Ristorante Mondo,97140,"Washington County, Oregon",4.5,37,Italian,$$
-7,Bugatti's Tanasbourne,97006,"Washington County, Oregon",3.5,173,Italian,$$
-8,Nonna Emilia Ristorante Italiano,97007,"Washington County, Oregon",3.0,343,Italian,$$
-9,Little Italy,97113,"Washington County, Oregon",3.0,21,Italian,$$
-10,Giovanni's,97005,"Washington County, Oregon",3.5,116,Italian,$$
-11,Pastini,97005,"Washington County, Oregon",3.5,199,Italian,$$
-12,Geraldi's Italian Eating Place,97225,"Washington County, Oregon",4.5,207,Italian,$
-13,Mingo,97005,"Washington County, Oregon",3.5,188,Italian,$$
-14,Pizza Schmizza,97116,"Washington County, Oregon",3.5,35,Italian,$
-15,Nicoletta's Caffe,97225,"Washington County, Oregon",5.0,10,Italian,$$
-16,The Old Spaghetti Factory,97124,"Washington County, Oregon",3.0,159,Italian,$$
-17,Pastini,97224,"Washington County, Oregon",3.5,181,Italian,$$
-18,The Old Spaghetti Factory,97140,"Washington County, Oregon",3.0,108,Italian,$$
-19,Ernesto's Italian Restaurant,97225,"Washington County, Oregon",3.5,125,Italian,$$
-20,Noodles Restaurant,97225,"Washington County, Oregon",4.5,122,Italian,$
-21,Teninty's Pizza and Subs,97133,"Washington County, Oregon",3.5,3,Italian,$
-22,Olive Garden Italian Restaurant,97005,"Washington County, Oregon",3.5,156,Italian,$$
-23,Cafe Allegro,97223,"Washington County, Oregon",3.0,229,Italian,$$
-24,Pizza Hut,97116,"Washington County, Oregon",1.5,19,Italian,$$
-25,Fiorano Ristorante,97062,"Washington County, Oregon",3.0,31,Italian,$$
-26,Godfather's Pizza,97123,"Washington County, Oregon",3.5,32,Italian,$$
-27,Amelia's Restaurant,97124,"Washington County, Oregon",4.0,374,Mexican,$$
-28,La Estrella,97116,"Washington County, Oregon",4.0,36,Mexican,$
-29,Taqueria Corona,97116,"Washington County, Oregon",4.0,27,Mexican,$
-30,La Sierra,97116,"Washington County, Oregon",3.5,40,Mexican,$$
-31,King Torta,97133,"Washington County, Oregon",4.5,86,Mexican,$
-32,Super Mercado La Montana,97116,"Washington County, Oregon",4.0,10,Mexican,$
-33,Don Asado,97006,"Washington County, Oregon",4.5,129,Mexican,$
-34,Amelia's Rustic Mexican Restaurant,97124,"Washington County, Oregon",4.0,113,Mexican,$$
-35,Pepper's Mexican Grill,97123,"Washington County, Oregon",4.0,176,Mexican,$$
-36,Taqueria Hermanos Ochoa's,97123,"Washington County, Oregon",4.0,134,Mexican,$
-37,Lindo Michoacan Mexican Grill,97123,"Washington County, Oregon",4.0,15,Mexican,$
-38,Casa Lola Kitchen de Mexico,97007,"Washington County, Oregon",4.0,237,Mexican,$$
-39,EL Charrito Mexican food,97116,"Washington County, Oregon",4.5,2,Mexican,$
-40,Super Tacos Ochoa,97123,"Washington County, Oregon",4.0,83,Mexican,$
-41,Allan's Authentic Mexican Restaurant,97229,"Washington County, Oregon",3.5,166,Mexican,$$
-42,Taqueria El Jalapeno,97140,"Washington County, Oregon",4.0,80,Mexican,$
-43,El Chino Taqueria,97123,"Washington County, Oregon",4.0,54,Mexican,$
-44,Super Taqueria Mexico,97123,"Washington County, Oregon",4.0,12,Mexican,$
-45,Mi Jalisco Family Mexican Restaurant,97007,"Washington County, Oregon",4.0,91,Mexican,$$
-46,Don Chilitos Mexican Grill,97006,"Washington County, Oregon",4.0,169,Mexican,$
-47,Raul's Mexican Food Restaurant - Portland,97225,"Washington County, Oregon",4.0,257,Mexican,$$
-48,Mazatlan Mexican Restaurant,97113,"Washington County, Oregon",3.0,40,Mexican,$$
-49,Taqueria La Fuente,97223,"Washington County, Oregon",4.0,197,Mexican,$
-50,Si Señor,97008,"Washington County, Oregon",4.0,281,Mexican,$$
-51,Rosie's Kitchen,97062,"Washington County, Oregon",4.5,91,Mexican,$
-52,Sanchez Taquería,97223,"Washington County, Oregon",4.0,241,Mexican,$
-53,China Wok,97124,"Washington County, Oregon",4.5,137,Chinese,$
-54,Mandarin China Restaurant,97116,"Washington County, Oregon",4.0,58,Chinese,$
-55,Oriental Garden,97106,"Washington County, Oregon",4.0,20,Chinese,$$
-56,Little T's Cafe,97124,"Washington County, Oregon",4.0,81,Chinese,$$
-57,New Chinese Cuisine,97116,"Washington County, Oregon",4.0,52,Chinese,$
-58,Buffet Dynasty,97116,"Washington County, Oregon",3.5,32,Chinese,$$
-59,Asian Kitchen Grill,97124,"Washington County, Oregon",4.0,152,Chinese,$
-60,Jade Green Palace,97116,"Washington County, Oregon",2.5,22,Chinese,$$
-61,Wong's Chinese Restaurant,97123,"Washington County, Oregon",3.0,54,Chinese,$
-62,East Harbor Chinese,97006,"Washington County, Oregon",3.5,105,Chinese,$$
-63,China Rim,97229,"Washington County, Oregon",4.0,59,Chinese,$$
-64,Wan Q,97229,"Washington County, Oregon",3.5,47,Chinese,$$
-65,Lin's China Jade,97005,"Washington County, Oregon",3.5,145,Chinese,$$
-66,Dragon Fountain Restaurant,97123,"Washington County, Oregon",3.0,28,Chinese,$
-67,Stir Crazy Kitchen,97006,"Washington County, Oregon",3.5,90,Chinese,$$
-68,Inchin's Bamboo Garden,97124,"Washington County, Oregon",3.0,51,Chinese,$$
-69,China Delight,97225,"Washington County, Oregon",3.5,146,Chinese,$$
-70,Frank's Noodle House - Beaverton,97006,"Washington County, Oregon",3.5,100,Chinese,$$
-71,Yen's Chinese Restaurant,97223,"Washington County, Oregon",3.5,104,Chinese,$
-72,P.F. Chang's,97124,"Washington County, Oregon",3.5,190,Chinese,$$
-73,Veri Bowl Chinese Innovation Kitchen,97062,"Washington County, Oregon",4.0,69,Chinese,$
-74,Chinese Panda Restaurant,97140,"Washington County, Oregon",3.5,35,Chinese,$
-75,Dancing Dragon Restaurant,97124,"Washington County, Oregon",2.5,52,Chinese,$
-76,House of Good Fortune,97140,"Washington County, Oregon",3.0,49,Chinese,$$
-77,Happy Panda Restaurant,97006,"Washington County, Oregon",3.0,197,Chinese,$$
-78,Little Sheep Mongolian Hot Pot,97005,"Washington County, Oregon",4.0,201,Chinese,$$
-79,Bites Restaurant,97116,"Washington County, Oregon",4.0,119,American,$$
-80,Diversity Cafe & Catering,97116,"Washington County, Oregon",3.5,78,American,$$
-81,Clark's Bistro and Pub,97123,"Washington County, Oregon",4.5,187,American,$$
-82,McMenamins Ironwork Grill,97116,"Washington County, Oregon",3.0,83,American,$$
-83,Coleman's Shady Rest,97117,"Washington County, Oregon",4.0,31,American,$$
-84,Out Aza Blue Market & Cafe,97117,"Washington County, Oregon",4.5,47,American,$$
-85,Vintage Room at The Reserve,97007,"Washington County, Oregon",4.0,30,American,$$
-86,Hits the Spot Cafe,97133,"Washington County, Oregon",4.0,43,American,$
-87,Leo's Lair,97113,"Washington County, Oregon",4.0,9,American,$
-88,Mary's Kitchen,97113,"Washington County, Oregon",2.5,25,American,$
-89,Prime Time Restaurant & Sports Bar,97116,"Washington County, Oregon",3.0,99,American,$$
-90,Maharaja,97123,"Washington County, Oregon",4.0,185,Indian,$$
-91,Urban Masala,97124,"Washington County, Oregon",4.0,141,Indian,$$
-92,Chaat Cafe,97123,"Washington County, Oregon",4.0,62,Indian,$
-93,Curry & Crust,97124,"Washington County, Oregon",4.0,216,Indian,$$
-94,Chennai Masala,97124,"Washington County, Oregon",3.5,339,Indian,$$
-95,Chaaya,97006,"Washington County, Oregon",4.0,86,Indian,$$
-96,Bollywood Bites,97229,"Washington County, Oregon",4.0,178,Indian,$$
-97,Biryani Corner,97006,"Washington County, Oregon",3.5,57,Indian,$$
-98,Swagat,97124,"Washington County, Oregon",3.5,175,Indian,$$
-99,Abhiruchi Indian Restaurant,97005,"Washington County, Oregon",3.5,283,Indian,$$
-100,Six Mile Cafe,68337,"Richardson County, Nebraska",5.0,16,American,$
-101,Pizza Hut,45769,"Meigs County, Ohio",1.0,1,Italian,$$
-102,Wild Horse Cafe,45769,"Meigs County, Ohio",3.5,30,Mexican,$$
-103,Taco Bell,45769,"Meigs County, Ohio",5.0,1,Mexican,$
-104,Court Street Grill,45769,"Meigs County, Ohio",4.0,16,American,$
-105,The Corner Restaurants LLC,45760,"Meigs County, Ohio",3.5,3,American,$
-106,Millie's Restaurant,45760,"Meigs County, Ohio",5.0,2,American,$
-107,Portofino Italian Restaurant,88201,"Chaves County, New Mexico",4.5,35,Italian,$$
-108,Pasta Cafe Italian Bistro,88201,"Chaves County, New Mexico",4.0,62,Italian,$$
-109,Los Cerritos Mexican Restaurant,88201,"Chaves County, New Mexico",4.0,149,Mexican,$
-110,Los Novillos Mexican Restaurant,88203,"Chaves County, New Mexico",4.5,10,Mexican,$$
-111,Taqueria Jalisco,88203,"Chaves County, New Mexico",4.5,22,Mexican,$$
-112,La Escondida Cafe,88203,"Chaves County, New Mexico",4.5,23,Mexican,$$
-113,Popo's Mexican Food,88203,"Chaves County, New Mexico",3.5,30,Mexican,$
-114,Tia Juana's Mexican Grille & Cantina,88201,"Chaves County, New Mexico",3.0,96,Mexican,$$
-115,Peppers Grill & Bar,88201,"Chaves County, New Mexico",3.5,131,Mexican,$$
-116,Martin's Capitol Cafe,88201,"Chaves County, New Mexico",3.5,40,Mexican,$
-117,La Salsa,88201,"Chaves County, New Mexico",4.0,8,Mexican,$
-118,Burritos & More,88203,"Chaves County, New Mexico",5.0,6,Mexican,$
-119,Margaritas,88201,"Chaves County, New Mexico",3.0,20,Mexican,$$
-120,El Toro Bravo,88203,"Chaves County, New Mexico",3.0,36,Mexican,$
-121,Mi Casita,88203,"Chaves County, New Mexico",3.5,6,Mexican,$
-122,Hunan Chinese Restaurant,88203,"Chaves County, New Mexico",4.0,12,Chinese,$
-123,Beijing Express,88203,"Chaves County, New Mexico",3.5,11,Chinese,$
-124,China King Super Buffet,88201,"Chaves County, New Mexico",3.0,19,Chinese,$$
-125,Zen Asian Diner,88201,"Chaves County, New Mexico",4.0,36,Chinese,$$
-126,Ooy's House,88203,"Chaves County, New Mexico",4.0,11,Chinese,$
-127,Gold Star Asian Restaurant,88201,"Chaves County, New Mexico",3.5,11,Chinese,$$
-128,Panda Express,88201,"Chaves County, New Mexico",2.5,10,Chinese,$
-129,Chew's West Restaurant,88201,"Chaves County, New Mexico",2.0,8,Chinese,$
-130,Cattleman's Kountry Kitchen,88203,"Chaves County, New Mexico",4.0,20,American,$$
-131,High Chaparral Cafe,88201,"Chaves County, New Mexico",4.0,21,American,$$
-132,Peppers Grill & Bar,88201,"Chaves County, New Mexico",3.5,131,American,$$
-133,Peppers Grill & Bar,88201,"Chaves County, New Mexico",3.5,131,American,$$
-134,Casa San Carlo,28557,"Carteret County, North Carolina",4.0,27,Italian,$$
-135,Pescara,28512,"Carteret County, North Carolina",4.0,67,Italian,$$$
-136,Roma Pizza,28512,"Carteret County, North Carolina",4.0,30,Italian,$
-137,Beach Bumz Pub & Pizzeria,28557,"Carteret County, North Carolina",3.5,23,Italian,$$
-138,Olive Garden Italian Restaurant,28557,"Carteret County, North Carolina",2.5,30,Italian,$$
-139,Pizza Hut,28557,"Carteret County, North Carolina",4.0,5,Italian,$
-140,La Cieva Mexican & Seafood Restaurant,28512,"Carteret County, North Carolina",4.5,46,Mexican,$$
-141,Plaza Mexico Restaurant Bar and Grill,28594,"Carteret County, North Carolina",4.5,57,Mexican,$$
-142,Plaza Mexico,28516,"Carteret County, North Carolina",3.5,29,Mexican,$$
-143,Plaza Mexico Bar & Grill,28557,"Carteret County, North Carolina",3.5,37,Mexican,$$
-144,El Zarape Mexican Restaurant,28557,"Carteret County, North Carolina",4.0,14,Mexican,$$
-145,Taqueria El Monterrey,28570,"Carteret County, North Carolina",3.5,10,Mexican,$
-146,Chef Justin,28512,"Carteret County, North Carolina",5.0,2,Mexican,$$$$
-147,El Zarape Mexican Restaurant,28594,"Carteret County, North Carolina",3.0,62,Mexican,$$
-148,Idle Hour Biergarten,28512,"Carteret County, North Carolina",4.5,102,Mexican,$$
-149,China Garden & Mongolian Grill,28557,"Carteret County, North Carolina",4.0,26,Chinese,$
-150,Dragon King,28516,"Carteret County, North Carolina",4.5,7,Chinese,$
-151,The Spouter Inn Restaurant & Bakery,28516,"Carteret County, North Carolina",4.5,130,American,$$
-152,The Spot,28516,"Carteret County, North Carolina",4.0,9,American,$
-153,City Kitchen,28516,"Carteret County, North Carolina",4.5,37,American,$$
-154,Promise' Land Market,28557,"Carteret County, North Carolina",5.0,21,American,$$
-155,Parrott's on 11th,28557,"Carteret County, North Carolina",4.5,36,American,$$$$
-156,Southern Salt Seafood Company and Waterfront Restaurant,28557,"Carteret County, North Carolina",3.5,61,American,$$
-157,Red Fish Grill,28557,"Carteret County, North Carolina",4.0,91,American,$$
-158,Chef Justin,28512,"Carteret County, North Carolina",5.0,2,American,$$$$
-159,Snapperz Grill & Steam Bar,28557,"Carteret County, North Carolina",4.0,102,American,$$
-160,Surf's Up Grill and Bar,28594,"Carteret County, North Carolina",4.0,21,American,$$
-161,Blue Moon Bistro,28516,"Carteret County, North Carolina",4.5,68,American,$$
-162,Monkey Bar & Grill,28512,"Carteret County, North Carolina",3.0,31,American,$
-163,Dons Grill,28511,"Carteret County, North Carolina",4.0,7,American,$
-164,Island Grille,28512,"Carteret County, North Carolina",4.5,134,American,$$$
-165,Channel Marker Restaurant,28512,"Carteret County, North Carolina",3.5,119,American,$$
-166,TimeOut Tavern,28570,"Carteret County, North Carolina",5.0,5,American,$
-167,Fat Fellas BBQ & Grille,28570,"Carteret County, North Carolina",4.0,17,American,$
-168,Beaufort Grocery Company,28516,"Carteret County, North Carolina",4.0,145,American,$$
-169,Vallarta Mexican Restaurant,36264,"Cleburne County, Alabama",4.5,15,Mexican,$
-170,Varano's Italian Restaurant,4090,"York County, Maine",4.0,79,Italian,$$
-171,Ports of Italy,4043,"York County, Maine",4.0,80,Italian,$$$
-172,Angelina's Ristorante & Wine Bar,3907,"York County, Maine",4.0,161,Italian,$$$
-173,Caffe Prego,3907,"York County, Maine",4.0,102,Italian,$$
-174,1652,3909,"York County, Maine",3.5,14,Italian,$$$
-175,Mimmo's Italian Restaurant,3910,"York County, Maine",4.0,33,Italian,$$
-176,Roma Pizza,4046,"York County, Maine",4.5,27,Italian,$$
-177,Traditions Italian Ristorante,4072,"York County, Maine",3.5,31,Italian,$$
-178,Misto,3904,"York County, Maine",4.0,87,Italian,$$
-179,Cobblestone Grille,4064,"York County, Maine",4.5,25,Italian,$$
-180,Robertos Italian Restaurant,3907,"York County, Maine",3.0,84,Italian,$$
-181,Las Olas Taqueria,4090,"York County, Maine",4.5,63,Mexican,$$
-182,Pedro's,4043,"York County, Maine",3.5,134,Mexican,$$
-183,Los Tapatios,4005,"York County, Maine",3.5,79,Mexican,$$
-184,Bandito's Mexican Grill,3907,"York County, Maine",2.5,89,Mexican,$$
-185,Mapleleaves Garden,4090,"York County, Maine",3.0,39,Chinese,$$
-186,Green Tea,4073,"York County, Maine",4.0,41,Chinese,$$
-187,Jia Mei Le Wah Restaurant & Lounge,4043,"York County, Maine",3.5,6,Chinese,$$
-188,East Restaurant and Lounge,4090,"York County, Maine",2.5,52,Chinese,$$
-189,Yummy House,4005,"York County, Maine",4.0,10,Chinese,$
-190,Bamboo Garden,3909,"York County, Maine",4.5,31,Chinese,$$
-191,Pho Saigon,4073,"York County, Maine",4.5,13,Chinese,$$
-192,Red Leaves,3906,"York County, Maine",4.0,5,Chinese,$$
-193,Yummy House,4073,"York County, Maine",3.5,13,Chinese,$
-194,Village Tavern,4043,"York County, Maine",4.5,110,American,$$
-195,95 Ocean,4046,"York County, Maine",5.0,10,American,$$
-196,Mike's American Diner,4046,"York County, Maine",4.5,24,American,$$
-197,The Front Porch Restaurant,3907,"York County, Maine",4.0,209,American,$$
-198,That Place In Ogunquit,3907,"York County, Maine",4.5,143,American,$$
-199,Mabels Lobster Claw,4046,"York County, Maine",4.0,333,American,$$
-200,Springvale Publick House,4083,"York County, Maine",4.0,58,American,$$
-201,Academe,4043,"York County, Maine",4.0,38,American,$$
-202,Table of Seven,4043,"York County, Maine",4.0,20,American,$$
-203,Joshua's,4090,"York County, Maine",4.5,113,American,$$$
-204,The Central Restaurant & Bar,3909,"York County, Maine",5.0,80,American,$$
-205,Federal Jack's Brew Pub,4046,"York County, Maine",3.5,336,American,$$
-206,The Burleigh,4046,"York County, Maine",4.0,20,American,$$
-207,Bentley's Saloon,4046,"York County, Maine",4.0,35,American,$$
-208,Mel's Raspberry Patch,4073,"York County, Maine",4.0,30,American,$
-209,Stutesy's Pub & Grill,4090,"York County, Maine",4.0,24,American,$$
-210,The White Barn Restaurant,4043,"York County, Maine",4.0,96,American,$$$$
-211,Applebee's Grill + Bar,4073,"York County, Maine",3.0,14,American,$$
-212,The Chef & The Gardener,4072,"York County, Maine",4.5,77,American,$$
-213,Willy's Ale Room,4001,"York County, Maine",4.0,27,American,$$
-214,Salt and Honey,4046,"York County, Maine",4.0,190,American,$$
-215,Mulligan's At Mill Side Live,4005,"York County, Maine",3.5,72,American,$
-216,The Dory,4046,"York County, Maine",4.5,14,American,$$
-217,Earth,4046,"York County, Maine",4.0,133,American,$$$$
-218,Northern Union,3907,"York County, Maine",4.5,100,American,$$$
-219,Merriland Farm Cafe,4090,"York County, Maine",4.0,105,American,$$
-220,On the Marsh,4043,"York County, Maine",4.0,63,American,$$$
-221,Cape Neddick Inn,3902,"York County, Maine",3.5,57,American,$$
-222,Stones Throw,3909,"York County, Maine",4.0,89,American,$$
-223,Shain's Of Maine,4073,"York County, Maine",4.0,36,American,$
-224,Cove Cafe,3907,"York County, Maine",4.5,52,American,$$
-225,Horizons Family Restaurant,4090,"York County, Maine",3.5,18,American,$$
-226,Lord's Clam Box,4073,"York County, Maine",3.5,35,American,$$
-227,Run of the Mill Public House & Brewery,4072,"York County, Maine",4.0,275,American,$$
-228,50 Local,4043,"York County, Maine",4.0,58,American,$$$
-229,Ogunquit Beach Lobster House,3907,"York County, Maine",4.0,49,American,$$
-230,Rollover Cafe,4090,"York County, Maine",4.0,23,American,$
-231,Tory Hill Cafe,4093,"York County, Maine",4.0,12,American,$
-232,Tulsi North,4090,"York County, Maine",4.5,20,Indian,$$
-233,Tulsi,3904,"York County, Maine",4.0,121,Indian,$$
-234,Jewel of India Restaurant,4005,"York County, Maine",4.0,25,Indian,$$
-235,Friendly Market/ Hi Bombay,4064,"York County, Maine",1.5,4,Indian,$$
-236,Joe's Pizza,8098,"Salem County, New Jersey",4.5,19,Italian,$
-237,Di Paolo's Italian Ristorante,8069,"Salem County, New Jersey",4.0,75,Italian,$$$
-238,Kountry Kitchen Restaurant,8318,"Salem County, New Jersey",3.5,36,Italian,$$
-239,Giovanni Italian Style Pizza,8069,"Salem County, New Jersey",4.0,7,Italian,$
-240,Gao Sheng Chinese Restaurant,8098,"Salem County, New Jersey",3.5,12,Chinese,$
-241,The Orient Chinese Restaurant,8070,"Salem County, New Jersey",4.0,21,Chinese,$$
-242,Asian Cafe,8070,"Salem County, New Jersey",4.5,10,Chinese,$
-243,Best Food In Town Chinese Kitchen,8069,"Salem County, New Jersey",2.5,7,Chinese,$
-244,Welcome Chinese Resturant,8079,"Salem County, New Jersey",2.0,1,Chinese,$
+2,Pizza Garden,97131,"Tillamook County, Oregon",4.0,93,Italian,$$
+3,Marzano's Pizza Pie,97130,"Tillamook County, Oregon",4.0,136,Italian,$$
+19,Guido's Restorante,97147,"Tillamook County, Oregon",3.0,1,Italian,$$
+22,Pizza Hut,97141,"Tillamook County, Oregon",2.0,19,Italian,$
+39,Sicilia Mia,84117,"Salt Lake County, Utah",4.5,252,Italian,$$
+40,Siragusa's Taste of Italy,84123,"Salt Lake County, Utah",4.0,171,Italian,$$
+41,Carmine's Italian Cuisine,84121,"Salt Lake County, Utah",4.0,76,Italian,$$
+42,Antica Sicilia,84109,"Salt Lake County, Utah",4.5,86,Italian,$$
+43,Per Noi Trattoria,84106,"Salt Lake County, Utah",4.0,238,Italian,$$
+44,Valter's Osteria,84101,"Salt Lake County, Utah",4.5,448,Italian,$$$
+45,Il Sole,84093,"Salt Lake County, Utah",4.0,158,Italian,$$
+46,VENETO Ristorante Italiano,84111,"Salt Lake County, Utah",4.5,87,Italian,$$$
+47,Cucina Toscana,84101,"Salt Lake County, Utah",4.0,272,Italian,$$$
+48,Caffé Molise,84101,"Salt Lake County, Utah",4.0,398,Italian,$$
+49,Nuch's Pizzeria & Restaurant,84109,"Salt Lake County, Utah",4.5,177,Italian,$$
+50,Trio Cafe,84102,"Salt Lake County, Utah",4.0,289,Italian,$$
+51,Brio Tuscan Grille,84107,"Salt Lake County, Utah",4.0,204,Italian,$$
+55,Terra Mia,84020,"Salt Lake County, Utah",4.0,85,Italian,$$
+57,Toscano,84020,"Salt Lake County, Utah",3.5,165,Italian,$$
+59,Fratelli Ristorante,84094,"Salt Lake County, Utah",3.5,126,Italian,$$
+60,Italian Village,84117,"Salt Lake County, Utah",3.5,139,Italian,$$
+61,Settebello Pizzeria Napoletana,84101,"Salt Lake County, Utah",4.0,645,Italian,$$
+83,Vito's Pizza Bar & Grill,24521,"Amherst County, Virginia",3.5,14,Italian,$$
+95,Pizza Hut,24572,"Amherst County, Virginia",4.0,4,Italian,$$
+193,El Mariachi,24521,"Amherst County, Virginia",2.5,6,Mexican,$
+203,La Carreta Mexican Restaurant,24572,"Amherst County, Virginia",3.5,14,Mexican,$
+214,La Carreta Mexican Restaurant,24572,"Amherst County, Virginia",4.5,4,Mexican,$
+326,Anna Maries Winery & Cafe,16002,"Butler County, Pennsylvania",4.5,17,Italian,$$
+327,Villa Grande Restaurant,16001,"Butler County, Pennsylvania",4.0,29,Italian,$$
+328,Nico Luciano's,16057,"Butler County, Pennsylvania",4.5,15,Italian,$
+329,Mama Rosa's Restaurant & Lounge,16002,"Butler County, Pennsylvania",3.5,37,Italian,$$
+330,Della Terra,16037,"Butler County, Pennsylvania",4.0,58,Italian,$$
+332,Serventi's,16002,"Butler County, Pennsylvania",3.5,13,Italian,$$
+334,Tani's Pizza,16001,"Butler County, Pennsylvania",4.5,19,Italian,$$
+336,Natili North,16001,"Butler County, Pennsylvania",3.5,14,Italian,$$
+341,Lettopalena's Pizza & Italian Cuisine,16059,"Butler County, Pennsylvania",4.0,13,Italian,$$
+343,Luciano's Italian Brick Oven,16046,"Butler County, Pennsylvania",3.5,61,Italian,$$
+346,Natili North Pizza Shoppe,16001,"Butler County, Pennsylvania",3.5,11,Italian,$
+347,Alina's Ristorante,1035,"Hampshire County, Massachusetts",4.0,91,Italian,$$
+348,Joe's Pizza & Spaghetti House,1060,"Hampshire County, Massachusetts",4.0,119,Italian,$$
+350,Mulinos,1060,"Hampshire County, Massachusetts",3.5,125,Italian,$$
+351,Osteria Vespa,1002,"Hampshire County, Massachusetts",4.0,64,Italian,$$$
+352,Fratelli's Ristorante,1002,"Hampshire County, Massachusetts",3.5,18,Italian,$$
+353,Pasta E Basta,1002,"Hampshire County, Massachusetts",4.0,114,Italian,$$
+354,Viva Fresh Pasta,1060,"Hampshire County, Massachusetts",3.5,155,Italian,$$
+355,Spoleto Restaurant,1060,"Hampshire County, Massachusetts",3.0,126,Italian,$$
+358,Homestead.,1060,"Hampshire County, Massachusetts",3.5,23,Italian,$$
+360,Nini's Ristoranti,1027,"Hampshire County, Massachusetts",4.0,28,Italian,$$
+361,Roberto's,1060,"Hampshire County, Massachusetts",3.5,51,Italian,$$
+366,Teresa's Restaurant,1082,"Hampshire County, Massachusetts",3.5,41,Italian,$$
+373,Paisanos,1073,"Hampshire County, Massachusetts",3.0,38,Italian,$$

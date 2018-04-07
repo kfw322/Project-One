@@ -1,0 +1,549 @@
+,name,zipcode,county_string,rating,review_count,category,price
+0,Montecatini Ristorante,94596,"Contra Costa County, California",4.0,442,Italian,$$
+1,Gianni's Italian Bistro,94583,"Contra Costa County, California",4.5,313,Italian,$$
+2,Luna Ristorante,94520,"Contra Costa County, California",4.0,462,Italian,$$
+3,Locanda Ravello,94526,"Contra Costa County, California",4.0,360,Italian,$$
+4,Bella Ristorante Italian Cuisine,94521,"Contra Costa County, California",4.0,218,Italian,$$
+5,Forli Restaurant & Bar,94507,"Contra Costa County, California",4.5,56,Italian,$$
+6,Fiore Restaurant,94521,"Contra Costa County, California",4.0,321,Italian,$$
+7,54 Mint Forno Italiano,94596,"Contra Costa County, California",4.5,420,Italian,$$
+8,Primavera Ristorante,94583,"Contra Costa County, California",4.0,329,Italian,$$
+9,Benvenuti Ristorante,94596,"Contra Costa County, California",4.0,57,Italian,$$
+10,La Veranda Ristorante Italiano,94565,"Contra Costa County, California",4.0,225,Italian,$$
+11,Tullio's Italian Restaurant,94597,"Contra Costa County, California",4.0,385,Italian,$$
+12,Prima Ristorante,94596,"Contra Costa County, California",4.0,504,Italian,$$$
+13,Buon Appetito,94561,"Contra Costa County, California",3.5,93,Italian,$$
+14,Mangia Mi,94526,"Contra Costa County, California",4.0,370,Italian,$$
+15,Famiglia Italian Restaurant,94564,"Contra Costa County, California",4.0,151,Italian,$$
+16,Piatti Ristorante & Bar,94526,"Contra Costa County, California",4.0,645,Italian,$$
+17,Postino Restaurant,94549,"Contra Costa County, California",4.0,594,Italian,$$$
+18,Chiantis,94513,"Contra Costa County, California",3.5,167,Italian,$$
+19,Incontro Ristorante,94526,"Contra Costa County, California",4.0,333,Italian,$$
+20,Locanda Positano,94549,"Contra Costa County, California",3.5,20,Italian,$$
+21,Massimo Ristorante,94596,"Contra Costa County, California",4.0,227,Italian,$$$
+22,Pasta Bella Ristorante,94553,"Contra Costa County, California",4.0,111,Italian,$$
+23,Il Fornaio,94596,"Contra Costa County, California",3.0,696,Italian,$$
+24,Melo's Pizza & Pasta,94523,"Contra Costa County, California",4.0,522,Italian,$$
+25,WiseGirl Ristorante Italiano & Cocktails,94523,"Contra Costa County, California",4.0,97,Italian,$$
+26,La Strada,94806,"Contra Costa County, California",4.0,269,Italian,$$
+27,La Veranda Cafe,94517,"Contra Costa County, California",4.0,118,Italian,$$
+28,Melo's Pizza & Pasta,94526,"Contra Costa County, California",4.5,143,Italian,$$
+29,Ristorante Due Rose,94564,"Contra Costa County, California",3.5,263,Italian,$$
+30,Taverna Pellegrini,94563,"Contra Costa County, California",4.0,90,Italian,$$
+31,Great Impasta,94526,"Contra Costa County, California",4.0,172,Italian,$$
+32,Pasta Primavera Walnut Creek,94597,"Contra Costa County, California",3.5,309,Italian,$$
+33,Mangia Bene Restaurant,94553,"Contra Costa County, California",3.5,182,Italian,$$
+34,Tomatina,94596,"Contra Costa County, California",3.5,806,Italian,$$
+35,Ristorante Amoroma,94556,"Contra Costa County, California",4.0,109,Italian,$$
+36,Sorrento Italian Restaurant & Pizza,94598,"Contra Costa County, California",3.5,247,Italian,$$
+37,Il Pavone,94595,"Contra Costa County, California",3.5,121,Italian,$$
+38,Rocco's Ristorante Pizzeria,94598,"Contra Costa County, California",3.5,888,Italian,$$
+39,Pasta Primavera Cafe,94521,"Contra Costa County, California",3.5,88,Italian,$$
+40,The Old Spaghetti Factory,94520,"Contra Costa County, California",3.0,471,Italian,$$
+41,Bambino's,94519,"Contra Costa County, California",4.0,184,Italian,$$
+42,Mazar Market & Grill,94521,"Contra Costa County, California",4.5,49,Italian,$$
+43,Stella's Ristorante,94506,"Contra Costa County, California",3.5,56,Italian,$$
+44,El Chalán Restaurant,94803,"Contra Costa County, California",4.0,135,Italian,$$
+45,Ristorante Mediterranean,94523,"Contra Costa County, California",4.0,147,Italian,$$
+46,Salute E Vita Ristorante,94804,"Contra Costa County, California",3.5,383,Italian,$$
+47,Zio Fraedo's,94523,"Contra Costa County, California",3.5,201,Italian,$$
+48,Piccolo Napoli,94563,"Contra Costa County, California",4.0,132,Italian,$$
+49,Zio's Pasta Pronto,94564,"Contra Costa County, California",4.0,107,Italian,$$
+50,Canesa's Brooklyn Heros,94517,"Contra Costa County, California",4.5,191,Italian,$
+51,Vino Restaurant,94549,"Contra Costa County, California",3.5,103,Italian,$$
+52,Chicago's Pizza With A Twist,94565,"Contra Costa County, California",4.5,19,Italian,$$
+53,Strings Italian Cafe,94530,"Contra Costa County, California",3.5,134,Italian,$$
+54,La Piazza,94563,"Contra Costa County, California",4.0,114,Italian,$$
+55,Basil Leaf Cafe,94526,"Contra Costa County, California",3.5,415,Italian,$$
+56,Baci Cafe,94506,"Contra Costa County, California",3.5,136,Italian,$$
+57,DeVino's Pizza & Pasta,94523,"Contra Costa County, California",3.5,162,Italian,$$
+58,Pizza Bello,94583,"Contra Costa County, California",4.0,46,Italian,$$
+59,Pizza Antica,94526,"Contra Costa County, California",3.5,128,Italian,$$
+60,Skipolini's Pizza,94509,"Contra Costa County, California",3.5,157,Italian,$$
+61,Genova Delicatessen,94598,"Contra Costa County, California",3.5,201,Italian,$$
+62,Olive Garden Italian Restaurant,94565,"Contra Costa County, California",3.0,274,Italian,$$
+63,P J's Restaurant & Cocktail,94803,"Contra Costa County, California",3.5,47,Italian,$$
+64,Luigi's Italian Delicatessen,94519,"Contra Costa County, California",4.0,300,Italian,$
+65,Plates Eclectic Cuisine,94509,"Contra Costa County, California",3.5,56,Italian,$$
+66,Skipolini's Pizza,94520,"Contra Costa County, California",3.5,364,Italian,$$
+67,El Aguila Mexican Cuisine,94523,"Contra Costa County, California",4.0,798,Mexican,$$
+68,Tortilleria El Molino,94519,"Contra Costa County, California",4.5,669,Mexican,$
+69,Taqueria Los Gallos Express #2,94523,"Contra Costa County, California",4.0,381,Mexican,$
+70,Mercado del Sol,94520,"Contra Costa County, California",4.5,174,Mexican,$
+71,Canasta Kitchen Restaurant,94520,"Contra Costa County, California",4.0,285,Mexican,$$
+72,Los Panchos Mexican Restaurant,94526,"Contra Costa County, California",3.5,347,Mexican,$$
+73,La Mordida,94523,"Contra Costa County, California",4.0,222,Mexican,$
+74,Taqueria Carnitas Tijuana,94519,"Contra Costa County, California",4.0,176,Mexican,$
+75,Los Panchos Mexican Restaurant,94553,"Contra Costa County, California",4.0,450,Mexican,$
+76,Tacos El Patron,94523,"Contra Costa County, California",5.0,10,Mexican,$
+77,Taqueria Los Gallos,94520,"Contra Costa County, California",4.0,422,Mexican,$
+78,Dulce's Antojitos,94565,"Contra Costa County, California",4.0,237,Mexican,$
+79,Dos Coyotes Border Cafe,94583,"Contra Costa County, California",3.5,363,Mexican,$$
+80,Cocina Medina,94531,"Contra Costa County, California",4.0,336,Mexican,$$
+81,Las Panchitas,94565,"Contra Costa County, California",4.0,215,Mexican,$
+82,El Grullense Mexican Restaurant,94553,"Contra Costa County, California",4.0,228,Mexican,$
+83,Guacamole Authentic Mexican Grill,94518,"Contra Costa County, California",4.0,160,Mexican,$
+84,Rancho Cantina,94549,"Contra Costa County, California",3.5,214,Mexican,$$
+85,El Nido Mexican Restaurant,94526,"Contra Costa County, California",3.5,227,Mexican,$$
+86,El Jarro,94549,"Contra Costa County, California",3.5,218,Mexican,$$
+87,Dos Coyotes Border Cafe,94520,"Contra Costa County, California",4.0,333,Mexican,$$
+88,La Estrellita Cocina,94583,"Contra Costa County, California",4.0,24,Mexican,$$
+89,Taqueria Las Palmas,94521,"Contra Costa County, California",4.0,101,Mexican,$
+90,Taqueria La Soledad,94520,"Contra Costa County, California",4.5,144,Mexican,$
+91,Meson Azteca Mexican Cuisine,94523,"Contra Costa County, California",4.0,135,Mexican,$
+92,Las 3 Marias Restaurant,94509,"Contra Costa County, California",4.0,185,Mexican,$
+93,La Primavera Restaurant,94553,"Contra Costa County, California",4.0,184,Mexican,$
+94,Taqueria Salsa,94509,"Contra Costa County, California",4.0,231,Mexican,$
+95,Tortilleria El Molino,94598,"Contra Costa County, California",3.5,129,Mexican,$
+96,New Mecca Cafe,94565,"Contra Costa County, California",3.5,584,Mexican,$$
+97,Baja Cali Taqueria & Grill,94563,"Contra Costa County, California",4.0,72,Mexican,$$
+98,El Charro Mexican Dining,94549,"Contra Costa County, California",3.0,483,Mexican,$$
+99,Sabor Latino 17,94564,"Contra Costa County, California",4.0,120,Mexican,$
+100,La Tapatia Mexican Restaurant and Cantina,94520,"Contra Costa County, California",3.5,349,Mexican,$$
+101,Hunan Restaurant,94521,"Contra Costa County, California",4.0,270,Chinese,$
+102,Sichuan Fortune House,94523,"Contra Costa County, California",4.0,555,Chinese,$$
+103,Dragon's Pond,94596,"Contra Costa County, California",4.0,500,Chinese,$$
+104,China Palace,94597,"Contra Costa County, California",4.0,304,Chinese,$$
+105,Uncle Wang Chinese Restaurant,94565,"Contra Costa County, California",4.5,87,Chinese,$$
+106,Ming's,94523,"Contra Costa County, California",4.0,594,Chinese,$$
+107,Kung Fu Kitchen,94597,"Contra Costa County, California",4.5,33,Chinese,$$
+108,Double Dragon,94509,"Contra Costa County, California",4.0,179,Chinese,$$
+109,Lulu's Kitchen,94520,"Contra Costa County, California",4.0,235,Chinese,$$
+110,Golden Palace,94556,"Contra Costa County, California",4.5,229,Chinese,$$
+111,Dragon's Spring Restaurant,94523,"Contra Costa County, California",4.0,177,Chinese,$$
+112,Chef Choy,94523,"Contra Costa County, California",4.0,206,Chinese,$
+113,Yan's China Bistro & Bar,94597,"Contra Costa County, California",4.0,311,Chinese,$$
+114,Wonderland Restaurant,94526,"Contra Costa County, California",4.0,71,Chinese,$$
+115,Mandarin Garden,94520,"Contra Costa County, California",4.0,185,Chinese,$$
+116,Green Garden Asian Cuisine,94523,"Contra Costa County, California",4.0,192,Chinese,$
+117,The Great Wall Restaurant,94549,"Contra Costa County, California",3.5,119,Chinese,$$
+118,Amazing Wok Chinese Cuisine,94506,"Contra Costa County, California",4.0,210,Chinese,$$
+119,Enishi Kitchen,94513,"Contra Costa County, California",4.5,163,Chinese,$$
+120,Lucky Star Chinese Restaurant,94520,"Contra Costa County, California",4.0,55,Chinese,$
+121,Peony Garden,94596,"Contra Costa County, California",3.5,191,Chinese,$$
+122,China City Restaurant,94509,"Contra Costa County, California",4.0,127,Chinese,$
+123,3 Brothers From China,94523,"Contra Costa County, California",3.5,346,Chinese,$$
+124,Skyview Noodle & Tea,94565,"Contra Costa County, California",4.5,132,Chinese,$$
+125,Chef Chao Restaurant,94556,"Contra Costa County, California",4.0,114,Chinese,$$
+126,Leo's Chinese Restaurant,94526,"Contra Costa County, California",3.5,105,Chinese,$$
+127,Steamboat,94520,"Contra Costa County, California",4.0,311,Chinese,$$
+128,Alamo Palace Chinese Restaurant,94507,"Contra Costa County, California",3.5,126,Chinese,$$
+129,Oyama BBQ,94523,"Contra Costa County, California",4.0,37,Chinese,$$
+130,Tokyo & Beijing,94565,"Contra Costa County, California",4.0,111,Chinese,$$
+131,Sunflower Garden,94553,"Contra Costa County, California",4.0,167,Chinese,$$
+132,Acme Express,94553,"Contra Costa County, California",4.5,113,Chinese,$
+133,Shanghai Gourmet,94596,"Contra Costa County, California",3.0,184,Chinese,$$
+134,South North Dragon,94509,"Contra Costa County, California",3.5,170,Chinese,$
+135,Shan Shan Low Restaurant,94520,"Contra Costa County, California",3.5,153,Chinese,$
+136,88 Noodle House,94553,"Contra Costa County, California",4.0,194,Chinese,$
+137,Wahsing Chinese Restaurant,94565,"Contra Costa County, California",3.5,102,Chinese,$$
+138,Szechwan Chinese Restaurant,94563,"Contra Costa County, California",3.5,89,Chinese,$$
+139,China Village,94598,"Contra Costa County, California",3.0,163,Chinese,$
+140,Orient Express,94583,"Contra Costa County, California",4.0,297,Chinese,$
+141,Uncle Yu's,94549,"Contra Costa County, California",3.5,192,Chinese,$$
+142,Silver River Restaurant,94561,"Contra Costa County, California",3.5,92,Chinese,$
+143,China Paradise Restaurant,94506,"Contra Costa County, California",3.5,158,Chinese,$$
+144,YiPing,94583,"Contra Costa County, California",3.5,363,Chinese,$$
+145,Chop Chop Restaurant,94509,"Contra Costa County, California",4.0,91,Chinese,$
+146,Three Brothers From China,94583,"Contra Costa County, California",3.5,218,Chinese,$$
+147,Empress Garden Chinese Restaurant,94509,"Contra Costa County, California",4.0,49,Chinese,$$
+148,Jade House,94565,"Contra Costa County, California",3.5,99,Chinese,$
+149,Sasa Kitchen,94530,"Contra Costa County, California",4.0,60,Chinese,$$
+150,Uncle Chung's Szechuan,94564,"Contra Costa County, California",4.0,237,Chinese,$$
+151,Happy Wok,94572,"Contra Costa County, California",4.0,63,Chinese,$
+152,Modern China Cafe,94596,"Contra Costa County, California",3.0,751,Chinese,$$
+153,Pearl Garden,94583,"Contra Costa County, California",3.5,266,Chinese,$$
+154,Yu Bistro,94563,"Contra Costa County, California",3.5,57,Chinese,$$
+155,The Hideout Kitchen & Cafe,94549,"Contra Costa County, California",4.5,926,American (Traditional),$$
+156,Jack's Urban Eats- Walnut Creek,94598,"Contra Costa County, California",4.0,172,American (Traditional),$$
+157,Monument Grill,94520,"Contra Costa County, California",4.5,207,American (Traditional),$
+158,Fat Maddie's Grille,94583,"Contra Costa County, California",4.0,679,American (Traditional),$$
+159,1800 Cafe,94520,"Contra Costa County, California",4.0,278,American (Traditional),$
+160,Five Suns Brewing,94553,"Contra Costa County, California",4.5,26,American (Traditional),$$
+161,Zephyr Grill & Bar,94513,"Contra Costa County, California",4.0,356,American (Traditional),$$
+162,Jacks Restaurant & Bar,94523,"Contra Costa County, California",3.5,1181,American (Traditional),$$
+163,Heavenly Bistro,94597,"Contra Costa County, California",4.0,767,American (Traditional),$$
+164,California Magic Dinner Theatre,94553,"Contra Costa County, California",5.0,165,American (Traditional),$$$
+165,Gangnam Cafe,94518,"Contra Costa County, California",4.0,285,American (Traditional),$$
+166,Beep's Burgers,94506,"Contra Costa County, California",4.0,105,American (Traditional),$
+167,Giant Chef Burger,94523,"Contra Costa County, California",4.0,488,American (Traditional),$
+168,Alex's Giant Burger,94806,"Contra Costa County, California",4.5,153,American (Traditional),$
+169,Ed's Mudville Grill,94517,"Contra Costa County, California",4.0,237,American (Traditional),$$
+170,Revel Kitchen & Bar,94526,"Contra Costa County, California",4.0,529,American (Traditional),$$
+171,Digger's Diner,94519,"Contra Costa County, California",4.0,460,American (Traditional),$
+172,Brass Door,94583,"Contra Costa County, California",3.5,374,American (Traditional),$$
+173,The Peasant's Courtyard,94507,"Contra Costa County, California",4.0,280,American (Traditional),$$
+174,The Red Onion,94520,"Contra Costa County, California",4.0,67,American (Traditional),$
+175,Rebecca Delight Cafe,94583,"Contra Costa County, California",4.5,6,American (Traditional),$
+176,Bishop Grill,94583,"Contra Costa County, California",4.0,27,American (Traditional),$$
+177,The Greenery Restaurant,94598,"Contra Costa County, California",3.5,42,American (Traditional),$$
+178,Min's Kitchen,94519,"Contra Costa County, California",4.0,371,American (Traditional),$
+179,The Tavern,94553,"Contra Costa County, California",4.5,10,American (Traditional),$$
+180,Magoo's Grill,94523,"Contra Costa County, California",4.0,206,American (Traditional),$$
+181,The Hideout Kitchen & Cafe,94549,"Contra Costa County, California",4.5,926,American (New),$$
+182,Danville Harvest,94526,"Contra Costa County, California",4.0,516,American (New),$$
+183,Eureka!,94520,"Contra Costa County, California",4.0,845,American (New),$$
+184,Wences Restaurant,94523,"Contra Costa County, California",4.0,628,American (New),$$
+185,Fat Maddie's Barrelhouse & Bistro,94523,"Contra Costa County, California",4.0,16,American (New),$$
+186,Wence House California Cuisine,94513,"Contra Costa County, California",4.0,154,American (New),$$
+187,The Peasant & The Pear,94526,"Contra Costa County, California",4.0,1021,American (New),$$
+188,Attraversiamo,94513,"Contra Costa County, California",4.5,76,American (New),$$
+189,HD Burger and More,94531,"Contra Costa County, California",4.5,374,American (New),$
+190,Norseman Restaurant,94523,"Contra Costa County, California",4.5,19,American (New),$$
+191,Plate & Vine Restaurant,94520,"Contra Costa County, California",4.0,219,American (New),$$
+192,Dana's,94526,"Contra Costa County, California",4.0,183,American (New),$$
+193,Rooftop,94596,"Contra Costa County, California",3.5,710,American (New),$$
+194,True Food Kitchen,94596,"Contra Costa County, California",4.0,695,American (New),$$
+195,NM Cafe,94596,"Contra Costa County, California",4.5,72,American (New),$$
+196,MoMo's Walnut Creek,94596,"Contra Costa County, California",3.5,281,American (New),$$
+197,Esin Restaurant & Bar,94526,"Contra Costa County, California",4.0,817,American (New),$$$
+198,Pinole Creek Cafe,94564,"Contra Costa County, California",4.5,248,American (New),$$
+199,Patra Indian Grill,94598,"Contra Costa County, California",4.5,138,Indian,$$
+200,Anarkali,94520,"Contra Costa County, California",4.5,158,Indian,$
+201,Naan n Curry,94520,"Contra Costa County, California",4.0,982,Indian,$
+202,Swagat Indian Cuisine,94520,"Contra Costa County, California",4.0,440,Indian,$$
+203,Himalayan Cuisine,94520,"Contra Costa County, California",4.0,392,Indian,$$
+204,Mehran Restaurant,94565,"Contra Costa County, California",4.0,256,Indian,$$
+205,Sargam Indian Cuisine,94596,"Contra Costa County, California",4.0,379,Indian,$$
+206,Swad Indian Cuisine,94549,"Contra Costa County, California",4.0,105,Indian,$$
+207,Bombay Indian Restaurant,94596,"Contra Costa County, California",3.5,304,Indian,$$
+208,India 4 U,94531,"Contra Costa County, California",3.5,321,Indian,$$
+209,Saroor Indian Cuisine,94597,"Contra Costa County, California",4.0,345,Indian,$$
+210,Zaiqa Indian and Pakistani Cuisine,94547,"Contra Costa County, California",4.5,135,Indian,$$
+211,T's Firehouse Indian Cuisine & Sports Bar,94549,"Contra Costa County, California",3.5,170,Indian,$$
+212,Tandoor Restaurant,94564,"Contra Costa County, California",4.0,401,Indian,$$
+213,Johnny Carino's,83301,"Twin Falls County, Idaho",3.0,46,Italian,$$
+214,Tomato's Italian Grill,83301,"Twin Falls County, Idaho",3.0,64,Italian,$$
+215,Maxie's Pizza & Pasta of Kimberly,83341,"Twin Falls County, Idaho",4.5,7,Italian,$
+216,Train Station Pizza,83316,"Twin Falls County, Idaho",4.0,5,Italian,$
+217,Pizza Hut,83301,"Twin Falls County, Idaho",3.0,2,Italian,$$
+218,Tomato's Jr.,83341,"Twin Falls County, Idaho",5.0,1,Italian,$
+219,PK Pasta Palace,83316,"Twin Falls County, Idaho",2.5,2,Italian,$$
+220,Pizza Hut,83301,"Twin Falls County, Idaho",2.0,10,Italian,$$
+221,Jarritos Mexican Restaurant,83301,"Twin Falls County, Idaho",4.5,59,Mexican,$$
+222,Janitzio's,83301,"Twin Falls County, Idaho",4.0,32,Mexican,$$
+223,La Plaza,83316,"Twin Falls County, Idaho",4.5,29,Mexican,$
+224,Juanitas Tacos and More,83301,"Twin Falls County, Idaho",5.0,9,Mexican,$
+225,Mi Tierra,83301,"Twin Falls County, Idaho",4.5,6,Mexican,$$
+226,La Fiesta Mexican Restaurant,83301,"Twin Falls County, Idaho",3.5,76,Mexican,$$
+227,Peking Restaurant,83301,"Twin Falls County, Idaho",3.5,29,Chinese,$$
+228,Kim Long Restaurant,83316,"Twin Falls County, Idaho",4.0,5,Chinese,$
+229,Wok n Grill,83301,"Twin Falls County, Idaho",2.5,40,Chinese,$$
+230,Loong Hing Restaurant,83301,"Twin Falls County, Idaho",2.5,10,Chinese,$$
+231,Tse Restaurant,83301,"Twin Falls County, Idaho",3.0,13,Chinese,$
+232,Mandarin House,83301,"Twin Falls County, Idaho",2.5,27,Chinese,$$
+233,New China Buffet,83301,"Twin Falls County, Idaho",2.5,7,Chinese,$
+234,Panda Express,83301,"Twin Falls County, Idaho",2.5,10,Chinese,$
+235,China Dragon,83316,"Twin Falls County, Idaho",4.0,1,Chinese,$
+236,Buffalo Cafe,83301,"Twin Falls County, Idaho",4.5,213,American (Traditional),$
+237,Scooter's,83301,"Twin Falls County, Idaho",4.5,127,American (Traditional),$$
+238,Elevation 486,83301,"Twin Falls County, Idaho",4.0,268,American (New),$$
+239,Bl?,83301,"Twin Falls County, Idaho",4.0,32,American (New),$$
+240,Burnt Lemon Grill,83301,"Twin Falls County, Idaho",4.0,56,American (New),$
+241,Guppies Hot Rod Grille,83301,"Twin Falls County, Idaho",4.0,54,American (New),$$
+242,Anchor Bistro & Bar,83301,"Twin Falls County, Idaho",3.5,40,American (New),$$
+243,Cactus Grill,83341,"Twin Falls County, Idaho",4.0,16,American (New),$$
+244,Idaho Joes,83301,"Twin Falls County, Idaho",3.5,63,American (New),$
+245,Little India,83301,"Twin Falls County, Idaho",4.5,41,Indian,$$
+246,Asian Food Market,83301,"Twin Falls County, Idaho",5.0,3,Indian,$
+247,Mark O's,61326,"Putnam County, Illinois",4.0,2,Italian,$$
+248,Clover Club,61340,"Putnam County, Illinois",4.5,2,American (Traditional),$$
+249,Rockbridge Rainbow Trout and Game Ranch,65741,"Ozark County, Missouri",3.0,5,American (Traditional),$$
+250,Rooster's,79092,"Oldham County, Texas",4.5,28,Mexican,$
+251,The Windy Cow Cafe and Dessert Bar,79098,"Oldham County, Texas",5.0,21,American (Traditional),$$
+252,Chuck's Stage Stop Restaurant,85356,"Yuma County, Arizona",4.5,13,Italian,$$
+253,Da Boyz,85364,"Yuma County, Arizona",4.0,209,Italian,$$
+254,Ronnie's Pizza,85364,"Yuma County, Arizona",4.0,100,Italian,$$
+255,Olive Garden Italian Restaurant,85366,"Yuma County, Arizona",3.5,74,Italian,$$
+256,Rocky's Pizzeria & Italian Foods,85364,"Yuma County, Arizona",4.0,40,Italian,$
+257,Da Boyz Italian Cuisine,85365,"Yuma County, Arizona",3.0,64,Italian,$$
+258,Round Table Pizza,85364,"Yuma County, Arizona",3.5,30,Italian,$$
+259,Village Inn Pizza Parlor,85364,"Yuma County, Arizona",3.5,33,Italian,$$
+260,Pizza Hut,85365,"Yuma County, Arizona",3.5,11,Italian,$$
+261,Burgers & Beer,85364,"Yuma County, Arizona",3.0,124,Italian,$$
+262,Pizza Hut,85367,"Yuma County, Arizona",2.0,21,Italian,$
+263,Little Caesars,85364,"Yuma County, Arizona",2.5,2,Italian,$
+264,Pizza Hut,85364,"Yuma County, Arizona",2.5,14,Italian,$
+265,Wellton Burrito Factory,85356,"Yuma County, Arizona",4.5,26,Mexican,$
+266,Geronimo's,85356,"Yuma County, Arizona",3.5,15,Mexican,$$
+267,Tacos El Cositas,85365,"Yuma County, Arizona",4.5,98,Mexican,$
+268,Sesame's Kitchen,85367,"Yuma County, Arizona",3.5,41,Chinese,$
+269,Oriental House,85364,"Yuma County, Arizona",3.5,69,Chinese,$$
+270,Asian Star,85364,"Yuma County, Arizona",3.5,107,Chinese,$$
+271,Lin's Grand Buffet,85365,"Yuma County, Arizona",4.0,25,Chinese,$$
+272,Mandarin Garden,85367,"Yuma County, Arizona",3.0,13,Chinese,$
+273,Li-S Restaurant,85349,"Yuma County, Arizona",4.5,4,Chinese,$
+274,Yummy Yummy,85364,"Yuma County, Arizona",3.0,21,Chinese,$
+275,Lin's Grand Buffet,85365,"Yuma County, Arizona",3.0,58,Chinese,$$
+276,Panda Express,85364,"Yuma County, Arizona",2.5,14,Chinese,$$
+277,Rice King,85365,"Yuma County, Arizona",3.0,4,Chinese,$
+278,Panda Express,85365,"Yuma County, Arizona",2.5,19,Chinese,$
+279,Chuck's Stage Stop Restaurant,85356,"Yuma County, Arizona",4.5,13,American (Traditional),$$
+280,Ligurta Station,85356,"Yuma County, Arizona",4.5,11,American (Traditional),$
+281,Jac’s Whistle Stop Cafe,85352,"Yuma County, Arizona",4.5,22,American (Traditional),$
+282,Basque Etchea,85352,"Yuma County, Arizona",4.5,7,American (New),$$
+283,River City Grill,85364,"Yuma County, Arizona",4.0,221,American (New),$$
+284,2FIFTY1 Downtown,85364,"Yuma County, Arizona",4.0,28,American (New),$$
+285,Rob's Grill & Catering,85367,"Yuma County, Arizona",4.0,15,American (New),$$
+286,Crouse's Flat Top Grill,85364,"Yuma County, Arizona",4.5,85,American (New),$$
+287,Fat Harveys,85364,"Yuma County, Arizona",3.5,11,American (New),$
+288,The Patio Restaurant,85365,"Yuma County, Arizona",3.5,96,American (New),$$
+289,Market Grill: Steak and Seafood,85365,"Yuma County, Arizona",3.5,52,American (New),$$
+290,Del Taco,85365,"Yuma County, Arizona",3.5,3,American (New),$
+291,Julieanna's Patio Cafe,85364,"Yuma County, Arizona",3.5,130,American (New),$$
+292,Yuma Landing Bar & Grill,85364,"Yuma County, Arizona",3.0,61,American (New),$$
+293,Hawaiian BBQ,85365,"Yuma County, Arizona",3.0,44,American (New),$
+294,Gianni's Trattoria,28025,"Cabarrus County, North Carolina",4.0,103,Italian,$$
+295,Nonna's Pizza,28027,"Cabarrus County, North Carolina",4.0,30,Italian,$$
+296,Brooklyn's Pizzeria,28025,"Cabarrus County, North Carolina",4.0,60,Italian,$
+297,Basilico Italiano,28027,"Cabarrus County, North Carolina",3.5,55,Italian,$$
+298,Garofola's Italiano,28027,"Cabarrus County, North Carolina",3.0,43,Italian,$$
+299,Fiesta Mexicana Grill,28027,"Cabarrus County, North Carolina",4.5,66,Mexican,$
+300,Los Cuates Mexican Restaurant,28027,"Cabarrus County, North Carolina",3.5,37,Mexican,$$
+301,Andele Mexican Restaurant,28027,"Cabarrus County, North Carolina",4.0,75,Mexican,$
+302,El Vaquero,28107,"Cabarrus County, North Carolina",4.0,32,Mexican,$$
+303,La Unica,28075,"Cabarrus County, North Carolina",4.0,57,Mexican,$
+304,Cinco de Mayo,28027,"Cabarrus County, North Carolina",4.0,89,Mexican,$
+305,Los Arcos Mexican Restaurant,28083,"Cabarrus County, North Carolina",4.5,20,Mexican,$
+306,El Amigo Mexican Restaurant,28083,"Cabarrus County, North Carolina",4.0,37,Mexican,$$
+307,Casa Grande Mexican Restaurant,28027,"Cabarrus County, North Carolina",4.0,30,Mexican,$
+308,Mexicasa Restaurant and Grill,28075,"Cabarrus County, North Carolina",3.5,43,Mexican,$$
+309,Mi Pueblo Mexican Grill,28027,"Cabarrus County, North Carolina",3.0,69,Mexican,$$
+310,Restaurant Y Taqueria Acapulco,28083,"Cabarrus County, North Carolina",4.0,21,Mexican,$
+311,El Vallarta,28025,"Cabarrus County, North Carolina",3.5,34,Mexican,$
+312,Casa Grande Mexican Restaurant,28083,"Cabarrus County, North Carolina",3.5,24,Mexican,$
+313,China Garden,28025,"Cabarrus County, North Carolina",4.0,17,Chinese,$
+314,Southern China,28025,"Cabarrus County, North Carolina",4.0,11,Chinese,$
+315,Royal Dragon Chinese Food,28027,"Cabarrus County, North Carolina",3.5,23,Chinese,$
+316,Chong Chin Chinese Restaurant,28075,"Cabarrus County, North Carolina",3.5,20,Chinese,$
+317,Crispys Bar And Grill,28083,"Cabarrus County, North Carolina",4.5,90,American (Traditional),$$
+318,Conversation Peace Restaurant Bar & Grill,28025,"Cabarrus County, North Carolina",3.5,19,American (Traditional),$$
+319,Terry's Kitchen,28107,"Cabarrus County, North Carolina",5.0,4,American (Traditional),$
+320,Brickhouse Grill,28025,"Cabarrus County, North Carolina",4.0,16,American (Traditional),$
+321,The Grill at 11 Union,28025,"Cabarrus County, North Carolina",4.5,11,American (Traditional),$
+322,Three Monkeys Tavern and Grill,28075,"Cabarrus County, North Carolina",3.5,41,American (Traditional),$
+323,Park Road Soda Shoppe - Kannapolis,28081,"Cabarrus County, North Carolina",4.0,22,American (Traditional),$
+324,Local 25,28025,"Cabarrus County, North Carolina",4.5,29,American (New),$$$
+325,Crispys Bar And Grill,28083,"Cabarrus County, North Carolina",4.5,90,American (New),$$
+326,Zafran Kabab Palace - Harrisburg,28075,"Cabarrus County, North Carolina",4.5,74,Indian,$$
+327,Aroma Indian Cuisine,28027,"Cabarrus County, North Carolina",4.0,203,Indian,$$
+328,Anna's Italian Restaurant & Pizza,22572,"Richmond County, Virginia",3.5,8,Italian,$$
+329,Hunan Village,22572,"Richmond County, Virginia",4.5,15,Chinese,$$
+330,Relish,22572,"Richmond County, Virginia",4.5,26,American (Traditional),$$
+331,Patrizia's of Brooklyn - Staten Island,10308,"Richmond County, New York",4.0,325,Italian,$$$
+332,Piccolino Ristorante,10308,"Richmond County, New York",4.0,54,Italian,$$
+333,Trattoria Romana,10305,"Richmond County, New York",4.0,139,Italian,$$
+334,Casa Verde,10306,"Richmond County, New York",4.5,33,Italian,$$
+335,Giovannis Trattoria,10312,"Richmond County, New York",4.0,74,Italian,$$
+336,La Strada Restaurant,10306,"Richmond County, New York",4.5,68,Italian,$$
+337,Nino's Restaurant,10305,"Richmond County, New York",4.5,112,Italian,$$
+338,Giuliana's,10308,"Richmond County, New York",4.0,68,Italian,$$
+339,Villa Paradiso,10308,"Richmond County, New York",4.0,39,Italian,$$$
+340,Capizzi,10308,"Richmond County, New York",4.0,73,Italian,$$
+341,Cantina Mexicana,10306,"Richmond County, New York",4.0,56,Mexican,$$
+342,La Iguana Azul,10308,"Richmond County, New York",4.5,33,Mexican,$$
+343,Cafe Con Pan,10306,"Richmond County, New York",4.0,16,Mexican,$
+344,Zabrosura,10305,"Richmond County, New York",4.5,16,Mexican,$$
+345,Mezcals Mexican Restaurant,10314,"Richmond County, New York",3.5,89,Mexican,$$
+346,Casa Chonita,10310,"Richmond County, New York",5.0,17,Mexican,$
+347,Taqueria El Gallo Azteca,10301,"Richmond County, New York",4.5,94,Mexican,$
+348,Maizal Restaurant,10305,"Richmond County, New York",3.5,204,Mexican,$$
+349,Fresh Tortillas & Taco,10306,"Richmond County, New York",3.5,57,Mexican,$
+350,Paco's Mexican Bistro,10305,"Richmond County, New York",3.5,170,Mexican,$$
+351,Ho'Brah a taco joint,10301,"Richmond County, New York",3.5,233,Mexican,$$
+352,La Candela Espanola,10308,"Richmond County, New York",3.0,73,Mexican,$$
+353,Adobe Blues,10301,"Richmond County, New York",4.0,224,Mexican,$$
+354,Taqueria Puebla,10310,"Richmond County, New York",4.0,15,Mexican,$
+355,Taqueria La Roqueta,10302,"Richmond County, New York",4.5,2,Mexican,$
+356,Taqueria Oaxaca,10307,"Richmond County, New York",3.5,17,Mexican,$
+357,Panaderia La Mixteca Poblana,10301,"Richmond County, New York",4.5,9,Mexican,$
+358,Los Potrillos,10302,"Richmond County, New York",4.0,10,Mexican,$
+359,La Canasta Deli,10305,"Richmond County, New York",4.0,14,Mexican,$
+360,Don Cesar Restaurant & Bar,10307,"Richmond County, New York",4.0,30,Mexican,$$
+361,El Patron,10304,"Richmond County, New York",3.5,50,Mexican,$$
+362,The Burrito Shoppe,10301,"Richmond County, New York",4.0,31,Mexican,$
+363,The Burrito Spot,10314,"Richmond County, New York",3.0,7,Mexican,$
+364,Cinderella's Restaurant,10301,"Richmond County, New York",4.0,10,Mexican,$$
+365,Burrito Bar,10310,"Richmond County, New York",3.0,163,Mexican,$$
+366,Gringo's,10304,"Richmond County, New York",3.5,53,Mexican,$$$
+367,Tacos La Abuelita,10302,"Richmond County, New York",5.0,2,Mexican,$
+368,Cabo,10309,"Richmond County, New York",3.0,114,Mexican,$$$
+369,La Campena,10303,"Richmond County, New York",3.0,14,Mexican,$$
+370,Hong Kong Kei One,10308,"Richmond County, New York",5.0,17,Chinese,$
+371,Jac Mao,10305,"Richmond County, New York",4.0,104,Chinese,$$
+372,Jade Asian Bistro,10306,"Richmond County, New York",4.0,129,Chinese,$$
+373,Jade Island,10314,"Richmond County, New York",3.5,148,Chinese,$$
+374,Empire East,10306,"Richmond County, New York",3.5,90,Chinese,$$
+375,Chen's Garden II,10312,"Richmond County, New York",4.0,23,Chinese,$$
+376,Chopsticks House,10312,"Richmond County, New York",3.5,18,Chinese,$$
+377,New Garden Chinese Restaurant,10306,"Richmond County, New York",4.5,11,Chinese,$
+378,Empire Szechuan,10312,"Richmond County, New York",3.0,42,Chinese,$$
+379,Pacific Kitchen,10308,"Richmond County, New York",4.0,28,Chinese,$$
+380,Tack's Chinese Take Out,10314,"Richmond County, New York",3.5,55,Chinese,$$
+381,The Taste of China,10306,"Richmond County, New York",3.0,12,Chinese,$$
+382,Peking Taste,10312,"Richmond County, New York",3.5,21,Chinese,$
+383,Simple Asia,10306,"Richmond County, New York",4.5,92,Chinese,$$
+384,Oriental Plaza Chinese & Japanese Restaurant,10314,"Richmond County, New York",3.0,105,Chinese,$$
+385,Peking Kitchen,10314,"Richmond County, New York",3.5,17,Chinese,$
+386,Gourmet Chef,10306,"Richmond County, New York",4.0,6,Chinese,$
+387,Lucky Fortune Chinese Restaurant,10308,"Richmond County, New York",3.0,42,Chinese,$$
+388,Golden Star Chinese Restaurant,10305,"Richmond County, New York",3.5,24,Chinese,$
+389,Foo Sing Chinese Restaurant,10308,"Richmond County, New York",3.5,6,Chinese,$
+390,Yum Yum Eastern,10312,"Richmond County, New York",3.5,45,Chinese,$$
+391,Emperor House,10310,"Richmond County, New York",4.0,16,Chinese,$$$
+392,China New Star Restaurant,10302,"Richmond County, New York",3.5,39,Chinese,$$
+393,Empire East NY,10314,"Richmond County, New York",3.5,57,Chinese,$$
+394,China Chalet,10312,"Richmond County, New York",3.0,25,Chinese,$$
+395,Canlon's Restaurant,10306,"Richmond County, New York",4.0,46,American (Traditional),$$
+396,Griff's Place,10306,"Richmond County, New York",4.5,40,American (Traditional),$$
+397,Project Brunch,10310,"Richmond County, New York",3.5,31,American (Traditional),$$
+398,O'Neills,10302,"Richmond County, New York",3.5,107,American (Traditional),$$
+399,Planet Wings,10306,"Richmond County, New York",2.0,28,American (Traditional),$
+400,Jody's Club Forest,10301,"Richmond County, New York",4.0,33,American (Traditional),$$
+401,Trackside Bar & Grill,10306,"Richmond County, New York",4.0,5,American (Traditional),$$
+402,Burger Shop,10314,"Richmond County, New York",3.5,38,American (Traditional),$$
+403,Chef Mike's Rodizio Grill,10309,"Richmond County, New York",3.5,39,American (Traditional),$$$
+404,Joyces Tavern,10312,"Richmond County, New York",4.0,46,American (New),$$
+405,Joe Broadway's Sports Pub Hylan,10308,"Richmond County, New York",4.0,30,American (New),$$
+406,Js On The Bay,10305,"Richmond County, New York",4.0,118,American (New),$$
+407,Richmond Diner,10312,"Richmond County, New York",3.0,33,American (New),$
+408,Michael Anthony,10308,"Richmond County, New York",5.0,5,American (New),$$$
+409,The Randall Manor Tavern,10310,"Richmond County, New York",4.0,19,American (New),$$
+410,Potatopia,10314,"Richmond County, New York",3.0,25,American (New),$
+411,Manor Restaurant,10314,"Richmond County, New York",4.0,42,American (New),$$
+412,Portobello Cafe,10308,"Richmond County, New York",3.5,161,American (New),$$
+413,How Greek It Is,10306,"Richmond County, New York",4.0,96,American (New),$$
+414,The Stone House at Clove Lakes,10301,"Richmond County, New York",4.0,133,American (New),$$$
+415,PepperJack Grill,10314,"Richmond County, New York",3.5,131,American (New),$$
+416,Annadale Terrace,10312,"Richmond County, New York",2.5,88,American (New),$$
+417,Vida,10304,"Richmond County, New York",4.0,52,American (New),$$$
+418,Chris's Restaurant,10304,"Richmond County, New York",4.5,18,American (New),$$
+419,Basilio Inn,10305,"Richmond County, New York",4.5,64,American (New),$$
+420,G-Knows Cheesesteaks,10302,"Richmond County, New York",4.5,91,American (New),$
+421,Miller's Ale House - Staten Island,10314,"Richmond County, New York",3.0,245,American (New),$$
+422,Royal Cucina,10305,"Richmond County, New York",2.5,19,American (New),$$
+423,The RoadHouse,10301,"Richmond County, New York",3.0,81,American (New),$$
+424,Kingdom Cafe,10312,"Richmond County, New York",3.5,16,American (New),$
+425,Li Greci's Staaten,10310,"Richmond County, New York",4.0,28,American (New),$$
+426,Surf,10304,"Richmond County, New York",4.5,70,American (New),$$
+427,Lunchbox,10302,"Richmond County, New York",3.5,144,American (New),$$
+428,Gyro King - Staten island,10302,"Richmond County, New York",4.0,63,American (New),$
+429,Taste of India II,10306,"Richmond County, New York",4.0,150,Indian,$$
+430,Randiwa,10314,"Richmond County, New York",4.5,16,Indian,$$
+431,DiAnoia's Eatery,15222,"Allegheny County, Pennsylvania",4.5,296,Italian,$$
+432,Sienna Mercato,15222,"Allegheny County, Pennsylvania",4.0,674,Italian,$$
+433,Piccolo Forno,15201,"Allegheny County, Pennsylvania",4.0,355,Italian,$$
+434,Alla Famiglia,15210,"Allegheny County, Pennsylvania",4.5,176,Italian,$$$$
+435,Sienna On The Square,15222,"Allegheny County, Pennsylvania",4.0,211,Italian,$$
+436,Juliano's Restaurant & Pizzeria,15136,"Allegheny County, Pennsylvania",4.5,105,Italian,$$
+437,Stagioni,15203,"Allegheny County, Pennsylvania",4.0,112,Italian,$$
+438,Sarafino's Pasta and Pizza,15205,"Allegheny County, Pennsylvania",4.0,92,Italian,$$
+439,Girasole Restaurant,15232,"Allegheny County, Pennsylvania",4.0,304,Italian,$$
+440,Joseph Tambellini Restaurant,15206,"Allegheny County, Pennsylvania",4.5,109,Italian,$$$
+441,Cucina Vitale,15203,"Allegheny County, Pennsylvania",4.0,68,Italian,$$
+442,Legends Eatery,15212,"Allegheny County, Pennsylvania",4.0,130,Italian,$$
+443,Piacquadio's Italian Restaurant & Lounge,15234,"Allegheny County, Pennsylvania",4.5,21,Italian,$$
+444,Bella Ria's,15229,"Allegheny County, Pennsylvania",4.5,41,Italian,$$
+445,Lidia's,15222,"Allegheny County, Pennsylvania",3.5,418,Italian,$$$
+446,Mario's Family Italian Restaurant,15108,"Allegheny County, Pennsylvania",4.0,57,Italian,$$
+447,Proper Brick Oven & Tap Room,15222,"Allegheny County, Pennsylvania",4.5,498,Italian,$$
+448,Ciccanti Ristorante,15025,"Allegheny County, Pennsylvania",4.0,50,Italian,$$
+449,Pizzaiolo Primo,15222,"Allegheny County, Pennsylvania",3.5,197,Italian,$$
+450,DeLallo's Fort Couch Cafe,15243,"Allegheny County, Pennsylvania",4.5,55,Italian,$$
+451,La Tavola Italiana,15211,"Allegheny County, Pennsylvania",3.5,121,Italian,$$
+452,Il Pizzaiolo,15228,"Allegheny County, Pennsylvania",3.5,256,Italian,$$
+453,Zarra's A Taste of Southern Italy,15213,"Allegheny County, Pennsylvania",4.0,99,Italian,$$
+454,Mezzo,15222,"Allegheny County, Pennsylvania",4.0,63,Italian,$$
+455,Arpino Trattoria,15220,"Allegheny County, Pennsylvania",3.5,48,Italian,$$
+456,Alida's Woodfire Cucina,15201,"Allegheny County, Pennsylvania",4.0,20,Italian,$$
+457,Vallozzis Pittsburgh,15222,"Allegheny County, Pennsylvania",3.5,102,Italian,$$$
+458,Senti Restaurant & Wine Bar,15201,"Allegheny County, Pennsylvania",4.0,83,Italian,$$$
+459,DeBlasio's Restaurant,15220,"Allegheny County, Pennsylvania",3.5,35,Italian,$$
+460,Talia Cucina & Rosticceria,15219,"Allegheny County, Pennsylvania",4.0,56,Italian,$$$
+461,Moonlite Cafe,15226,"Allegheny County, Pennsylvania",4.5,33,Italian,$$
+462,Verona Village Inn,15147,"Allegheny County, Pennsylvania",4.5,72,Italian,$$
+463,"Pastoli's Pizza, Pasta & Paisans",15217,"Allegheny County, Pennsylvania",4.5,83,Italian,$$
+464,Il Burloni La Pizza E Cucina,15220,"Allegheny County, Pennsylvania",4.0,37,Italian,$$
+465,Segneri's Italian Restaurant,15108,"Allegheny County, Pennsylvania",4.5,30,Italian,$$
+466,Big Jim's Restaurant & Bar,15207,"Allegheny County, Pennsylvania",4.0,171,Italian,$$
+467,Gran Canal Caffe,15215,"Allegheny County, Pennsylvania",4.5,35,Italian,$$
+468,Il Pizzaiolo,15086,"Allegheny County, Pennsylvania",4.0,65,Italian,$$
+469,Piada Italian Street Food,15213,"Allegheny County, Pennsylvania",4.0,159,Italian,$
+470,Alexander's Italian Bistro,15224,"Allegheny County, Pennsylvania",3.5,106,Italian,$$
+471,Pasqualino's Pizza & Pasta,15235,"Allegheny County, Pennsylvania",4.5,39,Italian,$$
+472,Tillie's Restaurant & Chantillie Lounge,15132,"Allegheny County, Pennsylvania",4.0,63,Italian,$$
+473,Buon Giorno Cafe,15222,"Allegheny County, Pennsylvania",4.0,17,Italian,$$
+474,Gia Visto,15146,"Allegheny County, Pennsylvania",4.0,52,Italian,$$
+475,"La Palapa, Traditional Mexican Kitchen",15203,"Allegheny County, Pennsylvania",4.5,187,Mexican,$$
+476,Totopo Mexican Kitchen and Bar,15228,"Allegheny County, Pennsylvania",4.0,214,Mexican,$$
+477,täk?,15222,"Allegheny County, Pennsylvania",4.5,894,Mexican,$$
+478,El Paso Mexican Grill,15241,"Allegheny County, Pennsylvania",4.0,22,Mexican,$$
+479,Condado Tacos,15222,"Allegheny County, Pennsylvania",4.0,308,Mexican,$$
+480,Las Palmas,15213,"Allegheny County, Pennsylvania",4.5,184,Mexican,$
+481,Las Palmas Carniceria,15226,"Allegheny County, Pennsylvania",4.5,203,Mexican,$
+482,Casa Nayarit Mexican Grill,15102,"Allegheny County, Pennsylvania",4.0,85,Mexican,$$
+483,Sesame Garden,15211,"Allegheny County, Pennsylvania",4.5,61,Chinese,$$
+484,Chinatown Inn,15219,"Allegheny County, Pennsylvania",4.0,125,Chinese,$$
+485,How Lee Chinese Food,15217,"Allegheny County, Pennsylvania",4.0,221,Chinese,$$
+486,Yeung's House,15229,"Allegheny County, Pennsylvania",4.5,52,Chinese,$
+487,Harris Grill,15222,"Allegheny County, Pennsylvania",4.0,44,American (Traditional),$$
+488,Superior Motors,15104,"Allegheny County, Pennsylvania",4.0,93,American (Traditional),$$$
+489,Union Grill,15213,"Allegheny County, Pennsylvania",4.0,323,American (Traditional),$$
+490,Downey's House,15136,"Allegheny County, Pennsylvania",4.5,82,American (Traditional),$$
+491,Hog's Head Bar & Grill,15212,"Allegheny County, Pennsylvania",4.5,64,American (Traditional),$$
+492,The Crafty Jackalope,15017,"Allegheny County, Pennsylvania",4.0,94,American (Traditional),$$
+493,Bella Ria's,15229,"Allegheny County, Pennsylvania",4.5,41,American (Traditional),$$
+494,The Smiling Moose,15203,"Allegheny County, Pennsylvania",4.0,127,American (Traditional),$$
+495,Stinky's Bar & Grill,15201,"Allegheny County, Pennsylvania",4.0,46,American (Traditional),$$
+496,Cafe Raymond,15222,"Allegheny County, Pennsylvania",4.5,101,American (Traditional),$$
+497,Tessaro's,15224,"Allegheny County, Pennsylvania",4.0,360,American (Traditional),$$
+498,Nadine's,15203,"Allegheny County, Pennsylvania",4.0,89,American (Traditional),$
+499,Shiloh Grill,15211,"Allegheny County, Pennsylvania",4.0,293,American (Traditional),$$
+500,Butcher and the Rye,15222,"Allegheny County, Pennsylvania",4.5,721,American (New),$$$
+501,Station,15224,"Allegheny County, Pennsylvania",4.0,169,American (New),$$
+502,One Thirty One East,15106,"Allegheny County, Pennsylvania",4.5,97,American (New),$$
+503,Altius,15211,"Allegheny County, Pennsylvania",4.5,425,American (New),$$$
+504,Bistro 19,15228,"Allegheny County, Pennsylvania",4.0,149,American (New),$$
+505,The Summit,15211,"Allegheny County, Pennsylvania",4.5,115,American (New),$$
+506,Supper,15212,"Allegheny County, Pennsylvania",5.0,1,American (New),$$
+507,Floor 2,15222,"Allegheny County, Pennsylvania",4.0,47,American (New),$$
+508,Cinderlands Beer,15201,"Allegheny County, Pennsylvania",4.5,40,American (New),$$
+509,Eleven,15222,"Allegheny County, Pennsylvania",4.0,598,American (New),$$$
+510,"Au ""Grottens"" Cafe & Catering",15102,"Allegheny County, Pennsylvania",5.0,8,American (New),$$
+511,Vue 412,15211,"Allegheny County, Pennsylvania",4.0,252,American (New),$$
+512,The Foundry Table & Tap,15212,"Allegheny County, Pennsylvania",3.5,116,American (New),$$
+513,Sausalido,15224,"Allegheny County, Pennsylvania",4.0,151,American (New),$$
+514,Vilka Bistro,15102,"Allegheny County, Pennsylvania",4.0,21,American (New),$$
+515,Lola Bistro,15233,"Allegheny County, Pennsylvania",4.0,55,American (New),$$
+516,Hyeholde Restaurant,15108,"Allegheny County, Pennsylvania",4.5,99,American (New),$$$
+517,Cure,15201,"Allegheny County, Pennsylvania",4.0,393,American (New),$$$
+518,Acorn Pittsburgh,15232,"Allegheny County, Pennsylvania",4.0,32,American (New),$$$
+519,täk?,15222,"Allegheny County, Pennsylvania",4.5,894,American (New),$$
+520,The Pub At 333,15139,"Allegheny County, Pennsylvania",3.5,55,American (New),$$
+521,Bar 3 Millvale,15209,"Allegheny County, Pennsylvania",4.0,26,American (New),$$
+522,Butterjoint,15213,"Allegheny County, Pennsylvania",4.0,164,American (New),$$
+523,Union Standard,15219,"Allegheny County, Pennsylvania",4.0,102,American (New),$$$
+524,Choolaah Indian BBQ,15206,"Allegheny County, Pennsylvania",4.0,112,Indian,$$
+525,Cafe Delhi,15106,"Allegheny County, Pennsylvania",4.0,127,Indian,$$
+526,Tamarind Savoring India,15220,"Allegheny County, Pennsylvania",4.0,139,Indian,$$
+527,Tamarind,15213,"Allegheny County, Pennsylvania",4.0,208,Indian,$$
+528,Taj Mahal,15237,"Allegheny County, Pennsylvania",4.0,271,Indian,$$
+529,Spice Affair,15215,"Allegheny County, Pennsylvania",4.5,70,Indian,$$
+530,Udipi Cafe,15146,"Allegheny County, Pennsylvania",4.0,290,Indian,$$
+531,Taste of India,15224,"Allegheny County, Pennsylvania",4.0,114,Indian,$$
+532,All India,15213,"Allegheny County, Pennsylvania",4.0,154,Indian,$$
+533,Bangal Kabab House and Restaurant,15213,"Allegheny County, Pennsylvania",4.0,127,Indian,$$
+534,Mintt Indian Cuisine,15146,"Allegheny County, Pennsylvania",4.5,40,Indian,$$
+535,Indian Spices,15222,"Allegheny County, Pennsylvania",3.5,58,Indian,$$
+536,People's Indian Restaurant,15224,"Allegheny County, Pennsylvania",4.0,105,Indian,$$
+537,The Mintt,15216,"Allegheny County, Pennsylvania",3.5,106,Indian,$$
+538,India Palace Cuisine,15222,"Allegheny County, Pennsylvania",3.5,43,Indian,$$
+539,Taal Indian Cuisine,15216,"Allegheny County, Pennsylvania",3.5,16,Indian,$$
+540,Coriander India Grill,15217,"Allegheny County, Pennsylvania",3.0,132,Indian,$$
+541,Sree's Foods,15222,"Allegheny County, Pennsylvania",4.0,52,Indian,$
+542,Prince of India,15213,"Allegheny County, Pennsylvania",3.5,96,Indian,$$
+543,Mezbaan Indian Cuisine,15222,"Allegheny County, Pennsylvania",3.0,26,Indian,$
+544,India Garden,15146,"Allegheny County, Pennsylvania",3.0,72,Indian,$$
+545,Yuva India Kitchen + Bar,15213,"Allegheny County, Pennsylvania",3.0,112,Indian,$$
+546,India on Wheels,15213,"Allegheny County, Pennsylvania",4.0,44,Indian,$
+547,Chakh Le India,15213,"Allegheny County, Pennsylvania",4.0,20,Indian,$
