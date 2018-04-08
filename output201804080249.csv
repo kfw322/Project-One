@@ -1,0 +1,2134 @@
+,name,zipcode,county_string,rating,review_count,category,price,region
+0,Cabo Fish Taco,28205,"Mecklenburg County, North Carolina",4.0,990,Mexican,$$,region
+1,Midwood Smokehouse,28205,"Mecklenburg County, North Carolina",4.5,1281,American (Traditional),$$,region
+2,Sabor Latin Street Grill,28204,"Mecklenburg County, North Carolina",4.5,682,Mexican,$,region
+3,Benny Pennello's,28205,"Mecklenburg County, North Carolina",4.0,234,Italian,$,region
+4,JackBeagles,28205,"Mecklenburg County, North Carolina",4.0,292,American (Traditional),$,region
+5,The Cellar At Duckworth's,28202,"Mecklenburg County, North Carolina",4.5,361,American (New),$$,region
+6,Pinky's Westside Grill,28208,"Mecklenburg County, North Carolina",4.0,856,American (Traditional),$,region
+7,The Fig Tree Restaurant,28204,"Mecklenburg County, North Carolina",4.5,343,American (New),$$$,region
+8,The Fig Tree Restaurant,28204,"Mecklenburg County, North Carolina",4.5,343,Italian,$$$,region
+9,VBGB Beer Hall and Garden,28206,"Mecklenburg County, North Carolina",4.5,326,American (New),$$,region
+10,Dandelion Market,28202,"Mecklenburg County, North Carolina",4.0,553,American (New),$$,region
+11,Growlers Pourhouse,28205,"Mecklenburg County, North Carolina",4.0,201,American (Traditional),$$,region
+12,Alexander Michael's,28202,"Mecklenburg County, North Carolina",4.5,331,American (Traditional),$$,region
+13,Sabor Latin Street Grill - Noda,28205,"Mecklenburg County, North Carolina",4.5,155,Mexican,$,region
+14,Tupelo Honey,28203,"Mecklenburg County, North Carolina",4.0,1180,American (New),$$,region
+15,The King's Kitchen,28202,"Mecklenburg County, North Carolina",4.0,484,American (Traditional),$$,region
+16,Davidson Street Public House,28205,"Mecklenburg County, North Carolina",4.0,136,American (New),$$,region
+17,Three Amigos Mexican Restaurant and Cantina,28205,"Mecklenburg County, North Carolina",4.0,375,Mexican,$,region
+18,300 East,28203,"Mecklenburg County, North Carolina",4.0,582,American (New),$$,region
+19,Rooster's Uptown,28202,"Mecklenburg County, North Carolina",4.0,402,American (New),$$,region
+20,Las Lupitas,28213,"Mecklenburg County, North Carolina",4.5,49,Mexican,$,region
+21,5Church,28202,"Mecklenburg County, North Carolina",3.5,575,American (New),$$,region
+22,Good Food on Montford,28209,"Mecklenburg County, North Carolina",4.5,582,American (New),$$,region
+23,Mimosa Grill,28202,"Mecklenburg County, North Carolina",4.0,426,American (New),$$,region
+24,The Asbury,28202,"Mecklenburg County, North Carolina",4.0,205,American (New),$$,region
+25,Midnight Diner,28202,"Mecklenburg County, North Carolina",4.0,612,American (Traditional),$,region
+26,Mama Ricotta's,28204,"Mecklenburg County, North Carolina",4.0,415,Italian,$$,region
+27,Papi Queso,28202,"Mecklenburg County, North Carolina",4.5,127,American (New),$,region
+28,Lebowski's Neighborhood Grill,28203,"Mecklenburg County, North Carolina",4.5,335,American (Traditional),$$,region
+29,Carpe Diem Restaurant & Caterers,28204,"Mecklenburg County, North Carolina",4.0,174,American (New),$$$,region
+30,JJ's Red Hots - Dilworth,28203,"Mecklenburg County, North Carolina",4.0,349,American (Traditional),$,region
+31,Vivace,28204,"Mecklenburg County, North Carolina",3.5,400,Italian,$$,region
+32,Luce Restaurant & Bar,28202,"Mecklenburg County, North Carolina",4.0,170,Italian,$$$,region
+33,Pizzeria Omaggio,28204,"Mecklenburg County, North Carolina",4.5,169,Italian,$$,region
+34,Luciano's Ristorante Italiano,28203,"Mecklenburg County, North Carolina",4.0,275,Italian,$$,region
+35,Aria,28202,"Mecklenburg County, North Carolina",3.5,322,Italian,$$,region
+36,Aria,28202,"Mecklenburg County, North Carolina",3.5,322,American (New),$$,region
+37,Diamond Restaurant,28205,"Mecklenburg County, North Carolina",3.5,328,American (New),$,region
+38,Vapiano,28202,"Mecklenburg County, North Carolina",3.5,390,Italian,$$,region
+39,Sandwich Max,28204,"Mecklenburg County, North Carolina",4.5,113,American (Traditional),$,region
+40,Solstice Tavern,28205,"Mecklenburg County, North Carolina",3.5,129,American (Traditional),$,region
+41,Copper,28203,"Mecklenburg County, North Carolina",4.0,332,Indian,$$,region
+42,Kid Cashew,28203,"Mecklenburg County, North Carolina",4.0,308,American (New),$$,region
+43,Lupie's Cafe,28205,"Mecklenburg County, North Carolina",4.0,201,American (Traditional),$,region
+44,Fahrenheit,28202,"Mecklenburg County, North Carolina",3.0,569,American (New),$$$,region
+45,Letty's,28205,"Mecklenburg County, North Carolina",4.0,73,American (New),$$,region
+46,Pint Central,28204,"Mecklenburg County, North Carolina",4.0,175,American (New),$$,region
+47,Vida Mexican Kitchen y Cantina,28202,"Mecklenburg County, North Carolina",3.5,364,Mexican,$$,region
+48,Portofino's Italian Restaurant & Pizzeria,28205,"Mecklenburg County, North Carolina",4.0,143,Italian,$$,region
+49,Stoke Charlotte,28202,"Mecklenburg County, North Carolina",4.0,133,American (New),$$,region
+50,Thomas Street Tavern,28205,"Mecklenburg County, North Carolina",4.0,147,American (Traditional),$,region
+51,Savor Cafe & Catering,28208,"Mecklenburg County, North Carolina",4.0,164,American (New),$$,region
+52,The Dumpling Lady,28205,"Mecklenburg County, North Carolina",4.5,72,Chinese,$,region
+53,Hawthorne's NY Pizza & Bar,28204,"Mecklenburg County, North Carolina",4.0,173,Italian,$$,region
+54,Customshop Handcrafted Food,28204,"Mecklenburg County, North Carolina",4.0,183,American (New),$$$,region
+55,Napa on Providence,28207,"Mecklenburg County, North Carolina",4.0,199,American (New),$$,region
+56,Whiskey Warehouse,28203,"Mecklenburg County, North Carolina",3.5,266,American (New),$$,region
+57,Rock Bottom Restaurant & Brewery,28202,"Mecklenburg County, North Carolina",3.0,310,American (Traditional),$$,region
+58,Rock Bottom Restaurant & Brewery,28202,"Mecklenburg County, North Carolina",3.0,310,American (New),$$,region
+59,The Peculiar Rabbit,28205,"Mecklenburg County, North Carolina",3.0,443,American (New),$$,region
+60,Que Onda Tacos Uptown,28202,"Mecklenburg County, North Carolina",4.0,136,Mexican,$$,region
+61,Flying Saucer Draught Emporium,28262,"Mecklenburg County, North Carolina",4.0,241,American (Traditional),$$,region
+62,The Pizza Peel,28205,"Mecklenburg County, North Carolina",3.5,136,Italian,$$,region
+63,Wooden Vine Wine Bar & Bistro,28202,"Mecklenburg County, North Carolina",3.5,136,American (New),$$,region
+64,Eddie's Place,28211,"Mecklenburg County, North Carolina",4.0,270,American (Traditional),$$,region
+65,204 North Kitchen & Cocktails,28202,"Mecklenburg County, North Carolina",3.5,176,American (New),$$,region
+66,Fenwick's,28207,"Mecklenburg County, North Carolina",4.0,109,American (Traditional),$$,region
+67,DeSano Pizzeria Napoletana,28204,"Mecklenburg County, North Carolina",4.0,96,Italian,$$,region
+68,Mortimer's Cafe and Pub,28202,"Mecklenburg County, North Carolina",3.5,164,American (Traditional),$$,region
+69,Duckworth's Grill & Taphouse,28202,"Mecklenburg County, North Carolina",3.5,248,American (Traditional),$$,region
+70,Johnny Burrito,28282,"Mecklenburg County, North Carolina",4.5,88,Mexican,$,region
+71,Stagioni Four Seasons of Food,28207,"Mecklenburg County, North Carolina",4.0,131,Italian,$$$,region
+72,Passage To India,28213,"Mecklenburg County, North Carolina",4.0,260,Indian,$$,region
+73,Bernardin's Restaurant,28202,"Mecklenburg County, North Carolina",4.0,114,American (New),$$$,region
+74,Pike's Old Fashioned Soda Shop,28203,"Mecklenburg County, North Carolina",3.5,272,American (Traditional),$$,region
+75,Draught,28202,"Mecklenburg County, North Carolina",3.5,205,American (New),$$,region
+76,City Smoke,28202,"Mecklenburg County, North Carolina",3.5,194,American (Traditional),$$,region
+77,Cantina 1511,28209,"Mecklenburg County, North Carolina",3.5,460,Mexican,$$,region
+78,Morton's The Steakhouse,28202,"Mecklenburg County, North Carolina",4.0,116,American (Traditional),$$$$,region
+79,Mac's Speed Shop,28203,"Mecklenburg County, North Carolina",4.0,192,American (Traditional),$$,region
+80,Zio Casual Italian,28207,"Mecklenburg County, North Carolina",4.0,111,Italian,$$,region
+81,Soho Bistro,28202,"Mecklenburg County, North Carolina",3.5,137,Chinese,$$,region
+82,Duckworth's Kitchen & Taphouse,28209,"Mecklenburg County, North Carolina",4.0,290,American (Traditional),$$,region
+83,Fran's Filling Station,28203,"Mecklenburg County, North Carolina",4.0,201,American (New),$$,region
+84,Fran's Filling Station,28203,"Mecklenburg County, North Carolina",4.0,201,American (Traditional),$$,region
+85,Fonda Las Cazuelas,28213,"Mecklenburg County, North Carolina",4.0,38,Mexican,$$,region
+86,Brixx Wood Fired Pizza,28202,"Mecklenburg County, North Carolina",3.5,127,Italian,$$,region
+87,Leroy Fox,28211,"Mecklenburg County, North Carolina",3.5,280,American (New),$$,region
+88,RuRu's Tacos + Tequila,28207,"Mecklenburg County, North Carolina",3.5,274,Mexican,$$,region
+89,Nothing But Noodles,28204,"Mecklenburg County, North Carolina",4.0,79,Italian,$,region
+90,Ink N Ivy CLT,28202,"Mecklenburg County, North Carolina",3.0,299,American (New),$$,region
+91,Ginbu 401,28207,"Mecklenburg County, North Carolina",3.5,172,Chinese,$$,region
+92,McNinch House Restaurant,28202,"Mecklenburg County, North Carolina",4.0,61,American (New),$$$$,region
+93,Foxcroft Wine Co - Dilworth,28203,"Mecklenburg County, North Carolina",4.0,69,American (New),$$,region
+94,Persuasian Restaurant,28203,"Mecklenburg County, North Carolina",4.0,96,Chinese,$$,region
+95,Boardwalk Billy's Raw Bar And Ribs,28262,"Mecklenburg County, North Carolina",3.5,242,American (Traditional),$$,region
+96,Dilworth Neighborhood Grille,28204,"Mecklenburg County, North Carolina",3.5,180,American (Traditional),$$,region
+97,Carolina Ale House,28244,"Mecklenburg County, North Carolina",3.0,321,American (Traditional),$$,region
+98,The Pizza Peel,28211,"Mecklenburg County, North Carolina",4.0,150,Italian,$$,region
+99,Azteca Mexican Restaurant,28217,"Mecklenburg County, North Carolina",3.5,256,Mexican,$$,region
+100,Las Margaritas,28205,"Mecklenburg County, North Carolina",4.0,92,Mexican,$,region
+101,Dolce Ristorante,28203,"Mecklenburg County, North Carolina",3.5,155,Italian,$$,region
+102,Dolce Ristorante,28203,"Mecklenburg County, North Carolina",3.5,155,American (New),$$,region
+103,Bisonte Pizza,28202,"Mecklenburg County, North Carolina",4.0,57,Italian,$$,region
+104,Aix en Provence,28207,"Mecklenburg County, North Carolina",4.5,40,Italian,$$$,region
+105,Libretto's Pizzeria,28202,"Mecklenburg County, North Carolina",3.0,193,Italian,$,region
+106,El Taco Veloz,28213,"Mecklenburg County, North Carolina",4.0,44,Mexican,$,region
+107,Coaltrane's Char Grill,28205,"Mecklenburg County, North Carolina",4.0,56,American (Traditional),$,region
+108,Burtons Grill & Bar of Charlotte,28209,"Mecklenburg County, North Carolina",4.0,166,American (New),$$,region
+109,Studio Movie Grill,28202,"Mecklenburg County, North Carolina",2.5,381,American (Traditional),$$,region
+110,1900 Mexican Grill,28204,"Mecklenburg County, North Carolina",3.0,137,Mexican,$$,region
+111,Persis Biryani Indian Grill,28269,"Mecklenburg County, North Carolina",4.0,147,Indian,$$,region
+112,The Suffolk Punch,28203,"Mecklenburg County, North Carolina",4.0,125,American (New),$$,region
+113,Crisp,28203,"Mecklenburg County, North Carolina",3.5,101,American (New),$,region
+114,Portofino's,28209,"Mecklenburg County, North Carolina",4.0,184,Italian,$$,region
+115,Giacomo's Pizzeria and Italian Restaurant,28262,"Mecklenburg County, North Carolina",4.0,129,Italian,$$,region
+116,The Turnhouse Grille,28209,"Mecklenburg County, North Carolina",4.5,70,American (Traditional),$$,region
+117,Picante Mexican Grill,28208,"Mecklenburg County, North Carolina",3.5,85,Mexican,$,region
+118,88 China Bistro,28204,"Mecklenburg County, North Carolina",3.5,78,Chinese,$$,region
+119,Hickory Tavern,28204,"Mecklenburg County, North Carolina",3.5,123,American (Traditional),$$,region
+120,Hot Taco,28203,"Mecklenburg County, North Carolina",2.5,345,Mexican,$$,region
+121,Bonterra Restaurant & Wine Room,28203,"Mecklenburg County, North Carolina",3.5,130,American (New),$$$,region
+122,Tijuana Flats,28262,"Mecklenburg County, North Carolina",4.0,61,Mexican,$,region
+123,Libations Kitchen & Bar,28202,"Mecklenburg County, North Carolina",4.5,44,American (New),$$,region
+124,Ho Ho Cherry House,28204,"Mecklenburg County, North Carolina",3.0,116,Chinese,$,region
+125,SouthBound,28203,"Mecklenburg County, North Carolina",3.5,259,Mexican,$$,region
+126,Green's Lunch,28202,"Mecklenburg County, North Carolina",3.5,62,American (Traditional),$,region
+127,Tavern On The Tracks,28203,"Mecklenburg County, North Carolina",3.0,163,American (Traditional),$$,region
+128,Fidelli Kitchen,28203,"Mecklenburg County, North Carolina",3.5,75,Italian,$,region
+129,Blackfinn Ameripub,28202,"Mecklenburg County, North Carolina",3.0,104,American (New),$$,region
+130,Namastay Kitchen and Hangout,28211,"Mecklenburg County, North Carolina",4.0,94,American (New),$$,region
+131,Amalfi's Pasta 'n' Pizza,28213,"Mecklenburg County, North Carolina",4.0,68,Italian,$$,region
+132,Taipei Express,28207,"Mecklenburg County, North Carolina",4.0,73,Chinese,$,region
+133,Cedar Street Tavern,28202,"Mecklenburg County, North Carolina",3.5,62,American (Traditional),$$,region
+134,Tony's Pizza,28078,"Mecklenburg County, North Carolina",4.5,107,Italian,$,region
+135,Azteca Mexican Restaurant,28269,"Mecklenburg County, North Carolina",3.5,141,Mexican,$$,region
+136,Wet Willie's,28206,"Mecklenburg County, North Carolina",3.0,78,American (Traditional),$$,region
+137,The Roasting Company,28205,"Mecklenburg County, North Carolina",3.5,42,American (Traditional),$$,region
+138,All American Pub,28203,"Mecklenburg County, North Carolina",3.0,161,American (New),$$,region
+139,Ciro's Italian Restaurant,28262,"Mecklenburg County, North Carolina",4.0,75,Italian,$$,region
+140,Stockyard Restaurant,28216,"Mecklenburg County, North Carolina",4.5,36,American (Traditional),$,region
+141,Tacos El Nevado,28205,"Mecklenburg County, North Carolina",4.0,31,Mexican,$,region
+142,Ed's Tavern,28203,"Mecklenburg County, North Carolina",3.5,111,American (Traditional),$$,region
+143,Don Pedro Mexican Restaurant,28213,"Mecklenburg County, North Carolina",3.5,100,Mexican,$$,region
+144,French Quarter,28202,"Mecklenburg County, North Carolina",3.5,87,American (Traditional),$$,region
+145,Maharani Indian Cuisine,28204,"Mecklenburg County, North Carolina",3.0,138,Indian,$$,region
+146,Cheddar's Scratch Kitchen,28262,"Mecklenburg County, North Carolina",3.0,194,American (Traditional),$$,region
+147,Red Rocks Cafe,28211,"Mecklenburg County, North Carolina",4.0,137,American (Traditional),$$,region
+148,Old Pineville Premium Pub,28217,"Mecklenburg County, North Carolina",4.5,60,American (Traditional),$$,region
+149,Chipotle Mexican Grill,28203,"Mecklenburg County, North Carolina",3.5,102,Mexican,$,region
+150,La Unica,28204,"Mecklenburg County, North Carolina",3.5,86,Mexican,$,region
+151,Comet Grill,28203,"Mecklenburg County, North Carolina",4.0,54,American (Traditional),$,region
+152,Whisky River ,28202,"Mecklenburg County, North Carolina",2.5,222,American (Traditional),$$,region
+153,China Buffet,28205,"Mecklenburg County, North Carolina",3.5,72,Chinese,$$,region
+154,The Packhouse,28202,"Mecklenburg County, North Carolina",3.5,63,American (Traditional),$$,region
+155,Moosehead Grill,28209,"Mecklenburg County, North Carolina",4.0,109,American (Traditional),$$,region
+156,Zapata's Cantina Mexican Restaurant,28262,"Mecklenburg County, North Carolina",3.0,118,Mexican,$$,region
+157,Vida Vida,28202,"Mecklenburg County, North Carolina",3.0,75,Mexican,$,region
+158,The Daily,28202,"Mecklenburg County, North Carolina",4.5,21,American (New),$$,region
+159,Monterrey Mexican Restaurant,28213,"Mecklenburg County, North Carolina",3.5,76,Mexican,$$,region
+160,AQUA e VINO,28211,"Mecklenburg County, North Carolina",4.5,41,Italian,$$$,region
+161,The Brass Tap - South End,28203,"Mecklenburg County, North Carolina",3.0,120,American (New),$$,region
+162,South 21 Family Restaurant,28213,"Mecklenburg County, North Carolina",4.0,27,American (Traditional),$,region
+163,Chuck's Grill,28269,"Mecklenburg County, North Carolina",4.0,49,American (Traditional),$,region
+164,P.F. Chang's,28216,"Mecklenburg County, North Carolina",3.0,190,Chinese,$$,region
+165,Beijing Chinese Cuisine,28203,"Mecklenburg County, North Carolina",3.5,83,Chinese,$,region
+166,JP Charlotte at Westin,28202,"Mecklenburg County, North Carolina",4.0,28,American (Traditional),$$,region
+167,Brazwells Premium Pub,28209,"Mecklenburg County, North Carolina",3.5,130,American (New),$$,region
+168,King of Spicy,28227,"Mecklenburg County, North Carolina",3.5,84,Indian,$$,region
+169,Fresh Chef Kitchen,28211,"Mecklenburg County, North Carolina",4.5,34,American (Traditional),$$,region
+170,House Of Leng At Boardwalk,28262,"Mecklenburg County, North Carolina",3.5,95,Chinese,$$,region
+171,Golden Taipei,28269,"Mecklenburg County, North Carolina",3.5,79,Chinese,$$,region
+172,Skyland Family Restaurant,28209,"Mecklenburg County, North Carolina",3.5,102,American (Traditional),$,region
+173,Toscana,28211,"Mecklenburg County, North Carolina",3.5,100,Italian,$$$,region
+174,Chipotle Mexican Grill,28204,"Mecklenburg County, North Carolina",3.5,56,Mexican,$,region
+175,Bar Louie,28262,"Mecklenburg County, North Carolina",3.0,135,American (New),$$,region
+176,China Buffet,28262,"Mecklenburg County, North Carolina",3.5,80,Chinese,$$,region
+177,Los Arcos,28262,"Mecklenburg County, North Carolina",3.5,66,Mexican,$,region
+178,East Coast Wings & Grill,28216,"Mecklenburg County, North Carolina",3.5,127,American (Traditional),$$,region
+179,Urban Cookhouse,28209,"Mecklenburg County, North Carolina",4.0,69,American (New),$$,region
+180,Tacos El Regio,28227,"Mecklenburg County, North Carolina",4.5,18,Mexican,$,region
+181,Clover Joe's,28202,"Mecklenburg County, North Carolina",4.5,23,Italian,$,region
+182,The World Famous Open Kitchen,28208,"Mecklenburg County, North Carolina",3.0,111,Italian,$$,region
+183,Wild Wing Cafe,28202,"Mecklenburg County, North Carolina",2.5,139,American (Traditional),$$,region
+184,LongHorn Steakhouse,28262,"Mecklenburg County, North Carolina",3.5,60,American (Traditional),$$,region
+185,Fiesta Maya,28269,"Mecklenburg County, North Carolina",3.5,74,Mexican,$,region
+186,Angry Ale's,28209,"Mecklenburg County, North Carolina",3.0,142,American (Traditional),$$,region
+187,Tin Roof,28202,"Mecklenburg County, North Carolina",3.0,87,American (Traditional),$,region
+188,Oakhurst Grill,28205,"Mecklenburg County, North Carolina",4.5,19,American (Traditional),$,region
+189,Antonio's Pizza,28262,"Mecklenburg County, North Carolina",4.5,28,Italian,$,region
+190,Gin Mill South End,28203,"Mecklenburg County, North Carolina",3.5,48,American (New),$,region
+191,Antojitos Don Sammy,28214,"Mecklenburg County, North Carolina",4.5,21,Mexican,$,region
+192,The Local,28202,"Mecklenburg County, North Carolina",3.5,51,American (Traditional),$$,region
+193,Pei Wei,28262,"Mecklenburg County, North Carolina",3.5,58,Chinese,$,region
+194,Madras Cafe,28269,"Mecklenburg County, North Carolina",4.0,80,Indian,$$,region
+195,China Palace,28262,"Mecklenburg County, North Carolina",4.0,70,Chinese,$,region
+196,House of Leng,28262,"Mecklenburg County, North Carolina",3.5,89,Chinese,$$,region
+197,Salsarita's Fresh Mexican Grill,28202,"Mecklenburg County, North Carolina",3.5,28,Mexican,$,region
+198,Bleu Barn Bistro,28217,"Mecklenburg County, North Carolina",4.5,35,American (Traditional),$,region
+199,Nirvana II,28202,"Mecklenburg County, North Carolina",3.5,52,Indian,$,region
+200,Bedder Bedder & Moore Montford-Abbey,28209,"Mecklenburg County, North Carolina",4.0,48,American (Traditional),$,region
+201,Angeline's,28202,"Mecklenburg County, North Carolina",3.5,56,Italian,$$$,region
+202,B Good,28285,"Mecklenburg County, North Carolina",3.5,44,American (Traditional),$$,region
+203,US Fried Chicken,28262,"Mecklenburg County, North Carolina",3.5,33,American (Traditional),$,region
+204,Parry's Pizzeria & Bar,28216,"Mecklenburg County, North Carolina",4.0,48,American (Traditional),$$,region
+205,Lempira Restaurant,28205,"Mecklenburg County, North Carolina",3.5,32,Mexican,$$,region
+206,Panda's Den,28215,"Mecklenburg County, North Carolina",4.0,39,Chinese,$,region
+207,Libretto's Pizzeria,28209,"Mecklenburg County, North Carolina",3.0,118,Italian,$$,region
+208,Carnitas Guanajuato Mexican Restaurant,28212,"Mecklenburg County, North Carolina",4.0,34,Mexican,$,region
+209,Bobbee O's BBQ,28269,"Mecklenburg County, North Carolina",3.5,89,American (Traditional),$$,region
+210,Dot Dot Dot,28209,"Mecklenburg County, North Carolina",3.5,73,American (New),$$,region
+211,Queen Park Social,28217,"Mecklenburg County, North Carolina",3.0,127,American (Traditional),$$,region
+212,Maria's Grill,28262,"Mecklenburg County, North Carolina",3.5,36,American (New),$,region
+213,Coastal Kitchen & Bar,28202,"Mecklenburg County, North Carolina",3.5,28,American (New),$$,region
+214,Whooli's Grill,28227,"Mecklenburg County, North Carolina",4.0,47,American (New),$$,region
+215,Maria's Mexican Restaurant,28217,"Mecklenburg County, North Carolina",3.5,76,Mexican,$,region
+216,Morazan Restaurant,28205,"Mecklenburg County, North Carolina",3.5,29,Mexican,$$,region
+217,Fonda La Taquiza,28205,"Mecklenburg County, North Carolina",4.0,35,Mexican,$,region
+218,Sithara,28262,"Mecklenburg County, North Carolina",4.0,33,Indian,$$,region
+219,Zanzibar Cafe,28206,"Mecklenburg County, North Carolina",3.5,9,American (Traditional),$$,region
+220,QDOBA Mexican Eats,28262,"Mecklenburg County, North Carolina",4.0,31,Mexican,$,region
+221,The Burrito Factory,28262,"Mecklenburg County, North Carolina",4.0,38,Mexican,$,region
+222,The Burrito Factory,28262,"Mecklenburg County, North Carolina",4.0,38,American (Traditional),$,region
+223,Sabor Latin Street Grill - SouthPark,28211,"Mecklenburg County, North Carolina",4.0,51,Mexican,$,region
+224,Delicias Restaurante Latino,28212,"Mecklenburg County, North Carolina",4.5,14,Mexican,$,region
+225,Rajbhog Indian Food Market & Cafe,28262,"Mecklenburg County, North Carolina",3.5,44,Indian,$,region
+226,American Burger - Uptown,28202,"Mecklenburg County, North Carolina",3.0,64,American (Traditional),$$,region
+227,La Revolucion,28206,"Mecklenburg County, North Carolina",2.5,47,Mexican,$$,region
+228,Merchant & Trade,28202,"Mecklenburg County, North Carolina",3.0,59,American (New),$$,region
+229,SoCal Taco Stand,28202,"Mecklenburg County, North Carolina",4.0,17,Mexican,$,region
+230,Tacos El Nevado,28209,"Mecklenburg County, North Carolina",4.0,30,Mexican,$,region
+231,Nest Restaurant & Lounge,28202,"Mecklenburg County, North Carolina",3.5,20,American (New),$$,region
+232,On The Border Mexican Grill & Cantina,28216,"Mecklenburg County, North Carolina",3.5,67,Mexican,$$,region
+233,Farley's Crafted Pizzeria,28262,"Mecklenburg County, North Carolina",3.5,52,Italian,$$,region
+234,Cracker Barrel Old Country Store,28208,"Mecklenburg County, North Carolina",3.5,69,American (Traditional),$,region
+235,Providence Road Sundries,28207,"Mecklenburg County, North Carolina",3.5,36,American (Traditional),$,region
+236,Carolina Family Restaurant,28208,"Mecklenburg County, North Carolina",4.0,31,American (Traditional),$,region
+237,Red Robin Gourmet Burgers,28262,"Mecklenburg County, North Carolina",3.0,58,American (Traditional),$$,region
+238,1900 Mexican Grill,28209,"Mecklenburg County, North Carolina",3.5,81,Mexican,$$,region
+239,Locker Room Sports Bar & Grill,28217,"Mecklenburg County, North Carolina",4.0,31,American (Traditional),$,region
+240,The Village,28206,"Mecklenburg County, North Carolina",3.5,10,American (Traditional),$,region
+241,Cantina 1511,28202,"Mecklenburg County, North Carolina",3.0,53,Mexican,$$,region
+242,FireWater,28262,"Mecklenburg County, North Carolina",2.5,94,American (New),$$,region
+243,Ale's University,28262,"Mecklenburg County, North Carolina",3.5,49,American (Traditional),$$,region
+244,Romano's Macaroni Grill,28262,"Mecklenburg County, North Carolina",2.5,91,Italian,$$,region
+245,MezzaNotte Brick Oven Pizza,28211,"Mecklenburg County, North Carolina",3.5,59,Italian,$$,region
+246,Zia Pia Imports,28202,"Mecklenburg County, North Carolina",4.5,9,Italian,$,region
+247,Lupitas Carniceria & Tortilleria,28217,"Mecklenburg County, North Carolina",4.5,16,Mexican,$,region
+248,Chex Grill,28208,"Mecklenburg County, North Carolina",4.0,23,American (New),$,region
+249,Hwy 55 Burgers Shakes & Fries,28269,"Mecklenburg County, North Carolina",3.0,55,American (Traditional),$,region
+250,La Espiga,28213,"Mecklenburg County, North Carolina",5.0,4,Mexican,$,region
+251,Jocks & Jills Sports Grille,28217,"Mecklenburg County, North Carolina",3.5,123,American (Traditional),$$,region
+252,O'Charley's Restaurant & Bar,28213,"Mecklenburg County, North Carolina",3.0,54,American (Traditional),$$,region
+253,Buffalo Wild Wings,28202,"Mecklenburg County, North Carolina",2.0,147,American (Traditional),$$,region
+254,Moe's Southwest Grill,28202,"Mecklenburg County, North Carolina",3.0,28,Mexican,$,region
+255,Great Wok,28202,"Mecklenburg County, North Carolina",2.5,72,Chinese,$,region
+256,Gardenia Restaurant,28208,"Mecklenburg County, North Carolina",3.5,24,American (Traditional),$,region
+257,Chipotle Mexican Grill,28211,"Mecklenburg County, North Carolina",3.0,57,Mexican,$,region
+258,Tacos El Nevado,28209,"Mecklenburg County, North Carolina",4.5,12,Mexican,$,region
+259,Chipotle Mexican Grill,28262,"Mecklenburg County, North Carolina",2.5,71,Mexican,$,region
+260,Angela's,28227,"Mecklenburg County, North Carolina",3.5,64,Italian,$$,region
+261,China Bowl,28205,"Mecklenburg County, North Carolina",3.5,15,Chinese,$,region
+262,Moe's Southwest Grill,28203,"Mecklenburg County, North Carolina",3.0,42,Mexican,$,region
+263,Park Road Soda Shoppe,28209,"Mecklenburg County, North Carolina",4.0,26,American (Traditional),$,region
+264,Hooters,28202,"Mecklenburg County, North Carolina",2.5,79,American (Traditional),$$,region
+265,Hickory Tavern,28269,"Mecklenburg County, North Carolina",3.0,81,American (Traditional),$$,region
+266,Just Fresh Bakery Cafe,28203,"Mecklenburg County, North Carolina",3.0,29,American (Traditional),$,region
+267,Menus Restaurant,28217,"Mecklenburg County, North Carolina",4.0,23,American (Traditional),$,region
+268,Sonny's BBQ,28217,"Mecklenburg County, North Carolina",3.0,94,American (New),$$,region
+269,Lucky Lou's Tavern,28209,"Mecklenburg County, North Carolina",3.5,46,American (New),$,region
+270,China Cafe,28262,"Mecklenburg County, North Carolina",3.0,68,Chinese,$,region
+271,Godavari,28262,"Mecklenburg County, North Carolina",3.0,35,Indian,$$,region
+272,Taqueria Express,28227,"Mecklenburg County, North Carolina",3.5,20,Mexican,$,region
+273,Fox & Hound,28216,"Mecklenburg County, North Carolina",3.0,92,American (Traditional),$$,region
+274,Red Robin Gourmet Burgers,28216,"Mecklenburg County, North Carolina",3.0,72,American (Traditional),$$,region
+275,Shun Lee Palace,28211,"Mecklenburg County, North Carolina",3.0,84,Chinese,$$,region
+276,Niki's Food Shop,28216,"Mecklenburg County, North Carolina",3.5,13,American (Traditional),$,region
+277,Hickory Tavern,28262,"Mecklenburg County, North Carolina",2.5,84,American (Traditional),$$,region
+278,QDOBA Mexican Eats,28202,"Mecklenburg County, North Carolina",3.0,22,Mexican,$,region
+279,Boston Market,28207,"Mecklenburg County, North Carolina",3.5,18,American (Traditional),$,region
+280,Olive Garden Italian Restaurant,28216,"Mecklenburg County, North Carolina",3.0,89,Italian,$$,region
+281,Chipotle Mexican Grill,28216,"Mecklenburg County, North Carolina",3.5,23,Mexican,$,region
+282,Tavolo,28202,"Mecklenburg County, North Carolina",3.5,87,Italian,$$,region
+283,The Charlotte Cafe,28209,"Mecklenburg County, North Carolina",3.0,64,American (Traditional),$$,region
+284,Mandarin Chinese Restaurant,28078,"Mecklenburg County, North Carolina",3.5,39,Chinese,$,region
+285,Clove Indian Cuisine,28262,"Mecklenburg County, North Carolina",4.5,16,Indian,$$,region
+286,Edgewater Bar & Grille,28262,"Mecklenburg County, North Carolina",3.5,15,American (Traditional),$$,region
+287,Competition Dining: Fire in the City,28203,"Mecklenburg County, North Carolina",5.0,4,American (New),$$$$,region
+288,Lai Lai Express,28209,"Mecklenburg County, North Carolina",3.5,30,Chinese,$,region
+289,Hong Kong Restaurant,28205,"Mecklenburg County, North Carolina",2.5,26,Chinese,$,region
+290,Chili's,28262,"Mecklenburg County, North Carolina",2.5,54,American (Traditional),$$,region
+291,House of Pizza,28205,"Mecklenburg County, North Carolina",3.5,76,Italian,$,region
+292,Salsarita's Fresh Mexican Grill,28262,"Mecklenburg County, North Carolina",3.5,23,Mexican,$,region
+293,Plato Pronto,28216,"Mecklenburg County, North Carolina",4.5,7,Mexican,$,region
+294,Morazán Restaurante,28217,"Mecklenburg County, North Carolina",3.5,31,Mexican,$,region
+295,Flo Bar & Lounge,28262,"Mecklenburg County, North Carolina",2.5,32,American (Traditional),$$,region
+296,Flo Bar & Lounge,28262,"Mecklenburg County, North Carolina",2.5,32,Mexican,$$,region
+297,Waffle House,28217,"Mecklenburg County, North Carolina",3.0,30,American (Traditional),$,region
+298,El Tropico,28213,"Mecklenburg County, North Carolina",3.5,3,Mexican,$$,region
+299,IHOP,28262,"Mecklenburg County, North Carolina",2.5,44,American (Traditional),$,region
+300,QDOBA Mexican Eats,28209,"Mecklenburg County, North Carolina",3.0,25,Mexican,$,region
+301,Waffle House,28208,"Mecklenburg County, North Carolina",3.5,30,American (New),$,region
+302,Happy Grill,28227,"Mecklenburg County, North Carolina",4.5,19,American (Traditional),$,region
+303,Boulevard 1820,28203,"Mecklenburg County, North Carolina",4.0,27,American (New),$$$,region
+304,Salsarita's Fresh Mexican Grill,28208,"Mecklenburg County, North Carolina",3.5,44,Mexican,$,region
+305,Morehead Tavern,28202,"Mecklenburg County, North Carolina",3.0,17,American (Traditional),$,region
+306,Wing Heaven,28217,"Mecklenburg County, North Carolina",4.0,17,Chinese,$,region
+307,Buffalo Wild Wings,28216,"Mecklenburg County, North Carolina",2.5,88,American (Traditional),$$,region
+308,LittleSpoon,28209,"Mecklenburg County, North Carolina",3.5,247,American (New),$$,region
+309,Hop Feng 2,28227,"Mecklenburg County, North Carolina",4.0,20,Chinese,$,region
+310,Hong Phat Restaurant,28208,"Mecklenburg County, North Carolina",4.0,8,Chinese,$,region
+311,Big Al's Pub & Grubberia,28227,"Mecklenburg County, North Carolina",3.5,27,American (Traditional),$$,region
+312,China Fun,28227,"Mecklenburg County, North Carolina",3.5,29,Chinese,$,region
+313,China Inn,28262,"Mecklenburg County, North Carolina",3.0,8,Chinese,$,region
+314,Wild Wing Cafe,28262,"Mecklenburg County, North Carolina",2.5,66,American (Traditional),$$,region
+315,The Press Box Bar & Grill,28262,"Mecklenburg County, North Carolina",2.5,37,American (Traditional),$,region
+316,Denny's,28216,"Mecklenburg County, North Carolina",2.5,34,American (Traditional),$$,region
+317,Dragon House Chinese Buffet,28209,"Mecklenburg County, North Carolina",3.0,40,Chinese,$,region
+318,Recess Charlotte,28204,"Mecklenburg County, North Carolina",3.0,20,American (New),$,region
+319,TGI Fridays,28262,"Mecklenburg County, North Carolina",2.0,105,American (Traditional),$$,region
+320,Taco Bell,28203,"Mecklenburg County, North Carolina",2.5,21,Mexican,$,region
+321,Showmars,28208,"Mecklenburg County, North Carolina",3.5,15,American (New),$$,region
+322,Lotus Buffet,28262,"Mecklenburg County, North Carolina",2.5,41,Chinese,$,region
+323,Greystone Pub,28209,"Mecklenburg County, North Carolina",3.5,20,American (Traditional),$,region
+324,Hwy 55 Burgers Shakes & Fries,28262,"Mecklenburg County, North Carolina",2.5,24,American (Traditional),$,region
+325,Taco Bell,28262,"Mecklenburg County, North Carolina",3.0,27,Mexican,$,region
+326,IHOP,28211,"Mecklenburg County, North Carolina",2.5,43,American (Traditional),$,region
+327,Salsarita's Fresh Mexican Grill,28211,"Mecklenburg County, North Carolina",3.0,30,Mexican,$,region
+328,Curry n Cake,28262,"Mecklenburg County, North Carolina",2.5,34,Indian,$$,region
+329,Moe's Southwest Grill,28213,"Mecklenburg County, North Carolina",3.0,17,Mexican,$,region
+330,A Mouthful Concessions & Catering,28208,"Mecklenburg County, North Carolina",4.0,6,American (Traditional),$$,region
+331,Bob Evans,28269,"Mecklenburg County, North Carolina",3.0,36,American (Traditional),$,region
+332,Factory Cafe,28206,"Mecklenburg County, North Carolina",2.5,29,American (New),$$,region
+333,Moe's Southwest Grill,28216,"Mecklenburg County, North Carolina",3.0,36,Mexican,$,region
+334,Showmars Government Center,28202,"Mecklenburg County, North Carolina",3.5,8,American (Traditional),$,region
+335,Bang Bang South End,28203,"Mecklenburg County, North Carolina",3.5,19,American (New),$$,region
+336,Fortune Cookie,28204,"Mecklenburg County, North Carolina",2.5,27,Chinese,$,region
+337,Pudina,28217,"Mecklenburg County, North Carolina",3.5,23,Indian,$$,region
+338,Taqueria La Unica,28205,"Mecklenburg County, North Carolina",2.5,11,Mexican,$,region
+339,Lotus Chinese Cuisine,28269,"Mecklenburg County, North Carolina",3.0,20,Chinese,$,region
+340,Trade Restaurant and Bar,28202,"Mecklenburg County, North Carolina",3.5,10,American (New),$$,region
+341,Blackboard Cafe,83873,"Shoshone County, Idaho",5.0,36,Italian,$,region
+342,City Limits Brew Pub,83873,"Shoshone County, Idaho",4.5,79,American (New),$$,region
+343,1313 Club Historic Saloon & Grill,83873,"Shoshone County, Idaho",4.0,70,American (Traditional),$$,region
+344,Moose Creek Grill,83837,"Shoshone County, Idaho",4.5,57,American (Traditional),$$$,region
+345,Outlaw Bar & Grill,83846,"Shoshone County, Idaho",4.5,8,American (Traditional),$,region
+346,Casa De Oro,83837,"Shoshone County, Idaho",4.5,41,Mexican,$$,region
+347,Best Shots Grill,83837,"Shoshone County, Idaho",4.5,28,American (Traditional),$$,region
+348,Hill Street Depot,83837,"Shoshone County, Idaho",4.5,20,American (Traditional),$,region
+349,The Fainting Goat a Wine Bar,83873,"Shoshone County, Idaho",4.5,48,American (New),$$,region
+350,Mountain Cafe and Catering,83837,"Shoshone County, Idaho",4.0,10,American (Traditional),$,region
+351,Sam's Restaurant,83837,"Shoshone County, Idaho",3.0,24,American (Traditional),$,region
+352,Noah's Canteen,83837,"Shoshone County, Idaho",2.5,54,American (New),$$,region
+353,Brooks Restaurant,83873,"Shoshone County, Idaho",3.5,15,American (Traditional),$$,region
+354,Mom's Vintage Eatery,83849,"Shoshone County, Idaho",5.0,7,American (New),$$,region
+355,Prichard Tavern,83873,"Shoshone County, Idaho",5.0,4,American (Traditional),$$,region
+356,Wah Hing Restaurant,83837,"Shoshone County, Idaho",4.0,10,Chinese,$$,region
+357,Pine Creek Tavern,83850,"Shoshone County, Idaho",5.0,2,American (Traditional),$$,region
+358,Broken Wheel Restaurant & Lounge,83837,"Shoshone County, Idaho",3.0,6,American (Traditional),$$,region
+359,Sprag Pole Steak and Rib House,83873,"Shoshone County, Idaho",4.5,2,American (Traditional),$,region
+360,My Big Fat Greek Deli,83850,"Shoshone County, Idaho",1.0,1,Mexican,$$,region
+361,Usk Grill,99180,"Pend Oreille County, Washington",4.5,11,American (Traditional),$$,region
+362,Mi Pueblo II,99156,"Pend Oreille County, Washington",4.0,14,Mexican,$$,region
+363,Cathy's Cafe,99153,"Pend Oreille County, Washington",4.0,9,American (Traditional),$$,region
+364,5th Avenue Bar & Grill,99153,"Pend Oreille County, Washington",4.5,8,American (Traditional),$,region
+365,Audrey's,99156,"Pend Oreille County, Washington",4.0,17,American (New),$,region
+366,Westside Pizza,99156,"Pend Oreille County, Washington",3.5,15,Italian,$,region
+367,Kelly's Bar & Grill,99156,"Pend Oreille County, Washington",4.0,12,American (Traditional),$$,region
+368,The Boat Launch Restaurant & Lounge,99156,"Pend Oreille County, Washington",4.0,4,American (Traditional),$,region
+369,Golden China Restaurant,99156,"Pend Oreille County, Washington",3.0,8,Chinese,$$,region
+370,The Point Restaurant,97386,"Linn County, Oregon",4.5,67,American (Traditional),$$,region
+371,Brick & Mortar Cafe,97321,"Linn County, Oregon",4.0,202,American (New),$$,region
+372,Vault 244,97321,"Linn County, Oregon",4.0,166,American (New),$$,region
+373,Frankie's,97321,"Linn County, Oregon",4.0,191,American (Traditional),$$,region
+374,Pepper Tree Sausage House,97321,"Linn County, Oregon",4.5,64,American (New),$,region
+375,First Burger,97321,"Linn County, Oregon",4.0,127,American (Traditional),$$,region
+376,Sybaris Bistro,97321,"Linn County, Oregon",4.5,62,American (New),$$$,region
+377,Calapooia Brewing Company,97321,"Linn County, Oregon",4.0,133,American (New),$$,region
+378,Poppa Al's,97360,"Linn County, Oregon",4.0,54,American (Traditional),$,region
+379,UFO Thai Food,97355,"Linn County, Oregon",4.5,34,Chinese,$,region
+380,Cellar Cat,97321,"Linn County, Oregon",4.0,65,American (New),$$,region
+381,Stick a Pork In It,97355,"Linn County, Oregon",5.0,21,American (Traditional),$$,region
+382,Schmizza Public House,97355,"Linn County, Oregon",3.5,57,American (Traditional),$$,region
+383,Taqueria Dos Arbolitos,97355,"Linn County, Oregon",4.0,31,Mexican,$,region
+384,Ixtapa Family Mexican Restaurant,97355,"Linn County, Oregon",3.5,59,Mexican,$$,region
+385,Loafer's Station,97321,"Linn County, Oregon",3.5,58,American (Traditional),$$,region
+386,Wing Ming,97355,"Linn County, Oregon",3.5,23,Chinese,$$,region
+387,Brownsville Saloon,97327,"Linn County, Oregon",3.5,34,American (Traditional),$,region
+388,Casa De Reyes,97386,"Linn County, Oregon",4.5,10,Mexican,$$,region
+389,Big Town Hero,97355,"Linn County, Oregon",4.0,13,American (New),$$,region
+390,Depot Restaurant,97321,"Linn County, Oregon",3.5,59,American (Traditional),$$,region
+391,Roger's Restaurant,97321,"Linn County, Oregon",3.5,33,American (New),$,region
+392,GameTime SportsBar & Grill,97355,"Linn County, Oregon",3.5,28,American (Traditional),$$,region
+393,La Mariposa Azul,97355,"Linn County, Oregon",4.0,17,Mexican,$,region
+394,Red Robin Gourmet Burgers,97321,"Linn County, Oregon",3.0,82,American (Traditional),$$,region
+395,AB Chinese Restaurant,97321,"Linn County, Oregon",3.0,44,Chinese,$,region
+396,Southpaw's Perfect Pizza and Sports Pub,97321,"Linn County, Oregon",3.0,69,American (New),$$,region
+397,Trio Tavern,97360,"Linn County, Oregon",4.5,9,American (Traditional),$,region
+398,Taqueria Alonzo,97321,"Linn County, Oregon",4.0,24,Mexican,$$,region
+399,Dragon Chinese Kitchen,97358,"Linn County, Oregon",4.5,14,Chinese,$$,region
+400,Pioneer Villa Truck Plaza,97348,"Linn County, Oregon",3.5,33,American (Traditional),$$,region
+401,Angelo's Fiesta Grill,97348,"Linn County, Oregon",4.5,12,Mexican,$,region
+402,Rigoberto's,97321,"Linn County, Oregon",3.5,36,Mexican,$,region
+403,Sum Yan Chinese Restaurant,97355,"Linn County, Oregon",3.0,20,Chinese,$$,region
+404,Golden Chopstix,97446,"Linn County, Oregon",4.5,19,Chinese,$$,region
+405,Pop's Branding Iron Restaurant,97321,"Linn County, Oregon",3.0,47,American (Traditional),$,region
+406,Muchas Gracias,97321,"Linn County, Oregon",3.5,26,Mexican,$,region
+407,Yummy House,97321,"Linn County, Oregon",3.5,21,Chinese,$,region
+408,Denny's,97321,"Linn County, Oregon",3.0,36,American (Traditional),$,region
+409,Willow Creek Diner & Bakery,97836,"Morrow County, Oregon",4.5,15,American (Traditional),$,region
+410,MacArios Mexican Restaurant,97818,"Morrow County, Oregon",4.5,36,Mexican,$,region
+411,River Lodge & Grill,97818,"Morrow County, Oregon",3.0,43,American (New),$$,region
+412,Sergios,97844,"Morrow County, Oregon",4.5,9,Mexican,$,region
+413,Village Restaurant,97818,"Morrow County, Oregon",2.5,10,Mexican,$$,region
+414,La Serenata,97818,"Morrow County, Oregon",2.5,3,Mexican,$,region
+415,Oak Table Cafe,98383,"Kitsap County, Washington",4.5,374,American (New),$$,region
+416,Silver City Restaurant & Brewery,98383,"Kitsap County, Washington",4.0,604,American (New),$$,region
+417,Cash Brewing Company,98383,"Kitsap County, Washington",4.0,209,American (Traditional),$$,region
+418,Hop Jack's,98383,"Kitsap County, Washington",4.0,264,American (Traditional),$$,region
+419,Moctezuma's Mexican Restaurant & Tequila Bar,98383,"Kitsap County, Washington",3.5,199,Mexican,$$,region
+420,Taqueria El Huarache,98383,"Kitsap County, Washington",4.0,128,Mexican,$$,region
+421,Burrata Bistro,98370,"Kitsap County, Washington",4.5,126,Italian,$$,region
+422,Punjab Indian Cuisine,98370,"Kitsap County, Washington",4.5,105,Indian,$$,region
+423,Bahn Thai Restaurant,98383,"Kitsap County, Washington",3.5,129,Chinese,$$,region
+424,Veneto Italian Restaurant,98383,"Kitsap County, Washington",4.0,100,Italian,$$,region
+425,Sogno Di Vino,98370,"Kitsap County, Washington",4.0,219,Italian,$$,region
+426,Taqueria Los Cazadores,98370,"Kitsap County, Washington",4.5,82,Mexican,$,region
+427,Taqueria El Huarache,98370,"Kitsap County, Washington",4.5,165,Mexican,$$,region
+428,Green Light Diner,98370,"Kitsap County, Washington",4.0,202,American (Traditional),$$,region
+429,Blazing Onion Burger Company,98383,"Kitsap County, Washington",3.0,175,American (New),$$,region
+430,ChocMo,98370,"Kitsap County, Washington",4.0,92,American (New),$$,region
+431,Olive Garden Italian Restaurant,98383,"Kitsap County, Washington",3.0,101,Italian,$$,region
+432,Shady Jack's Bar and Grill,98383,"Kitsap County, Washington",4.0,52,American (Traditional),$$,region
+433,The Loft at Latitude Forty Seven Seven,98370,"Kitsap County, Washington",3.0,272,American (New),$$,region
+434,The Junction Diner,98370,"Kitsap County, Washington",4.5,59,American (Traditional),$,region
+435,Red Robin Gourmet Burgers,98383,"Kitsap County, Washington",3.0,187,American (Traditional),$$,region
+436,Azteca Mexican Restaurant,98383,"Kitsap County, Washington",3.5,74,Mexican,$$,region
+437,Mandarin Chinese Restaurant,98383,"Kitsap County, Washington",3.0,120,Chinese,$,region
+438,Spiro's Pizza and Pasta,98383,"Kitsap County, Washington",3.5,75,Italian,$$,region
+439,Casa Luna,98370,"Kitsap County, Washington",3.5,114,Mexican,$$,region
+440,Sugar Studios Crepe Cafe,98383,"Kitsap County, Washington",4.0,37,American (New),$,region
+441,King's Wok Buffet,98383,"Kitsap County, Washington",3.0,100,Chinese,$$,region
+442,Golden Grill Mongolian Barbeque,98383,"Kitsap County, Washington",3.5,62,Chinese,$$,region
+443,Chipmunk Grill,98383,"Kitsap County, Washington",4.0,29,American (New),$,region
+444,Casa Mexico,98345,"Kitsap County, Washington",4.0,42,Mexican,$$,region
+445,Joy's Teriyaki & Hamburger Restaurant,98383,"Kitsap County, Washington",4.5,14,Chinese,$,region
+446,Red Lobster,98383,"Kitsap County, Washington",2.5,62,American (Traditional),$$,region
+447,Buffalo Wild Wings,98383,"Kitsap County, Washington",2.5,118,American (Traditional),$$,region
+448,Applebee's Grill + Bar,98383,"Kitsap County, Washington",2.5,71,American (Traditional),$$,region
+449,That's A Some Italian Ristorante,98370,"Kitsap County, Washington",3.0,120,Italian,$$,region
+450,El Sabor Casero,98370,"Kitsap County, Washington",4.5,29,Mexican,$$,region
+451,Fiesta Mexican Restaurant,98383,"Kitsap County, Washington",3.5,37,Mexican,$$,region
+452,Chipotle Mexican Grill,98383,"Kitsap County, Washington",2.5,47,Mexican,$,region
+453,Lin's Teriyaki Fish & Chips,98311,"Kitsap County, Washington",4.0,36,Chinese,$,region
+454,Golden Star Chinese & American Restaurant,98310,"Kitsap County, Washington",4.0,88,Chinese,$$,region
+455,Envy Bar and Grill,98370,"Kitsap County, Washington",3.5,41,American (Traditional),$$,region
+456,Elmer's Restaurant,98370,"Kitsap County, Washington",3.5,115,American (Traditional),$$,region
+457,QDOBA Mexican Eats,98383,"Kitsap County, Washington",3.5,25,Mexican,$$,region
+458,Arena Sports Bar & Grille,98310,"Kitsap County, Washington",3.5,84,American (Traditional),$$,region
+459,World of Beer,98383,"Kitsap County, Washington",3.0,40,American (Traditional),$$,region
+460,19th Hole Bar & Grill,98312,"Kitsap County, Washington",4.0,32,American (New),$$,region
+461,Taqueria El Rey,98366,"Kitsap County, Washington",5.0,42,Mexican,$$,region
+462,The Brass Kraken,98370,"Kitsap County, Washington",3.0,68,American (Traditional),$$,region
+463,Taqueria Los Cazadores,98310,"Kitsap County, Washington",4.0,56,Mexican,$,region
+464,El Huarache Azteca,98383,"Kitsap County, Washington",4.5,14,Mexican,$$,region
+465,Taco Time,98370,"Kitsap County, Washington",4.0,24,Mexican,$,region
+466,Cloverleaf Sports Bar & Grill,98310,"Kitsap County, Washington",3.5,52,American (Traditional),$$,region
+467,IHOP,98383,"Kitsap County, Washington",2.5,56,American (Traditional),$$,region
+468,Our Place Pub & Eatery,98383,"Kitsap County, Washington",3.5,25,American (Traditional),$$,region
+469,Taco Time,98383,"Kitsap County, Washington",2.5,35,Mexican,$,region
+470,Golden Mum Restaurant & Bar,98311,"Kitsap County, Washington",3.0,33,Chinese,$$,region
+471,Los Cabos Grill,98310,"Kitsap County, Washington",3.5,38,Mexican,$$,region
+472,Ozzie's Place,98383,"Kitsap County, Washington",4.0,5,American (Traditional),$,region
+473,McCloud's Grill House,98310,"Kitsap County, Washington",3.0,75,American (Traditional),$$,region
+474,Larson's Restaurant & Lounge,98310,"Kitsap County, Washington",4.0,18,American (New),$,region
+475,Larson's Restaurant & Lounge,98310,"Kitsap County, Washington",4.0,18,American (Traditional),$,region
+476,Panda Inn Mongolian Bar-B-Q,98311,"Kitsap County, Washington",3.0,32,Chinese,$$,region
+477,Azteca Mexican Restaurants,98311,"Kitsap County, Washington",2.5,55,Mexican,$$,region
+478,Taco Del Mar,98311,"Kitsap County, Washington",4.0,13,Mexican,$,region
+479,Dickey's Barbecue Pit,98370,"Kitsap County, Washington",2.5,44,American (Traditional),$$,region
+480,Taco Bell,98383,"Kitsap County, Washington",2.0,33,Mexican,$,region
+481,Sunny Teriyaki,98310,"Kitsap County, Washington",3.5,34,Chinese,$,region
+482,Poulsbo La Costa,98370,"Kitsap County, Washington",3.0,30,Mexican,$$,region
+483,Taco Del Mar,98370,"Kitsap County, Washington",3.0,27,Mexican,$,region
+484,Shari's Restaurant,98310,"Kitsap County, Washington",2.5,47,American (Traditional),$$,region
+485,Taco Time,98311,"Kitsap County, Washington",3.5,14,Mexican,$,region
+486,Golden Lion Chinese Restaurant,98370,"Kitsap County, Washington",2.5,27,Chinese,$$,region
+487,Putters At Rolling Hills Golf Course,98311,"Kitsap County, Washington",4.0,7,American (Traditional),$,region
+488,Joy Teriyaki,98311,"Kitsap County, Washington",3.0,25,Chinese,$,region
+489,Taco Bell,98315,"Kitsap County, Washington",2.0,4,Mexican,$,region
+490,Taco Bell,98370,"Kitsap County, Washington",2.0,20,Mexican,$,region
+491,Camp Union Saloon,98380,"Kitsap County, Washington",4.0,11,American (New),$$,region
+492,Taco Bell,98310,"Kitsap County, Washington",1.5,30,Mexican,$,region
+493,Papas Eats Treats and Spirits,98310,"Kitsap County, Washington",2.5,11,American (New),$$,region
+494,Papas Eats Treats and Spirits,98310,"Kitsap County, Washington",2.5,11,American (Traditional),$$,region
+495,The Olympic Timberhouse Restaurant,98376,"Jefferson County, Washington",4.5,73,American (New),$$,region
+496,Halfway House,98320,"Jefferson County, Washington",4.0,61,American (Traditional),$$,region
+497,Imperial River Company,97037,"Wasco County, Oregon",4.5,54,American (Traditional),$$,region
+498,The Riverside,97037,"Wasco County, Oregon",4.5,23,American (Traditional),$$,region
+499,Rainbow Tavern,97037,"Wasco County, Oregon",3.5,10,American (Traditional),$$,region
+500,Harmony Baking Company,97023,"Clackamas County, Oregon",5.0,53,American (Traditional),$,region
+501,Dean's Homestyle Cafe,97015,"Clackamas County, Oregon",4.5,220,American (Traditional),$,region
+502,The Rendezvous Grill,97067,"Clackamas County, Oregon",4.5,140,American (New),$$,region
+503,Masala Box,97027,"Clackamas County, Oregon",4.5,155,Indian,$,region
+504,Oswego Grill,97035,"Clackamas County, Oregon",4.0,518,American (Traditional),$$,region
+505,Super Torta,97045,"Clackamas County, Oregon",4.0,186,Mexican,$,region
+506,Ranee's On Main,97045,"Clackamas County, Oregon",4.0,197,American (New),$$,region
+507,Mi Famiglia,97045,"Clackamas County, Oregon",4.0,269,Italian,$$,region
+508,Glacier Haus Bistro,97028,"Clackamas County, Oregon",4.5,142,American (Traditional),$$,region
+509,Singer Hill Cafe,97045,"Clackamas County, Oregon",4.0,219,American (Traditional),$,region
+510,Sunny's Diner,97222,"Clackamas County, Oregon",4.0,254,American (Traditional),$$,region
+511,Oswego Grill Wilsonville,97070,"Clackamas County, Oregon",4.0,246,American (Traditional),$$,region
+512,Mi Pueblo Mexican Restaurant,97222,"Clackamas County, Oregon",4.0,189,Mexican,$$,region
+513,El Burro Loco,97067,"Clackamas County, Oregon",4.0,167,Mexican,$$,region
+514,Calamity Jane's Hamburger Parlour Restaurant,97055,"Clackamas County, Oregon",3.5,189,American (Traditional),$$,region
+515,Carver Hangar,97015,"Clackamas County, Oregon",4.0,135,American (Traditional),$,region
+516,Stone Cliff Inn,97045,"Clackamas County, Oregon",3.5,256,American (New),$$,region
+517,San Francisco Carniceria,97070,"Clackamas County, Oregon",4.0,126,Mexican,$,region
+518,Pappy's Greasy Spoon,97013,"Clackamas County, Oregon",4.0,102,American (Traditional),$,region
+519,The Tollgate Inn,97055,"Clackamas County, Oregon",3.5,162,American (Traditional),$$,region
+520,Don Pepe's Fresh Mexican Food,97045,"Clackamas County, Oregon",4.0,138,Mexican,$$,region
+521,Wan Lung Chinese Restaurant,97015,"Clackamas County, Oregon",4.0,174,Chinese,$$,region
+522,Nebbiolo Restaurant & Wine Bar,97045,"Clackamas County, Oregon",4.0,111,American (New),$$,region
+523,Happy Valley Station,97015,"Clackamas County, Oregon",3.5,192,American (New),$,region
+524,Weinhard Grill,97045,"Clackamas County, Oregon",4.0,165,American (Traditional),$$,region
+525,Allium,97068,"Clackamas County, Oregon",4.0,160,American (New),$$,region
+526,Hop N Cork,97035,"Clackamas County, Oregon",4.5,95,American (Traditional),$$,region
+527,Sabrozon Fresh Mexican Food,97034,"Clackamas County, Oregon",4.5,114,Mexican,$,region
+528,Nicoletta's Table and Marketplace,97034,"Clackamas County, Oregon",4.0,203,Italian,$$,region
+529,Don Chico's,97045,"Clackamas County, Oregon",4.0,75,Mexican,$,region
+530,Baird's On B - Bar & Grill,97034,"Clackamas County, Oregon",4.0,150,American (New),$$,region
+531,Shadowbrook,95010,"Santa Cruz County, California",4.0,1906,American (Traditional),$$$,region
+532,Lillian's Italian Kitchen,95062,"Santa Cruz County, California",4.5,1497,Italian,$$,region
+533,Harbor Cafe,95062,"Santa Cruz County, California",4.5,884,American (Traditional),$$,region
+534,Linda's Seabreeze Cafe,95062,"Santa Cruz County, California",4.5,755,American (Traditional),$$,region
+535,Cafe Cruz,95073,"Santa Cruz County, California",4.0,627,American (Traditional),$$,region
+536,Cafe Cruz,95073,"Santa Cruz County, California",4.0,627,American (New),$$,region
+537,Walnut Avenue Café,95060,"Santa Cruz County, California",4.0,823,American (Traditional),$$,region
+538,Cafe Carlos,95066,"Santa Cruz County, California",4.5,182,Mexican,$$,region
+539,El Chipotle Taqueria,95073,"Santa Cruz County, California",4.5,267,Mexican,$,region
+540,Ambrosia India Bistro - Scotts Valley,95066,"Santa Cruz County, California",4.5,167,Indian,$$,region
+541,Zoccoli's Delicatessen,95060,"Santa Cruz County, California",4.0,628,Italian,$,region
+542,Zachary's Restaurant,95060,"Santa Cruz County, California",4.0,843,American (Traditional),$$,region
+543,Caruso's Restaurant,95010,"Santa Cruz County, California",4.5,294,Italian,$$,region
+544,Taqueria Los Pericos,95060,"Santa Cruz County, California",4.0,652,Mexican,$,region
+545,Los Gallos Taqueria,95066,"Santa Cruz County, California",4.5,115,Mexican,$,region
+546,The Crow's Nest Restaurant,95062,"Santa Cruz County, California",3.5,1292,American (New),$$,region
+547,Paradise Beach Grille,95010,"Santa Cruz County, California",3.5,571,American (New),$$,region
+548,Ambrosia India Bistro - Aptos,95003,"Santa Cruz County, California",4.0,354,Indian,$$,region
+549,Margaritaville,95010,"Santa Cruz County, California",4.0,383,Mexican,$$,region
+550,Manuel's Mexican Restaurant,95003,"Santa Cruz County, California",4.0,502,Mexican,$$,region
+551,Golden Fu Wah,95073,"Santa Cruz County, California",4.0,168,Chinese,$$,region
+552,Tramonti,95062,"Santa Cruz County, California",4.0,471,Italian,$$,region
+553,West End Tap & Kitchen,95060,"Santa Cruz County, California",4.0,654,American (New),$$,region
+554,Heavenly Roadside Cafe,95066,"Santa Cruz County, California",4.0,269,American (Traditional),$$,region
+555,Malone's Grille,95066,"Santa Cruz County, California",3.5,234,American (Traditional),$$,region
+556,Sotola Bar & Grill,95010,"Santa Cruz County, California",4.0,194,American (New),$$,region
+557,Oswald,95060,"Santa Cruz County, California",4.0,359,American (New),$$$,region
+558,El Palomar Restaurant,95060,"Santa Cruz County, California",3.5,705,Mexican,$$,region
+559,Planet Fresh Gourmet Burritos,95060,"Santa Cruz County, California",4.0,415,Mexican,$,region
+560,The Water Street Grill,95060,"Santa Cruz County, California",4.0,251,American (New),$$,region
+561,Lago Di Como,95062,"Santa Cruz County, California",4.0,270,Italian,$$,region
+562,Sunrise Cafe,95073,"Santa Cruz County, California",4.0,165,American (Traditional),$,region
+563,Cafe Campesino,95060,"Santa Cruz County, California",4.5,204,Mexican,$,region
+564,Tacos Moreno,95062,"Santa Cruz County, California",4.0,333,Mexican,$,region
+565,Soif Wine Bar & Merchants,95060,"Santa Cruz County, California",4.0,349,American (New),$$$,region
+566,The Hideout,95003,"Santa Cruz County, California",4.0,290,American (Traditional),$$,region
+567,Taqueria Los Gallos,95066,"Santa Cruz County, California",4.0,142,Mexican,$,region
+568,Firefish Grill,95060,"Santa Cruz County, California",3.5,926,American (New),$$,region
+569,515 Kitchen & Cocktails,95060,"Santa Cruz County, California",3.5,565,American (New),$$,region
+570,99 Bottles of Beer On The Wall,95060,"Santa Cruz County, California",3.5,585,American (Traditional),$$,region
+571,Scotts Valley Chinese Cuisine,95066,"Santa Cruz County, California",4.0,119,Chinese,$$,region
+572,Mijo's Taqueria,95010,"Santa Cruz County, California",4.5,84,Mexican,$,region
+573,La Posta,95062,"Santa Cruz County, California",4.0,274,Italian,$$$,region
+574,Kianti's Pizza & Pasta Bar,95060,"Santa Cruz County, California",3.5,718,Italian,$$,region
+575,Carpo's Restaurant,95073,"Santa Cruz County, California",3.5,244,American (Traditional),$$,region
+576,Home,95073,"Santa Cruz County, California",4.0,87,American (New),$$$,region
+577,burger.,95060,"Santa Cruz County, California",3.0,1035,American (New),$$,region
+578,Stagnaro Bros,95060,"Santa Cruz County, California",3.5,739,Italian,$$,region
+579,Guang Zho Chinese Restaurant,95062,"Santa Cruz County, California",4.0,165,Chinese,$,region
+580,Asian Express,95010,"Santa Cruz County, California",3.5,238,Chinese,$,region
+581,Betty's Noodle House,95060,"Santa Cruz County, California",4.0,288,Chinese,$,region
+582,Tortilla Flats,95073,"Santa Cruz County, California",3.5,174,Mexican,$$,region
+583,Taqueria Santa Cruz,95062,"Santa Cruz County, California",4.0,205,Mexican,$,region
+584,Cowboy Bar & Grill,95018,"Santa Cruz County, California",3.5,286,American (Traditional),$$,region
+585,Persephone,95003,"Santa Cruz County, California",4.5,78,American (New),$$$,region
+586,The Cremer House,95018,"Santa Cruz County, California",3.5,361,American (Traditional),$$,region
+587,Las Palmas Taco Bar,95060,"Santa Cruz County, California",3.5,413,Mexican,$,region
+588,Salsa's Taco Bar,95062,"Santa Cruz County, California",4.0,172,Mexican,$,region
+589,Assembly,95060,"Santa Cruz County, California",3.5,472,American (New),$$,region
+590,Mumbai Delights,95060,"Santa Cruz County, California",4.0,143,Indian,$$,region
+591,Michael's On Main,95073,"Santa Cruz County, California",3.0,297,American (New),$$,region
+592,Suda,95062,"Santa Cruz County, California",3.5,296,American (New),$$,region
+593,Raymond's Catering,95060,"Santa Cruz County, California",4.5,72,Mexican,$,region
+594,Cafe Mare Italian Restaurant,95060,"Santa Cruz County, California",3.5,254,Italian,$$,region
+595,Panda Inn,95003,"Santa Cruz County, California",4.0,148,Chinese,$$,region
+596,Restaurante Los Pinos,95060,"Santa Cruz County, California",4.0,168,Mexican,$,region
+597,Aldos Harbor Restaurant,95062,"Santa Cruz County, California",3.5,377,Italian,$$,region
+598,Burger Aptos,95003,"Santa Cruz County, California",3.0,399,American (New),$$,region
+599,Severino's Bar & Grill,95003,"Santa Cruz County, California",3.5,152,American (Traditional),$$,region
+600,Bella Roma Ristorante,95010,"Santa Cruz County, California",4.0,112,Italian,$$$,region
+601,Aquarius,95060,"Santa Cruz County, California",3.5,381,American (New),$$$,region
+602,India Joze,95060,"Santa Cruz County, California",4.0,134,Indian,$$,region
+603,Gabriella Cafe,95060,"Santa Cruz County, California",3.5,323,American (New),$$,region
+604,Betty's Eat Inn,95060,"Santa Cruz County, California",3.5,371,American (Traditional),$$,region
+605,Ristorante Avanti,95060,"Santa Cruz County, California",3.5,353,Italian,$$,region
+606,Ristorante Avanti,95060,"Santa Cruz County, California",3.5,353,American (New),$$,region
+607,Bittersweet Bistro,95003,"Santa Cruz County, California",3.0,317,American (New),$$$,region
+608,Star bene Italian Argentine Restaurant,95062,"Santa Cruz County, California",3.5,194,Italian,$$,region
+609,Hindquarter Bar & Grille,95062,"Santa Cruz County, California",3.5,279,American (Traditional),$$,region
+610,Bantam,95060,"Santa Cruz County, California",4.0,262,American (New),$$,region
+611,La Cabaña Taqueria,95060,"Santa Cruz County, California",3.5,311,Mexican,$,region
+612,Canton,95062,"Santa Cruz County, California",3.5,193,Chinese,$$,region
+613,Taqueria Vallarta,95018,"Santa Cruz County, California",4.0,168,Mexican,$,region
+614,Café aRoma,95073,"Santa Cruz County, California",4.5,38,Italian,$,region
+615,Taqueria Vallarta,95062,"Santa Cruz County, California",3.5,171,Mexican,$,region
+616,Splash!,95060,"Santa Cruz County, California",3.5,215,American (New),$$,region
+617,De La Hacienda Taqueria,95060,"Santa Cruz County, California",4.0,144,Mexican,$,region
+618,Olitas Cantina & Grill,95060,"Santa Cruz County, California",3.0,399,Mexican,$$,region
+619,Gilda's Family Restaurant,95060,"Santa Cruz County, California",3.5,401,American (Traditional),$$,region
+620,Cafe Rio Aptos,95003,"Santa Cruz County, California",3.5,245,American (New),$$,region
+621,The Sand Bar,95010,"Santa Cruz County, California",3.5,109,American (Traditional),$$,region
+622,Ideal Bar & Grill,95060,"Santa Cruz County, California",2.5,962,American (Traditional),$$,region
+623,Chef Liu,95066,"Santa Cruz County, California",3.5,66,Chinese,$$,region
+624,Sitar Indian Cuisine,95060,"Santa Cruz County, California",3.5,325,Indian,$,region
+625,El Jardin Restaurant,95062,"Santa Cruz County, California",3.0,219,Mexican,$$,region
+626,Back Nine Grill & Bar,95060,"Santa Cruz County, California",4.0,99,American (Traditional),$$,region
+627,Cafe El Palomar,95062,"Santa Cruz County, California",3.5,201,Mexican,$$,region
+628,Habanero's Bar And Grill,95066,"Santa Cruz County, California",4.0,48,Mexican,$$,region
+629,Casa Rosita's,95062,"Santa Cruz County, California",3.5,129,Mexican,$$,region
+630,Red Restaurant and Bar,95060,"Santa Cruz County, California",3.5,225,American (New),$$,region
+631,Taqueria Michoacan,95062,"Santa Cruz County, California",3.5,186,Mexican,$,region
+632,Ristorante Italiano,95062,"Santa Cruz County, California",3.5,206,Italian,$$,region
+633,Solaire Restaurant + Bar,95060,"Santa Cruz County, California",3.5,170,American (New),$$,region
+634,Ming's Palace,95073,"Santa Cruz County, California",3.5,72,Chinese,$,region
+635,Yan Flower,95060,"Santa Cruz County, California",3.5,181,Chinese,$,region
+636,El Chino Mexican Restaurant,95065,"Santa Cruz County, California",3.5,80,Mexican,$$,region
+637,Rockys Cafe,95018,"Santa Cruz County, California",3.5,164,American (Traditional),$$,region
+638,El Toro Bravo,95010,"Santa Cruz County, California",3.0,140,Mexican,$$,region
+639,Britannia Arms,95010,"Santa Cruz County, California",3.0,190,American (New),$$,region
+640,Taqueria Vallarta,95060,"Santa Cruz County, California",3.5,174,Mexican,$,region
+641,Dynasty Restaurant,95062,"Santa Cruz County, California",3.5,114,Chinese,$$,region
+642,Reef Bar & Restaurant,95060,"Santa Cruz County, California",4.5,45,American (New),$$,region
+643,ABC Chinese Restaurant,95066,"Santa Cruz County, California",3.0,126,Chinese,$,region
+644,Wharf House Restaurant,95010,"Santa Cruz County, California",3.0,205,American (Traditional),$$,region
+645,Taqueria Santa Cruz,95060,"Santa Cruz County, California",3.5,214,Mexican,$,region
+646,Taqueria Los Gordos,95003,"Santa Cruz County, California",3.5,128,Mexican,$,region
+647,Taqueria Agave - Santa Cruz,95062,"Santa Cruz County, California",4.0,76,Mexican,$,region
+648,Vivas,95062,"Santa Cruz County, California",3.5,149,Mexican,$,region
+649,Your Place,95060,"Santa Cruz County, California",3.5,307,American (New),$$,region
+650,Jaguar,95062,"Santa Cruz County, California",4.0,89,Mexican,$$,region
+651,Upper Crust Pizza & Pasta,95060,"Santa Cruz County, California",3.5,199,Italian,$$,region
+652,Pino Alto Restaurant,95003,"Santa Cruz County, California",4.5,20,American (New),$$,region
+653,Village Host Pizza & Grill,95010,"Santa Cruz County, California",3.5,55,American (Traditional),$$,region
+654,Chinese Village Restaurant,95062,"Santa Cruz County, California",3.5,75,Chinese,$$,region
+655,Taqueria Tepeque,95010,"Santa Cruz County, California",3.5,75,Mexican,$,region
+656,Golden Palace,95060,"Santa Cruz County, California",3.0,166,Chinese,$$,region
+657,Taqueria Jalapeños y Pupuseria,95060,"Santa Cruz County, California",4.0,56,Mexican,$,region
+658,Bruno's Bar and Grill,95066,"Santa Cruz County, California",4.0,55,American (Traditional),$$,region
+659,La Cabaña Taqueria,95073,"Santa Cruz County, California",3.5,75,Mexican,$,region
+660,Sanderlings,95003,"Santa Cruz County, California",3.5,216,American (New),$$,region
+661,Parish Publick House,95003,"Santa Cruz County, California",4.0,53,American (New),$$,region
+662,Maya Mexican Restaurant,95066,"Santa Cruz County, California",3.0,98,Mexican,$$,region
+663,Little Tampico,95073,"Santa Cruz County, California",3.0,133,Mexican,$$,region
+664,Jalapeños Taqueria,95060,"Santa Cruz County, California",4.0,84,Mexican,$,region
+665,Café Bittersweet,95003,"Santa Cruz County, California",3.5,92,American (Traditional),$$,region
+666,Fortune Garden,95062,"Santa Cruz County, California",3.5,70,Chinese,$,region
+667,El Hermoso Mar,95060,"Santa Cruz County, California",3.0,172,Mexican,$$,region
+668,Palapas Restaurant & Cantina,95003,"Santa Cruz County, California",3.0,275,Mexican,$$,region
+669,Phoenix Asian Restaurant,95060,"Santa Cruz County, California",3.5,168,Chinese,$,region
+670,Golden City,95060,"Santa Cruz County, California",3.5,116,Chinese,$$,region
+671,Falafel Hut,95060,"Santa Cruz County, California",3.5,163,American (Traditional),$,region
+672,Chili's,95010,"Santa Cruz County, California",2.5,181,American (Traditional),$$,region
+673,Chopstix,95018,"Santa Cruz County, California",3.5,117,Chinese,$$,region
+674,Bocci's Cellar,95060,"Santa Cruz County, California",3.5,70,Italian,$$,region
+675,Bocci's Cellar,95060,"Santa Cruz County, California",3.5,70,American (Traditional),$$,region
+676,Tim's Express,95066,"Santa Cruz County, California",3.0,64,Chinese,$,region
+677,Chipotle Mexican Grill,95010,"Santa Cruz County, California",2.5,112,Mexican,$,region
+678,Stonehouse Bar & Grill,95060,"Santa Cruz County, California",3.5,26,American (Traditional),$$,region
+679,MacKenzie Bar & Grill,95060,"Santa Cruz County, California",4.0,22,American (Traditional),$$,region
+680,IHOP,95010,"Santa Cruz County, California",3.0,115,American (Traditional),$$,region
+681,Village Host Pizza & Grill,95003,"Santa Cruz County, California",3.0,129,American (Traditional),$$,region
+682,Los Primos,95060,"Santa Cruz County, California",4.5,18,Mexican,$,region
+683,Tony & Alba's Pizza,95062,"Santa Cruz County, California",3.0,98,Italian,$$,region
+684,Linwood's Bar & Grill,95065,"Santa Cruz County, California",2.5,62,American (New),$$$,region
+685,Del Pueblo Market,95062,"Santa Cruz County, California",4.0,19,Mexican,$,region
+686,Peking Restaurant,95073,"Santa Cruz County, California",2.5,80,Chinese,$,region
+687,Rio Del Mar Mexican,95003,"Santa Cruz County, California",3.0,72,Mexican,$$,region
+688,Tam's Chinese Cuisine,95060,"Santa Cruz County, California",3.0,127,Chinese,$,region
+689,Hong Kong Garden Restaurant,95003,"Santa Cruz County, California",3.0,75,Chinese,$,region
+690,Chipotle Mexican Grill,95060,"Santa Cruz County, California",2.5,125,Mexican,$,region
+691,Don Quixote,95018,"Santa Cruz County, California",2.5,146,Mexican,$$,region
+692,Panda Express,95073,"Santa Cruz County, California",2.5,47,Chinese,$,region
+693,Denny's,95060,"Santa Cruz County, California",2.0,225,American (Traditional),$,region
+694,Golden Buddha,95003,"Santa Cruz County, California",3.0,66,Chinese,$$,region
+695,Terra Fresca,95064,"Santa Cruz County, California",3.0,40,American (New),$$,region
+696,Vivas Mexican Restaurant,95064,"Santa Cruz County, California",4.0,14,Mexican,$$,region
+697,Coasters Bar And Grille,95060,"Santa Cruz County, California",3.0,41,American (Traditional),$,region
+698,La Barrenada Restaurant,95067,"Santa Cruz County, California",2.5,59,Mexican,$$,region
+699,Taco Bell,95060,"Santa Cruz County, California",2.0,80,Mexican,$,region
+700,Bella Fruit and Drinks,95010,"Santa Cruz County, California",3.0,10,Mexican,$,region
+701,Sunset Restaurant,95065,"Santa Cruz County, California",3.5,6,American (Traditional),$$$,region
+702,Taco Bell,95073,"Santa Cruz County, California",2.5,24,Mexican,$,region
+703,Bamboo Garden Restaurant,95062,"Santa Cruz County, California",3.0,19,Chinese,$,region
+704,Taco Bell,95066,"Santa Cruz County, California",1.5,44,Mexican,$,region
+705,Taco Bell,95003,"Santa Cruz County, California",2.5,28,Mexican,$,region
+706,Fosters Freeze,95062,"Santa Cruz County, California",2.5,36,American (Traditional),$,region
+707,Taco Bell,95062,"Santa Cruz County, California",2.0,30,Mexican,$,region
+708,Taco Bell,95060,"Santa Cruz County, California",2.5,41,Mexican,$,region
+709,Cowell & Stevenson Dining Hall,95064,"Santa Cruz County, California",4.0,6,American (New),$$,region
+710,Panda Express,95060,"Santa Cruz County, California",2.5,51,Chinese,$,region
+711,Capitola Grille,95010,"Santa Cruz County, California",2.5,6,American (Traditional),$$,region
+712,Big Foot Catering Truck,95065,"Santa Cruz County, California",3.0,4,Mexican,$,region
+713,Vivas Organic Mexican Food,95064,"Santa Cruz County, California",4.5,3,Mexican,$,region
+714,Fusion,95060,"Santa Cruz County, California",2.5,7,American (New),$$$,region
+715,Jalapenos Taqueria,95062,"Santa Cruz County, California",3.0,8,Mexican,$,region
+716,Senor Teds,95060,"Santa Cruz County, California",2.5,4,Mexican,$,region
+717,Bogey's Bar and Gril,95003,"Santa Cruz County, California",5.0,2,American (Traditional),$,region
+718,The Grove Restaurant,95023,"San Benito County, California",4.0,275,American (New),$$,region
+719,Mangia!,95023,"San Benito County, California",4.5,130,Italian,$$,region
+720,Fisher's,95023,"San Benito County, California",4.5,84,American (New),$,region
+721,Jardines de San Juan,95045,"San Benito County, California",3.5,396,Mexican,$$,region
+722,La Villa De Jerez,95023,"San Benito County, California",4.0,133,Mexican,$$,region
+723,Running Rooster,95023,"San Benito County, California",3.5,337,American (Traditional),$$,region
+724,Country Rose Cafe,95023,"San Benito County, California",4.0,119,American (Traditional),$$,region
+725,Flapjack's Breakfast & Grill,95075,"San Benito County, California",3.5,138,American (New),$$,region
+726,George's Grill,95023,"San Benito County, California",4.0,97,American (Traditional),$$,region
+727,Grillin & Chillin Alehouse,95023,"San Benito County, California",4.0,76,American (Traditional),$$,region
+728,Victoria's Italian Deli,95023,"San Benito County, California",4.5,42,Italian,$$,region
+729,La Catrina Mexican Grill,95023,"San Benito County, California",3.5,106,Mexican,$$,region
+730,Super Taqueria,95023,"San Benito County, California",3.5,91,Mexican,$,region
+731,Cheung Sheng,95023,"San Benito County, California",3.5,72,Chinese,$$,region
+732,Relax Grillin & Chillin,95023,"San Benito County, California",3.5,111,American (Traditional),$$,region
+733,Dona Esther Mexican Restaurant,95045,"San Benito County, California",3.0,245,Mexican,$$,region
+734,Dona Esther Mexican Restaurant,95045,"San Benito County, California",3.0,245,American (Traditional),$$,region
+735,San Juan Oaks Restaurant,95023,"San Benito County, California",4.5,23,American (Traditional),$$,region
+736,Happy Cafe,95023,"San Benito County, California",4.0,64,Chinese,$,region
+737,El Grullense Jal,95023,"San Benito County, California",3.5,57,Mexican,$,region
+738,Johnny's Bar & Grill,95023,"San Benito County, California",3.5,41,American (Traditional),$,region
+739,The Happy Rooster,95045,"San Benito County, California",4.0,87,American (New),$$,region
+740,The Happy Rooster,95045,"San Benito County, California",4.0,87,Italian,$$,region
+741,El Michoacano Restaurant,95023,"San Benito County, California",3.5,58,Mexican,$$,region
+742,Forno,95023,"San Benito County, California",4.5,32,Italian,$$,region
+743,Casa De Restaurant,95023,"San Benito County, California",3.0,188,American (Traditional),$$,region
+744,Paicines General Store & Restaurant,95043,"San Benito County, California",5.0,7,Mexican,$,region
+745,El Rinconcito,95023,"San Benito County, California",4.0,30,Mexican,$,region
+746,El Epazote Restaurant,95023,"San Benito County, California",4.0,34,Mexican,$$,region
+747,Mission Cafe,95045,"San Benito County, California",3.5,60,American (Traditional),$,region
+748,Los Cuates Meat Market,95023,"San Benito County, California",4.0,30,Mexican,$,region
+749,Paines Restaurant,95023,"San Benito County, California",3.5,61,American (Traditional),$$,region
+750,The Wok,95023,"San Benito County, California",3.5,41,Chinese,$,region
+751,Los Grullenses Restaurant,95023,"San Benito County, California",4.0,17,Mexican,$,region
+752,Smoqehouse,55021,"Rice County, Minnesota",4.5,36,American (New),$$,region
+753,Depot Bar and Grill,55021,"Rice County, Minnesota",3.5,46,American (Traditional),$$,region
+754,El Tequila Mexican Restaurant,55021,"Rice County, Minnesota",4.5,36,Mexican,$,region
+755,Gran Plaza Mexican Grill,55021,"Rice County, Minnesota",4.5,31,Mexican,$$,region
+756,Ole Store Restaurant,55057,"Rice County, Minnesota",4.0,63,American (New),$$,region
+757,El Triunfo,55057,"Rice County, Minnesota",4.5,42,Mexican,$,region
+758,Signature Bar & Grill,55021,"Rice County, Minnesota",4.0,18,American (Traditional),$$,region
+759,Joe's Sports Cafe,55021,"Rice County, Minnesota",3.0,27,American (New),$$,region
+760,The Tavern of Northfield,55057,"Rice County, Minnesota",3.5,61,American (Traditional),$$,region
+761,Chapati Indian Restaurant,55057,"Rice County, Minnesota",3.5,49,Indian,$$,region
+762,Winjum's Restaurant & Resort,55021,"Rice County, Minnesota",4.0,9,American (Traditional),$$,region
+763,El Tequila,55057,"Rice County, Minnesota",3.5,20,Mexican,$,region
+764,Tacoasis,55057,"Rice County, Minnesota",4.0,14,Mexican,$,region
+765,Smoqehouse,55057,"Rice County, Minnesota",4.0,21,American (Traditional),$,region
+766,Bernie's Grill,55021,"Rice County, Minnesota",3.5,9,American (Traditional),$,region
+767,Boonies Bar & Grill,55021,"Rice County, Minnesota",3.5,7,American (Traditional),$$,region
+768,Taco John's,55021,"Rice County, Minnesota",5.0,2,Mexican,$,region
+769,Pizza Hut,55021,"Rice County, Minnesota",5.0,1,Italian,$,region
+770,Southern China Cafe,55021,"Rice County, Minnesota",3.0,7,Chinese,$,region
+771,Lyle & Paulines L & M Grill,55019,"Rice County, Minnesota",4.5,4,American (Traditional),$,region
+772,The Broaster,55021,"Rice County, Minnesota",4.5,5,American (New),$$,region
+773,Great China Buffet,55021,"Rice County, Minnesota",3.0,2,Chinese,$,region
+774,Mandarin Garden Restaurant,55057,"Rice County, Minnesota",3.5,14,Chinese,$$,region
+775,Applebee's Grill + Bar,55057,"Rice County, Minnesota",3.5,7,American (Traditional),$$,region
+776,Taco Bell,55057,"Rice County, Minnesota",3.0,1,Mexican,$,region
+777,Flat Branch Pub & Brewing,65201,"Boone County, Missouri",4.0,441,American (Traditional),$$,region
+778,Cafe Berlin,65201,"Boone County, Missouri",4.0,265,American (Traditional),$$,region
+779,Coley's,65201,"Boone County, Missouri",4.5,129,American (New),$$,region
+780,Barred Owl Butcher & Table,65203,"Boone County, Missouri",4.5,66,American (Traditional),$$,region
+781,Addison's,65201,"Boone County, Missouri",3.5,145,American (New),$$,region
+782,44 Stone Public House,65203,"Boone County, Missouri",4.5,189,American (New),$$,region
+783,Uprise Bakery,65201,"Boone County, Missouri",4.0,76,American (New),$,region
+784,Sycamore,65201,"Boone County, Missouri",4.0,101,American (New),$$$,region
+785,Broadway Diner,65201,"Boone County, Missouri",4.0,92,American (Traditional),$,region
+786,Broadway Brewery,65201,"Boone County, Missouri",3.5,150,American (New),$$,region
+787,Murrys,65201,"Boone County, Missouri",4.0,128,American (Traditional),$$,region
+788,Seoul Taco,65201,"Boone County, Missouri",4.0,110,Mexican,$,region
+789,MidiCi The Neapolitan Pizza Company,65201,"Boone County, Missouri",4.0,68,Italian,$$,region
+790,FlyOver,65205,"Boone County, Missouri",4.5,51,American (Traditional),$$,region
+791,Room 38,65201,"Boone County, Missouri",4.0,86,American (New),$$,region
+792,The Wine Cellar & Bistro,65201,"Boone County, Missouri",4.0,41,American (New),$$$,region
+793,Ernie's Cafe & Steak House,65201,"Boone County, Missouri",4.0,63,American (Traditional),$,region
+794,Carlito's Cabo - North Columbia,65203,"Boone County, Missouri",4.5,50,Mexican,$,region
+795,Pho Quan Viet Cuisine,65202,"Boone County, Missouri",4.5,45,Chinese,$,region
+796,44 Canteen,65201,"Boone County, Missouri",4.0,57,American (New),$$,region
+797,Teller's,65201,"Boone County, Missouri",4.0,79,American (New),$$,region
+798,La Terraza Mexican Grill,65203,"Boone County, Missouri",4.0,65,Mexican,$$,region
+799,Ingredient True Eatery,65201,"Boone County, Missouri",4.0,65,American (Traditional),$$,region
+800,Bamboo Terrace,65203,"Boone County, Missouri",4.5,65,Chinese,$$,region
+801,D Rowe's,65203,"Boone County, Missouri",4.0,84,American (Traditional),$$,region
+802,G & D Steakhouse,65203,"Boone County, Missouri",4.5,63,American (Traditional),$$,region
+803,Chinese Wok Express,65201,"Boone County, Missouri",4.0,34,Chinese,$,region
+804,El Rancho,65201,"Boone County, Missouri",3.5,58,Mexican,$,region
+805,The Wolf's Head Tavern,65201,"Boone County, Missouri",4.0,53,American (New),$$,region
+806,Sophia's,65203,"Boone County, Missouri",4.0,82,Italian,$$,region
+807,Sophia's,65203,"Boone County, Missouri",4.0,82,American (New),$$,region
+808,The Heidelberg Restaurant,65201,"Boone County, Missouri",3.5,63,American (Traditional),$$,region
+809,Babbo's Spaghetteria,65201,"Boone County, Missouri",3.5,81,Italian,$$,region
+810,Glenn's Cafe,65201,"Boone County, Missouri",3.5,68,American (New),$$,region
+811,Mad Cow,65201,"Boone County, Missouri",4.0,52,American (New),$,region
+812,Cheddar's Scratch Kitchen,65203,"Boone County, Missouri",3.5,89,American (Traditional),$$,region
+813,Formosa,65201,"Boone County, Missouri",3.5,58,Chinese,$,region
+814,India's House,65201,"Boone County, Missouri",3.5,67,Indian,$$,region
+815,Crushed Red,65201,"Boone County, Missouri",4.0,38,American (New),$,region
+816,La Siesta,65201,"Boone County, Missouri",3.5,40,Mexican,$$,region
+817,HuHot Mongolian Grill,65201,"Boone County, Missouri",4.0,62,Chinese,$$,region
+818,Las Margaritas,65203,"Boone County, Missouri",3.5,88,Mexican,$$,region
+819,ABC Chinese Cuisine,65201,"Boone County, Missouri",3.5,68,Chinese,$$,region
+820,Taj Mahal Restaurant and Grocery,65201,"Boone County, Missouri",3.0,66,Indian,$$,region
+821,House of Chow,65203,"Boone County, Missouri",3.5,52,Chinese,$$,region
+822,Stadium Grill,65201,"Boone County, Missouri",3.5,38,American (New),$$,region
+823,Dickey's Barbecue Pit,65203,"Boone County, Missouri",4.5,20,American (Traditional),$$,region
+824,Eleven Eleven,65201,"Boone County, Missouri",4.0,18,American (New),$$,region
+825,Szechuan House,65201,"Boone County, Missouri",3.5,24,Chinese,$$,region
+826,IHOP,65201,"Boone County, Missouri",4.0,28,American (Traditional),$,region
+827,Peking Restaurant,65203,"Boone County, Missouri",4.0,40,Chinese,$$,region
+828,Curries,65201,"Boone County, Missouri",4.0,26,Indian,$$,region
+829,Carlito's Cabo,65201,"Boone County, Missouri",4.5,11,Mexican,$,region
+830,Italian Village,65202,"Boone County, Missouri",4.0,24,Italian,$,region
+831,Teppanyaki Grill & Supreme Buffet,65203,"Boone County, Missouri",3.0,39,Chinese,$,region
+832,Houlihan's,65201,"Boone County, Missouri",3.0,57,American (New),$$,region
+833,Chipotle Mexican Grill,65201,"Boone County, Missouri",3.5,18,Mexican,$,region
+834,José Jalapenos,65201,"Boone County, Missouri",3.5,50,Mexican,$,region
+835,Harpo's,65201,"Boone County, Missouri",3.0,32,American (New),$$,region
+836,Texas Roadhouse,65203,"Boone County, Missouri",4.0,36,American (Traditional),$$,region
+837,Grand Cru,65203,"Boone County, Missouri",4.0,14,American (New),$$,region
+838,Fuddruckers,65203,"Boone County, Missouri",3.0,29,American (Traditional),$$,region
+839,Bandana's Bar-B-Q,65202,"Boone County, Missouri",3.5,36,American (Traditional),$$,region
+840,Truman's Bar & Grill,65203,"Boone County, Missouri",3.0,51,American (Traditional),$$,region
+841,Shiloh Bar & Grill,65201,"Boone County, Missouri",3.0,13,American (New),$$,region
+842,China Garden,65202,"Boone County, Missouri",3.0,35,Chinese,$$,region
+843,Waffle House,65203,"Boone County, Missouri",4.0,11,American (Traditional),$,region
+844,HeCheng,65203,"Boone County, Missouri",3.5,23,Chinese,$,region
+845,Pepperjax,65201,"Boone County, Missouri",4.0,13,American (New),$$,region
+846,La Siesta Mexican Restaruant,65202,"Boone County, Missouri",4.0,11,Mexican,$,region
+847,Ruby Tuesday,65203,"Boone County, Missouri",3.5,22,American (Traditional),$$,region
+848,Cracker Barrel Old Country Store,65202,"Boone County, Missouri",3.0,32,American (Traditional),$$,region
+849,Arris' Pizza,65201,"Boone County, Missouri",3.0,17,Italian,$,region
+850,LongHorn Steakhouse,65201,"Boone County, Missouri",3.0,25,American (Traditional),$$,region
+851,China Star,65203,"Boone County, Missouri",4.0,14,Chinese,$,region
+852,El Maguey,65201,"Boone County, Missouri",3.5,28,Mexican,$,region
+853,Agave Mexican Restaurant and Bar,65202,"Boone County, Missouri",3.5,29,Mexican,$,region
+854,Cheerleader Pub & Grill,65203,"Boone County, Missouri",3.0,28,American (Traditional),$$,region
+855,Denny's,65203,"Boone County, Missouri",3.0,21,American (Traditional),$,region
+856,Deuce Pub & Pit,65203,"Boone County, Missouri",4.0,12,American (New),$,region
+857,Bob Evans,65202,"Boone County, Missouri",4.0,13,American (Traditional),$$,region
+858,El Jimador,65202,"Boone County, Missouri",3.5,30,Mexican,$$,region
+859,Agave Mexican Restaurant,65203,"Boone County, Missouri",3.5,15,Mexican,$$,region
+860,The Pasta Factory,65203,"Boone County, Missouri",3.5,22,Italian,$$,region
+861,TGI Fridays,65201,"Boone County, Missouri",2.5,39,American (Traditional),$$,region
+862,Chili's,65201,"Boone County, Missouri",3.0,14,American (Traditional),$$,region
+863,China Moon,65202,"Boone County, Missouri",3.0,21,Chinese,$,region
+864,China Kitchen Chinese Restaurant,65201,"Boone County, Missouri",3.0,13,Chinese,$,region
+865,Red Lobster,65203,"Boone County, Missouri",3.0,17,American (Traditional),$$,region
+866,Willie's,65201,"Boone County, Missouri",2.5,12,American (Traditional),$$,region
+867,Loon Sheng,65202,"Boone County, Missouri",3.5,12,Chinese,$,region
+868,Buffalo Wild Wings,65203,"Boone County, Missouri",2.0,31,American (Traditional),$$,region
+869,Rio Grande Mexican Restaurant,65203,"Boone County, Missouri",3.5,19,Mexican,$,region
+870,Campus Bar & Grill,65201,"Boone County, Missouri",2.5,22,American (Traditional),$,region
+871,Olive Garden Italian Restaurant,65203,"Boone County, Missouri",2.5,28,Italian,$$,region
+872,Lilly's Cantina,65203,"Boone County, Missouri",3.5,11,Mexican,$,region
+873,Hooters,65201,"Boone County, Missouri",2.5,22,American (Traditional),$$,region
+874,Moe's Southwest Grill,65202,"Boone County, Missouri",2.5,14,Mexican,$,region
+875,New Mandarin House,65203,"Boone County, Missouri",2.5,12,Chinese,$$,region
+876,Panda Express,65201,"Boone County, Missouri",2.5,11,Chinese,$,region
+877,Imo's Pizza,65203,"Boone County, Missouri",2.5,10,Italian,$,region
+878,Chipotle Mexican Grill,65201,"Boone County, Missouri",2.5,15,Mexican,$,region
+879,Applebee's Grill + Bar,65201,"Boone County, Missouri",2.5,8,American (Traditional),$$,region
+880,George's Pizza & Steakhouse,65202,"Boone County, Missouri",3.5,14,Italian,$$,region
+881,Fazoli's,65203,"Boone County, Missouri",2.5,7,Italian,$,region
+882,Applebee's Grill + Bar,65203,"Boone County, Missouri",3.5,9,American (Traditional),$$,region
+883,Waffle House,65202,"Boone County, Missouri",2.5,10,American (Traditional),$,region
+884,Pancheros Mexican Grill,65203,"Boone County, Missouri",2.5,12,Mexican,$,region
+885,Sidelines Sports Bar,65202,"Boone County, Missouri",3.0,2,American (Traditional),$,region
+886,The Field House,65201,"Boone County, Missouri",2.0,11,American (Traditional),$,region
+887,Lee's Famous Recipe Chicken,65202,"Boone County, Missouri",4.0,7,American (Traditional),$,region
+888,Kem's Restaurant,65201,"Boone County, Missouri",3.5,6,American (Traditional),$$,region
+889,China Chef,65201,"Boone County, Missouri",3.5,9,Chinese,$,region
+890,Midway One Stop Diner,65202,"Boone County, Missouri",3.5,9,American (Traditional),$,region
+891,Stir Fry 88,65203,"Boone County, Missouri",2.5,2,Chinese,$$,region
+892,Pizza Hut,65202,"Boone County, Missouri",1.0,14,Italian,$,region
+893,Taco Bell,65203,"Boone County, Missouri",2.0,5,Mexican,$,region
+894,Taco Bell,65202,"Boone County, Missouri",4.0,4,Mexican,$,region
+895,Midway Travel Plaza,65202,"Boone County, Missouri",2.5,5,American (New),$$,region
+896,Hilton Garden Inn Resturant,65202,"Boone County, Missouri",2.5,2,American (Traditional),$$,region
+897,Backdoor Lounge,65202,"Boone County, Missouri",3.0,3,American (New),$,region
+898,Taco Bell,65203,"Boone County, Missouri",1.0,6,Mexican,$,region
+899,Taco Bell,65203,"Boone County, Missouri",3.5,3,Mexican,$,region
+900,Taco Bell,65201,"Boone County, Missouri",1.0,3,Mexican,$,region
+901,Black Bison Pub,67878,"Hamilton County, Kansas",5.0,10,American (Traditional),$,region
+902,Kc's Mexican American Restaurant,67878,"Hamilton County, Kansas",4.0,4,Mexican,$,region
+903,Bluejays,57024,"Moody County, South Dakota",3.0,2,American (New),$,region
+904,Geraldi's,65625,"Barry County, Missouri",4.5,9,Italian,$$,region
+905,Sunrise Family Restaurant,65625,"Barry County, Missouri",4.0,13,American (Traditional),$,region
+906,El Mariachi,65625,"Barry County, Missouri",4.0,11,Mexican,$,region
+907,Taco Bell,65625,"Barry County, Missouri",2.5,2,Mexican,$,region
+908,Ranchero's Taqueria,44310,"Summit County, Ohio",4.5,161,Mexican,$,region
+909,Luigi's Restaurant,44308,"Summit County, Ohio",3.5,367,Italian,$$,region
+910,Merchant Tavern,44313,"Summit County, Ohio",4.0,91,American (New),$$,region
+911,Pub Bricco,44313,"Summit County, Ohio",4.0,111,American (New),$$,region
+912,The Lockview,44334,"Summit County, Ohio",4.0,257,American (Traditional),$$,region
+913,Crave,44308,"Summit County, Ohio",4.0,257,American (New),$$,region
+914,Taqueria La Loma,44305,"Summit County, Ohio",4.5,226,Mexican,$,region
+915,Saffron Patch in the Valley,44313,"Summit County, Ohio",3.5,116,Indian,$$,region
+916,The Rail - Akron,44333,"Summit County, Ohio",4.0,229,American (Traditional),$$,region
+917,Wally Waffle,44303,"Summit County, Ohio",4.0,132,American (Traditional),$,region
+918,Fred's Diner,44310,"Summit County, Ohio",4.5,107,American (Traditional),$,region
+919,DeVitis Italian Market,44310,"Summit County, Ohio",5.0,45,Italian,$,region
+920,Moe's Restaurant,44221,"Summit County, Ohio",4.0,102,American (Traditional),$$$,region
+921,Chin's Place,44303,"Summit County, Ohio",4.0,88,Chinese,$,region
+922,Larry's Main Entrance,44313,"Summit County, Ohio",4.0,53,American (Traditional),$$,region
+923,Primo's Deli,44320,"Summit County, Ohio",4.5,88,Italian,$$,region
+924,Nuevo Modern Mexican and Tequila Bar,44308,"Summit County, Ohio",3.5,177,Mexican,$$,region
+925,D.B.A.,44308,"Summit County, Ohio",4.0,106,American (New),$$$,region
+926,First Watch,44223,"Summit County, Ohio",4.0,52,American (Traditional),$$,region
+927,Papa Joes,44313,"Summit County, Ohio",3.5,75,American (New),$$,region
+928,Bricco,44308,"Summit County, Ohio",3.5,144,American (New),$$,region
+929,Bricco,44308,"Summit County, Ohio",3.5,144,Italian,$$,region
+930,Taco Bajaa Fresh,44321,"Summit County, Ohio",4.5,39,Mexican,$,region
+931,D'Agnese's Trattoria and Cafe,44320,"Summit County, Ohio",4.0,82,Italian,$$,region
+932,Darby's on Fifty-Nine,44221,"Summit County, Ohio",4.0,86,American (Traditional),$$,region
+933,Gasoline Alley,44333,"Summit County, Ohio",4.0,131,American (Traditional),$$,region
+934,Village Gardens Restaurant & Pastries,44223,"Summit County, Ohio",4.0,57,American (Traditional),$,region
+935,Everest Restaurant,44223,"Summit County, Ohio",4.5,34,Indian,$$,region
+936,Los Girasoles Mexican Restaruant,44313,"Summit County, Ohio",4.0,34,Mexican,$,region
+937,Burntwood Tavern,44221,"Summit County, Ohio",3.5,173,American (New),$$,region
+938,Burntwood Tavern,44221,"Summit County, Ohio",3.5,173,American (Traditional),$$,region
+939,BurgerFi,44223,"Summit County, Ohio",3.5,120,American (Traditional),$$,region
+940,Nepali Kitchen,44310,"Summit County, Ohio",4.0,47,Indian,$$,region
+941,Russo's,44264,"Summit County, Ohio",4.0,93,Italian,$$$,region
+942,RETRO Dog,44224,"Summit County, Ohio",3.5,129,American (New),$,region
+943,Julian's,44305,"Summit County, Ohio",4.5,44,American (Traditional),$,region
+944,House of Hunan,44333,"Summit County, Ohio",3.5,80,Chinese,$$,region
+945,Brick House Tavern + Tap,44221,"Summit County, Ohio",3.5,122,American (Traditional),$$,region
+946,Boulevard Tavern,44221,"Summit County, Ohio",3.5,65,American (New),$$,region
+947,Trattoria Vaccaro,44333,"Summit County, Ohio",4.0,82,Italian,$$$,region
+948,Edgar's Restaurant,44320,"Summit County, Ohio",4.0,59,American (New),$$,region
+949,Wise Guys Lounge & Grill,44310,"Summit County, Ohio",4.0,23,American (Traditional),$$,region
+950,El Rancho Mexican Restaurant,44223,"Summit County, Ohio",4.0,41,Mexican,$$,region
+951,El Rancho,44313,"Summit County, Ohio",3.5,72,Mexican,$$,region
+952,Melt Bar and Grilled,44333,"Summit County, Ohio",3.5,105,American (Traditional),$$,region
+953,Diamond Grille,44308,"Summit County, Ohio",4.0,63,American (Traditional),$$$,region
+954,Mary Coyle Ice Cream,44303,"Summit County, Ohio",3.5,46,Italian,$,region
+955,El Meson,44221,"Summit County, Ohio",4.0,56,Mexican,$,region
+956,Wally Waffle,44278,"Summit County, Ohio",4.0,39,American (Traditional),$,region
+957,Burntwood Tavern,44333,"Summit County, Ohio",4.0,54,American (Traditional),$$,region
+958,Dontino's Italian Restaurant,44310,"Summit County, Ohio",3.5,47,Italian,$$,region
+959,Sammies Bar and Grill,44278,"Summit County, Ohio",4.0,72,American (Traditional),$$,region
+960,Sammies Bar and Grill,44278,"Summit County, Ohio",4.0,72,Italian,$$,region
+961,Tito's Mexican Grill,44333,"Summit County, Ohio",3.5,75,Mexican,$$,region
+962,Chen's Garden,44223,"Summit County, Ohio",3.5,44,Chinese,$,region
+963,El Tren Grill,44278,"Summit County, Ohio",4.0,41,Mexican,$$,region
+964,Beau's Grille,44333,"Summit County, Ohio",4.0,46,American (New),$$,region
+965,Ray's Place,44333,"Summit County, Ohio",3.5,58,American (Traditional),$$,region
+966,First Watch,44333,"Summit County, Ohio",4.0,63,American (Traditional),$$,region
+967,Winking Lizard,44333,"Summit County, Ohio",3.5,92,American (Traditional),$$,region
+968,Nosh Eatery & Creative Catering,44236,"Summit County, Ohio",4.5,60,American (New),$$,region
+969,Azteca Restaurante Mexicano,44305,"Summit County, Ohio",4.0,63,Mexican,$,region
+970,Mr G's Pizzeria & Wings,44333,"Summit County, Ohio",3.5,69,Italian,$$,region
+971,Wholly Joe Coffee House and Bakery,44313,"Summit County, Ohio",4.5,9,American (Traditional),$,region
+972,Brio,44333,"Summit County, Ohio",3.5,55,American (New),$$,region
+973,Cashmere Cricket,44221,"Summit County, Ohio",4.0,29,American (New),$$,region
+974,Baxter's Bar,44308,"Summit County, Ohio",3.5,61,American (Traditional),$$,region
+975,BJ's Restaurant & Brewhouse,44333,"Summit County, Ohio",3.0,94,American (New),$$,region
+976,Beau's On The River,44221,"Summit County, Ohio",3.0,52,American (New),$$,region
+977,Molly Brown's Cafe,44223,"Summit County, Ohio",4.0,20,American (Traditional),$,region
+978,Tres Potrillos,44321,"Summit County, Ohio",3.5,86,Mexican,$$,region
+979,Ido Bar & Grill,44301,"Summit County, Ohio",4.0,47,American (Traditional),$$,region
+980,Wolf Creek Tavern,44203,"Summit County, Ohio",4.0,60,American (New),$$,region
+981,P.F. Chang's,44333,"Summit County, Ohio",3.0,81,Chinese,$$,region
+982,Akron Family Restaurant,44303,"Summit County, Ohio",4.0,26,American (Traditional),$,region
+983,Mr Trompo,44310,"Summit County, Ohio",4.5,7,Mexican,$,region
+984,Texas Roadhouse,44224,"Summit County, Ohio",4.0,58,American (Traditional),$$,region
+985,Golden Dragon,44223,"Summit County, Ohio",3.5,32,Chinese,$$,region
+986,Ninny's Chicago Style Hot Dogs,44221,"Summit County, Ohio",4.0,32,American (Traditional),$,region
+987,Kingfish,44321,"Summit County, Ohio",4.0,45,American (New),$$$,region
+988,Wholly Frijoles Mexican Street Foods,44221,"Summit County, Ohio",4.5,9,Mexican,$,region
+989,Bangkok Thai Restaurant,44224,"Summit County, Ohio",4.5,32,Chinese,$$,region
+990,LongHorn Steakhouse,44221,"Summit County, Ohio",3.5,33,American (Traditional),$$,region
+991,Jimmy Bigg's Grill,44223,"Summit County, Ohio",4.0,20,American (Traditional),$,region
+992,Mark & Philly's,44221,"Summit County, Ohio",4.0,24,Italian,$,region
+993,Bombay Grill,44333,"Summit County, Ohio",3.5,55,Indian,$$,region
+994,La Mexicana Cantina and Grill,44278,"Summit County, Ohio",3.5,42,Mexican,$$,region
+995,El Gato Taqueria,44308,"Summit County, Ohio",3.5,33,Mexican,$,region
+996,Barley House,44308,"Summit County, Ohio",2.5,74,American (Traditional),$$,region
+997,Doug's Dinner Bucket Restaurant,44236,"Summit County, Ohio",4.5,19,American (Traditional),$,region
+998,Rockne's,44310,"Summit County, Ohio",4.0,26,American (Traditional),$,region
+999,Pancho & Lefty's,44224,"Summit County, Ohio",3.5,44,Mexican,$,region
+1000,The Fat Bob Grill,44303,"Summit County, Ohio",4.0,12,American (Traditional),$,region
+1001,A-Wok Restaurant,44333,"Summit County, Ohio",3.5,28,Chinese,$,region
+1002,Ken Stewart's Lodge,44333,"Summit County, Ohio",3.5,63,American (New),$$$,region
+1003,Dante's Gameday Grille,44310,"Summit County, Ohio",4.0,15,American (Traditional),$$,region
+1004,Spaghetti Warehouse,44311,"Summit County, Ohio",3.0,83,Italian,$$,region
+1005,Hunt's Bar & Grille,44221,"Summit County, Ohio",4.5,7,American (Traditional),$,region
+1006,Taqueria El Paso,44301,"Summit County, Ohio",4.5,18,Mexican,$,region
+1007,Royal Buffet & Grill,44310,"Summit County, Ohio",3.0,41,Chinese,$$,region
+1008,Tip Top Restaurant & Catering,44224,"Summit County, Ohio",3.5,47,American (New),$,region
+1009,Emidio & Sons Italian Restaurant,44223,"Summit County, Ohio",3.5,24,Italian,$$,region
+1010,O'Charley's Restaurant & Bar,44221,"Summit County, Ohio",3.5,51,American (Traditional),$$,region
+1011,Mandarin House Restaurant of China,44223,"Summit County, Ohio",3.0,26,Chinese,$$,region
+1012,China Garden,44303,"Summit County, Ohio",4.5,14,Chinese,$,region
+1013,River City Bar & Grille,44221,"Summit County, Ohio",4.0,19,American (Traditional),$$,region
+1014,Piada Italian Street Food,44313,"Summit County, Ohio",3.5,25,Italian,$,region
+1015,Olive Garden Italian Restaurant,44221,"Summit County, Ohio",3.0,45,Italian,$$,region
+1016,Chipotle Mexican Grill,44221,"Summit County, Ohio",3.0,21,Mexican,$,region
+1017,Zeppes Pizzeria & Italian Bistro,44236,"Summit County, Ohio",3.5,63,Italian,$$,region
+1018,Rockne's,44224,"Summit County, Ohio",3.5,30,American (Traditional),$$,region
+1019,Farmer Boy,44310,"Summit County, Ohio",3.0,30,American (New),$,region
+1020,Retz's Laconi's II,44221,"Summit County, Ohio",3.5,30,Italian,$,region
+1021,Ken Stewart's Tre Belle,44210,"Summit County, Ohio",3.5,35,Italian,$$$,region
+1022,Rockne's,44333,"Summit County, Ohio",3.0,28,American (Traditional),$$,region
+1023,Parasson's Italian Restaurants,44224,"Summit County, Ohio",3.0,42,Italian,$,region
+1024,Piada Italian Street Food,44223,"Summit County, Ohio",4.0,12,Italian,$$,region
+1025,Imperial Wok,44313,"Summit County, Ohio",3.5,27,Chinese,$,region
+1026,Jade Dragon,44306,"Summit County, Ohio",3.5,23,Chinese,$,region
+1027,Arthur Treacher's,44223,"Summit County, Ohio",4.0,13,American (New),$,region
+1028,On Tap Grille & Bar,44223,"Summit County, Ohio",2.5,33,American (Traditional),$$,region
+1029,Bacchus Lounge,44264,"Summit County, Ohio",4.0,21,American (Traditional),$$,region
+1030,J. Dublin's Pour House,44310,"Summit County, Ohio",3.5,17,American (Traditional),$$,region
+1031,Cracker Barrel Old Country Store,44321,"Summit County, Ohio",3.0,38,American (Traditional),$$,region
+1032,Red Fox Bar & Grill,44223,"Summit County, Ohio",3.5,11,American (Traditional),$$,region
+1033,El Rincon Mexican Restaurant,44306,"Summit County, Ohio",3.5,41,Mexican,$$,region
+1034,Olive Garden Italian Restaurant,44333,"Summit County, Ohio",3.5,26,Italian,$$,region
+1035,Red Lobster,44224,"Summit County, Ohio",3.0,28,American (Traditional),$$,region
+1036,Delanie's Neighborhood Grille,44278,"Summit County, Ohio",4.0,30,American (Traditional),$$,region
+1037,The Tavern of Stow,44224,"Summit County, Ohio",3.5,39,American (Traditional),$$,region
+1038,The Tavern of Stow,44224,"Summit County, Ohio",3.5,39,Italian,$$,region
+1039,Rockne's,44303,"Summit County, Ohio",4.0,9,American (Traditional),$$,region
+1040,Emidio & Sons Italian Restaurant,44310,"Summit County, Ohio",3.5,14,Italian,$,region
+1041,Silver Swan Tavern,44221,"Summit County, Ohio",4.0,15,American (New),$,region
+1042,Chipotle Mexican Grill,44223,"Summit County, Ohio",2.5,28,Mexican,$,region
+1043,The Town Tavern,44333,"Summit County, Ohio",4.5,9,American (Traditional),$,region
+1044,Platinum Dragon,44303,"Summit County, Ohio",2.0,27,Chinese,$,region
+1045,Uncle Tito's Mexican Grill,44312,"Summit County, Ohio",4.0,20,Mexican,$$,region
+1046,Virtues,44304,"Summit County, Ohio",3.5,12,American (New),$$,region
+1047,Chipotle Mexican Grill,44303,"Summit County, Ohio",3.5,11,Mexican,$,region
+1048,New Era Restaurant,44312,"Summit County, Ohio",3.0,30,American (Traditional),$$,region
+1049,Romano's Macaroni Grill,44333,"Summit County, Ohio",3.0,41,Italian,$$,region
+1050,Musketeers Bar & Grill,44286,"Summit County, Ohio",3.5,33,American (Traditional),$$,region
+1051,Iron Grill,44312,"Summit County, Ohio",4.0,33,American (New),$$,region
+1052,Boston Market,44221,"Summit County, Ohio",4.0,4,American (Traditional),$,region
+1053,Mi Casa Mexican Restaurant,44319,"Summit County, Ohio",3.5,36,Mexican,$,region
+1054,Lembo's Italian Restaurant,44312,"Summit County, Ohio",3.5,52,Italian,$$,region
+1055,Sunrise Kitchen,44224,"Summit County, Ohio",3.0,21,Chinese,$,region
+1056,Steinly's Restaurant,44319,"Summit County, Ohio",4.0,16,American (Traditional),$,region
+1057,Red Lobster,44333,"Summit County, Ohio",3.0,19,American (Traditional),$$,region
+1058,Market Street Grill & Pub,44305,"Summit County, Ohio",4.0,16,American (Traditional),$$,region
+1059,Moe's Southwest Grill,44224,"Summit County, Ohio",3.5,30,Mexican,$,region
+1060,La Chiquitaa Latinos Market,44320,"Summit County, Ohio",5.0,5,Mexican,$,region
+1061,LongHorn Steakhouse,44321,"Summit County, Ohio",3.0,21,American (Traditional),$$,region
+1062,A & W Drive-In Restaurant,44278,"Summit County, Ohio",4.0,8,American (New),$,region
+1063,Eat'n Park,44221,"Summit County, Ohio",2.5,21,American (Traditional),$,region
+1064,Chili's,44333,"Summit County, Ohio",3.0,29,American (Traditional),$$,region
+1065,Michael Trecaso's Italian Restaurant,44303,"Summit County, Ohio",3.0,16,Italian,$$,region
+1066,Panini's Bar and Grill,44224,"Summit County, Ohio",2.5,43,American (New),$$,region
+1067,Panini's Bar and Grill,44224,"Summit County, Ohio",2.5,43,American (Traditional),$$,region
+1068,The Cafe In Stow,44224,"Summit County, Ohio",3.0,28,American (Traditional),$,region
+1069,Panda Express,44223,"Summit County, Ohio",2.5,23,Chinese,$,region
+1070,Waterloo Restaurant & Catering,44319,"Summit County, Ohio",2.5,44,American (New),$$,region
+1071,New Ming Home Restaurant,44312,"Summit County, Ohio",3.0,18,Chinese,$,region
+1072,Barmacy Bar & Grill,44303,"Summit County, Ohio",3.0,16,American (Traditional),$,region
+1073,TGI Fridays,44224,"Summit County, Ohio",2.5,32,American (Traditional),$$,region
+1074,Chipotle Mexican Grill,44333,"Summit County, Ohio",2.5,24,Mexican,$,region
+1075,Lunch Dock,44310,"Summit County, Ohio",4.0,3,American (Traditional),$,region
+1076,King Dragon,44224,"Summit County, Ohio",3.0,14,Chinese,$,region
+1077,Spice Corner,44304,"Summit County, Ohio",4.5,3,Indian,$,region
+1078,Casa Del Mar,44203,"Summit County, Ohio",4.0,25,Mexican,$$,region
+1079,Firehouse Grill & Pub,44278,"Summit County, Ohio",2.5,36,American (Traditional),$$,region
+1080,Moe's Southwest Grill,44221,"Summit County, Ohio",2.5,14,Mexican,$$,region
+1081,Parasson's Italian Restaurants,44306,"Summit County, Ohio",3.5,18,Italian,$,region
+1082,Asian Garden,44306,"Summit County, Ohio",3.5,13,Chinese,$$,region
+1083,Main Street Saloon,44301,"Summit County, Ohio",3.5,6,American (Traditional),$,region
+1084,Fuad Khayyat's Vine Valley Specialty,44313,"Summit County, Ohio",4.5,2,American (Traditional),$$,region
+1085,Applebee's Grill + Bar,44221,"Summit County, Ohio",2.5,15,American (Traditional),$,region
+1086,Bob Evans,44221,"Summit County, Ohio",1.5,15,American (Traditional),$$,region
+1087,Premium New York Style Pizza,44310,"Summit County, Ohio",3.0,5,Italian,$,region
+1088,TGI Fridays,44321,"Summit County, Ohio",2.5,23,American (Traditional),$$,region
+1089,Tacos Juquilo,44310,"Summit County, Ohio",5.0,1,Mexican,$,region
+1090,Bob Evans,44224,"Summit County, Ohio",2.0,16,American (Traditional),$$,region
+1091,Danny Boys,44278,"Summit County, Ohio",3.5,18,Italian,$$,region
+1092,Applebee's Grill + Bar,44224,"Summit County, Ohio",3.5,10,American (Traditional),$$,region
+1093,Beef 'O' Brady's,44224,"Summit County, Ohio",2.5,28,American (Traditional),$,region
+1094,Papa Don's Pub,44305,"Summit County, Ohio",3.5,7,American (Traditional),$,region
+1095,Taco Bell,44223,"Summit County, Ohio",3.0,5,Mexican,$,region
+1096,Hunan of Stow,44224,"Summit County, Ohio",3.0,13,Chinese,$,region
+1097,Chipotle Mexican Grill,44304,"Summit County, Ohio",3.0,7,Mexican,$,region
+1098,Bob Evans,44333,"Summit County, Ohio",2.5,16,American (Traditional),$$,region
+1099,Taco Bell,44304,"Summit County, Ohio",3.5,5,Mexican,$,region
+1100,Chipotle Mexican Grill,44224,"Summit County, Ohio",3.5,12,Mexican,$,region
+1101,Leonardo's Pizza,44305,"Summit County, Ohio",3.5,8,Italian,$$,region
+1102,Golden Place the Chinese Restaurant,44278,"Summit County, Ohio",4.0,10,Chinese,$,region
+1103,Denny's,44310,"Summit County, Ohio",1.5,40,American (Traditional),$,region
+1104,Taco Bell,44333,"Summit County, Ohio",2.5,7,Mexican,$,region
+1105,New York Style Pizza & Deli,44310,"Summit County, Ohio",3.5,7,American (Traditional),$,region
+1106,Applebee's Grill + Bar,44224,"Summit County, Ohio",2.5,12,American (Traditional),$$,region
+1107,Great Garden,44310,"Summit County, Ohio",3.0,5,Chinese,$,region
+1108,Azteca Mexican Restaurant of Chapel Hill,44310,"Summit County, Ohio",2.5,5,Mexican,$$,region
+1109,Panda,44304,"Summit County, Ohio",3.5,9,Chinese,$,region
+1110,Applebee's Grill + Bar,44333,"Summit County, Ohio",3.0,10,American (Traditional),$$,region
+1111,Taco Bell,44221,"Summit County, Ohio",2.0,9,Mexican,$,region
+1112,Pizza Hut,44223,"Summit County, Ohio",2.0,7,Italian,$,region
+1113,Great Wall Chinese Restaurant,44262,"Summit County, Ohio",3.0,5,Chinese,$,region
+1114,Bob Evans,44305,"Summit County, Ohio",2.0,19,American (Traditional),$,region
+1115,B & K Root Beer,44314,"Summit County, Ohio",4.0,10,American (Traditional),$$,region
+1116,House of Hunan,44319,"Summit County, Ohio",2.5,15,Chinese,$,region
+1117,Tomaso's Italian Villa,44203,"Summit County, Ohio",3.0,9,Italian,$,region
+1118,Ann's Place,44320,"Summit County, Ohio",2.5,5,American (New),$$,region
+1119,Wafa's,44308,"Summit County, Ohio",2.0,6,American (Traditional),$,region
+1120,Norma Jeans,44312,"Summit County, Ohio",4.0,4,American (Traditional),$,region
+1121,Pizza Hut,44319,"Summit County, Ohio",2.5,7,Italian,$,region
+1122,Pizza Hut,44312,"Summit County, Ohio",2.5,8,Italian,$$,region
+1123,Pizza Hut,44313,"Summit County, Ohio",1.0,3,Italian,$$,region
+1124,Fire & Ice Bar & Grill,44312,"Summit County, Ohio",2.0,5,American (New),$,region
+1125,China Dragon,44278,"Summit County, Ohio",2.5,7,Chinese,$,region
+1126,China Star,44320,"Summit County, Ohio",1.5,2,Chinese,$$,region
+1127,Bill Hwang's Chinese Restaurant,44312,"Summit County, Ohio",2.0,7,Chinese,$,region
+1128,Taco Bell,44278,"Summit County, Ohio",2.0,6,Mexican,$,region
+1129,Pizza Hut,44262,"Summit County, Ohio",2.0,4,Italian,$,region
+1130,Stray Dog Grill,44310,"Summit County, Ohio",5.0,1,American (Traditional),$$,region
+1131,Wing Warehouse,44203,"Summit County, Ohio",3.0,9,American (New),$,region
+1132,Taco Bell,44313,"Summit County, Ohio",1.0,2,Mexican,$,region
+1133,Pizza Hut,44278,"Summit County, Ohio",3.0,3,Italian,$$,region
+1134,Chelsea's On the River,44221,"Summit County, Ohio",3.5,3,American (Traditional),$,region
+1135,Oldies & Goodies Family Diner,44306,"Summit County, Ohio",4.0,4,American (New),$,region
+1136,Pizza Hut,44236,"Summit County, Ohio",1.5,3,Italian,$,region
+1137,Zack & Scotty's Subs & Hotties,45614,"Gallia County, Ohio",4.5,27,American (New),$,region
+1138,Zack & Scotty's Subs & Hotties,45614,"Gallia County, Ohio",4.5,27,Italian,$,region
+1139,Shake Shoppe,45631,"Gallia County, Ohio",4.0,9,American (Traditional),$,region
+1140,Bob Evans,45674,"Gallia County, Ohio",2.5,9,American (Traditional),$$,region
+1141,Vintage Steak House,67301,"Montgomery County, Kansas",4.5,17,American (Traditional),$$,region
+1142,Brothers Railroad Inn,67301,"Montgomery County, Kansas",3.5,17,Italian,$$,region
+1143,Maria's Mexican Restaurant,67301,"Montgomery County, Kansas",4.0,7,Mexican,$$,region
+1144,Down Home Family Restaurant,67301,"Montgomery County, Kansas",4.0,7,American (Traditional),$$,region
+1145,El Pueblito Mexican Restaurant,67301,"Montgomery County, Kansas",3.5,14,Mexican,$,region
+1146,Puerto Vallarta,47170,"Scott County, Indiana",4.5,27,Mexican,$,region
+1147,Willie D's Deli,47170,"Scott County, Indiana",4.0,10,American (Traditional),$,region
+1148,Santa Fe,47170,"Scott County, Indiana",3.5,11,Mexican,$$,region
+1149,Roadhouse Usa,47170,"Scott County, Indiana",3.5,11,American (Traditional),$$,region
+1150,Cracker Barrel Old Country Store,47170,"Scott County, Indiana",3.0,12,American (Traditional),$$,region
+1151,Waffle House,47170,"Scott County, Indiana",4.0,5,American (Traditional),$,region
+1152,Denny's,47170,"Scott County, Indiana",2.0,17,American (Traditional),$,region
+1153,Taco Bell,47170,"Scott County, Indiana",2.0,4,Mexican,$,region
+1154,Pizza Hut,47170,"Scott County, Indiana",3.0,2,Italian,$,region
+1155,First Wok,47170,"Scott County, Indiana",2.0,3,Chinese,$$,region
+1156,Chow 45,42066,"Graves County, Kentucky",4.5,26,American (New),$$,region
+1157,Los Amigo's Mexican Restaurante,42066,"Graves County, Kentucky",5.0,2,Mexican,$,region
+1158,Applebee's Grill + Bar,42066,"Graves County, Kentucky",3.5,7,American (Traditional),$$,region
+1159,Majestic Pizza & Steak House,42066,"Graves County, Kentucky",2.5,8,American (Traditional),$$,region
+1160,La Michoacana,42066,"Graves County, Kentucky",5.0,1,Mexican,$,region
+1161,Chiu Fei Chinese Restaurant,42066,"Graves County, Kentucky",2.5,6,Chinese,$,region
+1162,Los Pinos,42066,"Graves County, Kentucky",3.5,4,Mexican,$$,region
+1163,Taco Bell,42066,"Graves County, Kentucky",2.5,3,Mexican,$,region
+1164,Dinner Bell,42066,"Graves County, Kentucky",3.5,3,American (Traditional),$$,region
+1165,Mid-Town Drive In,42066,"Graves County, Kentucky",4.0,1,American (Traditional),$,region
+1166,Buffalo Joes,74056,"Osage County, Oklahoma",4.0,21,American (Traditional),$,region
+1167,Grill 125,74056,"Osage County, Oklahoma",4.5,14,American (Traditional),$,region
+1168,Baxter's Interurban Grill,74127,"Osage County, Oklahoma",3.5,42,American (Traditional),$$,region
+1169,China 8,74127,"Osage County, Oklahoma",4.0,7,Chinese,$$,region
+1170,Beefmaster Steakhouse,76821,"Runnels County, Texas",4.0,32,American (Traditional),$$,region
+1171,Alejandra's Mexican & American Food,76821,"Runnels County, Texas",4.0,30,Mexican,$,region
+1172,Acapulco Restaurant,76821,"Runnels County, Texas",4.0,6,Mexican,$$,region
+1173,China Wok,76821,"Runnels County, Texas",5.0,3,Chinese,$,region
+1174,Gonzales Restaurant,76821,"Runnels County, Texas",4.0,4,Mexican,$,region
+1175,Gonzales Restaurant,76821,"Runnels County, Texas",4.0,4,American (Traditional),$,region
+1176,Sylvia's Grands Amis,76821,"Runnels County, Texas",3.5,3,American (New),$,region
+1177,Railway Cafe,75751,"Henderson County, Texas",5.0,109,American (Traditional),$$,region
+1178,El Arroyo Modern Mexican Kitchen,75751,"Henderson County, Texas",5.0,29,Mexican,$$,region
+1179,Ole' West Bean & Burger,75751,"Henderson County, Texas",4.5,26,American (Traditional),$$,region
+1180,Ochoa's Mexican Restaurant,75148,"Henderson County, Texas",4.0,26,Mexican,$$,region
+1181,Catfish Palace,75751,"Henderson County, Texas",4.5,20,American (New),$,region
+1182,Tara Vineyard & Winery,75752,"Henderson County, Texas",4.0,32,American (New),$$,region
+1183,Pitt Grill Restaurant,75751,"Henderson County, Texas",4.0,12,American (Traditional),$,region
+1184,Taqueria Restaurant Jalisco,75751,"Henderson County, Texas",4.0,14,Mexican,$,region
+1185,The Jalapeno Tree,75751,"Henderson County, Texas",3.5,25,Mexican,$$,region
+1186,Athens Cafe,75751,"Henderson County, Texas",3.5,16,American (Traditional),$,region
+1187,Athens Cafe,75751,"Henderson County, Texas",3.5,16,Mexican,$,region
+1188,Ochoa's Mexican Restaurants,75751,"Henderson County, Texas",3.5,11,Mexican,$$,region
+1189,Asian Garden,75751,"Henderson County, Texas",4.0,12,Chinese,$$,region
+1190,Roma Italian Restaurant,75751,"Henderson County, Texas",3.5,16,Italian,$$,region
+1191,Kei Asian Kitchen,75751,"Henderson County, Texas",4.0,16,Chinese,$,region
+1192,Tilo's Cuisine & Bakery,75751,"Henderson County, Texas",4.0,8,Mexican,$,region
+1193,Julio's Market Chicken & Fish,75751,"Henderson County, Texas",4.0,8,American (New),$,region
+1194,Cotton Patch Cafe,75751,"Henderson County, Texas",3.0,14,American (Traditional),$,region
+1195,Applebee's Grill + Bar,75751,"Henderson County, Texas",2.5,13,American (Traditional),$$,region
+1196,Hernandez Mexican Restaurant,75148,"Henderson County, Texas",4.5,6,Mexican,$,region
+1197,Texas Cafe,75751,"Henderson County, Texas",2.5,3,Mexican,$,region
+1198,Taco Bell,75751,"Henderson County, Texas",2.5,2,Mexican,$,region
+1199,Hunan Buffet Sushi and Grill,75751,"Henderson County, Texas",2.0,4,Chinese,$$,region
+1200,El San Luis,75751,"Henderson County, Texas",5.0,7,Mexican,$,region
+1201,Roma Italian Catering,75751,"Henderson County, Texas",1.0,1,Italian,$$,region
+1202,Sweet Peas,75751,"Henderson County, Texas",2.0,1,American (New),$$,region
+1203,Los Alambres Mexican Grill,75751,"Henderson County, Texas",3.5,3,Mexican,$$,region
+1204,Roma's Italian Restaurant,78102,"Bee County, Texas",4.5,17,Italian,$$,region
+1205,Taqueria Chapala,78102,"Bee County, Texas",4.0,17,Mexican,$,region
+1206,Beeville Diner,78102,"Bee County, Texas",3.0,30,American (Traditional),$$,region
+1207,El Charros Restaurant,78102,"Bee County, Texas",4.0,12,Mexican,$,region
+1208,Chili's,78102,"Bee County, Texas",2.0,25,American (Traditional),$$,region
+1209,Taqueria Jalisco,78102,"Bee County, Texas",3.5,9,Mexican,$$,region
+1210,Hong Kong Palace,78102,"Bee County, Texas",3.0,8,Chinese,$$,region
+1211,Jalisco Mexico Taqueria,78102,"Bee County, Texas",4.0,4,Mexican,$,region
+1212,Pizza Hut,78102,"Bee County, Texas",1.5,7,Italian,$$,region
+1213,Jesus Maria Restaurant,78102,"Bee County, Texas",2.5,4,Mexican,$,region
+1214,Peralta's Authentic Mexican Restaurant,75783,"Wood County, Texas",4.5,12,Mexican,$,region
+1215,Texas Tea Room,75783,"Wood County, Texas",4.0,5,American (Traditional),$,region
+1216,The Den Steakhouse & Grill,75783,"Wood County, Texas",4.0,16,American (Traditional),$$,region
+1217,MAKS,81004,"Pueblo County, Colorado",4.5,24,Mexican,$,region
+1218,Toni & Joes Pizza,81005,"Pueblo County, Colorado",3.0,30,Italian,$$,region
+1219,Taco Casa,81006,"Pueblo County, Colorado",1.0,2,Mexican,$,region
+1220,Wenzel Lonestar Meat Company,76531,"Hamilton County, Texas",5.0,37,American (Traditional),$,region
+1221,El Jardin,76531,"Hamilton County, Texas",4.0,18,Mexican,$,region
+1222,Lana's Casual Cafe,76531,"Hamilton County, Texas",4.5,15,Italian,$,region
+1223,Central Perk,76531,"Hamilton County, Texas",4.0,25,American (Traditional),$,region
+1224,Giovanni's Italian restaurant,76531,"Hamilton County, Texas",4.0,10,Italian,$,region
+1225,Taco Loco,76531,"Hamilton County, Texas",4.5,7,Mexican,$,region
+1226,Galleon Restaurant,73942,"Texas County, Oklahoma",4.5,41,Mexican,$$,region
+1227,Seafood & Taco Shop,73942,"Texas County, Oklahoma",4.5,15,Mexican,$,region
+1228,Pollo El Ranchero,73942,"Texas County, Oklahoma",4.5,15,Mexican,$$,region
+1229,The Pub on the Bricks,73942,"Texas County, Oklahoma",3.5,22,American (Traditional),$$,region
+1230,Caktus Jack's Steakhouse & Saloon,73942,"Texas County, Oklahoma",3.5,22,American (Traditional),$$,region
+1231,Taste of China,73942,"Texas County, Oklahoma",2.5,10,Chinese,$,region
+1232,Mazzio's Italian Eatery,73942,"Texas County, Oklahoma",4.0,3,Italian,$,region
+1233,Wise Guys,73942,"Texas County, Oklahoma",3.0,5,Italian,$$,region
+1234,Wise Guys,73942,"Texas County, Oklahoma",3.0,5,American (Traditional),$$,region
+1235,New Dragon Restaurant,73942,"Texas County, Oklahoma",3.0,5,Chinese,$,region
+1236,Pizza Hut,73942,"Texas County, Oklahoma",2.0,1,Italian,$,region
+1237,Feldman's Wrong Way Diner,79015,"Randall County, Texas",4.0,94,American (Traditional),$$,region
+1238,Imperial Taproom,79015,"Randall County, Texas",4.0,42,American (Traditional),$$,region
+1239,Pony Express Burritos,79015,"Randall County, Texas",3.5,17,Mexican,$,region
+1240,Pepito's Mexican Restaurante,79015,"Randall County, Texas",3.5,27,Mexican,$,region
+1241,The Ranch House Cafe,79015,"Randall County, Texas",3.5,32,American (Traditional),$,region
+1242,Buffalo Southwest Cafe,79015,"Randall County, Texas",2.5,33,American (Traditional),$$,region
+1243,Chicken Express,79015,"Randall County, Texas",4.0,6,American (Traditional),$,region
+1244,Braum's Ice Cream and Dairy Store,79015,"Randall County, Texas",2.0,6,American (Traditional),$,region
+1245,Pizza Hut,79015,"Randall County, Texas",2.0,9,Italian,$,region
+1246,La Cazona Mexican Restaurant,37110,"Warren County, Tennessee",4.5,17,Mexican,$,region
+1247,Billy's Restaurant,37110,"Warren County, Tennessee",4.5,8,American (Traditional),$,region
+1248,Applebee's Grill + Bar,37110,"Warren County, Tennessee",4.0,11,American (Traditional),$$,region
+1249,Fiesta Ranchera,37110,"Warren County, Tennessee",4.0,9,Mexican,$,region
+1250,Gondola Pizza & Steak House,37110,"Warren County, Tennessee",3.0,10,Italian,$$,region
+1251,Captain D's,37110,"Warren County, Tennessee",3.5,3,American (Traditional),$$,region
+1252,China Wok Restaurant,37110,"Warren County, Tennessee",3.5,3,Chinese,$,region
+1253,Mings Buffet & Grill,37110,"Warren County, Tennessee",3.5,4,Chinese,$$$,region
+1254,Waffle House,37110,"Warren County, Tennessee",3.5,3,American (Traditional),$,region
+1255,Taco Bell,37110,"Warren County, Tennessee",2.0,4,Mexican,$,region
+1256,Verde Valle Mexican Reastaurant,37357,"Warren County, Tennessee",3.0,5,Mexican,$,region
+1257,Pizza Hut,37110,"Warren County, Tennessee",1.0,2,Italian,$,region
+1258,Nana's Kountry Kupboard,37110,"Warren County, Tennessee",5.0,1,American (Traditional),$,region
+1259,J's Restaurant,37110,"Warren County, Tennessee",1.0,3,American (Traditional),$,region
+1260,El Jalisco,32328,"Franklin County, Florida",3.5,38,Mexican,$,region
+1261,The Fisherman's Wife,32322,"Franklin County, Florida",4.0,60,American (Traditional),$$,region
+1262,Marine Street Grill,32322,"Franklin County, Florida",3.0,2,American (Traditional),$,region
+1263,Panda Chinese Restaurant,70722,"East Feliciana County, Louisiana",5.0,3,Chinese,$,region
+1264,Red Boot Deli,70722,"East Feliciana County, Louisiana",4.5,8,American (Traditional),$,region
+1265,Courtside Restaurant And Event,70722,"East Feliciana County, Louisiana",2.0,1,American (New),$$,region
+1266,El Rodeo,38006,"Crockett County, Tennessee",3.0,5,Mexican,$$,region
+1267,Old Mexico Restaurant,36340,"Geneva County, Alabama",2.5,4,Mexican,$$,region
+1268,Tom's on Main,39194,"Yazoo County, Mississippi",4.0,17,Italian,$$,region
+1269,Tom's on Main,39194,"Yazoo County, Mississippi",4.0,17,American (Traditional),$$,region
+1270,El Sombrero Mexican Restaurant,39194,"Yazoo County, Mississippi",3.5,12,Mexican,$$,region
+1271,El Palenque Mexican Restaurant,39194,"Yazoo County, Mississippi",3.5,3,Mexican,$,region
+1272,Chinese Fast Food Restaurants,39194,"Yazoo County, Mississippi",5.0,1,Chinese,$$,region
+1273,Berry's Quick Stop,39039,"Yazoo County, Mississippi",5.0,3,American (Traditional),$,region
+1274,Pizza Hut,39194,"Yazoo County, Mississippi",1.5,3,Italian,$,region
+1275,Tupelo Honey,28801,"Buncombe County, North Carolina",4.0,1633,American (New),$$,region
+1276,HomeGrown,28801,"Buncombe County, North Carolina",4.5,686,American (New),$,region
+1277,HomeGrown,28801,"Buncombe County, North Carolina",4.5,686,American (Traditional),$,region
+1278,Biscuit Head,28801,"Buncombe County, North Carolina",4.5,888,American (New),$,region
+1279,White Duck Taco Shop,28801,"Buncombe County, North Carolina",4.5,1002,American (New),$,region
+1280,Chai Pani,28801,"Buncombe County, North Carolina",4.5,592,Indian,$$,region
+1281,Limones Restaurant,28801,"Buncombe County, North Carolina",4.5,473,Mexican,$$,region
+1282,Chestnut,28801,"Buncombe County, North Carolina",4.5,553,American (New),$$,region
+1283,Salsa's,28801,"Buncombe County, North Carolina",4.0,618,Mexican,$$,region
+1284,Vinnie's Neighborhood Italian,28804,"Buncombe County, North Carolina",4.5,277,Italian,$$,region
+1285,The Admiral,28806,"Buncombe County, North Carolina",4.5,616,American (New),$$,region
+1286,Zambra Wine Tapas & Cuisine,28801,"Buncombe County, North Carolina",4.0,404,American (New),$$,region
+1287,Farm Burger Asheville,28801,"Buncombe County, North Carolina",4.0,514,American (Traditional),$$,region
+1288,Blue Dream Curry House,28801,"Buncombe County, North Carolina",4.5,238,Indian,$$,region
+1289,Sovereign Remedies,28801,"Buncombe County, North Carolina",4.5,189,American (New),$$,region
+1290,Posana,28801,"Buncombe County, North Carolina",4.0,338,American (New),$$,region
+1291,Rhubarb,28801,"Buncombe County, North Carolina",4.0,324,American (New),$$$,region
+1292,Corner Kitchen,28803,"Buncombe County, North Carolina",4.0,625,American (Traditional),$$,region
+1293,The Market Place,28801,"Buncombe County, North Carolina",4.5,308,American (New),$$,region
+1294,Cucina 24,28801,"Buncombe County, North Carolina",4.5,224,Italian,$$$,region
+1295,White Duck Taco Shop,28803,"Buncombe County, North Carolina",4.0,295,American (New),$,region
+1296,Mela Indian Restaurant,28801,"Buncombe County, North Carolina",4.0,334,Indian,$$,region
+1297,Twisted Crepe,28801,"Buncombe County, North Carolina",4.5,191,American (New),$,region
+1298,Pack's Tavern,28801,"Buncombe County, North Carolina",4.0,327,American (New),$$,region
+1299,Nightbell,28801,"Buncombe County, North Carolina",4.5,181,American (New),$$$,region
+1300,bartaco Biltmore,28801,"Buncombe County, North Carolina",4.5,197,Mexican,$$,region
+1301,Papas and Beer,28805,"Buncombe County, North Carolina",4.0,227,Mexican,$$,region
+1302,Gan Shan Station,28801,"Buncombe County, North Carolina",4.0,212,Chinese,$$,region
+1303,King Daddy's Chicken & Waffles,28806,"Buncombe County, North Carolina",4.0,317,American (Traditional),$$,region
+1304,Chiesa,28801,"Buncombe County, North Carolina",4.5,134,Italian,$$,region
+1305,Rocky's Hot Chicken Shack,28806,"Buncombe County, North Carolina",4.5,338,American (New),$$,region
+1306,Jack of the Wood,28801,"Buncombe County, North Carolina",4.0,264,American (Traditional),$$,region
+1307,Copper Crown,28805,"Buncombe County, North Carolina",4.5,146,American (New),$$,region
+1308,Mamacita's Taqueria,28801,"Buncombe County, North Carolina",4.0,175,Mexican,$,region
+1309,828 Family Pizzeria,28804,"Buncombe County, North Carolina",4.0,106,Italian,$$,region
+1310,MG Road,28801,"Buncombe County, North Carolina",4.5,78,Indian,$$,region
+1311,Table,28801,"Buncombe County, North Carolina",3.5,211,American (New),$$$,region
+1312,Cafe 64,28801,"Buncombe County, North Carolina",4.5,126,American (New),$$,region
+1313,Stoney Knob Cafe,28787,"Buncombe County, North Carolina",4.5,200,American (Traditional),$$,region
+1314,WALK,28806,"Buncombe County, North Carolina",4.0,180,American (New),$,region
+1315,Rankin Vault Cocktail Lounge,28801,"Buncombe County, North Carolina",4.0,133,American (Traditional),$$,region
+1316,Village Wayside,28803,"Buncombe County, North Carolina",4.0,177,American (Traditional),$$,region
+1317,Strada Italiano,28801,"Buncombe County, North Carolina",4.0,221,Italian,$$,region
+1318,Urban Orchard Cider Co,28806,"Buncombe County, North Carolina",4.5,112,American (Traditional),$$,region
+1319,Mamacita's Taco Temple,28801,"Buncombe County, North Carolina",4.0,87,Mexican,$,region
+1320,Carmel's Restaurant and Bar,28801,"Buncombe County, North Carolina",4.0,181,American (New),$$,region
+1321,Cantina at Historic Biltmore Village,28803,"Buncombe County, North Carolina",4.0,255,Mexican,$$,region
+1322,Avenue M,28804,"Buncombe County, North Carolina",4.0,111,American (New),$$,region
+1323,Asheville Yacht Club,28801,"Buncombe County, North Carolina",4.5,73,American (Traditional),$,region
+1324,Isa's Bistro,28801,"Buncombe County, North Carolina",4.0,135,American (New),$$,region
+1325,Sonora,28801,"Buncombe County, North Carolina",4.5,90,Mexican,$$,region
+1326,Kathmandu Kitchen,28801,"Buncombe County, North Carolina",4.0,164,Indian,$$,region
+1327,Mojo Kitchen & Lounge,28801,"Buncombe County, North Carolina",4.5,73,American (New),$$,region
+1328,Twisted Laurel,28801,"Buncombe County, North Carolina",4.0,135,American (New),$$,region
+1329,Storm Rhum Bar & Bistro,28801,"Buncombe County, North Carolina",4.0,128,American (New),$$,region
+1330,Mountain Madre Mexican Kitchen and Agave Bar,28801,"Buncombe County, North Carolina",4.0,71,Mexican,$$,region
+1331,Sant Wine Bar And Tap Room,28801,"Buncombe County, North Carolina",4.5,59,American (Traditional),$$,region
+1332,Favillas New York Pizza,28806,"Buncombe County, North Carolina",4.0,184,Italian,$$,region
+1333,Del Vecchios,28801,"Buncombe County, North Carolina",4.0,66,Italian,$$,region
+1334,Red Stag Grill,28803,"Buncombe County, North Carolina",4.0,165,American (New),$$$,region
+1335,The Southern Kitchen & Bar,28801,"Buncombe County, North Carolina",3.5,152,American (New),$$,region
+1336,The Bier Garden,28801,"Buncombe County, North Carolina",3.0,201,American (Traditional),$$,region
+1337,Ambrozia Bar & Bistro,28804,"Buncombe County, North Carolina",4.0,53,American (New),$$,region
+1338,Zia Taqueria,28806,"Buncombe County, North Carolina",4.0,129,Mexican,$$,region
+1339,Universal Joint,28806,"Buncombe County, North Carolina",4.0,172,American (Traditional),$$,region
+1340,Fresh Wood Fired Pizza West,28801,"Buncombe County, North Carolina",4.0,85,American (Traditional),$$,region
+1341,Modesto,28801,"Buncombe County, North Carolina",3.5,136,Italian,$$,region
+1342,Edison,28804,"Buncombe County, North Carolina",3.0,77,American (Traditional),$$$,region
+1343,Pomodoros Greek & Italian Cafe,28805,"Buncombe County, North Carolina",4.0,76,Italian,$$,region
+1344,Smoky Park Supper Club,28801,"Buncombe County, North Carolina",4.0,90,American (New),$$,region
+1345,Vue 1913,28804,"Buncombe County, North Carolina",3.5,55,American (New),$$$$,region
+1346,Biltmore Estate Stable Cafe,28803,"Buncombe County, North Carolina",4.0,164,American (Traditional),$$,region
+1347,The Montford Rooftop Bar,28801,"Buncombe County, North Carolina",3.5,70,American (New),$$,region
+1348,Glass Onion,28787,"Buncombe County, North Carolina",4.5,85,Italian,$$,region
+1349,Taqueria Munoz,28806,"Buncombe County, North Carolina",4.5,65,Mexican,$,region
+1350,The Dining Room,28803,"Buncombe County, North Carolina",4.5,55,American (Traditional),$$$$,region
+1351,Ay Caramba Mexican Bar & Grill,28803,"Buncombe County, North Carolina",4.5,51,Mexican,$,region
+1352,Papa's & Beer,28806,"Buncombe County, North Carolina",4.0,198,Mexican,$$,region
+1353,Tacos Jalisco Mexican Restaurant,28806,"Buncombe County, North Carolina",4.5,82,Mexican,$,region
+1354,Corner Stone,28805,"Buncombe County, North Carolina",3.5,80,American (Traditional),$$,region
+1355,Isis Restaurant & Music Hall,28806,"Buncombe County, North Carolina",4.0,90,American (New),$$,region
+1356,Blue Mountain Pizza,28787,"Buncombe County, North Carolina",4.0,125,Italian,$$,region
+1357,Mediterranean Restaurant,28801,"Buncombe County, North Carolina",4.0,27,American (Traditional),$,region
+1358,The Social,28805,"Buncombe County, North Carolina",4.0,57,American (New),$$,region
+1359,Salvage Station,28801,"Buncombe County, North Carolina",4.5,31,American (Traditional),$$,region
+1360,Tastee Diner,28806,"Buncombe County, North Carolina",4.0,56,American (Traditional),$,region
+1361,India Garden,28805,"Buncombe County, North Carolina",3.5,70,Indian,$$,region
+1362,Moose Cafe Asheville,28806,"Buncombe County, North Carolina",4.0,218,American (Traditional),$,region
+1363,Jargon,28806,"Buncombe County, North Carolina",4.5,81,American (New),$$,region
+1364,Bonefish Grill,28805,"Buncombe County, North Carolina",4.0,43,American (New),$$,region
+1365,El Que Pasa,28806,"Buncombe County, North Carolina",4.0,65,Mexican,$,region
+1366,Bone and Broth,28801,"Buncombe County, North Carolina",4.0,45,American (New),$$,region
+1367,Texas Roadhouse,28803,"Buncombe County, North Carolina",4.0,71,American (Traditional),$$,region
+1368,Baked Pie Company - Woodfin,28804,"Buncombe County, North Carolina",5.0,13,American (Traditional),$,region
+1369,Nachos and Beer,28803,"Buncombe County, North Carolina",4.5,67,Mexican,$,region
+1370,One Stop at Asheville Music Hall,28801,"Buncombe County, North Carolina",4.5,15,American (New),$,region
+1371,Piazza,28803,"Buncombe County, North Carolina",4.0,48,Italian,$$,region
+1372,Pillar Rooftop Bar,28801,"Buncombe County, North Carolina",3.5,33,American (New),$$,region
+1373,Eats & Treats Cafe,28804,"Buncombe County, North Carolina",4.5,26,American (Traditional),$,region
+1374,Taqueria Fast,28804,"Buncombe County, North Carolina",4.0,31,Mexican,$,region
+1375,LongHorn Steakhouse,28805,"Buncombe County, North Carolina",4.0,37,American (Traditional),$$,region
+1376,Carrabba's Italian Grill,28805,"Buncombe County, North Carolina",3.5,44,Italian,$$,region
+1377,Wild Wing Cafe,28801,"Buncombe County, North Carolina",3.0,67,American (New),$$,region
+1378,Mamas & Beer,28805,"Buncombe County, North Carolina",3.5,47,Mexican,$$,region
+1379,Claddagh Restaurant And Pub,28801,"Buncombe County, North Carolina",3.5,39,American (Traditional),$,region
+1380,Stone Ridge Tavern,28806,"Buncombe County, North Carolina",4.0,181,American (Traditional),$$,region
+1381,Charlotte Street Grill & Pub,28801,"Buncombe County, North Carolina",3.0,33,American (New),$$,region
+1382,Polanco Restaurant,28801,"Buncombe County, North Carolina",3.5,56,Mexican,$$,region
+1383,Village Social On Biltmore Estate,28803,"Buncombe County, North Carolina",4.0,52,American (New),$$,region
+1384,Fatz Southern Kitchen,28806,"Buncombe County, North Carolina",4.0,79,American (Traditional),$$,region
+1385,Fatz Southern Kitchen,28806,"Buncombe County, North Carolina",4.0,79,American (New),$$,region
+1386,Belly Up Truck,28806,"Buncombe County, North Carolina",5.0,16,Mexican,$,region
+1387,The Soda Fountain,28801,"Buncombe County, North Carolina",4.0,23,American (Traditional),$,region
+1388,BimBeriBon,28806,"Buncombe County, North Carolina",4.0,50,American (New),$$,region
+1389,151 Boutique Bar,28801,"Buncombe County, North Carolina",4.5,14,American (Traditional),$$,region
+1390,Cracker Barrel Old Country Store,28805,"Buncombe County, North Carolina",3.5,25,American (Traditional),$,region
+1391,Wild Wok Asian Bistro,28805,"Buncombe County, North Carolina",3.5,48,Chinese,$$,region
+1392,China Taste,28806,"Buncombe County, North Carolina",4.0,41,Chinese,$,region
+1393,The Bistro,28803,"Buncombe County, North Carolina",4.0,48,American (New),$$$,region
+1394,The Bistro,28803,"Buncombe County, North Carolina",4.0,48,American (Traditional),$$$,region
+1395,Olive Garden Italian Restaurant,28805,"Buncombe County, North Carolina",3.5,42,Italian,$$,region
+1396,Urban Burrito,28804,"Buncombe County, North Carolina",3.0,35,Mexican,$,region
+1397,Library Lounge at Biltmore Inn,28803,"Buncombe County, North Carolina",4.0,27,American (New),$$,region
+1398,Cheddar's Scratch Kitchen,28805,"Buncombe County, North Carolina",3.0,52,American (Traditional),$$,region
+1399,Apollo Flame Bistro & Pizza,28806,"Buncombe County, North Carolina",4.0,110,Italian,$$,region
+1400,Oriental Pavillion,28806,"Buncombe County, North Carolina",3.0,70,Chinese,$,region
+1401,Fuddruckers,28801,"Buncombe County, North Carolina",3.5,33,American (Traditional),$,region
+1402,Buffalo Wild Wings,28805,"Buncombe County, North Carolina",3.0,48,American (Traditional),$$,region
+1403,Foothills Butcher Bar: West,28806,"Buncombe County, North Carolina",4.5,21,American (New),$$,region
+1404,The Newbridge Cafe,28804,"Buncombe County, North Carolina",4.0,16,American (Traditional),$,region
+1405,Dragon China,28806,"Buncombe County, North Carolina",4.0,21,Chinese,$,region
+1406,Apollo Flame Bistro,28803,"Buncombe County, North Carolina",3.5,45,Italian,$,region
+1407,Wynn's Diner,28806,"Buncombe County, North Carolina",4.0,38,American (Traditional),$,region
+1408,Cook Out,28803,"Buncombe County, North Carolina",4.0,33,American (Traditional),$,region
+1409,Waffle House,28805,"Buncombe County, North Carolina",3.5,18,American (Traditional),$,region
+1410,The Anchor Bar and Kitchen,28806,"Buncombe County, North Carolina",4.0,17,American (Traditional),$$,region
+1411,Bistro at Biltmore,28803,"Buncombe County, North Carolina",4.0,35,American (New),$$$,region
+1412,Gondolier,28805,"Buncombe County, North Carolina",3.5,41,Italian,$$,region
+1413,The Hungry Bear Cafe,28806,"Buncombe County, North Carolina",4.0,32,American (Traditional),$,region
+1414,Red Lobster,28805,"Buncombe County, North Carolina",3.0,31,American (Traditional),$$,region
+1415,China Wok,28804,"Buncombe County, North Carolina",3.5,22,Chinese,$,region
+1416,Tunnel Road Tap Haus,28805,"Buncombe County, North Carolina",3.5,15,American (Traditional),$,region
+1417,O'Charley's Restaurant & Bar,28805,"Buncombe County, North Carolina",3.0,21,American (Traditional),$$,region
+1418,El Chapala Mexican Restaurant,28803,"Buncombe County, North Carolina",3.0,25,Mexican,$,region
+1419,El Lemon,28778,"Buncombe County, North Carolina",4.0,28,Mexican,$,region
+1420,Neo Burrito,28806,"Buncombe County, North Carolina",3.5,38,Mexican,$,region
+1421,Yao Buffet Sushi Grill,28806,"Buncombe County, North Carolina",3.5,58,Chinese,$$,region
+1422,La Carreta,28804,"Buncombe County, North Carolina",3.0,23,Mexican,$$,region
+1423,Bellagio Bistro,28804,"Buncombe County, North Carolina",3.0,30,Italian,$$,region
+1424,Bellagio Bistro,28804,"Buncombe County, North Carolina",3.0,30,American (Traditional),$$,region
+1425,Moe's Southwest Grill,28803,"Buncombe County, North Carolina",3.5,20,Mexican,$,region
+1426,Writer's Bistro,28801,"Buncombe County, North Carolina",3.5,11,American (New),$$$$,region
+1427,Cocula Mexican Restaurant,28805,"Buncombe County, North Carolina",3.0,38,Mexican,$,region
+1428,Copper River Grill,28803,"Buncombe County, North Carolina",3.5,64,American (Traditional),$$,region
+1429,IHOP,28805,"Buncombe County, North Carolina",3.5,16,American (Traditional),$$,region
+1430,Tommy's Family Restaurant,28787,"Buncombe County, North Carolina",4.0,24,American (Traditional),$,region
+1431,El Chapala Mexican Restaurant,28806,"Buncombe County, North Carolina",3.5,44,Mexican,$,region
+1432,TGI Fridays,28803,"Buncombe County, North Carolina",2.5,40,American (Traditional),$$,region
+1433,Ay Caramba Mexican Grill & Bar,28806,"Buncombe County, North Carolina",4.5,14,Mexican,$,region
+1434,Cracker Barrel Old Country Store,28806,"Buncombe County, North Carolina",3.0,36,American (Traditional),$,region
+1435,Waffle House,28801,"Buncombe County, North Carolina",4.0,16,American (New),$,region
+1436,Neo Burrito,28805,"Buncombe County, North Carolina",3.0,32,Mexican,$,region
+1437,Los Nenes Bakery,28806,"Buncombe County, North Carolina",4.0,8,Mexican,$,region
+1438,Chili's,28805,"Buncombe County, North Carolina",2.5,14,American (Traditional),$$,region
+1439,Pull Up at the Peel Deli and Grill,28801,"Buncombe County, North Carolina",5.0,3,American (New),$,region
+1440,China Buffet,28803,"Buncombe County, North Carolina",3.0,20,Chinese,$,region
+1441,Waffle House,28805,"Buncombe County, North Carolina",3.0,10,American (Traditional),$,region
+1442,La Carreta,28787,"Buncombe County, North Carolina",2.5,40,Mexican,$$,region
+1443,Asian Wok,28806,"Buncombe County, North Carolina",3.5,21,Chinese,$,region
+1444,Shogun Buffet Hibachi Grill,28806,"Buncombe County, North Carolina",3.0,38,Chinese,$$,region
+1445,Taco Bell,28805,"Buncombe County, North Carolina",2.0,11,Mexican,$,region
+1446,Metro,28804,"Buncombe County, North Carolina",2.0,21,Chinese,$,region
+1447,Waffle House,28806,"Buncombe County, North Carolina",4.0,9,American (Traditional),$,region
+1448,IHOP,28806,"Buncombe County, North Carolina",3.5,15,American (Traditional),$,region
+1449,Panda Express,28805,"Buncombe County, North Carolina",3.5,4,Chinese,$,region
+1450,Happy Hill Restaurant,28806,"Buncombe County, North Carolina",4.0,14,American (Traditional),$$,region
+1451,Mulligan's Bar In the Crown Plaza,28806,"Buncombe County, North Carolina",3.5,3,American (New),$$,region
+1452,Ciao Y'all,28806,"Buncombe County, North Carolina",4.0,4,Italian,$,region
+1453,Battle Of The Burger,28801,"Buncombe County, North Carolina",5.0,1,American (Traditional),$$,region
+1454,Ryan's,28806,"Buncombe County, North Carolina",2.5,22,American (Traditional),$$,region
+1455,New China,28806,"Buncombe County, North Carolina",3.5,9,Chinese,$,region
+1456,Ron's Taco Shop,28801,"Buncombe County, North Carolina",2.5,4,Mexican,$$,region
+1457,Chapala Mexican Restaurant,28787,"Buncombe County, North Carolina",3.0,14,Mexican,$,region
+1458,Bojangles,28787,"Buncombe County, North Carolina",4.5,3,American (New),$,region
+1459,La Bamba Burrito Express,28778,"Buncombe County, North Carolina",3.0,12,Mexican,$,region
+1460,El Paraiso,28806,"Buncombe County, North Carolina",2.5,16,Mexican,$,region
+1461,Applebee's Grill + Bar,28806,"Buncombe County, North Carolina",2.5,19,American (Traditional),$$,region
+1462,IHOP,28787,"Buncombe County, North Carolina",2.5,12,American (Traditional),$$$,region
+1463,Great Wall Restaurant,28803,"Buncombe County, North Carolina",2.5,9,Chinese,$,region
+1464,Merendero,28806,"Buncombe County, North Carolina",5.0,1,Mexican,$,region
+1465,La Carretta,28787,"Buncombe County, North Carolina",3.5,3,Mexican,$$,region
+1466,Waffle House,28787,"Buncombe County, North Carolina",3.5,3,American (Traditional),$,region
+1467,Pizza Hut,28805,"Buncombe County, North Carolina",2.0,6,Italian,$,region
+1468,The Cornerhouse Cafe,28801,"Buncombe County, North Carolina",3.0,1,American (Traditional),$$,region
+1469,Taco Bell,28806,"Buncombe County, North Carolina",2.0,8,Mexican,$,region
+1470,Ty's Tempeh Reubens,28805,"Buncombe County, North Carolina",2.0,2,American (New),$,region
+1471,Mexico Lindo Mexican Restaurant,28803,"Buncombe County, North Carolina",3.5,3,Mexican,$,region
+1472,Pizza Hut,28806,"Buncombe County, North Carolina",1.5,10,Italian,$,region
+1473,Bojangles,28787,"Buncombe County, North Carolina",3.5,2,American (New),$,region
+1474,Taco Bell,28806,"Buncombe County, North Carolina",4.0,3,Mexican,$,region
+1475,Pizza Hut,28804,"Buncombe County, North Carolina",1.5,12,Italian,$$,region
+1476,Urban Cafe,28801,"Buncombe County, North Carolina",1.0,1,American (New),$,region
+1477,Angelo's Family Restaurant,28730,"Buncombe County, North Carolina",3.5,7,American (Traditional),$,region
+1478,Belle's Pizzeria,28806,"Buncombe County, North Carolina",3.0,9,Italian,$$,region
+1479,Golden Wok,28787,"Buncombe County, North Carolina",3.0,7,Chinese,$$,region
+1480,Katch Twenty Two,34461,"Citrus County, Florida",4.5,27,American (Traditional),$$$,region
+1481,Vintage On 5th,34429,"Citrus County, Florida",4.5,125,American (New),$$,region
+1482,Paige's Root Beer,34461,"Citrus County, Florida",4.0,59,American (Traditional),$,region
+1483,Biscuit Barn,34448,"Citrus County, Florida",4.5,63,American (Traditional),$,region
+1484,Cracker's Bar & Grill,34428,"Citrus County, Florida",3.0,283,American (Traditional),$$,region
+1485,Norton's Riverside Sports Bar & Grill,34429,"Citrus County, Florida",4.0,47,American (New),$,region
+1486,The Greenhouse Bistro & Market,34448,"Citrus County, Florida",4.5,48,American (Traditional),$$,region
+1487,Kim's Cafe II,34448,"Citrus County, Florida",4.5,32,American (Traditional),$,region
+1488,Fat Daddy's Road House Bar & Grill,34448,"Citrus County, Florida",4.0,48,American (Traditional),$$,region
+1489,Moschello's Pizza,34448,"Citrus County, Florida",4.0,32,Italian,$$,region
+1490,La Casa Di Norma,34429,"Citrus County, Florida",4.0,29,Italian,$$,region
+1491,Riviera Mexican Cantina & Sports Lounge,34429,"Citrus County, Florida",3.5,43,Mexican,$$,region
+1492,Breakfast Station,34465,"Citrus County, Florida",4.0,27,American (Traditional),$,region
+1493,Suncoast Bar & Grill,34448,"Citrus County, Florida",4.0,40,American (Traditional),$,region
+1494,West 82 Bar And Grill,34429,"Citrus County, Florida",4.0,18,American (New),$$,region
+1495,Lollygaggers Sports Pub & Grill,34429,"Citrus County, Florida",3.5,34,American (Traditional),$$,region
+1496,Mr King,34429,"Citrus County, Florida",3.5,40,Chinese,$$,region
+1497,Marguerita Grill,34448,"Citrus County, Florida",4.0,48,American (Traditional),$$,region
+1498,Claw Daddy's Raw Bar & Grill,34429,"Citrus County, Florida",3.0,53,American (New),$$,region
+1499,Seafood Seller & Cafe,34429,"Citrus County, Florida",4.5,30,American (Traditional),$,region
+1500,Two Guys From Italy Sports Lounge,34446,"Citrus County, Florida",3.5,38,Italian,$$,region
+1501,Michael Anthony's Pizza,34446,"Citrus County, Florida",3.5,39,Italian,$,region
+1502,High Octane Saloon,34448,"Citrus County, Florida",3.5,17,American (Traditional),$,region
+1503,Oysters Restaurant,34429,"Citrus County, Florida",3.5,36,American (New),$$,region
+1504,Grumpy Gators Bar & Grill,34446,"Citrus County, Florida",3.5,21,American (Traditional),$$,region
+1505,Breakfast Station,34429,"Citrus County, Florida",4.0,26,American (Traditional),$,region
+1506,Natalia's Pizza & Pasta,34429,"Citrus County, Florida",3.5,24,Italian,$,region
+1507,Sara's Diner,34429,"Citrus County, Florida",3.5,23,American (Traditional),$,region
+1508,Mama Sally's South,34429,"Citrus County, Florida",3.0,15,American (New),$,region
+1509,El Ranchito Mexican Grill,34429,"Citrus County, Florida",3.0,23,Mexican,$,region
+1510,Mariana's The Stinky Rose,34442,"Citrus County, Florida",3.5,16,Italian,$$,region
+1511,Olive Garden Italian Restaurant,34453,"Citrus County, Florida",3.0,32,Italian,$$,region
+1512,Schianos Pizza,34428,"Citrus County, Florida",5.0,3,Italian,$$,region
+1513,Beef 'O' Brady's,34429,"Citrus County, Florida",2.5,6,American (Traditional),$,region
+1514,Main Street Restaurant,34465,"Citrus County, Florida",3.0,15,American (Traditional),$$,region
+1515,Steak Out Subs,34429,"Citrus County, Florida",4.0,5,American (New),$$,region
+1516,Ruby Tuesday,34453,"Citrus County, Florida",3.0,20,American (Traditional),$$,region
+1517,Ruby Tuesday,34453,"Citrus County, Florida",3.0,20,American (New),$$,region
+1518,Hardee's,34429,"Citrus County, Florida",5.0,2,Mexican,$,region
+1519,Hungry Howie's Pizza & Subs,34465,"Citrus County, Florida",4.5,5,Italian,$,region
+1520,Moschello's II,34434,"Citrus County, Florida",3.5,11,Italian,$,region
+1521,Hardee's - Homosassa Springs,34448,"Citrus County, Florida",3.0,6,American (Traditional),$,region
+1522,Applebee's Grill + Bar,34429,"Citrus County, Florida",2.5,11,American (Traditional),$$,region
+1523,New China Chinese Restaurant,34465,"Citrus County, Florida",3.0,4,Chinese,$,region
+1524,Yardarm Lounge,34448,"Citrus County, Florida",4.0,9,American (Traditional),$$,region
+1525,Pizza Hut,34447,"Citrus County, Florida",4.0,3,Italian,$$,region
+1526,Taco Bell,34428,"Citrus County, Florida",2.5,5,Mexican,$,region
+1527,Denny's,34428,"Citrus County, Florida",2.5,5,American (Traditional),$,region
+1528,Riverside Crab House,34448,"Citrus County, Florida",3.0,44,American (New),$$,region
+1529,Castaways Bar & Grill,34428,"Citrus County, Florida",3.0,4,American (Traditional),$$,region
+1530,Pizza Hut,34429,"Citrus County, Florida",3.5,2,Italian,$,region
+1531,China First,34429,"Citrus County, Florida",4.0,1,Chinese,$,region
+1532,Mulberry Italian Ristorante,14218,"Erie County, New York",4.5,269,Italian,$$,region
+1533,Lucia's On The Lake,14075,"Erie County, New York",4.0,95,Italian,$$,region
+1534,Black Iron Bystro,14219,"Erie County, New York",4.5,125,American (New),$$,region
+1535,The Grange Community Kitchen,14075,"Erie County, New York",4.5,140,American (New),$$,region
+1536,Savory's,14075,"Erie County, New York",4.0,99,American (New),$,region
+1537,Poppyseed Restaurant,14219,"Erie County, New York",4.0,105,American (New),$$,region
+1538,Ilio DiPaolo's Restaurant & Banquet Facility,14219,"Erie County, New York",4.0,88,Italian,$$,region
+1539,Ilio DiPaolo's Restaurant & Banquet Facility,14219,"Erie County, New York",4.0,88,American (Traditional),$$,region
+1540,Winfield's Pub,14218,"Erie County, New York",4.5,73,American (Traditional),$$,region
+1541,Rodney's Restaurant and Lounge,14075,"Erie County, New York",3.5,53,American (New),$$,region
+1542,Butera's Craft Beer and Craft Pizza,14075,"Erie County, New York",4.5,67,American (Traditional),$$,region
+1543,L'isola Doro Restaurant & Pizzeria,14075,"Erie County, New York",4.0,33,Italian,$$,region
+1544,Hoak's Restaurant,14075,"Erie County, New York",3.5,79,American (Traditional),$$,region
+1545,Carte Blanche,14075,"Erie County, New York",4.5,57,Italian,$$$,region
+1546,The Mess Hall,14218,"Erie County, New York",4.0,92,American (Traditional),$$,region
+1547,The Mess Hall,14218,"Erie County, New York",4.0,92,Italian,$$,region
+1548,Curly's Grille,14218,"Erie County, New York",4.0,91,American (Traditional),$$,region
+1549,Waterstone Grill,14075,"Erie County, New York",4.0,72,American (Traditional),$$,region
+1550,Daniel's Restaurant,14075,"Erie County, New York",4.5,42,American (Traditional),$$$,region
+1551,Gene McCarthy's,14204,"Erie County, New York",4.0,114,American (Traditional),$$,region
+1552,Peg's Place Restaurant,14075,"Erie County, New York",3.5,42,American (Traditional),$,region
+1553,Dos Amigos On The Lake,14219,"Erie County, New York",3.0,66,Mexican,$$,region
+1554,Cantina 62,14218,"Erie County, New York",4.0,65,Mexican,$,region
+1555,Blackthorn Restaurant & Pub,14210,"Erie County, New York",4.0,139,American (Traditional),$$,region
+1556,Rust Belt Bar and Grill,14219,"Erie County, New York",3.5,42,American (Traditional),$$,region
+1557,Schwabl's Restaurant,14224,"Erie County, New York",3.5,174,American (Traditional),$$,region
+1558,El Canelo Restaurant,14219,"Erie County, New York",3.5,62,Mexican,$$,region
+1559,Romeo & Juliet's Italian Cafe,14075,"Erie County, New York",4.0,25,Italian,$$,region
+1560,Apollo Family Restaurant,14219,"Erie County, New York",4.0,33,American (Traditional),$$,region
+1561,Conlon's,14220,"Erie County, New York",4.5,52,American (Traditional),$$,region
+1562,Pasquale's,14224,"Erie County, New York",4.0,81,Italian,$$,region
+1563,Dove Restaurant,14127,"Erie County, New York",4.5,30,Italian,$$,region
+1564,Mammoser's Tavern & Restaurant,14075,"Erie County, New York",3.5,40,American (Traditional),$$,region
+1565,Buffalo's Best Grill,14127,"Erie County, New York",4.0,57,American (Traditional),$$,region
+1566,Mansard Inn,14127,"Erie County, New York",4.5,21,American (New),$$,region
+1567,Don Juan Mexican Bar & Grill - West Seneca,14224,"Erie County, New York",4.0,86,Mexican,$$,region
+1568,Coyote Cafe,14075,"Erie County, New York",3.0,66,Mexican,$$,region
+1569,Water Valley Inn,14075,"Erie County, New York",4.0,21,American (Traditional),$$,region
+1570,Mineo's South Pizzeria,14220,"Erie County, New York",4.5,25,Italian,$,region
+1571,Pegasus Restaurant,14075,"Erie County, New York",3.0,47,American (New),$$,region
+1572,Ferro's Famous New York Pizza,14224,"Erie County, New York",4.5,44,Italian,$,region
+1573,"La Tolteca - Hamburg,NY",14075,"Erie County, New York",3.0,60,Mexican,$$,region
+1574,Major Tom's Drop Zone,14075,"Erie County, New York",4.0,34,Italian,$$,region
+1575,Mexico City,14075,"Erie County, New York",3.5,22,Mexican,$$,region
+1576,Danny's South,14127,"Erie County, New York",3.0,47,American (Traditional),$$,region
+1577,Nichole's Wanakah Grill,14085,"Erie County, New York",4.5,8,American (Traditional),$$,region
+1578,Armor Inn Tap Room,14075,"Erie County, New York",3.0,60,American (New),$$,region
+1579,Mongolian Buffet,14219,"Erie County, New York",3.0,46,Italian,$$,region
+1580,Red Robin Gourmet Burgers,14127,"Erie County, New York",3.5,48,American (Traditional),$$,region
+1581,Chipotle Mexican Grill,14219,"Erie County, New York",3.0,34,Mexican,$,region
+1582,WiseGuys Pizza South Buffalo,14210,"Erie County, New York",4.5,38,Italian,$$,region
+1583,The Olive Branch Family Restaurant,14224,"Erie County, New York",4.0,59,American (Traditional),$$,region
+1584,LongHorn Steakhouse,14127,"Erie County, New York",3.5,38,American (Traditional),$$,region
+1585,Olive Garden Italian Restaurant,14219,"Erie County, New York",3.5,29,Italian,$$,region
+1586,Mason's Grille 52,14075,"Erie County, New York",3.5,31,American (Traditional),$$,region
+1587,Original Pancake House,14127,"Erie County, New York",3.0,45,American (Traditional),$$,region
+1588,Hat Trix Bar & Grill,14075,"Erie County, New York",4.5,3,American (Traditional),$,region
+1589,Christe's Restaurant,14224,"Erie County, New York",3.5,33,American (Traditional),$,region
+1590,Potters Field,14220,"Erie County, New York",3.5,28,American (Traditional),$,region
+1591,Denny's,14075,"Erie County, New York",2.5,16,American (Traditional),$,region
+1592,O'Daniels Ginmill & Grill,14218,"Erie County, New York",3.5,17,American (Traditional),$$,region
+1593,Steel City Pub,14218,"Erie County, New York",4.5,8,American (Traditional),$,region
+1594,Ernie Weber's Beef N Ale,14218,"Erie County, New York",3.5,17,American (Traditional),$$,region
+1595,Steveo's Tacos & Subs,14047,"Erie County, New York",4.0,21,Mexican,$,region
+1596,Red Lobster,14219,"Erie County, New York",3.0,21,American (Traditional),$$,region
+1597,Charlie's Boat Yard,14203,"Erie County, New York",2.5,73,American (Traditional),$$,region
+1598,George's Hot Dogs,14075,"Erie County, New York",4.0,14,Mexican,$,region
+1599,Ruby Tuesday,14219,"Erie County, New York",3.0,19,American (Traditional),$$,region
+1600,J&M's West End Inn,14075,"Erie County, New York",4.5,13,American (Traditional),$$,region
+1601,Pasquale's,14047,"Erie County, New York",3.5,26,Italian,$$,region
+1602,Sneaker's,14219,"Erie County, New York",3.5,9,American (Traditional),$,region
+1603,T.G.I. Friday's,14219,"Erie County, New York",2.5,27,American (New),$$,region
+1604,J's White Elephant,14218,"Erie County, New York",3.5,14,Italian,$$,region
+1605,Mooney's West Seneca,14224,"Erie County, New York",2.5,54,American (Traditional),$$,region
+1606,Friendly's,14219,"Erie County, New York",2.5,12,American (Traditional),$,region
+1607,Seneca Towne Restaurant,14224,"Erie County, New York",3.5,17,American (Traditional),$,region
+1608,Buffalo's Best ​Pizza & Wings,14219,"Erie County, New York",3.5,9,American (Traditional),$$,region
+1609,Buffalo Beef and Brew,14219,"Erie County, New York",5.0,3,American (Traditional),$$,region
+1610,Casa Di Francesca's,14210,"Erie County, New York",2.5,32,Italian,$$$,region
+1611,Denny's,14224,"Erie County, New York",2.5,21,American (Traditional),$$,region
+1612,Pizza Hut,14219,"Erie County, New York",2.5,12,Italian,$,region
+1613,China King Restaurant,14219,"Erie County, New York",3.5,9,Chinese,$,region
+1614,Gardenview Restaurant,14224,"Erie County, New York",3.0,27,American (Traditional),$$,region
+1615,Applebee's Grill + Bar,14219,"Erie County, New York",2.5,18,American (Traditional),$$,region
+1616,China Expres,14224,"Erie County, New York",4.5,5,Chinese,$$,region
+1617,Hong Kong Kitchen,14210,"Erie County, New York",3.0,21,Chinese,$,region
+1618,Scallywags Grub & Spirits,14047,"Erie County, New York",3.5,14,American (Traditional),$$,region
+1619,Connor's Restaurant,14224,"Erie County, New York",3.0,20,American (Traditional),$$,region
+1620,"Pizza Amoré ""The Wood Fire Way""",14072,"Erie County, New York",4.0,15,Italian,$$,region
+1621,Super Freeze Drive In,14047,"Erie County, New York",3.5,9,American (Traditional),$,region
+1622,Mighty Taco,14075,"Erie County, New York",2.0,15,Mexican,$,region
+1623,Friendly Chinese Buffet,14224,"Erie County, New York",3.0,21,Chinese,$$,region
+1624,Moe's Southwest Grill,14127,"Erie County, New York",2.5,24,Mexican,$,region
+1625,Mighty Taco,14127,"Erie County, New York",3.5,12,Mexican,$,region
+1626,Chopstick House,14218,"Erie County, New York",4.5,4,Chinese,$,region
+1627,Friendly's Restaurant,14219,"Erie County, New York",4.0,4,American (New),$,region
+1628,Ultima Taco,14224,"Erie County, New York",3.5,12,Mexican,$,region
+1629,New Hong Kong Chinese restaurant,14220,"Erie County, New York",3.0,8,Chinese,$,region
+1630,Pappas Restaurant & Lounge,14224,"Erie County, New York",2.0,20,American (Traditional),$,region
+1631,Louie's Texas Red Hots,14224,"Erie County, New York",4.0,12,American (Traditional),$,region
+1632,Chang's Garden of West Seneca,14224,"Erie County, New York",2.5,26,Chinese,$$,region
+1633,The Burg,14075,"Erie County, New York",2.0,9,American (Traditional),$$,region
+1634,Star Walk Chinese Buffet,14224,"Erie County, New York",3.0,8,Chinese,$,region
+1635,Applebee's Grill + Bar,14224,"Erie County, New York",3.0,12,American (Traditional),$$,region
+1636,Taco Bell,14127,"Erie County, New York",2.0,12,Mexican,$,region
+1637,Mighty Taco,14224,"Erie County, New York",2.5,8,Mexican,$,region
+1638,Schunks West Hill Grill,14057,"Erie County, New York",4.0,2,American (Traditional),$$,region
+1639,Pat's Submarines,14218,"Erie County, New York",3.5,8,American (New),$$,region
+1640,New Dragon,14075,"Erie County, New York",3.5,4,Chinese,$$,region
+1641,Blue Wall,14224,"Erie County, New York",3.0,6,American (New),$,region
+1642,Kentucky Fried Chicken,14224,"Erie County, New York",1.5,3,American (Traditional),$,region
+1643,Local 111,12565,"Columbia County, New York",4.5,60,American (New),$$$,region
+1644,Gabriel's Pizza & Grill,12565,"Columbia County, New York",4.0,21,American (New),$$,region
+1645,Crossroads Food Shop,12529,"Columbia County, New York",4.5,50,American (New),$$,region
+1646,O's Eatery: An American Diner,12037,"Columbia County, New York",3.5,37,American (Traditional),$$,region
+1647,O's Hillsdale Country Diner,12529,"Columbia County, New York",4.0,46,American (Traditional),$,region
+1648,Main Street Public House,12565,"Columbia County, New York",3.5,15,American (New),$$,region
+1649,Hudson Curry House,12534,"Columbia County, New York",4.0,39,Indian,$$,region
+1650,Greens Restaurant,12521,"Columbia County, New York",4.0,21,American (New),$$,region
+1651,Kozel's Restaurant,12075,"Columbia County, New York",3.5,17,American (Traditional),$$,region
+1652,Bob's Restaurant,12534,"Columbia County, New York",3.5,23,American (Traditional),$,region
+1653,Asian Cafe,12534,"Columbia County, New York",4.5,8,Chinese,$,region
+1654,Spring Garden Restaurant,12534,"Columbia County, New York",3.5,23,Chinese,$$,region
+1655,Taste Of India,12534,"Columbia County, New York",3.5,10,Indian,$,region
+1656,La Bella Pizza and Restaurant,12534,"Columbia County, New York",2.5,22,Italian,$$,region
+1657,Stella's Pizza,12534,"Columbia County, New York",2.5,11,Italian,$$,region
+1658,White Stone Cafe,12075,"Columbia County, New York",2.0,9,American (Traditional),$,region
+1659,Taco Bell,12534,"Columbia County, New York",3.0,3,Mexican,$,region
+1660,Applebee's Grill + Bar,12534,"Columbia County, New York",2.0,20,American (Traditional),$$,region
+1661,The Mount Washington House,12529,"Columbia County, New York",3.0,6,American (Traditional),$,region
+1662,Melendez,12534,"Columbia County, New York",4.0,1,Mexican,$,region
+1663,Hot Digg Itty Pizza & Hometown Grill,12534,"Columbia County, New York",3.0,2,Italian,$$,region
+1664,The Backyard,19968,"Sussex County, Delaware",4.0,86,American (New),$$,region
+1665,Restaurante Mi Laurita,19947,"Sussex County, Delaware",4.5,26,Mexican,$,region
+1666,Jalapeño Restaurant,19947,"Sussex County, Delaware",5.0,17,Mexican,$,region
+1667,El Gran Charro,19947,"Sussex County, Delaware",5.0,13,Mexican,$,region
+1668,Bella Capri Restaurant & Grill,19947,"Sussex County, Delaware",4.0,24,Italian,$$,region
+1669,Cantina Ultima,19968,"Sussex County, Delaware",4.0,26,American (New),$$,region
+1670,Cantina Ultima,19968,"Sussex County, Delaware",4.0,26,Mexican,$$,region
+1671,The Brick Hotel Restaurant & Tavern,19947,"Sussex County, Delaware",4.0,28,American (Traditional),$$,region
+1672,Georgetown Family Restaurant,19947,"Sussex County, Delaware",3.5,13,American (Traditional),$$,region
+1673,Chilmole,19947,"Sussex County, Delaware",5.0,9,Mexican,$$,region
+1674,Pizza Palace,19947,"Sussex County, Delaware",2.5,17,Italian,$$,region
+1675,Arena's At The Airport,19947,"Sussex County, Delaware",4.5,6,American (New),$$,region
+1676,La Quetzalteca Mexican Restaurant,19947,"Sussex County, Delaware",2.5,19,Mexican,$$,region
+1677,China Wok,19968,"Sussex County, Delaware",3.5,8,Chinese,$,region
+1678,Truck It Food Truck,19947,"Sussex County, Delaware",5.0,1,American (Traditional),$,region
+1679,La Mexicana,19947,"Sussex County, Delaware",5.0,2,Mexican,$,region
+1680,Number 1 Chinese Restaurant,19947,"Sussex County, Delaware",2.0,2,Chinese,$,region
+1681,Taco Bell,19947,"Sussex County, Delaware",1.5,5,Mexican,$,region
+1682,Rizzo's Malabar Inn,15624,"Westmoreland County, Pennsylvania",4.5,42,Italian,$$,region
+1683,The Headkeeper,15601,"Westmoreland County, Pennsylvania",4.0,138,American (New),$$,region
+1684,Chef Mark's Palate,15650,"Westmoreland County, Pennsylvania",4.0,36,American (New),$$,region
+1685,J Corks,15601,"Westmoreland County, Pennsylvania",4.0,56,American (New),$$$,region
+1686,Jioio's Restaurant,15650,"Westmoreland County, Pennsylvania",3.5,60,Italian,$$,region
+1687,Oliver's Pourhouse,15601,"Westmoreland County, Pennsylvania",4.0,77,American (New),$$,region
+1688,Primanti Bros.,15601,"Westmoreland County, Pennsylvania",3.5,76,American (New),$$,region
+1689,Gino Giannilli's Homestyle Pizza Palace,15650,"Westmoreland County, Pennsylvania",4.0,28,Italian,$$,region
+1690,China King,15601,"Westmoreland County, Pennsylvania",4.5,32,Chinese,$$,region
+1691,Chef Dato's Table,15650,"Westmoreland County, Pennsylvania",4.5,30,American (New),$$,region
+1692,Jioio's Family Restaurant,15601,"Westmoreland County, Pennsylvania",3.5,89,Italian,$$,region
+1693,Gran Patron Mexican Grill,15601,"Westmoreland County, Pennsylvania",4.0,27,Mexican,$,region
+1694,Parkwood Inn Restaurant,15601,"Westmoreland County, Pennsylvania",4.0,51,Italian,$$,region
+1695,Red Lobster,15601,"Westmoreland County, Pennsylvania",3.5,23,American (Traditional),$$,region
+1696,Sharky's Cafe,15650,"Westmoreland County, Pennsylvania",3.0,41,American (Traditional),$$,region
+1697,Carbone's Restaurant,15624,"Westmoreland County, Pennsylvania",3.0,14,Italian,$$,region
+1698,Carbone's Restaurant,15624,"Westmoreland County, Pennsylvania",3.0,14,American (Traditional),$$,region
+1699,Vallozzi's,15601,"Westmoreland County, Pennsylvania",3.5,26,Italian,$$$,region
+1700,Olive Garden Italian Restaurant,15601,"Westmoreland County, Pennsylvania",4.0,22,Italian,$$,region
+1701,The Tin Lizzy,15696,"Westmoreland County, Pennsylvania",4.5,13,Italian,$$$,region
+1702,Disalvo's Station Restaurant,15650,"Westmoreland County, Pennsylvania",4.0,31,Italian,$$,region
+1703,Brasserie Du Soleil,15601,"Westmoreland County, Pennsylvania",4.0,20,Italian,$$,region
+1704,Bean & Baguette,15601,"Westmoreland County, Pennsylvania",4.5,16,American (Traditional),$$,region
+1705,Falbo's Restaurant & Lounge,15650,"Westmoreland County, Pennsylvania",3.5,15,Italian,$$,region
+1706,DeNunzio's Italian Restaurant,15650,"Westmoreland County, Pennsylvania",3.0,41,Italian,$$,region
+1707,Don Patron Mexican Grill,15650,"Westmoreland County, Pennsylvania",4.0,27,Mexican,$$,region
+1708,South Greensburg Restaurant,15601,"Westmoreland County, Pennsylvania",5.0,13,American (Traditional),$,region
+1709,Sunset Cafe,15601,"Westmoreland County, Pennsylvania",3.5,33,Italian,$$,region
+1710,Sunset Cafe,15601,"Westmoreland County, Pennsylvania",3.5,33,American (New),$$,region
+1711,LongHorn Steakhouse,15601,"Westmoreland County, Pennsylvania",3.0,35,American (Traditional),$$,region
+1712,The Boulevard,15601,"Westmoreland County, Pennsylvania",3.5,28,American (Traditional),$$,region
+1713,Peking Garden,15601,"Westmoreland County, Pennsylvania",4.0,17,Chinese,$$,region
+1714,Great Wall Chinese Restaurant,15650,"Westmoreland County, Pennsylvania",4.0,16,Chinese,$,region
+1715,Rosemary's Country Kitchen,15671,"Westmoreland County, Pennsylvania",5.0,9,Italian,$$,region
+1716,IHOP Restaurant,15601,"Westmoreland County, Pennsylvania",2.5,29,American (Traditional),$$,region
+1717,The Olde Spitfire Grille,15601,"Westmoreland County, Pennsylvania",3.5,23,American (Traditional),$$,region
+1718,Eat'n Park,15650,"Westmoreland County, Pennsylvania",4.0,12,American (Traditional),$$,region
+1719,Degennaro Restaurant & Lounge,15601,"Westmoreland County, Pennsylvania",4.0,15,Italian,$$,region
+1720,Rialto Cafe,15601,"Westmoreland County, Pennsylvania",3.0,26,American (New),$$,region
+1721,La Vita's,15601,"Westmoreland County, Pennsylvania",5.0,9,American (New),$$,region
+1722,La Vita's,15601,"Westmoreland County, Pennsylvania",5.0,9,Italian,$$,region
+1723,Giannilli's,15601,"Westmoreland County, Pennsylvania",3.5,14,Italian,$$,region
+1724,Waterworks,15601,"Westmoreland County, Pennsylvania",4.0,16,American (Traditional),$$,region
+1725,Black and Gold Grill,15650,"Westmoreland County, Pennsylvania",3.5,13,American (New),$,region
+1726,Geo's Restaurant & Lounge,15650,"Westmoreland County, Pennsylvania",3.5,15,American (Traditional),$$,region
+1727,DeCaro's Deli,15650,"Westmoreland County, Pennsylvania",4.0,6,Italian,$,region
+1728,Ferrante's Lakeview,15601,"Westmoreland County, Pennsylvania",4.0,5,Italian,$$$,region
+1729,Eat'n Park,15601,"Westmoreland County, Pennsylvania",2.5,11,American (Traditional),$,region
+1730,Old Route 66 Grille,15601,"Westmoreland County, Pennsylvania",4.0,14,American (New),$$,region
+1731,Carasella's Pizzeria,15650,"Westmoreland County, Pennsylvania",4.5,10,Italian,$$,region
+1732,New City Buffet,15601,"Westmoreland County, Pennsylvania",2.5,23,Chinese,$$,region
+1733,Racer's Tavern,15650,"Westmoreland County, Pennsylvania",3.5,12,American (Traditional),$$,region
+1734,Kings,15626,"Westmoreland County, Pennsylvania",3.0,15,American (Traditional),$,region
+1735,The Touchdown Club II,15650,"Westmoreland County, Pennsylvania",4.0,12,American (New),$$,region
+1736,Boston Market,15601,"Westmoreland County, Pennsylvania",3.5,3,American (Traditional),$,region
+1737,Eat N Park,15601,"Westmoreland County, Pennsylvania",2.5,9,American (New),$,region
+1738,Valley Dairy Restaurant,15650,"Westmoreland County, Pennsylvania",3.5,10,American (Traditional),$$,region
+1739,The Roadhouse,15601,"Westmoreland County, Pennsylvania",4.0,3,American (Traditional),$,region
+1740,Jaffre's Restaurant & Bar & Six Pack,15601,"Westmoreland County, Pennsylvania",3.5,11,Italian,$$,region
+1741,Jaffre's Restaurant & Bar & Six Pack,15601,"Westmoreland County, Pennsylvania",3.5,11,American (Traditional),$$,region
+1742,Applebee's Grill + Bar,15601,"Westmoreland County, Pennsylvania",3.0,17,American (Traditional),$$,region
+1743,Giannilli's Homestyle Italian Restaurant,15601,"Westmoreland County, Pennsylvania",4.0,10,Italian,$$,region
+1744,Jaffre's Restaurant & Bar & Six Pack,15601,"Westmoreland County, Pennsylvania",4.0,6,American (Traditional),$$,region
+1745,Jaffre's Restaurant & Bar & Six Pack,15601,"Westmoreland County, Pennsylvania",4.0,6,Italian,$$,region
+1746,Denny's,15650,"Westmoreland County, Pennsylvania",3.5,10,American (Traditional),$$,region
+1747,Pizza Hut,15650,"Westmoreland County, Pennsylvania",2.5,10,Italian,$,region
+1748,Pizza Siena,15650,"Westmoreland County, Pennsylvania",3.5,4,Italian,$$,region
+1749,Badges Bar & Grill,15601,"Westmoreland County, Pennsylvania",3.5,6,American (Traditional),$,region
+1750,Taco Bell,15650,"Westmoreland County, Pennsylvania",2.5,4,Mexican,$,region
+1751,Jaffre's Restaurant & Bar & Six Pack,15601,"Westmoreland County, Pennsylvania",3.0,1,American (Traditional),$$,region
+1752,China Garden,15650,"Westmoreland County, Pennsylvania",3.5,4,Chinese,$,region
+1753,Cook & Dagger,2828,"Providence County, Rhode Island",4.5,127,American (New),$$,region
+1754,Blackie's Bulldog Tavern,2917,"Providence County, Rhode Island",4.0,537,American (Traditional),$$,region
+1755,Giuseppe's Pizzeria Bistro,2828,"Providence County, Rhode Island",4.5,55,Italian,$$,region
+1756,Nick's On Broadway,2909,"Providence County, Rhode Island",4.0,877,American (New),$$,region
+1757,Masala Indian Cuisine,2911,"Providence County, Rhode Island",4.5,203,Indian,$$,region
+1758,Julians,2909,"Providence County, Rhode Island",4.0,1063,American (New),$$,region
+1759,Enoteca Umberto,2903,"Providence County, Rhode Island",5.0,282,Italian,$$,region
+1760,Olneyville New York System,2909,"Providence County, Rhode Island",4.5,339,American (Traditional),$,region
+1761,Siena - Smithfield,2917,"Providence County, Rhode Island",3.5,122,Italian,$$,region
+1762,El Rancho Grande,2909,"Providence County, Rhode Island",4.0,462,Mexican,$,region
+1763,Chilangos,2909,"Providence County, Rhode Island",4.5,234,Mexican,$$,region
+1764,Condesa Restaurante Mexicano,2917,"Providence County, Rhode Island",4.0,124,Mexican,$$,region
+1765,Siena,2903,"Providence County, Rhode Island",4.0,410,Italian,$$$,region
+1766,Broadway Bistro,2903,"Providence County, Rhode Island",4.5,292,American (New),$$,region
+1767,Pick Pockets,2917,"Providence County, Rhode Island",4.5,55,American (Traditional),$,region
+1768,Greenville Inn,2828,"Providence County, Rhode Island",4.0,25,Italian,$$,region
+1769,Cancún Family,2919,"Providence County, Rhode Island",4.0,114,Mexican,$$,region
+1770,The Classic Cafe,2903,"Providence County, Rhode Island",4.0,444,American (Traditional),$,region
+1771,Pane E Vino,2903,"Providence County, Rhode Island",4.0,298,Italian,$$$,region
+1772,Trattoria Romana,2865,"Providence County, Rhode Island",4.0,270,Italian,$$,region
+1773,Reali's Fine Italian Cuisine,2919,"Providence County, Rhode Island",4.0,93,Italian,$$,region
+1774,Ogie's Trailer Park,2909,"Providence County, Rhode Island",4.0,348,American (Traditional),$$,region
+1775,Andino's,2903,"Providence County, Rhode Island",4.0,390,Italian,$$,region
+1776,Loie Fullers,2909,"Providence County, Rhode Island",4.0,260,American (New),$$,region
+1777,The Slow Rhode,2903,"Providence County, Rhode Island",4.5,151,American (Traditional),$$,region
+1778,Venda Ravioli,2903,"Providence County, Rhode Island",4.0,246,Italian,$$,region
+1779,Village Tavern,2857,"Providence County, Rhode Island",4.0,45,American (Traditional),$$,region
+1780,Massimo Restaurant,2903,"Providence County, Rhode Island",4.0,203,Italian,$$,region
+1781,El Taconazo,2908,"Providence County, Rhode Island",4.5,99,Mexican,$,region
+1782,Chelo's Hometown Bar & Grille,2828,"Providence County, Rhode Island",3.5,72,American (Traditional),$$,region
+1783,Apsara Restaurant,2907,"Providence County, Rhode Island",4.0,267,Chinese,$$,region
+1784,Pat's Italian Restaurant,2919,"Providence County, Rhode Island",4.0,110,Italian,$$,region
+1785,Café Vino,2919,"Providence County, Rhode Island",5.0,36,Italian,$$,region
+1786,Eddie's Diner,2920,"Providence County, Rhode Island",5.0,91,American (Traditional),$,region
+1787,Rocco's Pub & Grub,2917,"Providence County, Rhode Island",3.5,124,Italian,$$,region
+1788,Uno Pizzeria & Grill,2917,"Providence County, Rhode Island",3.5,44,American (Traditional),$$,region
+1789,Uno Pizzeria & Grill,2917,"Providence County, Rhode Island",3.5,44,Italian,$$,region
+1790,Posillipo Ristorante,2911,"Providence County, Rhode Island",4.5,44,Italian,$$,region
+1791,Asia Grille,2865,"Providence County, Rhode Island",3.5,242,Chinese,$$,region
+1792,The Abbey,2908,"Providence County, Rhode Island",3.5,205,American (New),$$,region
+1793,Luigi's Restaurant & Gourmet Express,2919,"Providence County, Rhode Island",3.5,135,Italian,$$,region
+1794,Tony's Colonial Food Store,2903,"Providence County, Rhode Island",4.5,77,Italian,$$,region
+1795,Sorrento Restaurant,2911,"Providence County, Rhode Island",4.0,76,American (Traditional),$$,region
+1796,Sorrento Restaurant,2911,"Providence County, Rhode Island",4.0,76,Italian,$$,region
+1797,The Big Cheese & Pub,2910,"Providence County, Rhode Island",4.5,198,Italian,$$,region
+1798,Terrazza,2917,"Providence County, Rhode Island",3.5,77,Italian,$$,region
+1799,Federal Taphouse & Kitchen,2903,"Providence County, Rhode Island",4.0,289,American (Traditional),$$,region
+1800,Escada Restaurant & Bar,2919,"Providence County, Rhode Island",4.0,46,American (Traditional),$$,region
+1801,Escada Restaurant & Bar,2919,"Providence County, Rhode Island",4.0,46,Italian,$$,region
+1802,Napolitano's Brooklyn Pizza,2909,"Providence County, Rhode Island",4.0,140,Italian,$,region
+1803,Mi Ranchito,2909,"Providence County, Rhode Island",4.0,96,Mexican,$$,region
+1804,Tumblesalts Cafe,2911,"Providence County, Rhode Island",4.0,74,Italian,$$,region
+1805,Lili Marlene's,2909,"Providence County, Rhode Island",4.0,133,American (New),$,region
+1806,Troop Pvd,2909,"Providence County, Rhode Island",4.5,63,American (New),$$,region
+1807,La Hacienda Restaurant and Taqueria,2909,"Providence County, Rhode Island",4.5,49,Mexican,$,region
+1808,La Hacienda Restaurant and Taqueria,2909,"Providence County, Rhode Island",4.5,49,American (New),$,region
+1809,Tomaselli's at Rosario,2909,"Providence County, Rhode Island",4.5,44,American (Traditional),$$,region
+1810,Marchetti's Restaurant,2920,"Providence County, Rhode Island",3.5,304,Italian,$$,region
+1811,Don Jose Tequilas Resturant,2903,"Providence County, Rhode Island",4.0,181,Mexican,$$,region
+1812,Cassarino's Restaurant,2903,"Providence County, Rhode Island",4.0,211,Italian,$$,region
+1813,Brutopia Brewery and Kitchen,2920,"Providence County, Rhode Island",3.5,317,American (New),$$,region
+1814,California Taco Shop,2909,"Providence County, Rhode Island",4.0,93,Mexican,$,region
+1815,Hei Place,2919,"Providence County, Rhode Island",4.0,63,Chinese,$$,region
+1816,LaMei Hot Pot,2903,"Providence County, Rhode Island",4.0,113,Chinese,$$,region
+1817,Thirsty Beaver,2920,"Providence County, Rhode Island",4.0,139,American (New),$$,region
+1818,Wine & Cheese,2911,"Providence County, Rhode Island",3.5,78,Italian,$$,region
+1819,Zooma Trattoria,2903,"Providence County, Rhode Island",3.5,253,Italian,$$,region
+1820,Bollywood Grill,2864,"Providence County, Rhode Island",4.0,131,Indian,$$,region
+1821,Federal Hill Pizza Providence,2908,"Providence County, Rhode Island",4.0,91,Italian,$$,region
+1822,California Taco Shop,2909,"Providence County, Rhode Island",4.0,42,Mexican,$,region
+1823,Red Ginger Restaurant,2919,"Providence County, Rhode Island",3.5,81,Chinese,$$,region
+1824,Restaurant Mexico Garibaldi,2909,"Providence County, Rhode Island",4.0,52,Mexican,$$,region
+1825,Jacky's Galaxie Restaurant,2904,"Providence County, Rhode Island",3.5,109,Chinese,$$,region
+1826,Clerici Osteria,2911,"Providence County, Rhode Island",4.5,22,Italian,$$,region
+1827,Roma,2903,"Providence County, Rhode Island",4.0,114,Italian,$$,region
+1828,Parma Ristorante,2917,"Providence County, Rhode Island",4.0,35,Italian,$$,region
+1829,Vino Veritas,2909,"Providence County, Rhode Island",4.5,58,American (Traditional),$$,region
+1830,Chipotle Mexican Grill,2917,"Providence County, Rhode Island",3.0,41,Mexican,$,region
+1831,Caffe Dolce Vita,2903,"Providence County, Rhode Island",3.5,244,Italian,$$,region
+1832,Il Fornello,2904,"Providence County, Rhode Island",4.0,100,Italian,$$,region
+1833,Applebee's Grill + Bar,2828,"Providence County, Rhode Island",3.0,36,American (Traditional),$$,region
+1834,Italian Deli,2904,"Providence County, Rhode Island",4.0,60,Italian,$$,region
+1835,Mike's Kitchen,2920,"Providence County, Rhode Island",4.0,104,Italian,$$,region
+1836,Timmy's Legendary Grilled Pizza,2903,"Providence County, Rhode Island",4.5,63,Italian,$$,region
+1837,The Classic Cafe,2917,"Providence County, Rhode Island",3.5,39,American (Traditional),$,region
+1838,Casa Vallarta Mexican Restaurant,2864,"Providence County, Rhode Island",3.5,162,Mexican,$$,region
+1839,Pizzeria Romana Johnston,2919,"Providence County, Rhode Island",4.5,29,Italian,$,region
+1840,Knight Farm,2857,"Providence County, Rhode Island",3.0,34,American (Traditional),$,region
+1841,Rangoon Chinese & Japanese Restaurant,2917,"Providence County, Rhode Island",3.5,38,Chinese,$$,region
+1842,Bishop Hill Tavern,2919,"Providence County, Rhode Island",4.0,37,American (Traditional),$$,region
+1843,Sicilia's Pizzeria,2903,"Providence County, Rhode Island",3.5,220,Italian,$,region
+1844,Angelo's Civita Farnese,2903,"Providence County, Rhode Island",3.5,169,Italian,$$,region
+1845,Costantino's Venda  Bar & Ristorante,2903,"Providence County, Rhode Island",3.5,187,Italian,$$,region
+1846,Camp Nowhere,2911,"Providence County, Rhode Island",4.5,26,American (Traditional),$,region
+1847,Oriental Taste,2921,"Providence County, Rhode Island",4.5,26,Chinese,$,region
+1848,La Lupita,2909,"Providence County, Rhode Island",3.5,107,Mexican,$,region
+1849,Gastros,2904,"Providence County, Rhode Island",5.0,18,American (Traditional),$,region
+1850,Chili's,2917,"Providence County, Rhode Island",3.0,40,American (Traditional),$$,region
+1851,Casa Di Legno,2920,"Providence County, Rhode Island",4.5,50,Italian,$$,region
+1852,Fresco,2921,"Providence County, Rhode Island",4.0,71,Italian,$$,region
+1853,Red Ginger,2911,"Providence County, Rhode Island",3.5,42,Chinese,$$,region
+1854,The Taco Shop,2830,"Providence County, Rhode Island",4.5,79,Mexican,$,region
+1855,Caffe Itri,2920,"Providence County, Rhode Island",3.5,71,Italian,$$,region
+1856,Twin Oaks,2910,"Providence County, Rhode Island",3.0,277,Italian,$$,region
+1857,Antonio's Trattoria,2920,"Providence County, Rhode Island",4.0,73,Italian,$$,region
+1858,Corner Bistro,2857,"Providence County, Rhode Island",4.0,52,Italian,$$,region
+1859,Pizzeria Romana,2865,"Providence County, Rhode Island",3.5,58,Italian,$$,region
+1860,Green Apple Mediterranean Grill,2903,"Providence County, Rhode Island",4.0,58,American (Traditional),$$,region
+1861,Cucina Rustica,2920,"Providence County, Rhode Island",4.5,56,Italian,$$,region
+1862,Gabriel's Italian Restaurant,2920,"Providence County, Rhode Island",4.0,38,Italian,$$,region
+1863,Johna's Restaurant,2919,"Providence County, Rhode Island",4.0,34,Italian,$$,region
+1864,Uncle Tony's Pizza and Pasta,2919,"Providence County, Rhode Island",3.0,58,Italian,$$,region
+1865,Anthonys Authentic Italian Cuisine,2909,"Providence County, Rhode Island",4.5,38,Italian,$$,region
+1866,Anthony's Italian Deli,2908,"Providence County, Rhode Island",4.5,33,Italian,$,region
+1867,Laura's Bar and Grill,2917,"Providence County, Rhode Island",3.5,48,American (Traditional),$$,region
+1868,Man-O-Salwa Kabab & Grill,2919,"Providence County, Rhode Island",3.5,41,Indian,$$,region
+1869,Kings Garden,2910,"Providence County, Rhode Island",3.5,120,Chinese,$$,region
+1870,Opa The Phoenician,2903,"Providence County, Rhode Island",3.5,85,Italian,$$,region
+1871,Amedeo Restaurant & Lounge,2920,"Providence County, Rhode Island",4.5,41,Italian,$$,region
+1872,Best Eastern Chinese Restaurant,2904,"Providence County, Rhode Island",4.0,32,Chinese,$$,region
+1873,Pastaio,2909,"Providence County, Rhode Island",4.0,48,Italian,$$,region
+1874,Pastaio,2909,"Providence County, Rhode Island",4.0,48,American (New),$$,region
+1875,Emmily's,2919,"Providence County, Rhode Island",3.0,51,American (Traditional),$$,region
+1876,Emmily's,2919,"Providence County, Rhode Island",3.0,51,Italian,$$,region
+1877,Parente's Restaurant,2917,"Providence County, Rhode Island",3.5,37,American (Traditional),$$,region
+1878,Parente's Restaurant,2917,"Providence County, Rhode Island",3.5,37,Italian,$$,region
+1879,The Tavern on Main,2814,"Providence County, Rhode Island",3.5,67,American (Traditional),$$,region
+1880,Efendi's Med Grill & Bar,2920,"Providence County, Rhode Island",4.0,51,Italian,$$,region
+1881,Texas Roadhouse,2920,"Providence County, Rhode Island",3.0,117,American (Traditional),$$,region
+1882,China Garden,2857,"Providence County, Rhode Island",4.0,17,Chinese,$,region
+1883,Wicked Good Bar And Grill,2865,"Providence County, Rhode Island",2.5,102,American (Traditional),$$,region
+1884,Granite Farm Restaurant,2857,"Providence County, Rhode Island",3.5,27,Italian,$$,region
+1885,Hong Kong Buffet,2920,"Providence County, Rhode Island",3.5,91,Chinese,$$,region
+1886,Atwood Grill,2919,"Providence County, Rhode Island",3.0,82,Italian,$$,region
+1887,Tomato City Pizza,2904,"Providence County, Rhode Island",3.5,65,Italian,$,region
+1888,Davenport's Restaurant,2864,"Providence County, Rhode Island",3.5,90,American (Traditional),$$,region
+1889,Koi Palace Asian Cuisine,2904,"Providence County, Rhode Island",4.0,54,Chinese,$,region
+1890,Best Taste,2904,"Providence County, Rhode Island",3.5,57,Chinese,$,region
+1891,Golden City,2919,"Providence County, Rhode Island",3.0,25,Chinese,$,region
+1892,Adeline's Speakeasy Kitchen Bar,2864,"Providence County, Rhode Island",3.5,73,American (New),$$,region
+1893,L'Osteria,2920,"Providence County, Rhode Island",4.0,43,Italian,$$,region
+1894,Silvio's,2919,"Providence County, Rhode Island",4.5,10,Italian,$$,region
+1895,Ciara Restaurant & Lounge,2919,"Providence County, Rhode Island",4.5,13,Italian,$,region
+1896,Ciara Restaurant & Lounge,2919,"Providence County, Rhode Island",4.5,13,American (Traditional),$,region
+1897,YiaYia Maria's,2920,"Providence County, Rhode Island",5.0,23,American (Traditional),$,region
+1898,El Charro Mexican Restaurant,2904,"Providence County, Rhode Island",3.5,57,Mexican,$$,region
+1899,Cheng's Kitchen,2911,"Providence County, Rhode Island",4.0,27,Chinese,$,region
+1900,Spirito's Restaurant,2909,"Providence County, Rhode Island",3.5,66,Italian,$$,region
+1901,California Taco,2919,"Providence County, Rhode Island",4.0,13,Mexican,$$,region
+1902,Expressos Pizza Restaurant,2919,"Providence County, Rhode Island",4.0,10,Italian,$,region
+1903,Tin Tsin Restaurant,2917,"Providence County, Rhode Island",2.5,25,Chinese,$,region
+1904,Stillwater Tavern,2917,"Providence County, Rhode Island",3.0,21,American (Traditional),$$,region
+1905,Stillwater Tavern,2917,"Providence County, Rhode Island",3.0,21,Italian,$$,region
+1906,39 West Restaurant & Lounge,2920,"Providence County, Rhode Island",4.0,46,American (New),$$,region
+1907,39 West Restaurant & Lounge,2920,"Providence County, Rhode Island",4.0,46,Italian,$$,region
+1908,Chef Ho's Chinese Restaurant,2903,"Providence County, Rhode Island",3.5,86,Chinese,$,region
+1909,Tammany Hall Pub and Parlor,2909,"Providence County, Rhode Island",4.0,27,American (New),$$,region
+1910,Casa Mexico RI,2909,"Providence County, Rhode Island",4.0,20,Mexican,$,region
+1911,La Poblanita,2908,"Providence County, Rhode Island",5.0,9,Mexican,$,region
+1912,Bombay Club,2903,"Providence County, Rhode Island",3.5,79,Indian,$$,region
+1913,Tavolo Wine Bar & Tuscan Grille,2903,"Providence County, Rhode Island",3.5,40,Italian,$$$,region
+1914,Jacky's Galaxie - Cumberland,2864,"Providence County, Rhode Island",3.0,81,Chinese,$$,region
+1915,China Dynasty Restaurant,2920,"Providence County, Rhode Island",3.5,43,Chinese,$$,region
+1916,Tina's Italian Kitchen,2911,"Providence County, Rhode Island",3.5,36,Italian,$,region
+1917,Al Son De Mi Barrio,2909,"Providence County, Rhode Island",4.5,14,Mexican,$,region
+1918,Gesualdi's,2909,"Providence County, Rhode Island",4.5,14,Italian,$,region
+1919,Lancellotta's Banquet Restaurant,2904,"Providence County, Rhode Island",4.5,12,Italian,$$,region
+1920,Bar 101,2919,"Providence County, Rhode Island",3.5,20,American (Traditional),$,region
+1921,Hercules Pizza Works,2865,"Providence County, Rhode Island",4.0,28,Italian,$,region
+1922,Pinewood Pub,2814,"Providence County, Rhode Island",4.0,19,Italian,$$,region
+1923,Denny's,2919,"Providence County, Rhode Island",3.0,46,American (Traditional),$,region
+1924,Chili's,2865,"Providence County, Rhode Island",3.0,57,American (Traditional),$$,region
+1925,Ken Wok Chinese Restaurant,2904,"Providence County, Rhode Island",2.5,41,Chinese,$,region
+1926,Orale Taqueria,2907,"Providence County, Rhode Island",5.0,10,Mexican,$,region
+1927,Jade Tree Asian Bistro,2903,"Providence County, Rhode Island",3.5,61,Chinese,$$,region
+1928,Mandarin Garden,2908,"Providence County, Rhode Island",4.0,26,Chinese,$,region
+1929,IHOP,2908,"Providence County, Rhode Island",2.5,63,American (Traditional),$,region
+1930,Ruby Tuesday,2919,"Providence County, Rhode Island",2.5,49,American (Traditional),$$,region
+1931,La Hacienda Restaurant,2909,"Providence County, Rhode Island",3.5,33,Mexican,$,region
+1932,Pan A Day Take Away,2909,"Providence County, Rhode Island",4.0,12,American (New),$,region
+1933,El Taco Guerrero,2908,"Providence County, Rhode Island",5.0,7,Mexican,$,region
+1934,L'Antica Trattoria @ St Bart's Club,2909,"Providence County, Rhode Island",4.0,28,Italian,$$,region
+1935,Genesis Grille & Lounge,2904,"Providence County, Rhode Island",4.0,21,American (Traditional),$$,region
+1936,Cherry Hill Grille and Pub,2919,"Providence County, Rhode Island",3.0,29,American (New),$$,region
+1937,Vesuvio,2920,"Providence County, Rhode Island",3.5,35,Italian,$$,region
+1938,Emmanuel's Taqueria & Panaderia,2920,"Providence County, Rhode Island",4.5,12,Mexican,$,region
+1939,Strings Bar And Grille,2919,"Providence County, Rhode Island",4.0,8,American (New),$$,region
+1940,DaVinci Restorante and Lounge,2903,"Providence County, Rhode Island",3.0,48,American (New),$$$,region
+1941,DaVinci Restorante and Lounge,2903,"Providence County, Rhode Island",3.0,48,Italian,$$$,region
+1942,Taco Bell,2919,"Providence County, Rhode Island",3.5,12,Mexican,$,region
+1943,Green Acres Cafe,2919,"Providence County, Rhode Island",4.5,17,American (New),$,region
+1944,China Sail,2909,"Providence County, Rhode Island",4.5,11,Chinese,$,region
+1945,Lodge Pub & Eatery,2865,"Providence County, Rhode Island",2.5,59,American (New),$$,region
+1946,Italian Gourmet,2921,"Providence County, Rhode Island",4.5,9,Italian,$,region
+1947,Everybody's Favorite Family Restaurant,2864,"Providence County, Rhode Island",4.0,17,American (Traditional),$,region
+1948,Trattoria Express,2865,"Providence County, Rhode Island",3.5,23,Italian,$$,region
+1949,Lili Wok,2908,"Providence County, Rhode Island",3.0,23,Chinese,$,region
+1950,CW Bar & Grill,2865,"Providence County, Rhode Island",3.0,30,American (New),$$,region
+1951,Al Son De Mi Barrio,2909,"Providence County, Rhode Island",4.0,8,Mexican,$,region
+1952,Waterfall Cafe,2830,"Providence County, Rhode Island",3.5,34,American (New),$$,region
+1953,Mario's Risto Bar,2920,"Providence County, Rhode Island",4.0,19,Italian,$$,region
+1954,Chipotle Mexican Grill,2919,"Providence County, Rhode Island",4.0,8,Mexican,$,region
+1955,Noble House,2919,"Providence County, Rhode Island",2.5,20,Chinese,$$,region
+1956,Newport Creamery Ice Cream & Sandwich Shoppes,2908,"Providence County, Rhode Island",2.5,38,American (Traditional),$,region
+1957,Ted's Stadium Pub,2910,"Providence County, Rhode Island",4.5,14,American (Traditional),$$,region
+1958,5-Herb Pizza,2920,"Providence County, Rhode Island",3.0,31,Italian,$,region
+1959,Papi's Tacos,2920,"Providence County, Rhode Island",4.0,16,Mexican,$,region
+1960,Taco Bell,2828,"Providence County, Rhode Island",2.5,8,Mexican,$,region
+1961,Lucia's Mexican Restaurant,2903,"Providence County, Rhode Island",3.0,29,Mexican,$$,region
+1962,Great Wall,2920,"Providence County, Rhode Island",3.5,32,Chinese,$,region
+1963,Panaderia Maya,2909,"Providence County, Rhode Island",4.5,5,Mexican,$,region
+1964,Legends Pub & Grub,2920,"Providence County, Rhode Island",4.0,13,American (Traditional),$,region
+1965,Taste of China,2909,"Providence County, Rhode Island",3.5,22,Chinese,$,region
+1966,Via Via Providence,2908,"Providence County, Rhode Island",2.5,20,Italian,$,region
+1967,Friendly's,2904,"Providence County, Rhode Island",2.0,40,American (Traditional),$$,region
+1968,Crugnale Bakery,2864,"Providence County, Rhode Island",4.0,8,Italian,$$,region
+1969,Curry Walla,2911,"Providence County, Rhode Island",5.0,12,Indian,$$,region
+1970,Royal Buffet,2920,"Providence County, Rhode Island",2.5,47,Chinese,$$,region
+1971,King Wok,2909,"Providence County, Rhode Island",3.5,8,Chinese,$,region
+1972,Rec Room PVD,2908,"Providence County, Rhode Island",5.0,5,American (Traditional),$,region
+1973,El Valle Restaurant,2909,"Providence County, Rhode Island",4.5,3,Mexican,$,region
+1974,New Peking Restaurant,2904,"Providence County, Rhode Island",3.5,13,American (New),$$,region
+1975,New Peking Restaurant,2904,"Providence County, Rhode Island",3.5,13,Chinese,$$,region
+1976,Harmony Kitchen,2814,"Providence County, Rhode Island",5.0,1,American (Traditional),$,region
+1977,Taco Bell,2904,"Providence County, Rhode Island",3.0,14,Mexican,$,region
+1978,China Fun,2910,"Providence County, Rhode Island",3.5,17,Chinese,$,region
+1979,Tienda Y Taqueria Puebla,2908,"Providence County, Rhode Island",5.0,3,Mexican,$,region
+1980,Johnny Rockets,2865,"Providence County, Rhode Island",2.0,17,American (Traditional),$,region
+1981,Twin Dragon Chinese Restaurant,2919,"Providence County, Rhode Island",5.0,1,Chinese,$,region
+1982,Calo's Kitchen,2919,"Providence County, Rhode Island",3.5,3,Italian,$$,region
+1983,Wok N Roll,2909,"Providence County, Rhode Island",2.5,9,Chinese,$,region
+1984,Lil & Gene's Restaurant,2838,"Providence County, Rhode Island",4.0,9,American (New),$,region
+1985,Denny's,2920,"Providence County, Rhode Island",3.0,16,American (Traditional),$$,region
+1986,Betty's Pub & Chinese Restaurant,2920,"Providence County, Rhode Island",4.0,12,Chinese,$$,region
+1987,Paradise Biriyani Pointe,2864,"Providence County, Rhode Island",2.5,15,Indian,$$,region
+1988,Golden Palace Chinese Restaurant,2904,"Providence County, Rhode Island",2.5,14,Chinese,$,region
+1989,TR Ginger,2865,"Providence County, Rhode Island",3.0,7,Italian,$$$,region
+1990,Walters Ristorante d'Italia,2903,"Providence County, Rhode Island",3.5,5,Italian,$$$,region
+1991,Taco Bell,2910,"Providence County, Rhode Island",3.0,12,Mexican,$,region
+1992,Panda Kitchen,2909,"Providence County, Rhode Island",3.5,3,Chinese,$,region
+1993,Countryside Restaurant,2920,"Providence County, Rhode Island",5.0,3,Italian,$,region
+1994,Atwood Grille,2911,"Providence County, Rhode Island",2.5,2,Italian,$$$,region
+1995,Young Sing,2910,"Providence County, Rhode Island",3.5,8,Chinese,$$,region
+1996,China Garden,2908,"Providence County, Rhode Island",3.0,4,Chinese,$,region
+1997,East Meets West Chinese Restaurant,2865,"Providence County, Rhode Island",2.5,7,Chinese,$,region
+1998,Pizza Hut,2908,"Providence County, Rhode Island",2.0,9,Italian,$,region
+1999,Golden Pot,2907,"Providence County, Rhode Island",3.0,2,Chinese,$$,region
+2000,Ming River,2907,"Providence County, Rhode Island",2.5,6,Chinese,$,region
+2001,Taco Bell,2920,"Providence County, Rhode Island",2.0,7,Mexican,$,region
+2002,Cold Brook Cafe,2857,"Providence County, Rhode Island",4.5,4,American (New),$,region
+2003,Noon Mark Diner,12943,"Essex County, New York",3.5,88,American (Traditional),$,region
+2004,Keene Valley Ausable Inn,12943,"Essex County, New York",3.0,12,American (Traditional),$$,region
+2005,Baxter Mountain Tavern,12942,"Essex County, New York",3.5,20,American (Traditional),$$,region
+2006,La Corona Mexican Restaurant,3867,"Strafford County, New Hampshire",4.0,110,Mexican,$$,region
+2007,The Farmer's Kitchen,3835,"Strafford County, New Hampshire",4.5,70,American (Traditional),$,region
+2008,Revolution Taproom & Grill,3867,"Strafford County, New Hampshire",4.0,150,American (New),$$,region
+2009,Little Miss Sophie's Country Kitchen,3867,"Strafford County, New Hampshire",4.5,46,American (New),$,region
+2010,110 Grill,3867,"Strafford County, New Hampshire",3.5,51,American (Traditional),$$,region
+2011,Granite Steak & Grill,3867,"Strafford County, New Hampshire",3.5,67,American (Traditional),$$,region
+2012,Lilac City Grille,3867,"Strafford County, New Hampshire",4.5,36,American (Traditional),$$,region
+2013,Pink Cadillac Diner,3867,"Strafford County, New Hampshire",3.5,25,American (Traditional),$,region
+2014,China Palace Restaurant,3867,"Strafford County, New Hampshire",3.5,52,Chinese,$$,region
+2015,The Garage At Governor's Inn,3867,"Strafford County, New Hampshire",4.0,26,American (New),$$,region
+2016,Jimmy Jones Locker,3839,"Strafford County, New Hampshire",4.0,30,American (New),$$,region
+2017,"MOOYAH Burgers, Fries & Shakes",3867,"Strafford County, New Hampshire",3.5,15,American (Traditional),$,region
+2018,Smokey's & Grill,3867,"Strafford County, New Hampshire",4.0,14,American (Traditional),$$,region
+2019,Dantes Bistro Bar & Grill,3825,"Strafford County, New Hampshire",3.5,61,Italian,$$,region
+2020,Magrilla's,3867,"Strafford County, New Hampshire",4.0,18,American (New),$$,region
+2021,Garys Sports Lounge,3867,"Strafford County, New Hampshire",3.5,12,American (Traditional),$,region
+2022,Buffalo Wild Wings,3839,"Strafford County, New Hampshire",3.0,28,American (Traditional),$$,region
+2023,Pizza Hut,3866,"Strafford County, New Hampshire",3.0,9,Italian,$,region
+2024,Dynasty Chinese Restaurant,3867,"Strafford County, New Hampshire",2.5,25,Chinese,$$,region
+2025,Strafford Farms Family Restaurant & Lounge,3820,"Strafford County, New Hampshire",3.0,57,American (Traditional),$$,region
+2026,Kelley's Row,3878,"Strafford County, New Hampshire",3.5,22,American (Traditional),$$,region
+2027,Taco Bell,3868,"Strafford County, New Hampshire",2.5,7,Mexican,$,region
+2028,IHOP,3839,"Strafford County, New Hampshire",2.0,22,American (Traditional),$$,region
+2029,Good & Plenty Restaurant,3825,"Strafford County, New Hampshire",3.0,22,American (Traditional),$$,region
+2030,Imperial Garden,3835,"Strafford County, New Hampshire",2.0,4,Chinese,$,region
+2031,Greenside Grill,3867,"Strafford County, New Hampshire",3.0,2,American (Traditional),$,region
+2032,Fork N Subs Pizzeria,3867,"Strafford County, New Hampshire",2.0,7,American (Traditional),$$,region
+2033,Friendly's,3867,"Strafford County, New Hampshire",2.5,7,American (Traditional),$$,region
+2034,Highland China House,3868,"Strafford County, New Hampshire",2.0,3,Chinese,$,region
+2035,Bigs Diner,3868,"Strafford County, New Hampshire",1.0,1,American (Traditional),$,region
+2036,Restaurant 55,19901,"Kent County, Delaware",4.0,149,American (Traditional),$$,region
+2037,La Hacienda,19901,"Kent County, Delaware",4.0,94,Mexican,$$,region
+2038,Franco's Pizza & Pasta,19901,"Kent County, Delaware",4.0,65,Italian,$$,region
+2039,Governor's Cafe,19901,"Kent County, Delaware",4.0,148,American (Traditional),$$,region
+2040,33 West Ale House & Grill,19904,"Kent County, Delaware",4.0,101,American (Traditional),$$,region
+2041,Flavor of India,19901,"Kent County, Delaware",4.0,119,Indian,$$,region
+2042,El Nopal,19904,"Kent County, Delaware",4.0,81,Mexican,$,region
+2043,El Coqui,19946,"Kent County, Delaware",4.0,50,Mexican,$,region
+2044,Piazza Mia,19901,"Kent County, Delaware",4.0,60,Italian,$$,region
+2045,Cheddar's Scratch Kitchen,19901,"Kent County, Delaware",3.5,124,American (Traditional),$$,region
+2046,McGlynn's Pub & Restaurant,19901,"Kent County, Delaware",3.5,147,American (Traditional),$$,region
+2047,Rice,19904,"Kent County, Delaware",4.0,102,Chinese,$$,region
+2048,Frederica Pizza & Pasta House,19946,"Kent County, Delaware",4.5,49,Italian,$$,region
+2049,Grey Fox Grille & Public House,19901,"Kent County, Delaware",4.0,67,American (New),$$,region
+2050,Kabab Korner,19901,"Kent County, Delaware",4.0,45,Indian,$$,region
+2051,Vincenzo's Pizzeria & Gelato,19904,"Kent County, Delaware",4.0,44,Italian,$$,region
+2052,La Delicia,19904,"Kent County, Delaware",4.0,26,Mexican,$,region
+2053,La Tolteca Restaurant,19901,"Kent County, Delaware",3.5,55,Mexican,$$,region
+2054,No 1 Chinese Restaurant,19901,"Kent County, Delaware",3.5,16,Chinese,$,region
+2055,El Azteca Camden,19901,"Kent County, Delaware",4.5,16,Mexican,$$,region
+2056,Roma Italian Restaurant,19901,"Kent County, Delaware",3.0,42,Italian,$$,region
+2057,Wayback Burgers,19901,"Kent County, Delaware",3.5,14,American (Traditional),$,region
+2058,Texas Roadhouse,19934,"Kent County, Delaware",3.0,47,American (Traditional),$$,region
+2059,US 13 Grill & Catering,19904,"Kent County, Delaware",3.5,18,American (Traditional),$,region
+2060,Olive Garden Italian Restaurant,19901,"Kent County, Delaware",3.0,48,Italian,$$,region
+2061,Fraizer's Restaurant,19901,"Kent County, Delaware",3.0,29,American (Traditional),$$,region
+2062,Buffalo Wild Wings,19901,"Kent County, Delaware",3.0,38,American (Traditional),$$,region
+2063,Betsy Ross Pizza Restaurant,19904,"Kent County, Delaware",4.0,17,Italian,$$,region
+2064,Jade Garden,19962,"Kent County, Delaware",3.5,10,Chinese,$,region
+2065,King Buffet,19901,"Kent County, Delaware",3.5,17,Chinese,$$,region
+2066,Sul Tempo,19901,"Kent County, Delaware",4.0,9,Italian,$$,region
+2067,The Greene Turtle Sports Bar and Grille,19901,"Kent County, Delaware",3.0,61,American (Traditional),$$,region
+2068,La Tonalteca,19901,"Kent County, Delaware",2.5,34,Mexican,$$,region
+2069,Bob Evans,19901,"Kent County, Delaware",3.5,29,American (Traditional),$$,region
+2070,Bob Evans,19934,"Kent County, Delaware",3.5,13,American (Traditional),$$,region
+2071,Touchdown Restaurant,19901,"Kent County, Delaware",3.5,10,American (New),$$,region
+2072,Touchdown Restaurant,19901,"Kent County, Delaware",3.5,10,American (Traditional),$$,region
+2073,Friendly's,19901,"Kent County, Delaware",3.0,18,American (Traditional),$$,region
+2074,China House,19901,"Kent County, Delaware",4.0,4,Chinese,$,region
+2075,Waffle House,19901,"Kent County, Delaware",2.5,20,American (Traditional),$,region
+2076,Frankie's,19901,"Kent County, Delaware",2.5,31,Italian,$$,region
+2077,Happy Fortune,19904,"Kent County, Delaware",3.5,13,Chinese,$$,region
+2078,China Taste,19934,"Kent County, Delaware",3.5,9,Chinese,$,region
+2079,Chinatown Buffet,19901,"Kent County, Delaware",3.0,20,Chinese,$$,region
+2080,The Great Wall Kitchen,19904,"Kent County, Delaware",3.5,11,Chinese,$,region
+2081,Jade Garden,19934,"Kent County, Delaware",4.0,6,Chinese,$,region
+2082,Chipotle Mexican Grill,19901,"Kent County, Delaware",2.5,39,Mexican,$,region
+2083,TGI Fridays,19901,"Kent County, Delaware",2.0,36,American (Traditional),$$,region
+2084,Panda Garden,19901,"Kent County, Delaware",2.5,12,Chinese,$$,region
+2085,Hall's Family Restaurant,19934,"Kent County, Delaware",3.0,15,American (Traditional),$,region
+2086,The Festival Buffet,19901,"Kent County, Delaware",2.5,22,American (Traditional),$$,region
+2087,Taco Bell,19901,"Kent County, Delaware",3.0,10,Mexican,$,region
+2088,IHOP,19901,"Kent County, Delaware",2.0,10,American (Traditional),$,region
+2089,Applebee's Grill + Bar,19901,"Kent County, Delaware",2.5,17,American (Traditional),$$,region
+2090,Great China Restaurant,19904,"Kent County, Delaware",4.0,11,Chinese,$,region
+2091,Diamond State Grill,19901,"Kent County, Delaware",3.0,9,American (Traditional),$$,region
+2092,La Tolteca Restaurant,19901,"Kent County, Delaware",4.0,6,Mexican,$$,region
+2093,Pizza Hut,19901,"Kent County, Delaware",2.5,9,Italian,$$,region
+2094,Applebee's Grill + Bar,19934,"Kent County, Delaware",2.5,11,American (Traditional),$$,region
+2095,Boston Market,19901,"Kent County, Delaware",2.5,9,American (Traditional),$,region
+2096,Garden Cafe,19901,"Kent County, Delaware",2.5,11,American (Traditional),$$,region
+2097,Tom's Bullpen,19904,"Kent County, Delaware",3.5,11,American (Traditional),$$,region
+2098,IHOP,19901,"Kent County, Delaware",3.0,3,American (Traditional),$,region
+2099,Roma Pizza,19901,"Kent County, Delaware",2.5,12,Italian,$$,region
+2100,Capitol Diner,19901,"Kent County, Delaware",3.0,5,American (Traditional),$$,region
+2101,Taco Bell,19934,"Kent County, Delaware",1.5,13,Mexican,$,region
+2102,Pizza Hut,19901,"Kent County, Delaware",2.0,12,Italian,$$,region
+2103,Panda Express,19901,"Kent County, Delaware",2.0,9,Chinese,$,region
+2104,Chovy's Italian Casual,16335,"Crawford County, Pennsylvania",3.5,57,Italian,$$,region
+2105,Market House Grille,16335,"Crawford County, Pennsylvania",4.0,23,American (Traditional),$,region
+2106,Julian's Bar & Grill,16335,"Crawford County, Pennsylvania",4.0,21,American (Traditional),$$,region
+2107,Timber Creek Tap & Table,16335,"Crawford County, Pennsylvania",3.5,89,American (Traditional),$$,region
+2108,Mannino Italian Garden,16335,"Crawford County, Pennsylvania",4.5,11,Italian,$$,region
+2109,Cracker Barrel Old Country Store,16335,"Crawford County, Pennsylvania",3.0,23,American (Traditional),$$,region
+2110,Valenza Restaurant,16335,"Crawford County, Pennsylvania",4.0,11,Italian,$,region
+2111,Super China Buffet,16335,"Crawford County, Pennsylvania",3.5,7,Chinese,$,region
+2112,Firehouse Tap & Grille,16335,"Crawford County, Pennsylvania",4.0,8,American (Traditional),$$$,region
+2113,Hunter's Inn,16335,"Crawford County, Pennsylvania",5.0,8,American (Traditional),$$,region
+2114,Chestnut St Pub & Grill,16335,"Crawford County, Pennsylvania",4.5,3,American (Traditional),$,region
+2115,Dave's Place,16360,"Crawford County, Pennsylvania",4.5,4,American (Traditional),$,region
+2116,Applebee's Grill + Bar,16335,"Crawford County, Pennsylvania",3.0,9,American (Traditional),$$,region
+2117,Pizza Hut,16335,"Crawford County, Pennsylvania",2.5,3,Italian,$,region
+2118,Deer Head Inn,16335,"Crawford County, Pennsylvania",3.0,3,American (Traditional),$,region
+2119,New Imperial Chinese Buffet,16335,"Crawford County, Pennsylvania",2.0,5,Chinese,$,region
+2120,Red Lobster,16335,"Crawford County, Pennsylvania",3.5,5,American (Traditional),$$$,region
+2121,Perkins Restaurant & Bakery,16335,"Crawford County, Pennsylvania",3.0,5,American (Traditional),$$,region
+2122,Taco Bell,16335,"Crawford County, Pennsylvania",5.0,1,Mexican,$,region
+2123,Peter's Europa House,18458,"Pike County, Pennsylvania",4.5,53,Italian,$$,region
+2124,Carini Pizza and Pasta,18428,"Pike County, Pennsylvania",3.5,24,Italian,$$,region
+2125,Pie's On,18328,"Pike County, Pennsylvania",3.0,30,American (New),$$,region
+2126,Pie's On,18328,"Pike County, Pennsylvania",3.0,30,Italian,$$,region
+2127,The White Pine Inn,18435,"Pike County, Pennsylvania",4.0,12,American (Traditional),$$,region
+2128,Chris & Ginas Café,18328,"Pike County, Pennsylvania",4.5,13,American (Traditional),$$,region
+2129,Panda Garden,18428,"Pike County, Pennsylvania",3.0,7,Chinese,$$,region
+2130,The 402 Cafe,18428,"Pike County, Pennsylvania",2.0,17,American (Traditional),$$,region
+2131,China Delight,18328,"Pike County, Pennsylvania",2.0,13,Chinese,$,region
+2132,China Dynasty Restaurant,18428,"Pike County, Pennsylvania",3.0,2,Chinese,$,region
