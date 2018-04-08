@@ -1,193 +1,342 @@
-,name,zipcode,county_string,rating,review_count,category,price
-0,Osteria Fasulo,95616,"Yolo County, California",4.0,191,Italian,$$$
-1,Guinevere's Cafe & Bistro,95695,"Yolo County, California",4.5,116,Italian,$$
-2,Paesanos,95616,"Yolo County, California",3.5,443,Italian,$$
-3,Vince's Ristorante,95691,"Yolo County, California",3.5,199,Italian,$$
-4,Steve's Pizza,95616,"Yolo County, California",3.5,150,Italian,$$
-5,La Plazita Taqueria,95653,"Yolo County, California",4.5,30,Mexican,$
-6,Taqueria Guadalajara,95616,"Yolo County, California",4.0,602,Mexican,$
-7,Taqueria Davis,95616,"Yolo County, California",4.5,471,Mexican,$
-8,Chuy's Taqueria,95694,"Yolo County, California",3.5,77,Mexican,$
-9,El Pueblo Meat Market & Deli,95694,"Yolo County, California",4.0,50,Mexican,$
-10,Las Brasas Tacos & Salsas,95695,"Yolo County, California",4.0,168,Mexican,$
-11,Davis's Piñata Mexican Grill,95616,"Yolo County, California",4.0,139,Mexican,$
-12,Taqueria Guadalajara Grill,95616,"Yolo County, California",4.0,260,Mexican,$
-13,Pupuseria La Chicana,95695,"Yolo County, California",4.5,223,Mexican,$
-14,Taqueria Quetzal,95695,"Yolo County, California",4.5,67,Mexican,$
-15,Taqueria Guadalajara,95695,"Yolo County, California",4.0,125,Mexican,$
-16,Vince's Mexican Restaurant,95695,"Yolo County, California",4.0,111,Mexican,$$
-17,El Verduzco Taco Truck,95694,"Yolo County, California",4.5,16,Mexican,$
-18,Taqueria El Burrito,95616,"Yolo County, California",3.5,372,Mexican,$
-19,Four Seasons Gourmet Chinese Restaurant,95618,"Yolo County, California",4.5,498,Chinese,$
-20,Ocean Restaurant,95694,"Yolo County, California",4.0,38,Chinese,$
-21,Golden Dragon Restaurant,95695,"Yolo County, California",3.5,111,Chinese,$
-22,Wok of Flame,95618,"Yolo County, California",4.0,382,Chinese,$$
-23,Shanghai Town,95616,"Yolo County, California",3.5,276,Chinese,$
-24,Chang Shou,95606,"Yolo County, California",3.5,52,Chinese,$$
-25,Spring Garden Restaurant,95695,"Yolo County, California",3.5,76,Chinese,$
-26,Chengdu Style,95616,"Yolo County, California",3.5,121,Chinese,$$
-27,Peace Cuisine,95691,"Yolo County, California",4.5,293,Chinese,$
-28,Hunan Bar & Restaurant,95616,"Yolo County, California",3.5,250,Chinese,$
-29,Road Trip Bar and Grill,95607,"Yolo County, California",4.5,83,American (Traditional),$$
-30,Preserve,95694,"Yolo County, California",4.0,334,American (Traditional),$$
-31,Plainfield Station Bar & Grill,95695,"Yolo County, California",4.0,65,American (Traditional),$
-32,Tommy J's Grill & Catering,95616,"Yolo County, California",4.0,350,American (Traditional),$$
-33,Brown's Corner Bar & Grill,95695,"Yolo County, California",4.0,31,American (Traditional),$
-34,Rafael's Family Restaurant,95695,"Yolo County, California",4.5,26,American (Traditional),$
-35,Harvest Buffet,95606,"Yolo County, California",3.0,108,American (Traditional),$$
-36,Zitio Sports-Bar and Grill,95776,"Yolo County, California",4.0,15,American (Traditional),$
-37,Corkwood Restaurant,95695,"Yolo County, California",3.5,44,American (Traditional),$$
-38,Kountry Kitchen,95694,"Yolo County, California",3.0,24,American (Traditional),$
-39,Canyon Cafe,95606,"Yolo County, California",3.0,43,American (Traditional),$$
-40,Denny's,95937,"Yolo County, California",4.0,10,American (Traditional),$$$
-41,Pete's Restaurant & Brewhouse,95695,"Yolo County, California",4.0,219,American (Traditional),$$
-42,Black Bear Diner,95616,"Yolo County, California",3.5,447,American (Traditional),$$
-43,The Deli,95606,"Yolo County, California",3.0,5,American (Traditional),$
-44,Dickey's Barbecue Pit,95776,"Yolo County, California",3.0,47,American (Traditional),$$
-45,The Elephant Shack,95695,"Yolo County, California",4.0,195,American (Traditional),$
-46,Froggy's Bar & Grill,95616,"Yolo County, California",3.5,208,American (Traditional),$$
-47,Cindy's Restaurant,95618,"Yolo County, California",3.5,216,American (Traditional),$
-48,Black Bear Diner,95776,"Yolo County, California",3.0,134,American (Traditional),$$
-49,Chicago Cafe,95695,"Yolo County, California",3.5,28,American (Traditional),$
-50,Elkhorn Country Saloon,95691,"Yolo County, California",4.5,75,American (Traditional),$$
-51,Dickey's Barbecue Pit,95616,"Yolo County, California",3.0,78,American (Traditional),$$
-52,Judy's Grinder,95695,"Yolo County, California",3.5,84,American (Traditional),$
-53,Jack's Urban Eats,95616,"Yolo County, California",3.0,197,American (Traditional),$$
-54,Dickey's Barbecue Pit,95691,"Yolo County, California",4.0,157,American (Traditional),$$
-55,Cornerstone Cafe & Bar,95605,"Yolo County, California",4.5,34,American (Traditional),$
-56,Park Winters Farm Dinners,95694,"Yolo County, California",5.0,20,American (New),$$$$
-57,Morgan's On Main,95695,"Yolo County, California",4.0,173,American (New),$$
-58,Mojo's Kitchen428,95695,"Yolo County, California",4.5,269,American (New),$$
-59,Swagat Indian Cuisine,95695,"Yolo County, California",4.5,83,Indian,$$
-60,Preethi Indian Cuisine,95616,"Yolo County, California",4.0,243,Indian,$$
-61,Raja's Tandoor,95616,"Yolo County, California",4.0,468,Indian,$
-62,Kathmandu Kitchen,95616,"Yolo County, California",3.5,452,Indian,$$
-63,Yeti Restaurant,95616,"Yolo County, California",4.0,210,Indian,$$
-64,Fiesta En Jalisco,83544,"Clearwater County, Idaho",3.5,16,Mexican,$$
-65,China Palace,83544,"Clearwater County, Idaho",3.5,8,Chinese,$$
-66,Bella Milano,62025,"Madison County, Illinois",4.0,100,Italian,$$
-67,Sugo's Spaghetteria,62025,"Madison County, Illinois",4.0,75,Italian,$$
-68,Peel Wood Fired Pizza,62025,"Madison County, Illinois",4.5,271,Italian,$$
-69,Castelli's Restaurant at 255,62002,"Madison County, Illinois",4.0,56,Italian,$$
-70,The Other Place On the Hill,62097,"Madison County, Illinois",3.5,7,Italian,$$
-71,Ravanelli's Restaurant,62234,"Madison County, Illinois",3.5,72,Italian,$$
-72,Decaro's,62002,"Madison County, Illinois",4.5,9,Italian,$$
-73,Fazzi's Bar & Grill,62234,"Madison County, Illinois",4.0,66,Italian,$$
-74,Joe's Pizza & Pasta,62025,"Madison County, Illinois",3.5,42,Italian,$$
-75,NickyG's Italian Eats,62002,"Madison County, Illinois",4.5,8,Italian,$
-76,The Pasta House Company,62025,"Madison County, Illinois",2.5,24,Italian,$$
-77,Dimaggio's Pizza,62249,"Madison County, Illinois",4.0,25,Italian,$$
-78,Ravanelli's Restaurant & Carry Out,62040,"Madison County, Illinois",4.0,29,Italian,$$
-79,Mama Mia's Italian Restaurant,62095,"Madison County, Illinois",3.5,9,Italian,$
-80,Fazoli's,62025,"Madison County, Illinois",3.0,12,Italian,$
-81,Joe's Pizza & Pasta,62294,"Madison County, Illinois",3.5,34,Italian,$$
-82,Tony's Restaurant & 3rd Street Cafe,62002,"Madison County, Illinois",3.0,54,Italian,$$
-83,Geno's 140 Club,62010,"Madison County, Illinois",3.5,27,Italian,$$
-84,Fazoli's,62002,"Madison County, Illinois",4.5,6,Italian,$
-85,Ginger'z,62025,"Madison County, Illinois",4.0,2,Italian,$$
-86,Don & Penny's Restaurant,62002,"Madison County, Illinois",3.0,3,Italian,$$
-87,Wise Guys Gyros and Italian Beef,62035,"Madison County, Illinois",4.0,8,Italian,$$
-88,Mama Mia's Italian Restaurant,62040,"Madison County, Illinois",3.0,4,Italian,$
-89,Pizza Hut,62025,"Madison County, Illinois",2.0,12,Italian,$
-90,Catrina's,62025,"Madison County, Illinois",4.0,79,Mexican,$$
-91,Terra Sur,62294,"Madison County, Illinois",4.5,28,Mexican,$
-92,Chava's Mexican Restaurant,62025,"Madison County, Illinois",3.5,66,Mexican,$$
-93,La Gardenia,62234,"Madison County, Illinois",4.0,60,Mexican,$$
-94,Casa Romero,62024,"Madison County, Illinois",4.5,14,Mexican,$$
-95,La Casa Mexicana,62025,"Madison County, Illinois",3.5,53,Mexican,$$
-96,La Fonda,62025,"Madison County, Illinois",3.5,39,Mexican,$$
-97,Mariachi's Mexican Restaurant & Cantina,62062,"Madison County, Illinois",4.0,36,Mexican,$$
-98,Los Tres Amigos,62025,"Madison County, Illinois",3.5,19,Mexican,$$
-99,El Maguey,62025,"Madison County, Illinois",3.0,21,Mexican,$$
-100,Carisilo's Mexican Restaurant,62234,"Madison County, Illinois",4.0,56,Mexican,$
-101,Riviera Maya,62002,"Madison County, Illinois",4.0,24,Mexican,$$
-102,El Mezcal Restaurant,62010,"Madison County, Illinois",3.5,15,Mexican,$$
-103,Los Alamos Mexican Restaurant,62095,"Madison County, Illinois",3.5,7,Mexican,$$$
-104,Little Mexico,62002,"Madison County, Illinois",3.5,18,Mexican,$
-105,Zapata's Mexican Restaurant,62234,"Madison County, Illinois",3.0,67,Mexican,$$
-106,El Potro,62294,"Madison County, Illinois",3.5,19,Mexican,$
-107,Don Chencho Tacos & Tortas,62040,"Madison County, Illinois",3.5,11,Mexican,$$
-108,Ramon's El Dorado Mexican Restaurant,62234,"Madison County, Illinois",3.0,21,Mexican,$$
-109,El Mezcal,62035,"Madison County, Illinois",4.0,11,Mexican,$
-110,Los Tres Amigos,62095,"Madison County, Illinois",3.0,4,Mexican,$$
-111,Si Senor Mex Mex Grill,62040,"Madison County, Illinois",3.0,10,Mexican,$$
-112,El Torero Family Mexican Restaurant,62040,"Madison County, Illinois",3.0,13,Mexican,$
-113,Don Ole Mexican Restaurant,62249,"Madison County, Illinois",2.5,12,Mexican,$$
-114,Bert's Chuckwagon,62234,"Madison County, Illinois",4.0,37,Mexican,$
-115,Orient,62025,"Madison County, Illinois",4.0,23,Chinese,$$
-116,Shangri-La,62025,"Madison County, Illinois",4.0,34,Chinese,$$
-117,New China,62010,"Madison County, Illinois",4.0,14,Chinese,$
-118,Orient Wok Chop Suey,62025,"Madison County, Illinois",4.0,8,Chinese,$
-119,Peking Garden,62234,"Madison County, Illinois",4.0,29,Chinese,$$
-120,88 China,62040,"Madison County, Illinois",4.0,61,Chinese,$
-121,Asia Garden,62234,"Madison County, Illinois",4.0,45,Chinese,$$
-122,Jade Garden,62062,"Madison County, Illinois",3.5,18,Chinese,$
-123,Vin Hoa,62040,"Madison County, Illinois",4.5,15,Chinese,$
-124,China Wok,62035,"Madison County, Illinois",4.0,11,Chinese,$$
-125,Best Buffet,62095,"Madison County, Illinois",3.5,6,Chinese,$
-126,China King,62025,"Madison County, Illinois",2.5,8,Chinese,$
-127,China King,62294,"Madison County, Illinois",3.5,14,Chinese,$
-128,China Restaurant,62249,"Madison County, Illinois",4.0,13,Chinese,$$
-129,China King,62095,"Madison County, Illinois",3.0,7,Chinese,$$
-130,China King,62002,"Madison County, Illinois",4.0,7,Chinese,$
-131,New China,62234,"Madison County, Illinois",3.0,14,Chinese,$
-132,The Cabin At Judy Creek,62034,"Madison County, Illinois",4.0,30,American (Traditional),$$
-133,Weezy's,62046,"Madison County, Illinois",4.5,23,American (Traditional),$
-134,The Lucky Rooster,62281,"Madison County, Illinois",5.0,26,American (Traditional),$$
-135,Foundry Public House,62025,"Madison County, Illinois",3.5,65,American (Traditional),$$
-136,54th Street Grill & Bar,62034,"Madison County, Illinois",4.0,92,American (Traditional),$$
-137,Doc Holliday's Saloon & Steakery,62018,"Madison County, Illinois",3.5,7,American (Traditional),$$
-138,The Wooden Nickel Pub & Grill,62034,"Madison County, Illinois",4.0,51,American (Traditional),$
-139,Blue Springs Cafe,62249,"Madison County, Illinois",4.0,141,American (Traditional),$$
-140,Airport Plaza Bowl,62010,"Madison County, Illinois",5.0,1,American (Traditional),$$
-141,Hen House Restaurant,62040,"Madison County, Illinois",4.0,32,American (Traditional),$
-142,Laux Brickhouse Grille,62010,"Madison County, Illinois",3.5,10,American (Traditional),$$
-143,Fazzi's Bar & Grill,62234,"Madison County, Illinois",4.0,66,American (Traditional),$$
-144,Diamond Mineral Springs,62249,"Madison County, Illinois",3.5,21,American (Traditional),$$
-145,Andria's Countryside,62025,"Madison County, Illinois",4.0,37,American (Traditional),$$$
-146,Cleveland-Heath,62025,"Madison County, Illinois",4.5,321,American (New),$$
-147,Yellowdog Chill & Grill,62097,"Madison County, Illinois",4.5,9,American (New),$$
-148,Fire-N-Smoke Wood Fired Kitchen,62294,"Madison County, Illinois",4.0,129,American (New),$$
-149,Highflyers Grille,62024,"Madison County, Illinois",3.0,14,American (New),$$
-150,Taj Indian Cuisine,62025,"Madison County, Illinois",4.0,39,Indian,$$
-151,Mr Currys India Restaurant,62025,"Madison County, Illinois",4.0,28,Indian,$
-152,Tasty House Kitchen,50638,"Grundy County, Iowa",4.5,7,Chinese,$$
-153,The Landmark Bistro,50638,"Grundy County, Iowa",4.5,7,American (Traditional),$$
-154,Slice Ultra Shed,50624,"Grundy County, Iowa",3.5,6,American (Traditional),$
-155,Nopalitos,77514,"Chambers County, Texas",4.0,10,Mexican,$
-156,Mai Lan Fast Food,77514,"Chambers County, Texas",3.0,5,Chinese,$$
-157,Lupita's,79543,"Fisher County, Texas",5.0,3,Mexican,$
-158,Uncle John's,72327,"Crittenden County, Arkansas",4.0,10,Italian,$
-159,Sicily's,72301,"Crittenden County, Arkansas",3.5,12,Italian,$
-160,Mi Pueblo,72301,"Crittenden County, Arkansas",4.0,25,Mexican,$$
-161,Las Margaritas Mexican Grill,72301,"Crittenden County, Arkansas",3.5,26,Mexican,$$
-162,Mi Pueblo,72364,"Crittenden County, Arkansas",3.5,26,Mexican,$$
-163,Pancho's Mexican Restaurant,72301,"Crittenden County, Arkansas",3.0,61,Mexican,$$
-164,Andrey Mexican Grill & Pizza,72364,"Crittenden County, Arkansas",4.5,4,Mexican,$
-165,China Town,72364,"Crittenden County, Arkansas",3.5,8,Chinese,$
-166,Dragon China,72301,"Crittenden County, Arkansas",1.5,4,Chinese,$
-167,Tacker's Shake Shack,72364,"Crittenden County, Arkansas",4.5,64,American (Traditional),$
-168,Captain D's,72301,"Crittenden County, Arkansas",2.5,3,American (Traditional),$
-169,Waffle House,72301,"Crittenden County, Arkansas",4.0,21,American (Traditional),$
-170,Cracker Barrel Old Country Store,72301,"Crittenden County, Arkansas",2.5,50,American (Traditional),$
-171,Huddle House,72301,"Crittenden County, Arkansas",1.5,6,American (Traditional),$$
-172,Denny's,72301,"Crittenden County, Arkansas",2.0,25,American (Traditional),$
-173,Applebee's Grill + Bar,72301,"Crittenden County, Arkansas",2.5,31,American (Traditional),$$
-174,Iron Skillet Restaurant,72301,"Crittenden County, Arkansas",3.0,12,American (New),$$
-175,Sammy Hagar's Red Rocker Bar & Grill,72301,"Crittenden County, Arkansas",3.0,29,American (New),$$
-176,Dragon China,72301,"Crittenden County, Arkansas",1.5,4,American (New),$
-177,Little Italy,23872,"Dinwiddie County, Virginia",4.5,26,Italian,$$
-178,Kin's Wok,23841,"Dinwiddie County, Virginia",3.5,6,Chinese,$
-179,Wang's Garden,3570,"Coos County, New Hampshire",4.5,8,Chinese,$$
-180,Gorham Dynasty Buffet,3581,"Coos County, New Hampshire",4.0,15,Chinese,$
-181,Li Wah Restaurant,3576,"Coos County, New Hampshire",2.5,3,Chinese,$$
-182,Happy Star Restaurant,3584,"Coos County, New Hampshire",2.0,7,Chinese,$
-183,Northland Restaurant & Dairy Bar,3570,"Coos County, New Hampshire",4.5,30,American (Traditional),$$
-184,Libby's Bistro,3581,"Coos County, New Hampshire",4.5,32,American (New),$$$
-185,Parsons Street,3576,"Coos County, New Hampshire",3.0,2,American (New),$$
-186,Original Italian Pizza,16915,"Potter County, Pennsylvania",3.5,7,Italian,$$
-187,China Garden,16915,"Potter County, Pennsylvania",3.0,6,Chinese,$$
-188,Sweden Valley inn,16915,"Potter County, Pennsylvania",4.5,11,American (Traditional),$$
-189,The Hotel Crittenden,16915,"Potter County, Pennsylvania",4.0,18,American (Traditional),$$
-190,"Olga Gallery, Cafe, & Bistro",16915,"Potter County, Pennsylvania",4.5,27,American (Traditional),$$
-191,Debs Cross Fork Inn,17729,"Potter County, Pennsylvania",5.0,3,American (New),$
+,name,zipcode,county_string,rating,review_count,category,price,region
+0,Cabo Fish Taco,28205,"Mecklenburg County, North Carolina",4.0,990,Mexican,$$,region
+1,Midwood Smokehouse,28205,"Mecklenburg County, North Carolina",4.5,1281,American (Traditional),$$,region
+2,Sabor Latin Street Grill,28204,"Mecklenburg County, North Carolina",4.5,682,Mexican,$,region
+3,Benny Pennello's,28205,"Mecklenburg County, North Carolina",4.0,234,Italian,$,region
+4,JackBeagles,28205,"Mecklenburg County, North Carolina",4.0,292,American (Traditional),$,region
+5,The Cellar At Duckworth's,28202,"Mecklenburg County, North Carolina",4.5,361,American (New),$$,region
+6,Pinky's Westside Grill,28208,"Mecklenburg County, North Carolina",4.0,856,American (Traditional),$,region
+7,The Fig Tree Restaurant,28204,"Mecklenburg County, North Carolina",4.5,343,American (New),$$$,region
+8,The Fig Tree Restaurant,28204,"Mecklenburg County, North Carolina",4.5,343,Italian,$$$,region
+9,VBGB Beer Hall and Garden,28206,"Mecklenburg County, North Carolina",4.5,326,American (New),$$,region
+10,Dandelion Market,28202,"Mecklenburg County, North Carolina",4.0,553,American (New),$$,region
+11,Growlers Pourhouse,28205,"Mecklenburg County, North Carolina",4.0,201,American (Traditional),$$,region
+12,Alexander Michael's,28202,"Mecklenburg County, North Carolina",4.5,331,American (Traditional),$$,region
+13,Sabor Latin Street Grill - Noda,28205,"Mecklenburg County, North Carolina",4.5,155,Mexican,$,region
+14,Tupelo Honey,28203,"Mecklenburg County, North Carolina",4.0,1180,American (New),$$,region
+15,The King's Kitchen,28202,"Mecklenburg County, North Carolina",4.0,484,American (Traditional),$$,region
+16,Davidson Street Public House,28205,"Mecklenburg County, North Carolina",4.0,136,American (New),$$,region
+17,Three Amigos Mexican Restaurant and Cantina,28205,"Mecklenburg County, North Carolina",4.0,375,Mexican,$,region
+18,300 East,28203,"Mecklenburg County, North Carolina",4.0,582,American (New),$$,region
+19,Rooster's Uptown,28202,"Mecklenburg County, North Carolina",4.0,402,American (New),$$,region
+20,Las Lupitas,28213,"Mecklenburg County, North Carolina",4.5,49,Mexican,$,region
+21,5Church,28202,"Mecklenburg County, North Carolina",3.5,575,American (New),$$,region
+22,Good Food on Montford,28209,"Mecklenburg County, North Carolina",4.5,582,American (New),$$,region
+23,Mimosa Grill,28202,"Mecklenburg County, North Carolina",4.0,426,American (New),$$,region
+24,The Asbury,28202,"Mecklenburg County, North Carolina",4.0,205,American (New),$$,region
+25,Midnight Diner,28202,"Mecklenburg County, North Carolina",4.0,612,American (Traditional),$,region
+26,Mama Ricotta's,28204,"Mecklenburg County, North Carolina",4.0,415,Italian,$$,region
+27,Papi Queso,28202,"Mecklenburg County, North Carolina",4.5,127,American (New),$,region
+28,Lebowski's Neighborhood Grill,28203,"Mecklenburg County, North Carolina",4.5,335,American (Traditional),$$,region
+29,Carpe Diem Restaurant & Caterers,28204,"Mecklenburg County, North Carolina",4.0,174,American (New),$$$,region
+30,JJ's Red Hots - Dilworth,28203,"Mecklenburg County, North Carolina",4.0,349,American (Traditional),$,region
+31,Vivace,28204,"Mecklenburg County, North Carolina",3.5,400,Italian,$$,region
+32,Luce Restaurant & Bar,28202,"Mecklenburg County, North Carolina",4.0,170,Italian,$$$,region
+33,Pizzeria Omaggio,28204,"Mecklenburg County, North Carolina",4.5,169,Italian,$$,region
+34,Luciano's Ristorante Italiano,28203,"Mecklenburg County, North Carolina",4.0,275,Italian,$$,region
+35,Aria,28202,"Mecklenburg County, North Carolina",3.5,322,Italian,$$,region
+36,Aria,28202,"Mecklenburg County, North Carolina",3.5,322,American (New),$$,region
+37,Diamond Restaurant,28205,"Mecklenburg County, North Carolina",3.5,328,American (New),$,region
+38,Vapiano,28202,"Mecklenburg County, North Carolina",3.5,390,Italian,$$,region
+39,Sandwich Max,28204,"Mecklenburg County, North Carolina",4.5,112,American (Traditional),$,region
+40,Solstice Tavern,28205,"Mecklenburg County, North Carolina",3.5,129,American (Traditional),$,region
+41,Copper,28203,"Mecklenburg County, North Carolina",4.0,332,Indian,$$,region
+42,Kid Cashew,28203,"Mecklenburg County, North Carolina",4.0,308,American (New),$$,region
+43,Lupie's Cafe,28205,"Mecklenburg County, North Carolina",4.0,201,American (Traditional),$,region
+44,Fahrenheit,28202,"Mecklenburg County, North Carolina",3.0,569,American (New),$$$,region
+45,Letty's,28205,"Mecklenburg County, North Carolina",4.0,73,American (New),$$,region
+46,Pint Central,28204,"Mecklenburg County, North Carolina",4.0,175,American (New),$$,region
+47,Vida Mexican Kitchen y Cantina,28202,"Mecklenburg County, North Carolina",3.5,364,Mexican,$$,region
+48,Portofino's Italian Restaurant & Pizzeria,28205,"Mecklenburg County, North Carolina",4.0,143,Italian,$$,region
+49,Stoke Charlotte,28202,"Mecklenburg County, North Carolina",4.0,133,American (New),$$,region
+50,Thomas Street Tavern,28205,"Mecklenburg County, North Carolina",4.0,147,American (Traditional),$,region
+51,Savor Cafe & Catering,28208,"Mecklenburg County, North Carolina",4.0,164,American (New),$$,region
+52,The Dumpling Lady,28205,"Mecklenburg County, North Carolina",4.5,72,Chinese,$,region
+53,Hawthorne's NY Pizza & Bar,28204,"Mecklenburg County, North Carolina",4.0,173,Italian,$$,region
+54,Customshop Handcrafted Food,28204,"Mecklenburg County, North Carolina",4.0,183,American (New),$$$,region
+55,Napa on Providence,28207,"Mecklenburg County, North Carolina",4.0,199,American (New),$$,region
+56,Whiskey Warehouse,28203,"Mecklenburg County, North Carolina",3.5,266,American (New),$$,region
+57,Rock Bottom Restaurant & Brewery,28202,"Mecklenburg County, North Carolina",3.0,310,American (Traditional),$$,region
+58,Rock Bottom Restaurant & Brewery,28202,"Mecklenburg County, North Carolina",3.0,310,American (New),$$,region
+59,The Peculiar Rabbit,28205,"Mecklenburg County, North Carolina",3.0,443,American (New),$$,region
+60,Que Onda Tacos Uptown,28202,"Mecklenburg County, North Carolina",4.0,136,Mexican,$$,region
+61,Flying Saucer Draught Emporium,28262,"Mecklenburg County, North Carolina",4.0,241,American (Traditional),$$,region
+62,The Pizza Peel,28205,"Mecklenburg County, North Carolina",3.5,136,Italian,$$,region
+63,Wooden Vine Wine Bar & Bistro,28202,"Mecklenburg County, North Carolina",3.5,136,American (New),$$,region
+64,Eddie's Place,28211,"Mecklenburg County, North Carolina",4.0,270,American (Traditional),$$,region
+65,204 North Kitchen & Cocktails,28202,"Mecklenburg County, North Carolina",3.5,176,American (New),$$,region
+66,Fenwick's,28207,"Mecklenburg County, North Carolina",4.0,109,American (Traditional),$$,region
+67,DeSano Pizzeria Napoletana,28204,"Mecklenburg County, North Carolina",4.0,96,Italian,$$,region
+68,Mortimer's Cafe and Pub,28202,"Mecklenburg County, North Carolina",3.5,164,American (Traditional),$$,region
+69,Duckworth's Grill & Taphouse,28202,"Mecklenburg County, North Carolina",3.5,248,American (Traditional),$$,region
+70,Johnny Burrito,28282,"Mecklenburg County, North Carolina",4.5,88,Mexican,$,region
+71,Stagioni Four Seasons of Food,28207,"Mecklenburg County, North Carolina",4.0,131,Italian,$$$,region
+72,Passage To India,28213,"Mecklenburg County, North Carolina",4.0,260,Indian,$$,region
+73,Bernardin's Restaurant,28202,"Mecklenburg County, North Carolina",4.0,114,American (New),$$$,region
+74,Pike's Old Fashioned Soda Shop,28203,"Mecklenburg County, North Carolina",3.5,272,American (Traditional),$$,region
+75,Draught,28202,"Mecklenburg County, North Carolina",3.5,205,American (New),$$,region
+76,City Smoke,28202,"Mecklenburg County, North Carolina",3.5,194,American (Traditional),$$,region
+77,Cantina 1511,28209,"Mecklenburg County, North Carolina",3.5,460,Mexican,$$,region
+78,Morton's The Steakhouse,28202,"Mecklenburg County, North Carolina",4.0,116,American (Traditional),$$$$,region
+79,Mac's Speed Shop,28203,"Mecklenburg County, North Carolina",4.0,192,American (Traditional),$$,region
+80,Zio Casual Italian,28207,"Mecklenburg County, North Carolina",4.0,111,Italian,$$,region
+81,Soho Bistro,28202,"Mecklenburg County, North Carolina",3.5,137,Chinese,$$,region
+82,Duckworth's Kitchen & Taphouse,28209,"Mecklenburg County, North Carolina",4.0,290,American (Traditional),$$,region
+83,Fran's Filling Station,28203,"Mecklenburg County, North Carolina",4.0,201,American (New),$$,region
+84,Fran's Filling Station,28203,"Mecklenburg County, North Carolina",4.0,201,American (Traditional),$$,region
+85,Fonda Las Cazuelas,28213,"Mecklenburg County, North Carolina",4.0,38,Mexican,$$,region
+86,Brixx Wood Fired Pizza,28202,"Mecklenburg County, North Carolina",3.5,127,Italian,$$,region
+87,Leroy Fox,28211,"Mecklenburg County, North Carolina",3.5,280,American (New),$$,region
+88,RuRu's Tacos + Tequila,28207,"Mecklenburg County, North Carolina",3.5,274,Mexican,$$,region
+89,Nothing But Noodles,28204,"Mecklenburg County, North Carolina",4.0,79,Italian,$,region
+90,Ink N Ivy CLT,28202,"Mecklenburg County, North Carolina",3.0,299,American (New),$$,region
+91,Ginbu 401,28207,"Mecklenburg County, North Carolina",3.5,172,Chinese,$$,region
+92,McNinch House Restaurant,28202,"Mecklenburg County, North Carolina",4.0,61,American (New),$$$$,region
+93,Foxcroft Wine Co - Dilworth,28203,"Mecklenburg County, North Carolina",4.0,69,American (New),$$,region
+94,Persuasian Restaurant,28203,"Mecklenburg County, North Carolina",4.0,96,Chinese,$$,region
+95,Boardwalk Billy's Raw Bar And Ribs,28262,"Mecklenburg County, North Carolina",3.5,242,American (Traditional),$$,region
+96,Dilworth Neighborhood Grille,28204,"Mecklenburg County, North Carolina",3.5,180,American (Traditional),$$,region
+97,Carolina Ale House,28244,"Mecklenburg County, North Carolina",3.0,321,American (Traditional),$$,region
+98,The Pizza Peel,28211,"Mecklenburg County, North Carolina",4.0,150,Italian,$$,region
+99,Azteca Mexican Restaurant,28217,"Mecklenburg County, North Carolina",3.5,256,Mexican,$$,region
+100,Las Margaritas,28205,"Mecklenburg County, North Carolina",4.0,92,Mexican,$,region
+101,Dolce Ristorante,28203,"Mecklenburg County, North Carolina",3.5,155,Italian,$$,region
+102,Dolce Ristorante,28203,"Mecklenburg County, North Carolina",3.5,155,American (New),$$,region
+103,Bisonte Pizza,28202,"Mecklenburg County, North Carolina",4.0,57,Italian,$$,region
+104,Aix en Provence,28207,"Mecklenburg County, North Carolina",4.5,40,Italian,$$$,region
+105,Libretto's Pizzeria,28202,"Mecklenburg County, North Carolina",3.0,193,Italian,$,region
+106,El Taco Veloz,28213,"Mecklenburg County, North Carolina",4.0,44,Mexican,$,region
+107,Coaltrane's Char Grill,28205,"Mecklenburg County, North Carolina",4.0,56,American (Traditional),$,region
+108,Burtons Grill & Bar of Charlotte,28209,"Mecklenburg County, North Carolina",4.0,166,American (New),$$,region
+109,Studio Movie Grill,28202,"Mecklenburg County, North Carolina",2.5,381,American (Traditional),$$,region
+110,1900 Mexican Grill,28204,"Mecklenburg County, North Carolina",3.0,137,Mexican,$$,region
+111,Persis Biryani Indian Grill,28269,"Mecklenburg County, North Carolina",4.0,147,Indian,$$,region
+112,The Suffolk Punch,28203,"Mecklenburg County, North Carolina",4.0,125,American (New),$$,region
+113,Crisp,28203,"Mecklenburg County, North Carolina",3.5,101,American (New),$,region
+114,Portofino's,28209,"Mecklenburg County, North Carolina",4.0,184,Italian,$$,region
+115,Giacomo's Pizzeria and Italian Restaurant,28262,"Mecklenburg County, North Carolina",4.0,129,Italian,$$,region
+116,The Turnhouse Grille,28209,"Mecklenburg County, North Carolina",4.5,70,American (Traditional),$$,region
+117,Picante Mexican Grill,28208,"Mecklenburg County, North Carolina",3.5,85,Mexican,$,region
+118,88 China Bistro,28204,"Mecklenburg County, North Carolina",3.5,78,Chinese,$$,region
+119,Hickory Tavern,28204,"Mecklenburg County, North Carolina",3.5,123,American (Traditional),$$,region
+120,Hot Taco,28203,"Mecklenburg County, North Carolina",2.5,345,Mexican,$$,region
+121,Bonterra Restaurant & Wine Room,28203,"Mecklenburg County, North Carolina",3.5,130,American (New),$$$,region
+122,Tijuana Flats,28262,"Mecklenburg County, North Carolina",4.0,61,Mexican,$,region
+123,Libations Kitchen & Bar,28202,"Mecklenburg County, North Carolina",4.5,44,American (New),$$,region
+124,Ho Ho Cherry House,28204,"Mecklenburg County, North Carolina",3.0,116,Chinese,$,region
+125,SouthBound,28203,"Mecklenburg County, North Carolina",3.5,259,Mexican,$$,region
+126,Green's Lunch,28202,"Mecklenburg County, North Carolina",3.5,62,American (Traditional),$,region
+127,Tavern On The Tracks,28203,"Mecklenburg County, North Carolina",3.0,163,American (Traditional),$$,region
+128,Fidelli Kitchen,28203,"Mecklenburg County, North Carolina",3.5,75,Italian,$,region
+129,Blackfinn Ameripub,28202,"Mecklenburg County, North Carolina",3.0,104,American (New),$$,region
+130,Namastay Kitchen and Hangout,28211,"Mecklenburg County, North Carolina",4.0,94,American (New),$$,region
+131,Amalfi's Pasta 'n' Pizza,28213,"Mecklenburg County, North Carolina",4.0,68,Italian,$$,region
+132,Taipei Express,28207,"Mecklenburg County, North Carolina",4.0,73,Chinese,$,region
+133,Cedar Street Tavern,28202,"Mecklenburg County, North Carolina",3.5,62,American (Traditional),$$,region
+134,Tony's Pizza,28078,"Mecklenburg County, North Carolina",4.5,107,Italian,$,region
+135,Azteca Mexican Restaurant,28269,"Mecklenburg County, North Carolina",3.5,141,Mexican,$$,region
+136,Wet Willie's,28206,"Mecklenburg County, North Carolina",3.0,78,American (Traditional),$$,region
+137,The Roasting Company,28205,"Mecklenburg County, North Carolina",3.5,42,American (Traditional),$$,region
+138,All American Pub,28203,"Mecklenburg County, North Carolina",3.0,161,American (New),$$,region
+139,Ciro's Italian Restaurant,28262,"Mecklenburg County, North Carolina",4.0,75,Italian,$$,region
+140,Stockyard Restaurant,28216,"Mecklenburg County, North Carolina",4.5,36,American (Traditional),$,region
+141,Tacos El Nevado,28205,"Mecklenburg County, North Carolina",4.0,31,Mexican,$,region
+142,Ed's Tavern,28203,"Mecklenburg County, North Carolina",3.5,111,American (Traditional),$$,region
+143,Don Pedro Mexican Restaurant,28213,"Mecklenburg County, North Carolina",3.5,100,Mexican,$$,region
+144,French Quarter,28202,"Mecklenburg County, North Carolina",3.5,87,American (Traditional),$$,region
+145,Maharani Indian Cuisine,28204,"Mecklenburg County, North Carolina",3.0,138,Indian,$$,region
+146,Cheddar's Scratch Kitchen,28262,"Mecklenburg County, North Carolina",3.0,194,American (Traditional),$$,region
+147,Red Rocks Cafe,28211,"Mecklenburg County, North Carolina",4.0,137,American (Traditional),$$,region
+148,Old Pineville Premium Pub,28217,"Mecklenburg County, North Carolina",4.5,60,American (Traditional),$$,region
+149,Chipotle Mexican Grill,28203,"Mecklenburg County, North Carolina",3.5,102,Mexican,$,region
+150,La Unica,28204,"Mecklenburg County, North Carolina",3.5,86,Mexican,$,region
+151,Comet Grill,28203,"Mecklenburg County, North Carolina",4.0,54,American (Traditional),$,region
+152,Whisky River ,28202,"Mecklenburg County, North Carolina",2.5,222,American (Traditional),$$,region
+153,China Buffet,28205,"Mecklenburg County, North Carolina",3.5,72,Chinese,$$,region
+154,The Packhouse,28202,"Mecklenburg County, North Carolina",3.5,63,American (Traditional),$$,region
+155,Moosehead Grill,28209,"Mecklenburg County, North Carolina",4.0,109,American (Traditional),$$,region
+156,Zapata's Cantina Mexican Restaurant,28262,"Mecklenburg County, North Carolina",3.0,118,Mexican,$$,region
+157,Vida Vida,28202,"Mecklenburg County, North Carolina",3.0,75,Mexican,$,region
+158,The Daily,28202,"Mecklenburg County, North Carolina",4.5,21,American (New),$$,region
+159,Monterrey Mexican Restaurant,28213,"Mecklenburg County, North Carolina",3.5,76,Mexican,$$,region
+160,AQUA e VINO,28211,"Mecklenburg County, North Carolina",4.5,41,Italian,$$$,region
+161,The Brass Tap - South End,28203,"Mecklenburg County, North Carolina",3.0,120,American (New),$$,region
+162,South 21 Family Restaurant,28213,"Mecklenburg County, North Carolina",4.0,27,American (Traditional),$,region
+163,Chuck's Grill,28269,"Mecklenburg County, North Carolina",4.0,49,American (Traditional),$,region
+164,P.F. Chang's,28216,"Mecklenburg County, North Carolina",3.0,190,Chinese,$$,region
+165,Beijing Chinese Cuisine,28203,"Mecklenburg County, North Carolina",3.5,83,Chinese,$,region
+166,JP Charlotte at Westin,28202,"Mecklenburg County, North Carolina",4.0,28,American (Traditional),$$,region
+167,Brazwells Premium Pub,28209,"Mecklenburg County, North Carolina",3.5,130,American (New),$$,region
+168,King of Spicy,28227,"Mecklenburg County, North Carolina",3.5,84,Indian,$$,region
+169,Fresh Chef Kitchen,28211,"Mecklenburg County, North Carolina",4.5,34,American (Traditional),$$,region
+170,House Of Leng At Boardwalk,28262,"Mecklenburg County, North Carolina",3.5,95,Chinese,$$,region
+171,Golden Taipei,28269,"Mecklenburg County, North Carolina",3.5,79,Chinese,$$,region
+172,Skyland Family Restaurant,28209,"Mecklenburg County, North Carolina",3.5,102,American (Traditional),$,region
+173,Toscana,28211,"Mecklenburg County, North Carolina",3.5,100,Italian,$$$,region
+174,Chipotle Mexican Grill,28204,"Mecklenburg County, North Carolina",3.5,56,Mexican,$,region
+175,Bar Louie,28262,"Mecklenburg County, North Carolina",3.0,135,American (New),$$,region
+176,China Buffet,28262,"Mecklenburg County, North Carolina",3.5,80,Chinese,$$,region
+177,Los Arcos,28262,"Mecklenburg County, North Carolina",3.5,66,Mexican,$,region
+178,East Coast Wings & Grill,28216,"Mecklenburg County, North Carolina",3.5,127,American (Traditional),$$,region
+179,Urban Cookhouse,28209,"Mecklenburg County, North Carolina",4.0,69,American (New),$$,region
+180,Tacos El Regio,28227,"Mecklenburg County, North Carolina",4.5,18,Mexican,$,region
+181,Clover Joe's,28202,"Mecklenburg County, North Carolina",4.5,23,Italian,$,region
+182,The World Famous Open Kitchen,28208,"Mecklenburg County, North Carolina",3.0,111,Italian,$$,region
+183,Wild Wing Cafe,28202,"Mecklenburg County, North Carolina",2.5,139,American (Traditional),$$,region
+184,LongHorn Steakhouse,28262,"Mecklenburg County, North Carolina",3.5,60,American (Traditional),$$,region
+185,Fiesta Maya,28269,"Mecklenburg County, North Carolina",3.5,74,Mexican,$,region
+186,Angry Ale's,28209,"Mecklenburg County, North Carolina",3.0,142,American (Traditional),$$,region
+187,Tin Roof,28202,"Mecklenburg County, North Carolina",3.0,87,American (Traditional),$,region
+188,Oakhurst Grill,28205,"Mecklenburg County, North Carolina",4.5,19,American (Traditional),$,region
+189,Antonio's Pizza,28262,"Mecklenburg County, North Carolina",4.5,28,Italian,$,region
+190,Gin Mill South End,28203,"Mecklenburg County, North Carolina",3.5,48,American (New),$,region
+191,Antojitos Don Sammy,28214,"Mecklenburg County, North Carolina",4.5,21,Mexican,$,region
+192,The Local,28202,"Mecklenburg County, North Carolina",3.5,51,American (Traditional),$$,region
+193,Pei Wei,28262,"Mecklenburg County, North Carolina",3.5,58,Chinese,$,region
+194,Madras Cafe,28269,"Mecklenburg County, North Carolina",4.0,80,Indian,$$,region
+195,China Palace,28262,"Mecklenburg County, North Carolina",4.0,70,Chinese,$,region
+196,House of Leng,28262,"Mecklenburg County, North Carolina",3.5,89,Chinese,$$,region
+197,Salsarita's Fresh Mexican Grill,28202,"Mecklenburg County, North Carolina",3.5,28,Mexican,$,region
+198,Bleu Barn Bistro,28217,"Mecklenburg County, North Carolina",4.5,35,American (Traditional),$,region
+199,Nirvana II,28202,"Mecklenburg County, North Carolina",3.5,52,Indian,$,region
+200,Bedder Bedder & Moore Montford-Abbey,28209,"Mecklenburg County, North Carolina",4.0,48,American (Traditional),$,region
+201,Angeline's,28202,"Mecklenburg County, North Carolina",3.5,56,Italian,$$$,region
+202,B Good,28285,"Mecklenburg County, North Carolina",3.5,44,American (Traditional),$$,region
+203,US Fried Chicken,28262,"Mecklenburg County, North Carolina",3.5,33,American (Traditional),$,region
+204,Parry's Pizzeria & Bar,28216,"Mecklenburg County, North Carolina",4.0,48,American (Traditional),$$,region
+205,Lempira Restaurant,28205,"Mecklenburg County, North Carolina",3.5,32,Mexican,$$,region
+206,Panda's Den,28215,"Mecklenburg County, North Carolina",4.0,39,Chinese,$,region
+207,Libretto's Pizzeria,28209,"Mecklenburg County, North Carolina",3.0,118,Italian,$$,region
+208,Carnitas Guanajuato Mexican Restaurant,28212,"Mecklenburg County, North Carolina",4.0,34,Mexican,$,region
+209,Bobbee O's BBQ,28269,"Mecklenburg County, North Carolina",3.5,89,American (Traditional),$$,region
+210,Dot Dot Dot,28209,"Mecklenburg County, North Carolina",3.5,73,American (New),$$,region
+211,Queen Park Social,28217,"Mecklenburg County, North Carolina",3.0,127,American (Traditional),$$,region
+212,Maria's Grill,28262,"Mecklenburg County, North Carolina",3.5,36,American (New),$,region
+213,Coastal Kitchen & Bar,28202,"Mecklenburg County, North Carolina",3.5,28,American (New),$$,region
+214,Whooli's Grill,28227,"Mecklenburg County, North Carolina",4.0,47,American (New),$$,region
+215,Maria's Mexican Restaurant,28217,"Mecklenburg County, North Carolina",3.5,76,Mexican,$,region
+216,Morazan Restaurant,28205,"Mecklenburg County, North Carolina",3.5,29,Mexican,$$,region
+217,Fonda La Taquiza,28205,"Mecklenburg County, North Carolina",4.0,35,Mexican,$,region
+218,Sithara,28262,"Mecklenburg County, North Carolina",4.0,33,Indian,$$,region
+219,Zanzibar Cafe,28206,"Mecklenburg County, North Carolina",3.5,9,American (Traditional),$$,region
+220,QDOBA Mexican Eats,28262,"Mecklenburg County, North Carolina",4.0,31,Mexican,$,region
+221,The Burrito Factory,28262,"Mecklenburg County, North Carolina",4.0,38,Mexican,$,region
+222,The Burrito Factory,28262,"Mecklenburg County, North Carolina",4.0,38,American (Traditional),$,region
+223,Sabor Latin Street Grill - SouthPark,28211,"Mecklenburg County, North Carolina",4.0,51,Mexican,$,region
+224,Delicias Restaurante Latino,28212,"Mecklenburg County, North Carolina",4.5,14,Mexican,$,region
+225,Rajbhog Indian Food Market & Cafe,28262,"Mecklenburg County, North Carolina",3.5,44,Indian,$,region
+226,American Burger - Uptown,28202,"Mecklenburg County, North Carolina",3.0,64,American (Traditional),$$,region
+227,La Revolucion,28206,"Mecklenburg County, North Carolina",2.5,47,Mexican,$$,region
+228,Merchant & Trade,28202,"Mecklenburg County, North Carolina",3.0,59,American (New),$$,region
+229,SoCal Taco Stand,28202,"Mecklenburg County, North Carolina",4.0,17,Mexican,$,region
+230,Tacos El Nevado,28209,"Mecklenburg County, North Carolina",4.0,30,Mexican,$,region
+231,Nest Restaurant & Lounge,28202,"Mecklenburg County, North Carolina",3.5,20,American (New),$$,region
+232,On The Border Mexican Grill & Cantina,28216,"Mecklenburg County, North Carolina",3.5,67,Mexican,$$,region
+233,Farley's Crafted Pizzeria,28262,"Mecklenburg County, North Carolina",3.5,52,Italian,$$,region
+234,Cracker Barrel Old Country Store,28208,"Mecklenburg County, North Carolina",3.5,69,American (Traditional),$,region
+235,Providence Road Sundries,28207,"Mecklenburg County, North Carolina",3.5,36,American (Traditional),$,region
+236,Carolina Family Restaurant,28208,"Mecklenburg County, North Carolina",4.0,31,American (Traditional),$,region
+237,Red Robin Gourmet Burgers,28262,"Mecklenburg County, North Carolina",3.0,58,American (Traditional),$$,region
+238,1900 Mexican Grill,28209,"Mecklenburg County, North Carolina",3.5,81,Mexican,$$,region
+239,Locker Room Sports Bar & Grill,28217,"Mecklenburg County, North Carolina",4.0,31,American (Traditional),$,region
+240,The Village,28206,"Mecklenburg County, North Carolina",3.5,10,American (Traditional),$,region
+241,Cantina 1511,28202,"Mecklenburg County, North Carolina",3.0,53,Mexican,$$,region
+242,FireWater,28262,"Mecklenburg County, North Carolina",2.5,94,American (New),$$,region
+243,Ale's University,28262,"Mecklenburg County, North Carolina",3.5,49,American (Traditional),$$,region
+244,Romano's Macaroni Grill,28262,"Mecklenburg County, North Carolina",2.5,91,Italian,$$,region
+245,MezzaNotte Brick Oven Pizza,28211,"Mecklenburg County, North Carolina",3.5,59,Italian,$$,region
+246,Zia Pia Imports,28202,"Mecklenburg County, North Carolina",4.5,9,Italian,$,region
+247,Lupitas Carniceria & Tortilleria,28217,"Mecklenburg County, North Carolina",4.5,16,Mexican,$,region
+248,Chex Grill,28208,"Mecklenburg County, North Carolina",4.0,23,American (New),$,region
+249,Hwy 55 Burgers Shakes & Fries,28269,"Mecklenburg County, North Carolina",3.0,55,American (Traditional),$,region
+250,La Espiga,28213,"Mecklenburg County, North Carolina",5.0,4,Mexican,$,region
+251,Jocks & Jills Sports Grille,28217,"Mecklenburg County, North Carolina",3.5,123,American (Traditional),$$,region
+252,O'Charley's Restaurant & Bar,28213,"Mecklenburg County, North Carolina",3.0,54,American (Traditional),$$,region
+253,Buffalo Wild Wings,28202,"Mecklenburg County, North Carolina",2.0,147,American (Traditional),$$,region
+254,Moe's Southwest Grill,28202,"Mecklenburg County, North Carolina",3.0,28,Mexican,$,region
+255,Great Wok,28202,"Mecklenburg County, North Carolina",2.5,72,Chinese,$,region
+256,Gardenia Restaurant,28208,"Mecklenburg County, North Carolina",3.5,24,American (Traditional),$,region
+257,Chipotle Mexican Grill,28211,"Mecklenburg County, North Carolina",3.0,57,Mexican,$,region
+258,Tacos El Nevado,28209,"Mecklenburg County, North Carolina",4.5,12,Mexican,$,region
+259,Chipotle Mexican Grill,28262,"Mecklenburg County, North Carolina",2.5,71,Mexican,$,region
+260,Angela's,28227,"Mecklenburg County, North Carolina",3.5,64,Italian,$$,region
+261,China Bowl,28205,"Mecklenburg County, North Carolina",3.5,15,Chinese,$,region
+262,Moe's Southwest Grill,28203,"Mecklenburg County, North Carolina",3.0,42,Mexican,$,region
+263,Park Road Soda Shoppe,28209,"Mecklenburg County, North Carolina",4.0,26,American (Traditional),$,region
+264,Hooters,28202,"Mecklenburg County, North Carolina",2.5,79,American (Traditional),$$,region
+265,Hickory Tavern,28269,"Mecklenburg County, North Carolina",3.0,81,American (Traditional),$$,region
+266,Just Fresh Bakery Cafe,28203,"Mecklenburg County, North Carolina",3.0,29,American (Traditional),$,region
+267,Menus Restaurant,28217,"Mecklenburg County, North Carolina",4.0,23,American (Traditional),$,region
+268,Sonny's BBQ,28217,"Mecklenburg County, North Carolina",3.0,94,American (New),$$,region
+269,Lucky Lou's Tavern,28209,"Mecklenburg County, North Carolina",3.5,46,American (New),$,region
+270,China Cafe,28262,"Mecklenburg County, North Carolina",3.0,68,Chinese,$,region
+271,Godavari,28262,"Mecklenburg County, North Carolina",3.0,35,Indian,$$,region
+272,Taqueria Express,28227,"Mecklenburg County, North Carolina",3.5,20,Mexican,$,region
+273,Fox & Hound,28216,"Mecklenburg County, North Carolina",3.0,92,American (Traditional),$$,region
+274,Red Robin Gourmet Burgers,28216,"Mecklenburg County, North Carolina",3.0,72,American (Traditional),$$,region
+275,Shun Lee Palace,28211,"Mecklenburg County, North Carolina",3.0,84,Chinese,$$,region
+276,Niki's Food Shop,28216,"Mecklenburg County, North Carolina",3.5,13,American (Traditional),$,region
+277,Hickory Tavern,28262,"Mecklenburg County, North Carolina",2.5,84,American (Traditional),$$,region
+278,QDOBA Mexican Eats,28202,"Mecklenburg County, North Carolina",3.0,22,Mexican,$,region
+279,Boston Market,28207,"Mecklenburg County, North Carolina",3.5,18,American (Traditional),$,region
+280,Olive Garden Italian Restaurant,28216,"Mecklenburg County, North Carolina",3.0,89,Italian,$$,region
+281,Chipotle Mexican Grill,28216,"Mecklenburg County, North Carolina",3.5,23,Mexican,$,region
+282,Tavolo,28202,"Mecklenburg County, North Carolina",3.5,87,Italian,$$,region
+283,The Charlotte Cafe,28209,"Mecklenburg County, North Carolina",3.0,64,American (Traditional),$$,region
+284,Mandarin Chinese Restaurant,28078,"Mecklenburg County, North Carolina",3.5,39,Chinese,$,region
+285,Clove Indian Cuisine,28262,"Mecklenburg County, North Carolina",4.5,16,Indian,$$,region
+286,Edgewater Bar & Grille,28262,"Mecklenburg County, North Carolina",3.5,15,American (Traditional),$$,region
+287,Competition Dining: Fire in the City,28203,"Mecklenburg County, North Carolina",5.0,4,American (New),$$$$,region
+288,Lai Lai Express,28209,"Mecklenburg County, North Carolina",3.5,30,Chinese,$,region
+289,Hong Kong Restaurant,28205,"Mecklenburg County, North Carolina",2.5,26,Chinese,$,region
+290,Chili's,28262,"Mecklenburg County, North Carolina",2.5,54,American (Traditional),$$,region
+291,House of Pizza,28205,"Mecklenburg County, North Carolina",3.5,76,Italian,$,region
+292,Salsarita's Fresh Mexican Grill,28262,"Mecklenburg County, North Carolina",3.5,23,Mexican,$,region
+293,Plato Pronto,28216,"Mecklenburg County, North Carolina",4.5,7,Mexican,$,region
+294,MorazÃ¡n Restaurante,28217,"Mecklenburg County, North Carolina",3.5,31,Mexican,$,region
+295,Flo Bar & Lounge,28262,"Mecklenburg County, North Carolina",2.5,32,American (Traditional),$$,region
+296,Flo Bar & Lounge,28262,"Mecklenburg County, North Carolina",2.5,32,Mexican,$$,region
+297,Waffle House,28217,"Mecklenburg County, North Carolina",3.0,30,American (Traditional),$,region
+298,El Tropico,28213,"Mecklenburg County, North Carolina",3.5,3,Mexican,$$,region
+299,IHOP,28262,"Mecklenburg County, North Carolina",2.5,44,American (Traditional),$,region
+300,QDOBA Mexican Eats,28209,"Mecklenburg County, North Carolina",3.0,25,Mexican,$,region
+301,Waffle House,28208,"Mecklenburg County, North Carolina",3.5,30,American (New),$,region
+302,Happy Grill,28227,"Mecklenburg County, North Carolina",4.5,19,American (Traditional),$,region
+303,Boulevard 1820,28203,"Mecklenburg County, North Carolina",4.0,27,American (New),$$$,region
+304,Salsarita's Fresh Mexican Grill,28208,"Mecklenburg County, North Carolina",3.5,44,Mexican,$,region
+305,Morehead Tavern,28202,"Mecklenburg County, North Carolina",3.0,17,American (Traditional),$,region
+306,Wing Heaven,28217,"Mecklenburg County, North Carolina",4.0,17,Chinese,$,region
+307,Buffalo Wild Wings,28216,"Mecklenburg County, North Carolina",2.5,88,American (Traditional),$$,region
+308,LittleSpoon,28209,"Mecklenburg County, North Carolina",3.5,247,American (New),$$,region
+309,Hop Feng 2,28227,"Mecklenburg County, North Carolina",4.0,20,Chinese,$,region
+310,Hong Phat Restaurant,28208,"Mecklenburg County, North Carolina",4.0,8,Chinese,$,region
+311,Big Al's Pub & Grubberia,28227,"Mecklenburg County, North Carolina",3.5,27,American (Traditional),$$,region
+312,China Fun,28227,"Mecklenburg County, North Carolina",3.5,29,Chinese,$,region
+313,China Inn,28262,"Mecklenburg County, North Carolina",3.0,8,Chinese,$,region
+314,Wild Wing Cafe,28262,"Mecklenburg County, North Carolina",2.5,66,American (Traditional),$$,region
+315,The Press Box Bar & Grill,28262,"Mecklenburg County, North Carolina",2.5,37,American (Traditional),$,region
+316,Denny's,28216,"Mecklenburg County, North Carolina",2.5,34,American (Traditional),$$,region
+317,Dragon House Chinese Buffet,28209,"Mecklenburg County, North Carolina",3.0,40,Chinese,$,region
+318,Recess Charlotte,28204,"Mecklenburg County, North Carolina",3.0,20,American (New),$,region
+319,TGI Fridays,28262,"Mecklenburg County, North Carolina",2.0,105,American (Traditional),$$,region
+320,Taco Bell,28203,"Mecklenburg County, North Carolina",2.5,21,Mexican,$,region
+321,Showmars,28208,"Mecklenburg County, North Carolina",3.5,15,American (New),$$,region
+322,Lotus Buffet,28262,"Mecklenburg County, North Carolina",2.5,41,Chinese,$,region
+323,Greystone Pub,28209,"Mecklenburg County, North Carolina",3.5,20,American (Traditional),$,region
+324,Hwy 55 Burgers Shakes & Fries,28262,"Mecklenburg County, North Carolina",2.5,24,American (Traditional),$,region
+325,Taco Bell,28262,"Mecklenburg County, North Carolina",3.0,27,Mexican,$,region
+326,IHOP,28211,"Mecklenburg County, North Carolina",2.5,43,American (Traditional),$,region
+327,Salsarita's Fresh Mexican Grill,28211,"Mecklenburg County, North Carolina",3.0,30,Mexican,$,region
+328,Curry n Cake,28262,"Mecklenburg County, North Carolina",2.5,34,Indian,$$,region
+329,Moe's Southwest Grill,28213,"Mecklenburg County, North Carolina",3.0,17,Mexican,$,region
+330,A Mouthful Concessions & Catering,28208,"Mecklenburg County, North Carolina",4.0,6,American (Traditional),$$,region
+331,Bob Evans,28269,"Mecklenburg County, North Carolina",3.0,36,American (Traditional),$,region
+332,Factory Cafe,28206,"Mecklenburg County, North Carolina",2.5,29,American (New),$$,region
+333,Moe's Southwest Grill,28216,"Mecklenburg County, North Carolina",3.0,36,Mexican,$,region
+334,Showmars Government Center,28202,"Mecklenburg County, North Carolina",3.5,8,American (Traditional),$,region
+335,Bang Bang South End,28203,"Mecklenburg County, North Carolina",3.5,19,American (New),$$,region
+336,Fortune Cookie,28204,"Mecklenburg County, North Carolina",2.5,27,Chinese,$,region
+337,Pudina,28217,"Mecklenburg County, North Carolina",3.5,23,Indian,$$,region
+338,Taqueria La Unica,28205,"Mecklenburg County, North Carolina",2.5,11,Mexican,$,region
+339,Lotus Chinese Cuisine,28269,"Mecklenburg County, North Carolina",3.0,20,Chinese,$,region
+340,Trade Restaurant and Bar,28202,"Mecklenburg County, North Carolina",3.5,10,American (New),$$,region
