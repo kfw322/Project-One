@@ -1,0 +1,194 @@
+,name,zipcode,county_string,rating,review_count,category,price
+0,Figaro's Pizza,97845,"Grant County, Oregon",3.0,5,Italian,$$
+1,El Cocinero,97869,"Grant County, Oregon",4.5,4,Mexican,$
+2,1080 Pub,97845,"Grant County, Oregon",4.5,2,American,$
+3,"The Outpost Pizza, Pub, & Grill",97845,"Grant County, Oregon",4.5,18,American,$$
+4,Squeeze-In Restaurant & Deck,97845,"Grant County, Oregon",4.0,37,American,$$
+5,Chuck's Little Diner,97869,"Grant County, Oregon",4.5,13,American,$$
+6,Oxbow Restaurant and Saloon,97869,"Grant County, Oregon",4.0,8,American,$$
+7,Bear Valley Roadhouse,97873,"Grant County, Oregon",2.5,2,American,$
+8,Beppe & Gianni's Trattoria,97403,"Lane County, Oregon",4.0,319,Italian,$$
+9,Cioppino House,97455,"Lane County, Oregon",4.5,43,Italian,$$
+10,Placido's Pasta Shop,97401,"Lane County, Oregon",4.5,234,Italian,$$
+11,Finni's Fine Foods,97402,"Lane County, Oregon",4.5,38,Italian,$
+12,Mazzi's,97405,"Lane County, Oregon",3.0,165,Italian,$$
+13,Pastini,97401,"Lane County, Oregon",3.5,90,Italian,$$
+14,Ambrosia Restaurant & Bar,97401,"Lane County, Oregon",3.5,137,Italian,$$
+15,Ciao Pizza,97477,"Lane County, Oregon",4.0,164,Italian,$$
+16,Excelsior Inn & Ristorante Italiano,97401,"Lane County, Oregon",4.0,103,Italian,$$$
+17,Rye,97401,"Lane County, Oregon",4.0,161,Italian,$$
+18,Perugino,97401,"Lane County, Oregon",4.0,92,Italian,$
+19,Olive Garden Italian Restaurant,97401,"Lane County, Oregon",3.0,126,Italian,$$
+20,Coburg Pizza Company Centennial,97477,"Lane County, Oregon",4.5,86,Italian,$$
+21,Coburg Pizza Company,97408,"Lane County, Oregon",4.5,96,Italian,$$
+22,Amici Restaurant & Bar,97477,"Lane County, Oregon",2.5,25,Italian,$$
+23,Figaro's Pizza,97426,"Lane County, Oregon",4.0,17,Italian,$
+24,Mezza Luna Pizzeria,97408,"Lane County, Oregon",4.0,69,Italian,$
+25,Papa's Pizza Parlor,97478,"Lane County, Oregon",3.0,17,Italian,$$
+26,Figaro's Pizza,97487,"Lane County, Oregon",3.0,5,Italian,$$
+27,Figaro's Pizza,97478,"Lane County, Oregon",4.0,7,Italian,$$
+28,Pizza Hut,97404,"Lane County, Oregon",2.5,10,Italian,$$
+29,SY's New York Pizza,97401,"Lane County, Oregon",3.5,102,Italian,$
+30,Sol Azteca,97424,"Lane County, Oregon",4.5,15,Mexican,$$
+31,El Tapatio Mexican Restaurant,97424,"Lane County, Oregon",4.0,44,Mexican,$$
+32,Toreros Mexican Family Restaurant,97424,"Lane County, Oregon",4.0,38,Mexican,$$
+33,Mama Mayra's Kitchen,97402,"Lane County, Oregon",4.5,120,Mexican,$
+34,Los Cabos Mexican Restaurant,97426,"Lane County, Oregon",4.0,54,Mexican,$$
+35,El Pique,97477,"Lane County, Oregon",4.5,73,Mexican,$
+36,El Taco Express,97477,"Lane County, Oregon",4.5,179,Mexican,$
+37,Chula's Restaurant and Cantina,97401,"Lane County, Oregon",4.0,138,Mexican,$
+38,La Granada Latin Kitchen,97477,"Lane County, Oregon",4.5,31,Mexican,$
+39,Taqueria Mi Tierra,97402,"Lane County, Oregon",4.0,177,Mexican,$
+40,Armandos,97452,"Lane County, Oregon",4.5,11,Mexican,$
+41,Ranchito Grill,97477,"Lane County, Oregon",4.0,108,Mexican,$$
+42,Lucky Taco,97402,"Lane County, Oregon",4.5,11,Mexican,$
+43,Ixtapa Family Mexican Resturant,97487,"Lane County, Oregon",4.0,40,Mexican,$$
+44,Taqueria El Trenecito,97477,"Lane County, Oregon",4.5,34,Mexican,$
+45,Lupita's Tacos,97404,"Lane County, Oregon",4.5,70,Mexican,$
+46,Novo Latin Table,97401,"Lane County, Oregon",4.5,147,Mexican,$$
+47,Mami's Mexican Grill,97402,"Lane County, Oregon",4.0,105,Mexican,$
+48,Lee's Gourmet Garden,97463,"Lane County, Oregon",5.0,75,Chinese,$$
+49,Kings Chinese Restaurant,97424,"Lane County, Oregon",4.0,9,Chinese,$
+50,Spring House Chinese Restaurant,97401,"Lane County, Oregon",4.5,25,Chinese,$
+51,Szechuan Chinese Restaurant,97424,"Lane County, Oregon",3.0,15,Chinese,$
+52,Twin Dragons,97404,"Lane County, Oregon",4.0,170,Chinese,$$
+53,Ocean Garden,97478,"Lane County, Oregon",4.0,44,Chinese,$$
+54,Lucky Bamboo,97401,"Lane County, Oregon",4.5,15,Chinese,$
+55,Noodle and Cafe,97405,"Lane County, Oregon",4.0,60,Chinese,$
+56,Spring Garden Seafood Restaurant,97477,"Lane County, Oregon",3.5,67,Chinese,$$
+57,China Wok,97426,"Lane County, Oregon",3.5,22,Chinese,$
+58,Hong Kong Restaurant,97401,"Lane County, Oregon",4.0,65,Chinese,$
+59,Lanzhou Restaurant,97402,"Lane County, Oregon",3.5,81,Chinese,$$
+60,Bamboo Fragrance Restaurant,97477,"Lane County, Oregon",3.0,19,Chinese,$$
+61,Yi Shen,97402,"Lane County, Oregon",4.0,154,Chinese,$
+62,Lotus Garden Vegetarian Restaurant,97401,"Lane County, Oregon",4.0,86,Chinese,$
+63,221 BCE,97401,"Lane County, Oregon",4.0,25,Chinese,$$
+64,Lok Yaun Restaurant,97402,"Lane County, Oregon",3.0,147,Chinese,$
+65,Golden Orient,97402,"Lane County, Oregon",3.0,36,Chinese,$$
+66,House of Chen,97403,"Lane County, Oregon",3.0,74,Chinese,$$
+67,Ho Ho Chinese Restaurant,97487,"Lane County, Oregon",3.0,17,Chinese,$$
+68,Chen's Happy Garden,97404,"Lane County, Oregon",3.5,65,Chinese,$
+69,Maple Garden,97401,"Lane County, Oregon",3.0,71,Chinese,$
+70,Szechuan Chinese Restaurant,97402,"Lane County, Oregon",3.0,37,Chinese,$
+71,Tom's Tea House,97401,"Lane County, Oregon",4.0,13,Chinese,$
+72,Tin Sing Restaurant,97448,"Lane County, Oregon",3.5,32,Chinese,$$
+73,Jung's Mongolian Grill,97402,"Lane County, Oregon",4.0,122,Chinese,$$
+74,P.F. Chang's,97401,"Lane County, Oregon",3.0,132,Chinese,$$
+75,Great Wall Restaurant,97477,"Lane County, Oregon",3.0,17,Chinese,$$
+76,Kowloon,97401,"Lane County, Oregon",2.0,142,Chinese,$$
+77,Far Man Restaurant,97477,"Lane County, Oregon",2.5,46,Chinese,$
+78,Teng Hua,97401,"Lane County, Oregon",3.0,9,Chinese,$
+79,Creswell Cafe,97426,"Lane County, Oregon",2.0,2,Chinese,$
+80,China Sun Buffet,97477,"Lane County, Oregon",2.5,63,Chinese,$$
+81,Lee's Village,97478,"Lane County, Oregon",2.5,19,Chinese,$$
+82,Empire Buffet,97403,"Lane County, Oregon",2.5,55,Chinese,$$
+83,China Seas Restaurant,97404,"Lane County, Oregon",2.5,20,Chinese,$$
+84,Panda Express,97403,"Lane County, Oregon",3.0,9,Chinese,$
+85,Panda Express,97477,"Lane County, Oregon",2.5,26,Chinese,$
+86,Urban Kitchen,97424,"Lane County, Oregon",4.5,15,American,$
+87,Backstage Bakery and Cafe,97424,"Lane County, Oregon",4.5,50,American,$$
+88,Stacy's Covered Bridge Restaurant,97424,"Lane County, Oregon",4.0,66,American,$$
+89,The Village Green Resort and RV Park,97424,"Lane County, Oregon",3.0,2,American,$$$$
+90,Jack Sprats,97424,"Lane County, Oregon",4.5,180,American,$$
+91,TJ's Family Restaurant Lounge,97426,"Lane County, Oregon",4.0,71,American,$$
+92,Buster's Main Street Cafe,97424,"Lane County, Oregon",4.5,217,American,$$
+93,Lindas Deli,97451,"Lane County, Oregon",4.5,2,American,$
+94,Vintage Inn Restaurant,97424,"Lane County, Oregon",3.0,69,American,$
+95,Board Restaurant,97402,"Lane County, Oregon",4.0,168,American,$$
+96,Spice of India,97424,"Lane County, Oregon",4.5,47,Indian,$$
+97,Royal India,97401,"Lane County, Oregon",4.5,71,Indian,$$
+98,Poppi's Anatolia,97401,"Lane County, Oregon",4.0,129,Indian,$$
+99,Curry Bowl,97405,"Lane County, Oregon",4.0,33,Indian,$$
+100,Hometown Cafe,66933,"Washington County, Kansas",4.0,1,Mexican,$
+101,Campus Pollyeyes,43402,"Wood County, Ohio",4.0,108,Italian,$$
+102,Pagliai's Pizza,43402,"Wood County, Ohio",3.5,16,Italian,$$
+103,Biaggi's Ristorante Italiano,43551,"Wood County, Ohio",3.5,112,Italian,$$
+104,Guajillo's Cocina Mexicana,43402,"Wood County, Ohio",4.5,21,Mexican,$$
+105,El Zarape,43402,"Wood County, Ohio",3.5,55,Mexican,$$
+106,Cocina de Carlos,43551,"Wood County, Ohio",4.5,174,Mexican,$$
+107,QDOBA Mexican Eats,43402,"Wood County, Ohio",4.5,20,Mexican,$
+108,Tékēla Mexican Cocina y Cantina,43551,"Wood County, Ohio",3.5,77,Mexican,$$
+109,China Village,43402,"Wood County, Ohio",3.5,16,Chinese,$
+110,Bamboo Garden,43402,"Wood County, Ohio",3.0,16,Chinese,$
+111,China Restaurant,43402,"Wood County, Ohio",3.0,5,Chinese,$$
+112,YaYa Kitchen,43551,"Wood County, Ohio",4.0,40,Chinese,$
+113,Yum Yummy,43551,"Wood County, Ohio",4.0,92,Chinese,$
+114,King Buffet,43402,"Wood County, Ohio",2.0,7,Chinese,$
+115,Lee Garden,43551,"Wood County, Ohio",4.0,16,Chinese,$
+116,Sunset Bistro,43402,"Wood County, Ohio",4.5,50,American,$$
+117,Roma Italian,75418,"Fannin County, Texas",4.5,18,Italian,$
+118,San Luis Tex-Mex,75418,"Fannin County, Texas",4.5,11,Mexican,$
+119,Bamboo House,75418,"Fannin County, Texas",4.5,34,Chinese,$$
+120,The Java Joint,75418,"Fannin County, Texas",4.5,5,American,$$
+121,Muddbones,75418,"Fannin County, Texas",4.5,73,American,$
+122,Tampico Restaurant,75979,"Tyler County, Texas",5.0,3,Mexican,$
+123,Senor Toros,75979,"Tyler County, Texas",3.0,5,Mexican,$$
+124,La Enchilada,75979,"Tyler County, Texas",2.5,11,Mexican,$$
+125,China Cafe,75979,"Tyler County, Texas",4.5,3,Chinese,$
+126,Pickett House-Heritage Museum,75979,"Tyler County, Texas",4.5,31,American,$$
+127,Elijah's Cafe,75979,"Tyler County, Texas",3.5,37,American,$
+128,Z's Filling Station,75979,"Tyler County, Texas",4.0,29,American,$$
+129,Burger House,75938,"Tyler County, Texas",4.5,9,American,$
+130,The Tree Restaurant,75979,"Tyler County, Texas",3.0,6,American,$$
+131,Charlene's,77660,"Tyler County, Texas",4.5,2,American,$
+132,IHOP,23879,"Greensville County, Virginia",5.0,4,American,$
+133,Taste of Italy,37738,"Sevier County, Tennessee",4.5,122,Italian,$$
+134,Danny's Italian Restaurant & Cuisine,37876,"Sevier County, Tennessee",5.0,20,Italian,$$
+135,Johnny Carino's,37863,"Sevier County, Tennessee",4.0,46,Italian,$$
+136,Best Italian Cafe & Pizzeria,37738,"Sevier County, Tennessee",3.5,287,Italian,$$
+137,Geppettos Italian Restaurant,37862,"Sevier County, Tennessee",4.0,56,Italian,$$
+138,J. Del's Pizza,37863,"Sevier County, Tennessee",4.5,32,Italian,$$
+139,Best Italian - Parkway,37738,"Sevier County, Tennessee",3.0,90,Italian,$$
+140,Bellacino's,37862,"Sevier County, Tennessee",4.0,12,Italian,$$
+141,Olive Garden Italian Restaurant,37862,"Sevier County, Tennessee",4.0,32,Italian,$$
+142,El Ranchero Loco,37863,"Sevier County, Tennessee",4.5,40,Mexican,$$
+143,Cielito Lindo,37863,"Sevier County, Tennessee",4.0,112,Mexican,$
+144,El Paso Mexican Restaurant,37876,"Sevier County, Tennessee",4.0,118,Mexican,$$
+145,Cancun Mexican Restaurant,37862,"Sevier County, Tennessee",4.5,38,Mexican,$$
+146,Estrella Hondumex,37738,"Sevier County, Tennessee",4.5,56,Mexican,$
+147,North China Chinese Restaurant,37738,"Sevier County, Tennessee",3.0,96,Chinese,$
+148,Sakura Buffet,37862,"Sevier County, Tennessee",3.5,50,Chinese,$
+149,China,37862,"Sevier County, Tennessee",3.0,7,Chinese,$
+150,CHINA 1,37863,"Sevier County, Tennessee",2.5,26,Chinese,$
+151,Panda Express,37862,"Sevier County, Tennessee",3.5,9,Chinese,$
+152,Local Goat,37863,"Sevier County, Tennessee",4.5,745,American,$$
+153,Cherokee Grill,37738,"Sevier County, Tennessee",4.0,662,American,$$
+154,Holston's Kitchen,37862,"Sevier County, Tennessee",4.0,218,American,$$
+155,Old Mill Pottery House Cafe and Grill,37863,"Sevier County, Tennessee",4.5,287,American,$$
+156,Old Mill Restaurant,37863,"Sevier County, Tennessee",4.0,916,American,$$
+157,J T  Hannah's Kitchen,37863,"Sevier County, Tennessee",4.0,340,American,$$
+158,Tom & Earls Back Alley Grill,37738,"Sevier County, Tennessee",4.0,165,American,$$
+159,Applewood Farmhouse Grill,37862,"Sevier County, Tennessee",4.0,104,American,$$
+160,Mel's Diner,37863,"Sevier County, Tennessee",4.0,284,American,$
+161,Timberwood Grill,37863,"Sevier County, Tennessee",3.5,171,American,$$
+162,Delauders  BBQ,37738,"Sevier County, Tennessee",5.0,221,American,$
+163,Vito's Coal Fired Pizza and Restaurant,17970,"Schuylkill County, Pennsylvania",4.0,101,Italian,$$
+164,Palermo Pizza & Restaurant,17954,"Schuylkill County, Pennsylvania",4.5,37,Italian,$$
+165,Francesco's Restaurant & Pizzeria,17976,"Schuylkill County, Pennsylvania",4.5,20,Italian,$$
+166,Valenti's Italian Restaurant,17961,"Schuylkill County, Pennsylvania",4.5,19,Italian,$$
+167,DiMaio's Mustard Seed Cafe,17961,"Schuylkill County, Pennsylvania",4.0,18,Italian,$$
+168,La Dolce Casa,18252,"Schuylkill County, Pennsylvania",4.5,31,Italian,$$
+169,Suglia's Pizza & Restaurant,17976,"Schuylkill County, Pennsylvania",5.0,3,Italian,$
+170,La Casita De Familia,17976,"Schuylkill County, Pennsylvania",4.5,16,Mexican,$$
+171,Sisters Cantina,18252,"Schuylkill County, Pennsylvania",2.5,19,Mexican,$$
+172,Hong Kong Chinese Restaurant,17954,"Schuylkill County, Pennsylvania",3.5,9,Chinese,$
+173,China II,17965,"Schuylkill County, Pennsylvania",4.0,6,Chinese,$
+174,Chinese Restaurant New China,17972,"Schuylkill County, Pennsylvania",4.0,8,Chinese,$
+175,China King,17961,"Schuylkill County, Pennsylvania",4.5,6,Chinese,$
+176,New Asian Bistro,18252,"Schuylkill County, Pennsylvania",5.0,6,Chinese,$$
+177,The Brick House Grill,17961,"Schuylkill County, Pennsylvania",4.0,40,American,$$
+178,Primo Barone's Restaurant & Lounge,16323,"Venango County, Pennsylvania",4.0,24,Italian,$$
+179,Villa Italia Ristorante,16301,"Venango County, Pennsylvania",3.0,12,Italian,$$
+180,Dawndi's,16323,"Venango County, Pennsylvania",4.5,3,Italian,$$
+181,Leonardo's Restaurant,16323,"Venango County, Pennsylvania",4.0,23,Italian,$
+182,Little It' Deli,16373,"Venango County, Pennsylvania",4.5,16,Italian,$$
+183,Torino's Italian Kitchen,16301,"Venango County, Pennsylvania",3.0,1,Italian,$$
+184,China City,16346,"Venango County, Pennsylvania",4.0,7,Chinese,$
+185,Log Cabin Restaurant,16346,"Venango County, Pennsylvania",4.5,10,American,$
+186,Kings,16323,"Venango County, Pennsylvania",4.0,6,American,$$
+187,Famoore's Family Restaurant,16301,"Venango County, Pennsylvania",4.0,5,American,$
+188,The Yellow Dog Lantern Restaurant,16301,"Venango County, Pennsylvania",4.0,19,American,$$
+189,Bob Evans,16319,"Venango County, Pennsylvania",3.5,10,American,$$
+190,Bella Cucina,16323,"Venango County, Pennsylvania",4.5,42,American,$$
+191,Northside Eatery,16301,"Venango County, Pennsylvania",4.0,9,American,$$
+192,Eat'n Park,16323,"Venango County, Pennsylvania",3.0,4,American,$
